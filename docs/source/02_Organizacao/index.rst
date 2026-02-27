@@ -3,7 +3,7 @@ ORGANIZAÇÃO DA ADMINISTRAÇÃO PÚBLICA FEDERAL
 
 .. admonition:: Sobre este capítulo
 
-      Neste capítulo você vai aprender sobre como a administração pública federal se organiza para implementar as políticas públicas. Desde a sua estrutura própria e também sobre como ela se articula com a sociedade civil por meio das parcerias para levar serviços públicos para a sociedade.
+      O capítulo você vai aprender sobre como a administração pública federal se organiza para implementar as políticas públicas. Desde a sua estrutura própria e também sobre como ela se articula com a sociedade civil por meio das parcerias para levar serviços públicos para a sociedade.
 
 O Estado é a instituição jurídica consubstanciada na Constituição e na regulamentação infraconstitucional. O Estado brasileiro é uma república democrática com organização federativa, integrado pelos Poderes Legislativo, Executivo e Judiciário, compreendendo a União, os Estados e o Distrito Federal, bem como os municípios.
 
