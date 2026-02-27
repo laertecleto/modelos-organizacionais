@@ -133,3 +133,11 @@ Na tabela abaixo há uma visualização idealizada dos tipos institucionais corr
 Órgão Público é a unidade de atuação integrante das estruturas da administração direta e da administração indireta (art. 1º, § 2º, inciso I da Lei nº 9.784, de 29 de janeiro de 1999).
 
 Na qualidade de parte da estrutura da Administração Pública Direta e das demais pessoas jurídicas, o órgão não tem personalidade jurídica e vontade própria. É um centro de competência governamental ou administrativa, instituído para o desempenho de funções estatais, cuja atuação é imputada à pessoa jurídica a que pertence. Cada órgão tem, necessariamente, funções, cargos e agentes, mas é distinto desses elementos que podem ser modificados, substituídos ou retirados sem supressão da unidade orgânica (MEIRELLES, 1990, p.64).
+
+**Apresentaremos os tópicos deste manual:**
+
+.. toctree::
+   :maxdepth: 5
+
+   Contextualizacao
+   Contextualizacao1
