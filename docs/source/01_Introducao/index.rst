@@ -1,6 +1,6 @@
 Introdução
 ==========
-Os poder executivo federal é responsável por executar as leis e as políticas públicas. Para isso, ele é dividido em ministérios e entidades, cada qual com sua própria estrutura organizacional.
+O poder executivo federal é responsável por executar as leis e as políticas públicas. Para isso, ele é dividido em ministérios e entidades, cada qual com sua própria estrutura organizacional.
 
 A estrutura organizacional refere-se à configuração pela qual uma organização é estabelecida e gerenciada, visando a consecução eficaz de seus objetivos e a execução eficiente de suas operações.
 
