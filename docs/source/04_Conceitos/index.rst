@@ -8,6 +8,7 @@ Conceitos básicos relacionados a estruturas organizacionais
 
       Neste capítulo você encontrará as definições dos principais conceitos utilizados nesse manual.
 
+
 Estrutura regimental
 --------------------
 
@@ -54,7 +55,7 @@ Atribuição
       Seção II
 
       Dos Secretários
-      
+
       Art. 28. Aos Secretários incumbe planejar, dirigir, coordenar, orientar, acompanhar e avaliar a execução das atividades de suas unidades e exercer outras atribuições que lhes forem cometidas.
 
       .......
