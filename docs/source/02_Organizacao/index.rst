@@ -162,8 +162,8 @@ Classifições dos órgãos públicos
    :header-rows: 0
    :widths: 20 80
 
-  - * De assistência direta e imediata
-    * São aqueles responsáveis por funções de direção superior, assessoramento e assistência direta e imediata ao Ministro de Estado ou ao Presidente de autarquia ou fundação. Realizam estudos, pesquisas e acompanhamentos; elaboram programas e projetos e propõem diretrizes e estratégias. Compõem o primeiro escalão orgânico da estrutura dos ministérios, órgãos da Presidência da República ou autarquias.
+   - * De assistência direta e imediata
+     * São aqueles responsáveis por funções de direção superior, assessoramento e assistência direta e imediata ao Ministro de Estado ou ao Presidente de autarquia ou fundação. Realizam estudos, pesquisas e acompanhamentos; elaboram programas e projetos e propõem diretrizes e estratégias. Compõem o primeiro escalão orgânico da estrutura dos ministérios, órgãos da Presidência da República ou autarquias.
 
    - * Específicos
      * Também compõem o primeiro escalão orgânico da estrutura dos ministérios, órgãos da Presidência da República, autarquias e fundações. São responsáveis por competências diretamente relacionadas com a área de atuação do ministério, órgão da Presidência da República, ou com a finalidade da autarquia.
@@ -178,11 +178,11 @@ Classifições dos órgãos públicos
    :header-rows: 0
    :widths: 20 80
 
-  - * Órgãos singulares
-    * São aqueles nos quais o comando e a decisão, em cada nível hierárquico, é atribuição de uma única autoridade pública, caso dos ministérios, secretarias, departamentos, diretorias etc. Nesse modelo, a Alta Administração compõe*se das autoridades políticas da organização que correspondem ao dirigente maior (ministros ou presidente) e aos titulares dos órgãos responsáveis pelos principais macroprocessos organizacionais, subordinados diretamente à maior autoridade. É modelo é típico da administração burocrática clássica na qual o poder de deliberação é concentrado no topo da hierarquia administrativa, facilitando o processo de decisão e de prestação de contas.
+   - * Órgãos singulares
+     * São aqueles nos quais o comando e a decisão, em cada nível hierárquico, é atribuição de uma única autoridade pública, caso dos ministérios, secretarias, departamentos, diretorias etc. Nesse modelo, a Alta Administração compõe*se das autoridades políticas da organização que correspondem ao dirigente maior (ministros ou presidente) e aos titulares dos órgãos responsáveis pelos principais macroprocessos organizacionais, subordinados diretamente à maior autoridade. É modelo é típico da administração burocrática clássica na qual o poder de deliberação é concentrado no topo da hierarquia administrativa, facilitando o processo de decisão e de prestação de contas.
 
-  - * Órgãos colegiados
-    * Os órgãos colegiados, por sua vez, obedecem a uma lógica matricial compatível com a administração democrática. São integrados por mais de uma autoridade e têm como fundamentos o compartilhamento de saberes e a deliberação coletiva. Seus representantes podem ser originários do setor público, do setor privado ou da sociedade civil, segundo a natureza da representação. São conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões etc. Os órgãos colegiados podem ser de caráter deliberativo, consultivo ou judicante, conforme dispuser a política pública que o constitui. Embora integrem o sistema de governança organizacional, órgãos colegiados não dispõem de estrutura interna de cargos. Geralmente são constituídos por representantes de órgãos e entidades do Poder Público assim como por representantes da sociedade civil (composição pluripessoal). Como já dito, os membros dos colegiados não detêm cargos e não recebem remuneração de qualquer natureza por essa função. Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior do órgão ou entidade que o institui.
+   - * Órgãos colegiados
+     * Os órgãos colegiados, por sua vez, obedecem a uma lógica matricial compatível com a administração democrática. São integrados por mais de uma autoridade e têm como fundamentos o compartilhamento de saberes e a deliberação coletiva. Seus representantes podem ser originários do setor público, do setor privado ou da sociedade civil, segundo a natureza da representação. São conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões etc. Os órgãos colegiados podem ser de caráter deliberativo, consultivo ou judicante, conforme dispuser a política pública que o constitui. Embora integrem o sistema de governança organizacional, órgãos colegiados não dispõem de estrutura interna de cargos. Geralmente são constituídos por representantes de órgãos e entidades do Poder Público assim como por representantes da sociedade civil (composição pluripessoal). Como já dito, os membros dos colegiados não detêm cargos e não recebem remuneração de qualquer natureza por essa função. Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior do órgão ou entidade que o institui.
 
 
 Parcerias
