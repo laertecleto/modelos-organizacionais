@@ -58,7 +58,7 @@ São exceções a essa regra os cargos em comissão destinados a autoridades com
 
 		 III – não enquadramento nas hipóteses de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990.
 
-	   Além dos requisitos e critérios acima apresentados, os ocupantes de CCE e FCE deverão observar critérios específicos, de acordo com o nível, conforme estabelecido no art. 16 do Decreto nº 10.829, de 2021.
+	   Além dos requisitos e critérios acima apresentados, os ocupantes de CCE e FCE deverão observar critérios específicos, de acordo com o nível, conforme estabelecido nos arts. 16 a 19 do Decreto nº 10.829, de 2021.
 
 
 Dos cargos em comissão existentes na administração pública federal direta, autárquica e fundacional, no mínimo 60% do total serão ocupados por servidores de ocupantes de cargos efetivos (inc. III do art. 13 da Lei nº 14.204, de 2021).
@@ -90,19 +90,19 @@ A tabela abaixo resume as características dos diferentes tipos de cargos públi
      * Direção, chefia e assessoramento (estrutura organizacional)
 
    - * Nomeação/Designação
-     * Após aprovação em concurso público, observados a ordem de classificação e o prazo de validade.
+     * Após aprovação em concurso público, observados a ordem de classificação e o prazo de validade
      * A qualquer momento, a critério da autoridade superior
      * A qualquer momento, a critério da autoridade superior
 
    - * Demissão/Exoneração
-     * Somente após processo administrativo.
-     * A qualquer momento, a pedido ou a critério da autoridade superior. Exceção: cargos com mandato.
+     * Somente após processo administrativo
+     * A qualquer momento, a pedido ou a critério da autoridade superior. Exceção: cargos com mandato
      * A qualquer momento, a pedido ou a critério da autoridade superior
 
    - * Quem pode ocupar?
      * Nomeados após aprovação em concurso público
-     * Livre provimento, observadas as previsões normativas. (60- dos cargos em comissão existentes devem ser preenchidos por servidores públicos de carreira)
-     * Servidores públicos de carreira, de qualquer esfera e poder, observadas as previsões normativas. Obs.: não podem ser ocupadas por pessoas que não ocupam cargo efetivo, nem por servidores públicos de carreira aposentados, nem por militares (da ativa ou da reserva) e nem por empregados públicos. Art. 37, inc. V da CF.
+     * Livre provimento, observadas as previsões normativas. (60% dos cargos em comissão existentes devem ser preenchidos por servidores efetivos)
+     * Servidores públicos efetivos, de qualquer esfera e poder, observadas as previsões normativas. Obs.: não podem ser ocupadas por pessoas que não ocupam cargo efetivo, nem por servidores públicos de carreira aposentados, nem por militares (da ativa ou da reserva) e nem por empregados públicos. (Art. 37, inc. V da CF)
 
 
 Cargos Comissionados Executivos – CCE e Funções Comissionadas Executivas – FCE
