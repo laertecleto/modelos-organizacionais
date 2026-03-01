@@ -94,3 +94,90 @@ Cargos Comissionados Executivos – CCE e Funções Comissionadas Executivas –
 Os cargos em comissão CCE (Cargos Comissionados Executivos) e funções de confiança FCE (Funções Comissionadas Executivas) foram instituídos pela Lei nº 14.204, de 2021, e substituíram  os cargos em comissão DAS (Direção e Assessoramento Superior) e as funções de confiança FCPE (Funções Comissionadas do Poder Executivo).  Em 2023, a mencionada Lei foi alterada, a fim de oferecer parâmetros para que as Agências Reguladoras também possam transformar  seus cargos exclusivos em CCE e FCE. Essa transformação é opcional, mas deve ser solicitada pelas agências até 31 de março de 2026.
 
 Os CCE e as FCE são os tipos mais utilizados para constituir a estrutura organizacional na Administração Pública Federal, pois parte significativa deles está associada ao titular de unidades administrativas de órgãos e entidades. As principais exceções são as instituições federais de ensino, as agências reguladoras e o Banco Central do Brasil. Essas entidades têm tipos de cargos e funções próprios para estruturar-se.
+
+Categorias dos CCE e das FCE
+++++++++++++++++++++++++++++
+
+Os CCE e as FCE são constituídos pelas seguintes categorias estabelecidas no art. 3º do Decreto nº 10.829, de 2021:
+
+.. list-table::
+   :header-rows: 1
+   :widths: 15 10 15 10
+   - * CCE
+     * 
+     * FCE
+     * 
+
+   - * Categoria
+     * Código
+     * Categoria
+     * Código
+
+   - * Direção
+     * 1
+     * Direção
+     * 1
+
+   - * Assessoramento
+     * 2
+     * Assessoramento
+     * 2
+
+   - * Direção de projetos
+     * 3
+     * Direção de projetos
+     * 3
+
+   - * 
+     * 
+     * Assessoramento técnico especializado
+     * 4
+
+**Chefia e direção** são duas das três atribuições que a Constituição de 1988, no inciso V do art. 37, determinou para os cargos em comissão e as funções de confiança. A outra atribuição é de **assessoramento**. A lei de criação do cargo ou da função deve prever, entre outras coisas, qual dessas três atribuições terá o cargo ou função.
+
+As atribuições de chefia e direção estão associadas às categorias direção (código 1) e direção de projetos (código 3). As atribuições de assessoramento estão associadas às categorias assessoramento (código 2) e assessoramento técnico especializado (código 4).
+
+Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categoria e denominação do cargo ou função, por meio de portaria do dirigente máximo do órgão ou da entidade, ainda que tenha sido definido em decreto (inc. III do §2º do art. 13, Decreto nº 10.829, de 2021).
+
+**Categoria Direção (código 1)**
+
+	CCE e FCE da categoria Direção (código 1) destinam-se, sobretudo, aos titulares de unidades administrativas nas estruturas organizacionais de órgãos da administração direta e para parte das entidades de direito público da administração indireta.
+
+	Em decorrência de sua atribuição de chefia e de direção, estes cargos e funções incorporam as responsabilidades correspondentes às competências da unidade, que advêm originariamente de leis ou decretos.
+
+	Somente servidores titulares de cargo ou função da categoria direção (código 1) podem ser titulares de unidades administrativas. A recíproca não é sempre verdadeira. Há titulares de cargo ou função da categoria direção (código 1) que não são titulares de unidades administrativas e, consequentemente, não possuem competências específicas nem cargos ou funções a eles subordinados. Os secretários adjuntos e diretores adjuntos são exemplos dessa situação.
+
+	Os titulares de CCE/FCE de “Adjunto”, tais como Secretário-Adjunto, Diretor-Adjunto e Subsecretário-Adjunto, servem para reforçar o comando dos titulares de Secretarias, Subsecretarias e Diretorias de grande porte, unidades responsáveis por atribuições complexas, que gerenciam maior volume de recursos e/ou de atividades.
+
+	Os servidores investidos em cargos em comissão ou em funções de confiança de chefia da categoria direção (código 1) podem ter substitutos, conforme prevê o art. 38 da Lei nº 8.112, de 1990, independentemente da existência de cargos em comissão ou de funções de confiança subordinadas a eles.
+
+**Categoria Assessoramento**
+
+	A atribuição de assessoramento é uma das três atribuições que a Constituição de 1988, no inciso V do art. 37, dota aos cargos em comissão e às funções de confiança.
+
+	A finalidade dos cargos ou funções da categoria assessoramento (código 2) é o assessoramento direto e imediato aos titulares dos cargos e das funções da categoria direção (código 1), aos cargos de natureza especial e aos cargos de Ministro de Estado.
+
+	Como destinam-se à assistência ou assessoramento de quem chefia ou dirige, os cargos e funções de assessoramento não têm competências próprias. Por conseguinte, não são unidades administrativas no SIORG, não permitem a designação de substituto e não podem ter cargos em comissão ou funções de confiança a eles subordinados.
+
+**Categoria Direção de Projetos (código 3)**
+
+	Os CCE e FCE da categoria de direção de projetos (código 3) são destinados ao desenvolvimento de um ou mais projetos institucionais. Um projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado específico. Os cargos e funções de direção de projetos são utilizados para o desenvolvimento de iniciativas importantes para a organização, especialmente nos casos em que essa atuação, para uma melhor efetividade, possa ser executada de forma matricial ou transversal à estrutura organizacional. Tais cargos também servem ao fortalecimento da capacidade de formulação estratégica, porque são um recurso adicional livre, que pode ser utilizado no desenvolvimento de iniciativas, atividades ou projetos especiais.
+
+	Por óbvio, ter uma categoria específica para gestão de projetos não limita que as demais categorias gerenciem ou executem projetos na organização. A intenção é deixar as estruturas existentes mais flexíveis e preparadas para as constantes mudanças de um ambiente inovador.
+
+	Embora cargos e funções de direção de projetos não correspondam a uma unidade organizacional administrativa, seus ocupantes podem:
+
+		- liderar equipes compostas por servidores com ou sem cargos ou funções de qualquer categoria;
+		- ter substitutos; e
+		- ter subordinados. Caso os subordinados ocupem cargo ou função, estes deverão necessariamente ser das categorias de direção de projetos ou de assessoramento técnico especializado (códigos 3 ou 4).
+
+**Categoria Assessoramento Técnico Especializado (código 4)**
+
+	A finalidade das funções da categoria assessoramento técnico especializado (código 4) é o assessoramento associado às competências da unidade que exijam conhecimentos técnicos específicos, caracterizados por especial nível de complexidade.
+
+	Como destinam-se à assistência ou assessoramento de quem os chefia ou dirige, os cargos e funções de assessoramento não têm competências próprias. Por conseguinte, não são unidades administrativas no SIORG, não permitem a designação de substituto e não podem ter cargos em comissão ou funções de confiança a eles subordinados.
+
+	Não há cargos em comissão nesta categoria, de forma que as funções de confiança desta categoria são privativas de servidores titulares de cargos efetivos.
+
+
+
