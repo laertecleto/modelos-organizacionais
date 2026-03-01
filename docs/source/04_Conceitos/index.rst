@@ -6,7 +6,7 @@ Conceitos básicos relacionados a estruturas organizacionais
 
    .. line-block::
 
-      Neste capítulo você encontrará as definições dos principais conceitos utilizados nesse manual.
+      Neste capítulo você encontrará as definições dos principais conceitos relacionados às estruturas organizacionais do Poder Executivo Federal.
 
 
 Estrutura regimental
@@ -23,6 +23,8 @@ Estatuto
 --------
 
 O estatuto aplica-se às fundações públicas; é aprovado por ato do Presidente da República, e descreve suas finalidades e competências, sua natureza e sede, e detalha o conjunto de órgãos e unidades administrativas integrantes da estrutura básica, que são diretamente subordinados ao dirigente máximo da entidade, as respectivas competências, a forma de direção e nomeação dos ocupantes dos cargos e funções, as atribuições dos dirigentes, o patrimônio, os recursos financeiros e outros assuntos inerentes à sua organização.
+
+O estatuto das fundações públicas (de direito público ou privado) é aprovado por ato do Presidente da República.
 
 
 Área de competência
@@ -73,14 +75,110 @@ As autarquias e as fundações têm suas finalidades expressas nas respectivas l
 Reserva técnica
 ---------------
 
-Usualmente, nos referimos na expressão “reserva técnica” ao conjunto de cargos e de funções, criados por lei, que transitam pela SEGES para administrar a distribuição para as entidades do Poder Executivo. Embora se utilize a denominação “reserva técnica”, trata-se, tão somente, de local específico para realizar as trocas ou as transformações necessárias para revisão das estruturas organizacionais em análise. Pode ocorrer, em certos casos, que a troca ou a transformação de cargos e de funções acarrete sobra de valores, permanecendo, momentaneamente, na “reserva técnica”, até sua utilização futura.
+Usualmente, nos referimos na expressão *reserva técnica* ao conjunto de cargos e de funções, criados por lei, que transitam pela SEGES para administrar a distribuição para as entidades do Poder Executivo. Embora se utilize a denominação *reserva técnica*, trata-se, tão somente, de local específico para realizar as trocas ou as transformações necessárias para revisão das estruturas organizacionais em análise. Pode ocorrer, em certos casos, que a troca ou a transformação de cargos e de funções acarrete sobra de valores, permanecendo, momentaneamente, na *reserva técnica*, até sua utilização futura.
 
-Dessa forma, habitualmente, os decretos de estrutura organizacional editados, em maior ou menor grau, utilizam-se de trocas de cargos e de funções com a “reserva técnica”. Mesmo aquelas propostas em que há a utilização de cargos e de funções já distribuídos ao próprio órgão ou entidade proponente, os decretos de estrutura organizacional possuem ordem expressa para i) remanejar um conjunto ou subconjunto de cargos em comissão e de funções de confiança para a “reserva técnica” e, na sequência e no mesmo ato, ii) remanejar outro conjunto de cargos em comissão e de funções de confiança de volta para o proponente.
+Dessa forma, habitualmente, os decretos de estrutura organizacional editados, em maior ou menor grau, utilizam-se de trocas de cargos e de funções com a *reserva técnica*. Mesmo aquelas propostas em que há a utilização de cargos e de funções já distribuídos ao próprio órgão ou entidade proponente, os decretos de estrutura organizacional possuem ordem expressa para: i) remanejar um conjunto ou subconjunto de cargos em comissão e de funções de confiança para a “reserva técnica” e, na sequência e no mesmo ato, ii) remanejar outro conjunto de cargos em comissão e de funções de confiança de volta para o proponente.
 
-A utilização do termo “remanejar”, explícito em todos os decretos de estrutura organizacional, reflete justamente a ideia da “reserva técnica”, ou seja, local em que são realizadas e viabilizadas as modificações necessárias nas estruturas dos órgãos e das entidades no que diz respeito ao conjunto de cargos e funções adequados à revisão da estrutura organizacional, com o intuito de, posteriormente, “manejar novamente” ou de “modificar a formação, a disposição de, para dar-lhe uma nova estrutura”, conforme explicação de referido termo “remanejar” em rápida pesquisa de seu significado em dicionários on-line.
+A utilização do termo *remanejar*, explícito em todos os decretos de estrutura organizacional, reflete justamente a ideia da *reserva técnica*, ou seja, local em que são realizadas e viabilizadas as modificações necessárias nas estruturas dos órgãos e das entidades no que diz respeito ao conjunto de cargos e funções adequados à revisão da estrutura organizacional, com o intuito de, posteriormente, *manejar novamente* ou de *modificar a formação, a disposição de, para dar-lhe uma nova estrutura*, conforme explicação de referido termo *remanejar* em rápida pesquisa de seu significado em dicionários on-line.
 
-Importa mencionar que o tamanho da “reserva técnica” depende do dia em que se avalia o seu quantitativo, pois trata-se de montante dinâmico que sofre permanentes alterações em razão das diversas revisões organizacionais promovidas pelos órgãos e entidades durante determinado período. O fato é que não existe um tamanho mínimo ou máximo, ou um estoque mínimo ou máximo definido para a “reserva técnica”. A sua oscilação depende das propostas de revisão de estruturas organizacionais e de novos atos normativos publicados que envolvem à criação de novos cargos e funções.
+Importa mencionar que o tamanho da *reserva técnica* depende do dia em que se avalia o seu quantitativo, pois trata-se de montante dinâmico que sofre permanentes alterações em razão das diversas revisões organizacionais promovidas pelos órgãos e entidades durante determinado período. O fato é que não existe um tamanho mínimo ou máximo, ou um estoque mínimo ou máximo definido para a *reserva técnica*. A sua oscilação depende das propostas de revisão de estruturas organizacionais e de novos atos normativos publicados que envolvem à criação de novos cargos e funções.
 
-O montante disponível da “reserva técnica” tende a zero, pois não há o interesse da SEGES, como órgão central do SIORG, em manter cargos em comissão e funções de confiança sem distribuição, já que uma vez criados por lei, devem ser distribuídos para utilização. 
+O montante disponível da *reserva técnica* tende a zero, pois não há o interesse da SEGES, como órgão central do SIORG, em manter cargos em comissão e funções de confiança sem distribuição, já que uma vez criados por lei, devem ser distribuídos para utilização. 
 
 
+Sistemas Estruturadores
+-----------------------
+
+Os Sistemas Estruturadores do Poder Executivo Federal são mecanismos de suporte criados para organizar e padronizar atividades auxiliares em todos os órgãos e entidades da administração pública direta, autárquica e fundacional.
+
+Eles funcionam sob uma lógica de rede, garantindo que áreas como planejamento, finanças, pessoal e controle operem sob as mesmas diretrizes, independentemente do ministério, evitando a fragmentação administrativa em atividades comuns, promovendo, dessa forma, maior transparência, controle e eficiência na implementação das políticas públicas.
+
+.. admonition:: Sistemas estruturadores do Poder Executivo Federal
+
+      SIPEC (Gestão de Pessoas): Padroniza normas e folha de pagamento de servidores federais.
+
+      SIOP (Planejamento e Orçamento): Coordena a elaboração do PPA, LDO e LOA.
+
+      SIORG (Organização e Inovação Institucional): Gerencia as estruturas organizacionais e cargos do governo.
+
+      SISP (Tecnologia da Informação): Coordena os recursos de TI e transformação digital.
+
+      SIAFI (Administração Financeira): Controla toda a execução orçamentária e financeira da União.
+
+      SIASG (Serviços Gerais): Responsável pela gestão de compras, licitações e contratos.
+
+      SISG (Gestão de Documentos e Arquivos - SIGA): Organiza a custódia e preservação de documentos públicos.
+
+      Sistema de Controle Interno: Auditoria e fiscalização dos gastos.
+
+      Sistema de Correição: Apuração de irregularidades e aplicação de sanções.
+
+      Sistema de Ouvidorias: Canal de comunicação e participação do cidadão.
+
+      SITAI (Integridade, Transparência e Acesso à Informação): Sistema unificado criado em 2023 para fortalecer a ética e o cumprimento da Lei de Acesso à Informação.
+
+
+A diretriz normativa para os Sistemas Estruturadores é o art. 30 do Decreto-lei nº 200, de 1967.
+
+A estrutura de cada sistema geralmente é composta por: órgão central, órgãos setoriais e órgãos seccionais.
+
+Órgão Central
+-------------
+
+É o *cérebro* de um sistema estruturador. Ele é a unidade responsável por formular as normas, diretrizes e políticas que devem ser seguidas por todos os outros ministérios e entidades em uma área específica.
+
+As principais funções do Órgão Central são:
+
+   **Normatização**: Criar regras, manuais e instruções para padronizar procedimentos.
+    
+   **Coordenação**: Articular as ações entre as diferentes unidades do governo para evitar duplicidade de esforços.
+    
+   **Supervisão e Orientação**: Prestar suporte técnico e fiscalizar se as normas estão sendo cumpridas.
+    
+   **Gestão de Sistemas de TI**: Muitas vezes é o dono do software (como o SIAFI ou SIAPE) usado por toda a rede.
+
+
+Órgãos Setoriais
+----------------
+
+Os órgãos setoriais são as unidades administrativas localizadas dentro de cada Ministério (ou órgãos de status equivalente, como a Casa Civil e a AGU) responsáveis por executar e coordenar as atividades de um sistema estruturador naquele "setor" específico do governo.
+
+Enquanto o órgão central estabelece as regras para todos os ministérios, autarquias e fundações públicas, o órgão setorial garante que essa regra seja aplicada dentro do seu respectivo ministério e de suas autarquias e fundações públicas vinculadas (órgãos seccionais).
+
+As principais características dos órgãos setoriais são:
+
+   **Localização**: Estão situados na estrutura direta dos Ministérios, da Advocacia-Geral da União (AGU), da Vice-Presidência, da Casa Civil, das agências reguladoras e do Banco Central do Brasil.
+
+   **Papel de Articulador**: Funcionam como uma ponte entre o Órgão Central (que estabelece as diretrizes) e as unidades executoras (órgãos seccionais, como autarquias vinculadas).
+
+   **Subordinação Híbrida**: Hierarquicamente, eles respondem ao Ministro da sua pasta, mas tecnicamente devem seguir as normas e orientações vindas do Órgão Central do sistema.
+
+
+Órgãos Seccionais
+-----------------
+
+São as unidades de execução vinculadas aos órgãos setoriais. Eles são a *ponta da linha* da estrutura do sistema. Eles são as unidades administrativas localizadas nas autarquias e fundações públicas (administração indireta) que executam as atividades do sistema na prática.
+
+
+Sistemas Estruturantes
+----------------------
+
+O termo *Sistemas Estruturantes* refere-se às plataformas de TI e sistemas de software que operacionalizam funções dos Sistemas Estruturadores.
+
+
+SIORG
+-----
+
+O **SIORG - Sistema de Organização e Inovação Institucional** é o sistema estruturador responsável por organizar a *arquitetura* do Governo Federal. Ele define como os órgãos são criados, como os cargos e funções são distribuídos e como as competências de cada ministério, autarquia e fundação pública são distribuídas.
+
+Em termos simples: se o governo fosse uma empresa, o SIORG seria o responsável pelos organogramas e pela definição de quem faz o quê em cada ministério, autarquia e fundação pública.
+
+As principais funções do SIORG são:
+
+**Gestão de Estruturas**: Controla a criação, alteração ou extinção de ministérios, secretarias e departamentos.
+
+**Controle de Cargos e Funções**: Gerencia o quantitativo de cargos em comissão (como os CCE e FCE) e funções de confiança.
+
+**Inovação e Modernização**: Promove a melhoria da gestão pública e a simplificação administrativa.
+
+**Manutenção do Painel SIORG**: Mantém uma base de dados atualizada onde qualquer cidadão pode consultar a estrutura do governo.
