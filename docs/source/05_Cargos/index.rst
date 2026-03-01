@@ -34,31 +34,31 @@ São exceções a essa regra os cargos em comissão destinados a autoridades com
 
 .. admonition:: ATENÇÃO
 
-      Embora os cargos em comissão sejam de livre provimento da autoridade competente para nomeá-los, seus ocupantes precisam atender a um conjunto de requisitos mínimos.
+       Embora os cargos em comissão sejam de livre provimento da autoridade competente para nomeá-los, seus ocupantes precisam atender a um conjunto de requisitos mínimos.
 
-      São requisitos básicos para a investidura em cargo público (art. 5º da Lei nº 8.112, de 1990):
-      	I - a nacionalidade brasileira;
+       São requisitos básicos para a investidura em cargo público (art. 5º da Lei nº 8.112, de 1990):
 
-      	II - o gozo dos direitos políticos;
+       	 I - a nacionalidade brasileira;
 
-      	III - a quitação com as obrigações militares e eleitorais;
+      	 II - o gozo dos direitos políticos;
 
-      	IV - o nível de escolaridade exigido para o exercício do cargo;
+      	 III - a quitação com as obrigações militares e eleitorais;
 
-      	V - a idade mínima de dezoito anos; e
+      	 IV - o nível de escolaridade exigido para o exercício do cargo;
 
-      	VI - aptidão física e mental.
+      	 V - a idade mínima de dezoito anos; e
 
-      São critérios gerais para a ocupação de cargos em comissão e de funções de confiança na administração pública federal direta, autárquica e fundacional (art. 9º da Lei nº 14.204, de 2021):
+      	 VI - aptidão física e mental.
 
-		I – idoneidade moral e reputação ilibada;
+       São critérios gerais para a ocupação de cargos em comissão e de funções de confiança na administração pública federal direta, autárquica e fundacional (art. 9º da Lei nº 14.204, de 2021):
 
-		II – perfil profissional ou formação acadêmica compatível com o cargo ou com a função para a qual tenha sido indicado; e
-		
-		III – não enquadramento nas hipóteses de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990.
+		 I – idoneidade moral e reputação ilibada;
 
-	  Além dos requisitos e critérios acima apresentados, os ocupantes de CCE e FCE deverão observar critérios específicos, de acordo com o nível, conforme estabelecido no art. 16 do Decreto nº 10.829, de 2021.
+		 II – perfil profissional ou formação acadêmica compatível com o cargo ou com a função para a qual tenha sido indicado; e
 
+		 III – não enquadramento nas hipóteses de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990.
+
+	   Além dos requisitos e critérios acima apresentados, os ocupantes de CCE e FCE deverão observar critérios específicos, de acordo com o nível, conforme estabelecido no art. 16 do Decreto nº 10.829, de 2021.
 
 
 Dos cargos em comissão existentes na administração pública federal direta, autárquica e fundacional, no mínimo 60% do total serão ocupados por servidores de ocupantes de cargos efetivos (inc. III do art. 13 da Lei nº 14.204, de 2021).
