@@ -1,6 +1,12 @@
 CARGOS E FUNÇÕES
 ================
 
+.. admonition:: Sobre este capítulo
+
+   .. line-block::
+
+      Neste capítulo você encontrará informações relacionadas aos cargos em comissão e às funções de confiança utilizados no âmbito do Poder Executivo Federal para estruturar as organizações da Administração Direta, autarquias e fundações de direito público.
+
 A estrutura organizacional de uma entidade pública constitui-se de diferentes níveis hierárquicos, como secretarias, departamentos, coordenações etc. Essa hierarquia reflete a divisão de atribuições e responsabilidades dentro da entidade. Os cargos e funções representam posições formais dentro da estrutura organizacional associadas ao conjunto de atribuições e responsabilidades daquele nível da hierarquia.
 
 Nesse sentido, as estruturas organizacionais são materializadas pelos cargos em comissão e pelas funções de confiança, já que os cargos e funções são atribuídos às autoridades a frente das unidades administrativas. Não existe estrutura organizacional sem cargos e funções. E, da mesma forma, não existe cargo ou função desvinculado de uma estrutura organizacional. Assim, de modo geral, *Estruturas Organizacionais* e *cargos e funções* são conceitos totalmente interdependentes.
@@ -70,7 +76,7 @@ As funções de confiança, assim como os cargos em comissão, são criadas por 
 
 A diferença das funções de confiança para os cargos em comissão é que as funções são exclusivas de servidores públicos ocupantes de cargo efetivo, que ingressaram no setor público por meio de concurso público. Para ocupar função de confiança no Poder Executivo Federal o servidor pode ter seu cargo efetivo vinculado a qualquer Poder e de qualquer ente da federação.
 
-Considerando o disposto no inc. V do art. 37 da Constituição Federal, **as funções de confiança não podem ser ocupadas por pessoas que não ocupam cargo efetivo, nem por empregados públicos (pessoas empregadas em empresas estatais) e nem por militares, sejam da ativa ou da reserva**.
+Considerando o disposto no inc. V do art. 37 da Constituição Federal, **as funções de confiança não podem ser ocupadas por pessoas que não ocupam cargo efetivo, nem por empregados públicos (pessoas empregadas em empresas estatais), nem por servidores aposentados e nem por militares, sejam da ativa ou da reserva**.
 
 A tabela abaixo resume as características dos diferentes tipos de cargos públicos.
 
