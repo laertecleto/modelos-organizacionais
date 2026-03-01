@@ -128,6 +128,15 @@ Na tabela abaixo há uma visualização idealizada dos tipos institucionais corr
 .. note::
       Sobretudo por razões históricas, há na administração pública federal muitas atividades alocadas em tipos institucionais não adequados. Há atividades finalísticas da área social sendo executadas por ministérios ou por empresas estatais, atividades executadas por autarquias, mas que não demandam poderes próprios de Estado, etc. Essa desconformidade entre modelo institucional e função administrativa pode ter impacto negativo sobre o desempenho dessas entidades, já que impõe restrições e controles não adequados ao tipo de atividade realizada. Deve-se, portanto, buscar a adequação do modelo institucional aplicado a essas entidades.
 
+.. admonition:: IMPORTANTE
+
+      A execução das políticas públicas não se dá exclusivamente por estruturas do Poder Executivo Federal. Algumas políticas públicas são descentralizadas para estados, municípios e Distrito Federal. E muitas políticas públicas importantes são implementadas por meio de parcerias entre o governo federal e entidades da sociedade civil (com ou sem fins lucrativos).
+
+      Dessa forma, no momento de escolher uma forma de implementação, os gestores devem sempre considerar, além de estruturas estatais, as parcerias com a sociedade civil organizada.
+
+      Mais adiante você encontra mais informações sobre os tipos de parceria do governo federal e entidades da sociedade civil.
+
+
 Órgão público: conceitos elementares
 ------------------------------------
 Órgão Público é a unidade de atuação integrante das estruturas da administração direta e da administração indireta (art. 1º, § 2º, inciso I da Lei nº 9.784, de 29 de janeiro de 1999).
@@ -203,3 +212,38 @@ A descentralização de atividades na administração pública é uma estratégi
   e)  Redução de desigualdades: A descentralização pode ajudar a reduzir as desigualdades regionais, permitindo que áreas menos desenvolvidas tenham mais autonomia na alocação de recursos e na implementação de políticas para impulsionar seu desenvolvimento econômico e social.
 
 Em resumo, a descentralização na administração pública pode levar a uma governança mais eficiente, responsável e adaptável, promovendo o desenvolvimento sustentável e a participação cívica.
+
+A tabela abaixo apresenta alguns instrumentos de parceria entre o governo federal e entidades da sociedade civil.
+
+
+.. list-table::
+   :header-rows: 1
+   :widths: 15 17 17 17 17 17
+
+   - * Nome
+     * Organização Social
+     * Organização da Sociedade Civil de Interesse Público
+     * Organização da Sociedade Civil
+     * Parceria Público Privada
+     * Serviço Social Autônomo
+
+   - * Legislação
+     * Lei nº 9.637/1998 e Decreto nº 9.190/2017
+     * Lei nº 9790/1999 e Decreto nº 3.100/99
+     * Lei nº 13.019/2014 e Decreto nº 8.726/2016
+     * Lei nº 11.079/2004
+     * CF/1988 e Leis Específicas
+
+   - * Escopo
+     * Entidades de direito privado, sem fins lucrativos, cujas atividades sejam dirigidas ao ensino, à pesquisa científica, ao desenvolvimento tecnológico, à proteção e preservação do meio ambiente, à cultura e à saúde.
+     * Pessoas jurídicas de direito privado sem fins lucrativos que tenham sido constituídas e se encontrem em funcionamento regular há, no mínimo, três anos, desde que os respectivos objetivos sociais e normas estatutárias estejam em acordo com as finalidades estipuladas na lei. Exemplo: assistência social, combate à pobreza, estudos científicos.
+     * Organizações da sociedade civil (ONGs): * Entidade privada sem fins lucrativos, * sociedades cooperativas; * organizações religiosas com atividades de interesse público e de cunho social.
+     * Uma das principais características das parcerias público*privadas é que permite melhor uso dos recursos para a prestação de serviços complexos, como a entrega de uma grande infraestrutura, alcançada pela adequada divisão dos riscos contratuais entre o poder público e o parceiro privado. Incentiva a inovação, a eficiência, a satisfação dos usuários.
+     * Entidade civil de direito privado, instituída por lei ou a partir de autorização legal do Poder Executivo federal. As SSA do sistema S (SESI, SENAI, SEBRAE etc.) têm em comum a assistência ou ensino a certas categorias profissionais ou grupos profissionais. As demais (APEX, ANATER entre outras) possuem objetos mais específicos. O regulamento é estabelecido por decreto.
+
+   - * Exemplos
+     * RNP, IMPA, IDSM, ACERP, CGEE.
+     * Consultar: http://portal.convenios.gov.br
+     * Consultar: http://www.justica.gov.br/acesso*a*sistemas/consulta*a*entidades*qualificadas
+     * Satélite Geoestacionário Brasileiro, Rede de TV Pública Digital (RTVDB), BR 116*324, Ferrovia Norte*Sul.
+     * ABDI, APEX*Brasil, Rede Sarah e entes do Sistema S (SEBRAE, SESI).
