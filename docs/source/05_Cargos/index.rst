@@ -95,6 +95,7 @@ Os CCE e as FCE são constituídos pelas seguintes categorias estabelecidas no a
 .. list-table::
    :header-rows: 1
    :widths: 15 10 15 10
+   
    - * CCE
      * 
      * FCE
@@ -161,7 +162,7 @@ Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categ
 
 		- liderar equipes compostas por servidores com ou sem cargos ou funções de qualquer categoria;
 		- ter substitutos; e
-		- ter subordinados. Caso os subordinados ocupem cargo ou função, estes deverão necessariamente ser da categoria de direção de projetos (código 3) ou sem cargos em comissão ou função de confiança.
+		- ter subordinados. Caso os subordinados ocupem cargo ou função, estes deverão necessariamente ser da categoria de direção de projetos (código 3).
 
 **Categoria Assessoramento Técnico Especializado (código 4)**
 
@@ -176,6 +177,7 @@ A tabela abaixo resume as características das categorias dos CCE e das FCE.
 .. list-table::
    :header-rows: 1
    :widths: 18 18 18 18 28
+  
    - * 
      * Direção
      * Assessoramento
