@@ -133,3 +133,44 @@ Na tabela abaixo há uma visualização idealizada dos tipos institucionais corr
 Órgão Público é a unidade de atuação integrante das estruturas da administração direta e da administração indireta (art. 1º, § 2º, inciso I da Lei nº 9.784, de 29 de janeiro de 1999).
 
 Na qualidade de parte da estrutura da Administração Pública Direta e das demais pessoas jurídicas, o órgão não tem personalidade jurídica e vontade própria. É um centro de competência governamental ou administrativa, instituído para o desempenho de funções estatais, cuja atuação é imputada à pessoa jurídica a que pertence. Cada órgão tem, necessariamente, funções, cargos e agentes, mas é distinto desses elementos que podem ser modificados, substituídos ou retirados sem supressão da unidade orgânica (MEIRELLES, 1990, p.64).
+
+Classifições dos órgãos públicos
+++++++++++++++++++++++++++++++++
+
+**Quanto à posição na hierarquia do Poder Executivo Federal**
+
+.. list-table::
+   :header-rows: 1
+   :widths: 20 80
+
+   - * Órgãos autônomos
+     * são aqueles que se localizam na cúpula da Administração, subordinados diretamente ao Presidente da República. Gozam de autonomia administrativa, financeira e técnica e participam das decisões governamentais. São eles os ministérios e os órgãos da Presidência da República.
+
+   - * Órgãos superiores
+     * são órgãos de direção, porém sem autonomia administrativa e financeira. Sujeitam*se aos órgãos autônomos, compondo o seu primeiro escalão orgânico. Incluem*se, nesse tipo, os gabinetes, as secretarias, os departamentos etc.
+
+   - * Órgãos subalternos
+     * são os órgãos subordinados aos órgãos superiores. Encontra*se na base da estrutura orgânica da Administração Pública e são responsáveis por atividades materiais ou de execução. São também denominados de unidades administrativas.
+
+   - * Órgãos de execução
+     * são órgãos com reduzido poder decisório e com predominância de funções de execução. Destinam*se à realização de serviços de rotinas, tarefas administrativas, cumprimento de decisões superiores e primeiras soluções em casos individuais, como é o caso das atividades*meio e de atendimento ao público.
+
+
+Parcerias
+---------
+
+Por fim, é importante pontuar que a execução das políticas públicas não se circunscreve à administração pública. Uma parcela muito relevante das políticas públicas é executada por meio de arranjos de parcerias em que o poder público as descentraliza para outros entes da federação ou para entidades privadas, com ou sem fins lucrativos.
+
+A descentralização de atividades na administração pública é uma estratégia que visa distribuir o poder e as responsabilidades de governança para além do nível central do governo. Existem várias razões pelas quais isso pode ser benéfico:
+
+  a)  Eficiência: Ao descentralizar, as decisões podem ser tomadas mais próximas das pessoas afetadas por elas. Isso permite uma resposta mais rápida e adequada às necessidades locais, evitando a burocracia e os atrasos associados à tomada de decisões em níveis mais altos.
+
+  b)  Inovação e adaptação local: Com a descentralização, as autoridades locais têm mais liberdade para adaptar políticas e programas às necessidades específicas de suas comunidades. Isso promove a inovação e a experimentação, resultando em soluções mais eficazes e adequadas às circunstâncias locais.
+
+  c)  Participação cívica: A descentralização pode aumentar a participação cívica e o engajamento das comunidades nas decisões que as afetam diretamente. Quando as pessoas têm um papel ativo na governança local, estão mais inclinadas a se envolverem e contribuírem para o desenvolvimento de suas comunidades.
+
+  d)  Accountability (Responsabilização): Ao descentralizar, também é possível promover uma maior responsabilização dos governantes locais perante a população que representam. Isso porque eles estão mais próximos dos cidadãos e têm que responder diretamente por suas ações e decisões.
+
+  e)  Redução de desigualdades: A descentralização pode ajudar a reduzir as desigualdades regionais, permitindo que áreas menos desenvolvidas tenham mais autonomia na alocação de recursos e na implementação de políticas para impulsionar seu desenvolvimento econômico e social.
+
+Em resumo, a descentralização na administração pública pode levar a uma governança mais eficiente, responsável e adaptável, promovendo o desenvolvimento sustentável e a participação cívica.
