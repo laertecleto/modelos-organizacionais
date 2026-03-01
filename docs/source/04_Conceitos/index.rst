@@ -1,5 +1,5 @@
-Conceitos básicos relacionados a estruturas organizacionais
-===========================================================
+CONCEITOS BÁSICOS
+=================
 
 
 .. admonition:: Sobre este capítulo
@@ -175,10 +175,35 @@ Em termos simples: se o governo fosse uma empresa, o SIORG seria o responsável 
 
 As principais funções do SIORG são:
 
-**Gestão de Estruturas**: Controla a criação, alteração ou extinção de ministérios, secretarias e departamentos.
+   **Gestão de Estruturas**: Controla a criação, alteração ou extinção de ministérios, autarquias e fundações públicas.
 
-**Controle de Cargos e Funções**: Gerencia o quantitativo de cargos em comissão (como os CCE e FCE) e funções de confiança.
+   **Controle de Cargos e Funções**: Gerencia o quantitativo de cargos em comissão e funções de confiança.
 
-**Inovação e Modernização**: Promove a melhoria da gestão pública e a simplificação administrativa.
+   **Inovação e Modernização**: Promove a melhoria da gestão pública e a simplificação administrativa.
 
-**Manutenção do Painel SIORG**: Mantém uma base de dados atualizada onde qualquer cidadão pode consultar a estrutura do governo.
+   **Manutenção do Painel SIORG**: Mantém uma base de dados atualizada onde qualquer cidadão pode consultar a estrutura do governo.
+
+Essa organização em sistema permite que o desenvolvimento organizacional de órgãos e entidades mantenha-se coerente com a visão estratégica do governo, seguindo padrões que permitam uma compreensão facilitada da atuação de cada órgão e entidade e uma.alocação otimizada dos recursos para o alcance dos resultados pretendidos.
+
+São integrantes do SIORG todas as unidades administrativas incumbidas de atividades de organização e inovação institucional da Administração direta, autárquica e fundacional do Poder Executivo federal, observada a seguinte estrutura:
+
+   I. órgão central: o Ministério da Gestão e da Inovação em Serviços Públicos, por intermédio da Secretaria de Gestão e Inovação (inc. VI do art. 16 do Anexo I do Decreto nº 12.102, de 2024);
+
+   II.   órgãos setoriais: as Secretarias-Executivas ou equivalentes, assessoradas pelas unidades administrativas responsáveis pela área de organização e inovação institucional dos Ministérios, órgãos integrantes da Presidência da República, agências reguladoras e o Banco Central do Brasil; e
+
+   III.  órgãos seccionais: diretorias administrativas ou equivalentes, que atuam na área de organização e inovação institucional, nas autarquias e fundações públicas.
+
+As competências do órgão central do SIORG (SEGES/MGI) estão estabelecidas no art. 22 do Decreto nº 9.739, de 2019. As competências dos órgãos setoriais e seccionais do SIORG estão definidas no art. 23 do Decreto nº 9.739, de 2019.
+
+.. admonition:: SIORG: Sistema estruturador ou estruturante?
+
+      Como vimos acima o Sistema Estruturador da área de organinzação e inovação institucional tem a sigla de SIORG.
+
+      Ocorre que o sistema informatizado que operancionaliza funções do SIORG também foi denominado SIORG, o que pode causar confusão em alguns contextos. Em alguns casos SIORG é utilizado para referenciar o sistema estruturador e em outros o sistema estruturante.
+
+
+.. admonition:: Saiba mais sobre a história do SIORG
+
+      O Sistema de Organização e Modernização Administrativa - SOMAD, instituído pelo Decreto nº 1.039, de 10 de janeiro de 1994, foi o precursor do SIORG.
+
+      As  atividades de desenvolvimento organizacional dos órgãos e entidades da administração direta, autárquica e fundacional do Poder Executivo federal foram estruturadas sob a forma de sistema originalmente por meio do Decreto nº 6.944, de 21 de agosto de 2009, revogado pelo Decreto nº 9.739, de 28 de março de 2019, a partir de 1º de junho de 2019.
