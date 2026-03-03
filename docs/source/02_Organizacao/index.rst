@@ -73,7 +73,7 @@ A relação das empresas estatais federais pode ser encontrada junto às publica
 
   Tipo de empresa estatal cuja maioria do capital votante pertença diretamente à União e cujo capital social seja constituído de recursos provenientes exclusivamente do setor público (Inciso II do art. 2º do Decreto nº 8.945, de 2016).  
 
-  Conforme o inciso XIX do art. 37 da Constituição Federal de 1988, somente por lei específica poderá ser autorizada a instituição de sociedade de economia mista ou empresa pública.
+Conforme o inciso XIX do art. 37 da Constituição Federal de 1988, somente por lei específica poderá ser autorizada a instituição de sociedade de economia mista ou empresa pública.
 
 Fundação instituída pelo poder público de direito privado
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -84,6 +84,8 @@ Conforme o inciso XIX do art. 37 da Constituição Federal de 1988, a instituiç
 De acordo com o STF (ADI nº 4.197 SE), a Fundação Estatal de Direito Privado é constitucional.
 
 Na tabela abaixo há uma visualização idealizada dos tipos institucionais correlacionados com suas funções, tipo de atividade e área de atuação.
+
+.. figure:: _static/images/APF-direta-indireta.png
 
 .. list-table::
    :header-rows: 1
@@ -134,25 +136,23 @@ Na tabela abaixo há uma visualização idealizada dos tipos institucionais corr
 
       Dessa forma, no momento de escolher uma forma de implementação, os gestores devem sempre considerar, além de estruturas estatais, as parcerias com a sociedade civil organizada.
 
-      Mais adiante você encontra mais informações sobre os tipos de parceria do governo federal e entidades da sociedade civil.
-
 
 Parcerias
 ---------
 
-Por fim, é importante pontuar que a execução das políticas públicas não se circunscreve à administração pública. Uma parcela muito relevante das políticas públicas é executada por meio de arranjos de parcerias em que o poder público as descentraliza para outros entes da federação ou para entidades privadas, com ou sem fins lucrativos.
+Conforme pontuado acima, a execução das políticas públicas não se circunscreve à administração pública. Uma parcela muito relevante das políticas públicas é executada por meio de arranjos de parcerias em que o poder público as descentraliza para outros entes da federação ou para entidades privadas, com ou sem fins lucrativos.
 
 A descentralização de atividades na administração pública é uma estratégia que visa distribuir o poder e as responsabilidades de governança para além do nível central do governo. Existem várias razões pelas quais isso pode ser benéfico:
 
-  a)  Eficiência: Ao descentralizar, as decisões podem ser tomadas mais próximas das pessoas afetadas por elas. Isso permite uma resposta mais rápida e adequada às necessidades locais, evitando a burocracia e os atrasos associados à tomada de decisões em níveis mais altos.
+  a)  **Eficiência**: Ao descentralizar, as decisões podem ser tomadas mais próximas das pessoas afetadas por elas. Isso permite uma resposta mais rápida e adequada às necessidades locais, evitando a burocracia e os atrasos associados à tomada de decisões em níveis mais altos.
 
-  b)  Inovação e adaptação local: Com a descentralização, as autoridades locais têm mais liberdade para adaptar políticas e programas às necessidades específicas de suas comunidades. Isso promove a inovação e a experimentação, resultando em soluções mais eficazes e adequadas às circunstâncias locais.
+  b)  **Inovação e adaptação local**: Com a descentralização, as autoridades locais têm mais liberdade para adaptar políticas e programas às necessidades específicas de suas comunidades. Isso promove a inovação e a experimentação, resultando em soluções mais eficazes e adequadas às circunstâncias locais.
 
-  c)  Participação cívica: A descentralização pode aumentar a participação cívica e o engajamento das comunidades nas decisões que as afetam diretamente. Quando as pessoas têm um papel ativo na governança local, estão mais inclinadas a se envolverem e contribuírem para o desenvolvimento de suas comunidades.
+  c)  **Participação cívica**: A descentralização pode aumentar a participação cívica e o engajamento das comunidades nas decisões que as afetam diretamente. Quando as pessoas têm um papel ativo na governança local, estão mais inclinadas a se envolverem e contribuírem para o desenvolvimento de suas comunidades.
 
-  d)  Accountability (Responsabilização): Ao descentralizar, também é possível promover uma maior responsabilização dos governantes locais perante a população que representam. Isso porque eles estão mais próximos dos cidadãos e têm que responder diretamente por suas ações e decisões.
+  d)  **Accountability (Responsabilização)**: Ao descentralizar, também é possível promover uma maior responsabilização dos governantes locais perante a população que representam. Isso porque eles estão mais próximos dos cidadãos e têm que responder diretamente por suas ações e decisões.
 
-  e)  Redução de desigualdades: A descentralização pode ajudar a reduzir as desigualdades regionais, permitindo que áreas menos desenvolvidas tenham mais autonomia na alocação de recursos e na implementação de políticas para impulsionar seu desenvolvimento econômico e social.
+  e)  **Redução de desigualdades**: A descentralização pode ajudar a reduzir as desigualdades regionais, permitindo que áreas menos desenvolvidas tenham mais autonomia na alocação de recursos e na implementação de políticas para impulsionar seu desenvolvimento econômico e social.
 
 Em resumo, a descentralização na administração pública pode levar a uma governança mais eficiente, responsável e adaptável, promovendo o desenvolvimento sustentável e a participação cívica.
 
