@@ -4,17 +4,32 @@ Estruturas Organizacionais
 .. figure:: _static/images/banner_inicial.png
 
 
-Seja bem vindo à página que compila as principais informações sobre o processo de revisão das estruturas organizacionais dos ministérios e entidades, desde sua concepção até o cadastro no sistema informatizado do SIORG!
+Seja bem vindo à página que reúne informações sobre o processo de revisão das estruturas organizacionais dos ministérios e entidades.
 
-**O que é uma estrutura organizacional?**
+Essas informações estão organizadas sob a forma de um manual que pode ser acessado a partir do menu lateral. A versão em pdf também está disponível para download.
+
+Neste manual você vai encontrar informações sobre:
+
+   1. Como o governo federal se organiza para implementar as políticas púlbicas a partir de estruturas próprias e por meio de parcerias com entidades privadas.
+
+   2. Quais são os tipos de cargos e funções que são utilizados para construir as estruturas hierárquicas de ministérios e entidades.
+
+   3. Quais são as regras para construir estruturas organizacionais, considerando as competências atribuídas pela lei a um ministério ou entidade e os cargos e funções disponibilizados.
+
+   4. Como elaborar um decreto de estrutura para o seu ministério ou entidade.
+
+   5. Como é a tramitação do processo de revisão da estrutura desde a sua concepção até o cadastro da nova estrutura nos sistemas informatizados do governo federal.
+
+
+Este manual se aplica aos ministérios e órgãos da Presidência da República, bem como à maioria das autarquias e fundações de direito público.
+
+Ele não se aplica às Agências Reguladoras, Instituições Federais de Ensino Superior e ao Banco Central do Brasil.
+
+Caso não tenha encontrado algo que estava procurando ou ficou em dúvida sobre um ponto específico, por favor envie um e-mail para endereço eletrônico XXXXDEMOR.
+
 
 O poder executivo federal é dividido em administração direta (ministérios) e indireta (autarquias, fundações públicas e empresas estatais) :cite:`teste2`.
 
-Em sua organização interna, essas instituições são divididas em subunidades, com competências próprias; essas subunidades são interligadas, formando uma estrutura hierárquica. A essa estrutura hierárquica de subunidades dá-se o nome de estrutura organizacional.
-
-As atividades de desenvolvimento organizacional dos ministérios, das autarquias e das fundações públicas são, ainda, estruturadas sob a forma de sistema, denominado Sistema de Organização e Inovação Institucional do Governo Federal – SIORG. Como suporte às suas atividades, o SIORG conta com um sistema informatizado para o cadastro oficial das estruturas organizacionais dos ministérios e das entidades públicas. As empresas estatais tem um tratamento diferente, que é conduzido pela SEST.
-
-No menu lateral você encontrará o Manual de Estruturas Organizacionais atualizado e um FAQ com as principais dúvidas sobre Estruturas!
 
 
 .. only:: html
