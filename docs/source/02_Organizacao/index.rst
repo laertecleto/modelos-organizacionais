@@ -85,7 +85,7 @@ De acordo com o STF (ADI nº 4.197 SE), a Fundação Estatal de Direito Privado 
 
 Na tabela abaixo há uma visualização idealizada dos tipos institucionais correlacionados com suas funções, tipo de atividade e área de atuação.
 
-.. figure:: _static/images/APF-direta-indireta.png
+.. figure:: _static/images/APF_direta_indireta.png
 
 .. list-table::
    :header-rows: 1
