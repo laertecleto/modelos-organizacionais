@@ -1,4 +1,4 @@
-ORGANIZAÇÃO DA ADMINISTRAÇÃO PÚBLICA FEDERAL
+Organização da Administração Pública Federal
 ============================================
 
 .. admonition:: Sobre este capítulo

@@ -1,4 +1,4 @@
-CARGOS E FUNÇÕES
+Cargos e funções
 ================
 
 .. admonition:: Sobre este capítulo
