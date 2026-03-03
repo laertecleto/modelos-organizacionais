@@ -1,8 +1,10 @@
-INTRODUÇÃO
+Introdução
 ==========
-O poder executivo federal é responsável por executar as leis e as políticas públicas. Para isso, ele é dividido em ministérios e entidades, cada qual com sua própria estrutura organizacional.
+O poder executivo federal é responsável por executar as leis e as políticas públicas. Para realizar essas atividades, ele se vale de estruturas próprias e parcerias com entidades da sociedade civil.
 
-A estrutura organizacional refere-se à configuração pela qual uma organização é estabelecida e gerenciada, visando a consecução eficaz de seus objetivos e a execução eficiente de suas operações.
+As estruturas próprias do governo federal incluem os ministérios, órgãos da Presidência da República e entidades, cada qual com sua própria estrutura organizacional.
+
+A estrutura organizacional refere-se à configuração hierárquica pela qual uma organização é estabelecida e gerenciada, visando a consecução eficaz de seus objetivos e a execução eficiente de suas operações.
 
 Existem muitos tipos de estruturas organizacionais, e a melhor estrutura para uma organização específica dependerá de uma série de fatores, como por exemplo o seu tamanho, a sua missão e a sua cultura. No entanto, existem alguns princípios gerais que podem ser aplicados a qualquer estrutura organizacional, como definição clara de papéis e responsabilidades, a alocação de recursos, bem como a maneira como os membros da equipe interagem e compartilham informações entre si. Em suma, a estrutura organizacional é o arcabouço que define a forma como uma entidade opera, quem está encarregado de quê e como a colaboração e a coordenação são facilitadas em todos os níveis da organização.
 
@@ -12,7 +14,7 @@ Uma estrutura organizacional bem projetada fornece um quadro para identificar e 
 
 Além disso, uma estrutura organizacional bem desenhada promove a coordenação e colaboração entre diferentes órgãos no setor público. Ao quebrar barreiras e incentivar a colaboração, as organizações do setor público podem lidar de forma mais eficaz com desafios complexos e fornecer soluções integradas e holísticas para atender às necessidades dos cidadãos e partes interessadas.
 
-No poder executivo federal, as estruturas organizacionais são estabelecidas por meio de Decreto, levando-se por base a lei em vigor que estabelece a organização básica dos órgãos e dos ministérios. Os referidos Decretos de estruturas organizacional trazem o conjunto de competências de cada uma delas, bem como o conjunto de cargos em comissão, de funções de confiança e, em alguns casos, de gratificações que as compõem.
+No poder executivo federal, as estruturas organizacionais são estabelecidas por meio de Decreto, tomando por base a legislação em vigor que estabelece a organização básica dos órgãos da Presidência da República e dos ministérios e as leis específicas das entidades. Os Decretos de estrutura organizacional trazem o conjunto de competências associadas ao ministério ou entidade, bem como o correspondente conjunto de cargos em comissão, de funções de confiança e, em alguns casos, de gratificações que as compõem.
 
 Os decretos de estrutura devem seguir um conjunto de regras que estão associadas às competências e aos cargos e funções. Este manual tem por objetivo auxiliar os servidores de órgãos e entidades do Poder Executivo Federal a desenharem decretos de estrutura de acordo com a normas e práticas que os regem. Além disso, o manual traz a sequência de etapas que compõem o processo de reestruturação, desde a sua concepção até a implementação de nova estrutura nos sistemas informatizados do governo federal.
 
@@ -20,8 +22,10 @@ Nos últimos anos, o poder executivo federal, com o objetivo de simplificar a ge
 
 O objetivo da revisão desta edição, portanto, é aperfeiçoar e orientar a elaboração de propostas de estruturas organizacionais pelos interessados, auxiliar a avaliação técnica e registrar os novos conhecimentos adquiridos ao longo dos anos, em consonância com a legislação vigente e as orientações do órgão central do SIORG.
 
-Caso seja o seu primeiro contato com o tema de estruturas organizacionais, recomenda-se a leitura completa do respectivo manual. Se você já possui familiaridade com o tema, mas necessita aprofundar em como elaborar uma proposta de decreto de estrutura, siga para o capítulo XYZ.
+Caso seja o seu primeiro contato com o tema de estruturas organizacionais, recomenda-se a leitura completa deste manual. Se você já possui familiaridade com o tema, mas necessita aprofundar em como elaborar uma proposta de decreto de estrutura, siga para o capítulo XYZ.
 
-Caso não tenha encontrado algo que estava procurando ou ainda persiste alguma dúvida sobre um ponto específico do respectivo manual, nos envie um e-mail para endereço eletrônico XXXXDEMOR.
+.. admonition:: Não encontrou o que procurava? Tem dúvidas?
+
+      Caso não tenha encontrado algo que estava procurando ou ainda persiste alguma dúvida sobre um ponto específico do respectivo manual, nos envie um e-mail para endereço eletrônico manualdeestruturas@mgi.gov.br.
 
 Boa leitura!
