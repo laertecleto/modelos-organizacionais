@@ -47,6 +47,8 @@ O poder executivo federal é dividido em administração direta (ministérios) e
    02_Organizacao/index
    04_Conceitos/index
    05_Cargos/index
+   06_Estrutura_regimental/index
+   07_Como_alterar_estr_regimental/index
    03_Teste/index   
    
 
