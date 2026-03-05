@@ -8,6 +8,7 @@ Como alterar uma estrutura regimental - passo a passo
       Se é sua primeira vez fazendo esse trabalho, recomendamos a leitura completa do capítulo.  
 
       Se você já tem experiência no assunto, mas tem dúvidas específicas, esses são os temas principais dessa parte do manual:
+            - Qual é o fluxo ordinário de um processo de reestruturação;
             - Como definir o tipo de decreto adequado ao meu caso;
             - Como alterar uma estrutura regimental para um órgão da administração direta;
             - Como alterar uma estrutura regimental ou estatuto para uma autarquia ou fundação pública;
@@ -47,21 +48,21 @@ A forma de organização dessa peça deve ser definida após um estudo interno s
 
     1) **Alterações numerosas e significativas**, que demandam reestruturação completa da estrutura regimental ou estatuto.
 
-    **Indicação**: edição de decreto que aprova uma nova estrutura regimental ou estatuto. Falamos, aqui, numa substituição da norma existente, que será revogada. Assim, segue-se, de forma geral, a mesma organização do decreto vigente.
+      **Indicação**: edição de decreto que aprova uma nova estrutura regimental ou estatuto. Falamos, aqui, numa substituição da norma existente, que será revogada. Assim, segue-se, de forma geral, a mesma organização do decreto vigente.
     
-    **Organização sequencial padrão**: Epígrafe, ementa, preâmbulo (link para o Decreto n. 12.002, de 22 de abril de 2024) e texto principal contendo, resumidamente, os remanejamentos necessários à nova estrutura, regramentos específicos, revogação do decreto que trata da estrutura atual e, se for o caso, de outros que a alteraram, e data de vigência da nova estrutura (download de modelo);
+      **Organização sequencial padrão**: Epígrafe, ementa, preâmbulo (link para o Decreto n. 12.002, de 22 de abril de 2024) e texto principal contendo, resumidamente, os remanejamentos necessários à nova estrutura, regramentos específicos, revogação do decreto que trata da estrutura atual e, se for o caso, de outros que a alteraram, e data de vigência da nova estrutura (download de modelo);
 
-    **Anexo I**: traz a descrição de toda estrutura regimental ou estatuto, com as competências e atribuições de suas unidades (link);
+       **Anexo I**: traz a descrição de toda estrutura regimental ou estatuto, com as competências e atribuições de suas unidades (link);
 
-    **Anexo II**: contendo:
+       **Anexo II**: contendo:
 
             a) o quadro demonstrativo dos cargos em comissão e das funções de confiança (link); e
 
             b) o quadro resumo de custos (link) dos cargos em comissão e das funções de confiança (link).
 
-    **Anexo III**: contendo quadros com os remanejamentos já descritos no texto principal, com custo unitário e total (link); e
+       **Anexo III**: contendo quadros com os remanejamentos já descritos no texto principal, com custo unitário e total (link); e
 
-    **Anexo IV**: com quadro demonstrativo dos cargos comissionados executivos – CCE e das funções comissionadas executivas - FCE, contendo as transformações de cargos e funções que serão necessárias à estrutura proposta. Esse anexo nem sempre é necessário e depende de alguns fatores, que você pode ler aqui (link).
+       **Anexo IV**: com quadro demonstrativo dos cargos comissionados executivos – CCE e das funções comissionadas executivas - FCE, contendo as transformações de cargos e funções que serão necessárias à estrutura proposta. Esse anexo nem sempre é necessário e depende de alguns fatores, que você pode ler aqui (link).
 
 .. admonition:: AVISO!
 
