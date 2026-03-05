@@ -133,7 +133,7 @@ Na figura abaixo há uma visualização idealizada dos tipos institucionais corr
 .. note::
       Sobretudo por razões históricas, há na administração pública federal muitas atividades alocadas em tipos institucionais não adequados. Há atividades finalísticas da área social sendo executadas por ministérios ou por empresas estatais, atividades executadas por autarquias, mas que não demandam poderes próprios de Estado, etc. Essa desconformidade entre modelo institucional e função administrativa pode ter impacto negativo sobre o desempenho dessas entidades, já que impõe restrições e controles não adequados ao tipo de atividade realizada. Deve-se, portanto, buscar a adequação do modelo institucional aplicado a essas entidades.
 
-.. admonition:: IMPORTANTE
+.. important::
 
       A execução das políticas públicas não se dá exclusivamente por estruturas do Poder Executivo Federal. Algumas políticas públicas são descentralizadas para estados, municípios e Distrito Federal. E muitas políticas públicas importantes são implementadas por meio de parcerias entre o governo federal e entidades da sociedade civil (com ou sem fins lucrativos).
 
