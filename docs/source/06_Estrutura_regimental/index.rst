@@ -1,6 +1,9 @@
 Estrutura regimental e estatuto
 ===============================
-Estrutura regimental e estatuto é o instrumento que diz como um órgão ou entidade está estruturado e o que compete a cada unidade organizacional que o ou a compõem.
+
+.. admonition:: Sobre este capítulo
+
+      Neste capítulo você...
 
 A estrutura regimental ou estatuto de órgão ou entidade é aprovado...
 
