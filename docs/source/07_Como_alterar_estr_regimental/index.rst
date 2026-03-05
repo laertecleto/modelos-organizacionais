@@ -64,7 +64,7 @@ A forma de organização dessa peça deve ser definida após um estudo interno s
 
        **Anexo IV**: com quadro demonstrativo dos cargos comissionados executivos – CCE e das funções comissionadas executivas - FCE, contendo as transformações de cargos e funções que serão necessárias à estrutura proposta. Esse anexo nem sempre é necessário e depende de alguns fatores, que você pode ler aqui (link).
 
-.. admonition:: AVISO!
+.. warning::
 
       A Diretoria de Modelos Organizacionais, da Seges, desenvolveu uma planilha que constrói automaticamente os anexos II e III, a partir do quadro demonstrativo dos cargos e funções. Essa mesma planilha informa também se a alteração implicará ou não impacto orçamentário.
 
