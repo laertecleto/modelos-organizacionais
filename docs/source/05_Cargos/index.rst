@@ -38,31 +38,31 @@ Os cargos em comissão são criados por lei, geralmente, para o exercício das a
 
 São exceções a essa regra os cargos em comissão destinados a autoridades com mandato, cuja exoneração só pode ocorrer ao fim do mandato ou nas hipóteses previstas em lei, como é caso dos diretores das agências reguladoras e do Banco Central.
 
-.. admonition:: ATENÇÃO
+.. warning::
 
        Embora os cargos em comissão sejam de livre provimento da autoridade competente para nomeá-los, seus ocupantes precisam atender a um conjunto de requisitos mínimos.
 
        São requisitos básicos para a investidura em cargo público (art. 5º da Lei nº 8.112, de 1990):
 
-       	 I - a nacionalidade brasileira;
+        I - a nacionalidade brasileira;
 
-      	 II - o gozo dos direitos políticos;
+        II - o gozo dos direitos políticos;
 
-      	 III - a quitação com as obrigações militares e eleitorais;
+        III - a quitação com as obrigações militares e eleitorais;
 
-      	 IV - o nível de escolaridade exigido para o exercício do cargo;
+        IV - o nível de escolaridade exigido para o exercício do cargo;
 
-      	 V - a idade mínima de dezoito anos; e
+        V - a idade mínima de dezoito anos; e
 
-      	 VI - aptidão física e mental.
+        VI - aptidão física e mental.
 
        São critérios gerais para a ocupação de cargos em comissão e de funções de confiança na administração pública federal direta, autárquica e fundacional (art. 9º da Lei nº 14.204, de 2021):
 
-		 I – idoneidade moral e reputação ilibada;
+		    I – idoneidade moral e reputação ilibada;
 
-		 II – perfil profissional ou formação acadêmica compatível com o cargo ou com a função para a qual tenha sido indicado; e
+		    II – perfil profissional ou formação acadêmica compatível com o cargo ou com a função para a qual tenha sido indicado; e
 
-		 III – não enquadramento nas hipóteses de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990.
+		    III – não enquadramento nas hipóteses de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990.
 
 	   Além dos requisitos e critérios acima apresentados, os ocupantes de CCE e FCE deverão observar critérios específicos, de acordo com o nível, conforme estabelecido nos arts. 16 a 19 do Decreto nº 10.829, de 2021.
 

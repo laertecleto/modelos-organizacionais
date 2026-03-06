@@ -46,21 +46,21 @@ Atribuição
 
    .. line-block::
 
-      CAPÍTULO (x) DAS ATRIBUIÇÕES DOS DIRIGENTES
+         CAPÍTULO (x) DAS ATRIBUIÇÕES DOS DIRIGENTES
 
-      Seção I
+         Seção I
 
-      Do Secretário-Executivo
+          Do Secretário-Executivo
 
-      Art. 27. Ao Secretário-Executivo incumbe supervisionar, coordenar, dirigir, orientar, monitorar, acompanhar e avaliar o planejamento e a execução de todos os órgãos específicos singulares e exercer outras atribuições que lhe forem cometidas pelo Ministro de Estado.
+         Art. 27. Ao Secretário-Executivo incumbe supervisionar, coordenar, dirigir, orientar, monitorar, acompanhar e avaliar o planejamento e a execução de todos os órgãos específicos singulares e exercer outras atribuições que lhe forem cometidas pelo Ministro de Estado.
 
-      Seção II
+          Seção II
 
-      Dos Secretários
+         Dos Secretários
 
-      Art. 28. Aos Secretários incumbe planejar, dirigir, coordenar, orientar, acompanhar e avaliar a execução das atividades de suas unidades e exercer outras atribuições que lhes forem cometidas.
+         Art. 28. Aos Secretários incumbe planejar, dirigir, coordenar, orientar, acompanhar e avaliar a execução das atividades de suas unidades e exercer outras atribuições que lhes forem cometidas.
 
-      .......
+         .......
 
 
 
