@@ -59,13 +59,11 @@ Estrutura básica de um decreto de estrutura regimental ou de estatuto
    Some admonished content using the `quote admonition style`_.
 
 .. example:: Opened by default
-   
    :collapsible: open
 
    Hide me.
 
 .. question:: Closed by default.
-   
    :collapsible:
 
    Found me.
