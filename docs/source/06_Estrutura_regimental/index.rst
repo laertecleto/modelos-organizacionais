@@ -38,29 +38,9 @@ Estrutura básica de um decreto de estrutura regimental ou de estatuto
    
    You have made a grave :dutree:`error`.
 
-.. info::
-   
-   Some admonished content using the `info admonition style`_.
-
-.. success::
-   
-   Some admonished content using the `success admonition style`_.
-
-.. question::
-   
-   Some admonished content using the `question admonition style`_.
-
-.. example::
-   
-   Some admonished content using the `example admonition style`_.
-
-.. quote::
-   
-   Some admonished content using the `quote admonition style`_.
 
 .. example:: Opened by default
-   :collapsible: open
-
+  
    Hide me.
 
 .. question:: Closed by default.
