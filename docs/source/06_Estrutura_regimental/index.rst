@@ -22,28 +22,13 @@ Estrutura básica de um decreto de estrutura regimental ou de estatuto
 
 .. seealso::
    
-   This admonition is specific to Sphinx directives and not defined in the reStructuredText
-   specifications as you can `seealso`. The `todo` admonition is also defined as an extension
-   that is distributed with Sphinx.
+   This admonition is specific to Sphinx directives and not defined in the reStructuredText specifications as you can `seealso`. The `todo` admonition is also defined as an extension that is distributed with Sphinx.
 
-.. todo::
-
-   The `todo` admonition is also defined as an extension that is distributed with Sphinx.
 
 .. important::
    
-   It is :dutree:`important` to correctly use admonitions.
+   It is :important to correctly use admonitions.
 
 .. error::
    
-   You have made a grave :dutree:`error`.
-
-
-.. example:: Opened by default
-  
-   Hide me.
-
-.. question:: Closed by default.
-   :collapsible:
-
-   Found me.
+   You have made a grave `error`.
