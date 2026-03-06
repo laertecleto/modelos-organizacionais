@@ -18,3 +18,54 @@ Instrução das propostas – art. 5º do D9739
 Tramitação das propostas – art. 3º do D9739 (fazer figura completa)
 
 Estrutura básica de um decreto de estrutura regimental ou de estatuto
+
+
+.. seealso::
+   
+   This admonition is specific to Sphinx directives and not defined in the reStructuredText
+   specifications as you can `seealso`. The `todo` admonition is also defined as an extension
+   that is distributed with Sphinx.
+
+.. todo::
+
+   The `todo` admonition is also defined as an extension that is distributed with Sphinx.
+
+.. important::
+   
+   It is :dutree:`important` to correctly use admonitions.
+
+.. error::
+   
+   You have made a grave :dutree:`error`.
+
+.. info::
+   
+   Some admonished content using the `info admonition style`_.
+
+.. success::
+   
+   Some admonished content using the `success admonition style`_.
+
+.. question::
+   
+   Some admonished content using the `question admonition style`_.
+
+.. example::
+   
+   Some admonished content using the `example admonition style`_.
+
+.. quote::
+   
+   Some admonished content using the `quote admonition style`_.
+
+.. example:: Opened by default
+   
+   :collapsible: open
+
+   Hide me.
+
+.. question:: Closed by default.
+   
+   :collapsible:
+
+   Found me.
