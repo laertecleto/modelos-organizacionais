@@ -40,7 +40,7 @@ São exceções a essa regra os cargos em comissão destinados a autoridades com
 
 .. warning::
 
-       Embora os cargos em comissão sejam de livre provimento da autoridade competente para nomeá-los, seus ocupantes precisam atender a um conjunto de requisitos mínimos.
+       Embora os cargos em comissão sejam de livre provimento da autoridade competente para nomeá-los, seus ocupantes precisam atender a um conjunto de requisitos mínimos..
 
        São requisitos básicos para a investidura em cargo público (art. 5º da Lei nº 8.112, de 1990):
 
