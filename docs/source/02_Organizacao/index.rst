@@ -52,11 +52,12 @@ A decisão para descentralizar uma atividade que demanda poderes próprios de Es
 
 Essas são algumas das razões mais comuns pelas quais uma autarquia pública pode ser criada. No entanto, as circunstâncias específicas e os objetivos de cada governo podem variar, levando a diferentes arranjos e justificativas para a criação de entidades autônomas.
 
-**Autarquias de regime especial**
+-----------------------------
+Autarquias de regime especial
+-----------------------------
+As autarquias de regime especial são autarquias que a Constituição ou a Lei concedeu maior grau de autonomia. As autonomias típicas das autarquias especiais são garantia de mandato fixo e estabilidade para seus dirigentes e impossibilidade de revisão de seus atos, salvo pelo Poder Judiciário.
 
-  As autarquias de regime especial são autarquias que a Constituição ou a Lei concedeu maior grau de autonomia. As autonomias típicas das autarquias especiais são garantia de mandato fixo e estabilidade para seus dirigentes e impossibilidade de revisão de seus atos, salvo pelo Poder Judiciário.
-
-  São exemplos de autarquias de regime especial as agências reguladoras e o Banco Central do Brasil.
+São exemplos de autarquias de regime especial as agências reguladoras e o Banco Central do Brasil.
 
 Empresa estatal
 +++++++++++++++
@@ -69,14 +70,12 @@ A relação das empresas estatais federais pode ser encontrada junto às publica
 ---------------------------
 Sociedade de economia mista
 ---------------------------
-
-  Tipo de empresa estatal que explora atividade econômica sob a forma de sociedade anônima, cuja maioria das ações com direito a voto pertença diretamente à União e cujo capital social admite a participação do setor privado (Inciso III do art. 2º do Decreto nº 8.945, de 2016).
+Tipo de empresa estatal que explora atividade econômica sob a forma de sociedade anônima, cuja maioria das ações com direito a voto pertença diretamente à União e cujo capital social admite a participação do setor privado (Inciso III do art. 2º do Decreto nº 8.945, de 2016).
 
 ---------------
 Empresa pública
 ---------------
-
-  Tipo de empresa estatal cuja maioria do capital votante pertença diretamente à União e cujo capital social seja constituído de recursos provenientes exclusivamente do setor público (Inciso II do art. 2º do Decreto nº 8.945, de 2016).  
+Tipo de empresa estatal cuja maioria do capital votante pertença diretamente à União e cujo capital social seja constituído de recursos provenientes exclusivamente do setor público (Inciso II do art. 2º do Decreto nº 8.945, de 2016).  
 
 Conforme o inciso XIX do art. 37 da Constituição Federal de 1988, somente por lei específica poderá ser autorizada a instituição de sociedade de economia mista ou empresa pública.
 
@@ -88,12 +87,15 @@ Conforme o inciso XIX do art. 37 da Constituição Federal de 1988, a instituiç
 
 De acordo com o STF (ADI nº 4.197 SE), a instituição de Fundação Estatal de Direito Privado pelo poder executivo é constitucional.
 
-Na figura abaixo há uma visualização **idealizada** dos tipos institucionais correlacionados com suas funções, seus tipos de atividade e suas áreas de atuação.
+Na :numref:`_ADM_direta_indireta` há uma visualização **idealizada** dos tipos institucionais correlacionados com suas funções, seus tipos de atividade e suas áreas de atuação.
 
+.. _ADM-direta-indireta:
 .. figure:: ../_static/images/APF_direta_indireta.png
    :alt: Administracao direta e indireta
    :align: center
    :name: ADM_direta_indireta
+
+   Visão idealizada dos tipos institucionais da APF
 
 ..
   .. list-table::

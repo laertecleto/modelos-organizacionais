@@ -38,7 +38,7 @@ Os cargos em comissão são criados por lei, geralmente, para o exercício das a
 
 São exceções a essa regra os cargos em comissão destinados a autoridades com mandato, cuja exoneração só pode ocorrer ao fim do mandato ou nas hipóteses previstas em lei, como é caso dos diretores das agências reguladoras e do Banco Central.
 
-.. warning::
+.. attention::
 
        Embora os cargos em comissão sejam de livre provimento da autoridade competente para nomeá-los, seus ocupantes precisam atender a um conjunto de requisitos mínimos..
 
@@ -67,16 +67,16 @@ São exceções a essa regra os cargos em comissão destinados a autoridades com
 	   Além dos requisitos e critérios acima apresentados, os ocupantes de CCE e FCE deverão observar critérios específicos, de acordo com o nível, conforme estabelecido nos arts. 16 a 19 do Decreto nº 10.829, de 2021.
 
 
-Dos cargos em comissão existentes na administração pública federal direta, autárquica e fundacional, no mínimo 60% do total serão ocupados por servidores de ocupantes de cargos efetivos (inc. III do art. 13 da Lei nº 14.204, de 2021).
+Dos cargos em comissão existentes na administração pública federal direta, autárquica e fundacional, no mínimo 60% do total deverão ser ocupados por servidores efetivos (inc. III do art. 13 da Lei nº 14.204, de 2021).
 
 Funções de confiança
 --------------------
 
 As funções de confiança, assim como os cargos em comissão, são criadas por lei ou por transformação para o exercício das atribuições de direção, chefia e assessoramento. Seu provimento também dispensa concurso público - são vocacionadas à ocupação em caráter transitório, por pessoas de confiança da autoridade competente para preenchê-los, a qual também pode exonerar ad nutum, isto é, livremente, e a qualquer momento.
 
-A diferença das funções de confiança para os cargos em comissão é que as funções são exclusivas de servidores públicos ocupantes de cargo efetivo, que ingressaram no setor público por meio de concurso público. Para ocupar função de confiança no Poder Executivo Federal o servidor pode ter seu cargo efetivo vinculado a qualquer Poder e de qualquer ente da federação.
+A diferença das funções de confiança para os cargos em comissão é que as funções são exclusivas de servidores públicos ocupantes de cargo efetivo. Para ocupar função de confiança no Poder Executivo Federal o servidor pode ter seu cargo efetivo vinculado a qualquer Poder e de qualquer ente da federação.
 
-Considerando o disposto no inc. V do art. 37 da Constituição Federal, **as funções de confiança não podem ser ocupadas por pessoas que não ocupam cargo efetivo, nem por empregados públicos (pessoas empregadas em empresas estatais), nem por servidores aposentados e nem por militares, sejam da ativa ou da reserva**.
+Considerando o disposto no inc. V do art. 37 da Constituição Federal, as funções de confiança não podem ser ocupadas por pessoas que não ocupam cargo efetivo, **nem por empregados públicos (pessoas empregadas em empresas estatais), nem por servidores aposentados e nem por militares, sejam da ativa ou da reserva**.
 
 A tabela abaixo resume as características dos diferentes tipos de cargos públicos.
 
