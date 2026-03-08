@@ -334,7 +334,6 @@ Cargos comissionados das agências reguladoras
 As agências reguladoras possuem Cargos em Comissão de Direção – CD, de Gerência Executiva – CGE, de Assessoria – CA e de Assistência – CAS, e os Cargos em Comissão Técnicos – CCT, conforme estabelecido na Lei nº 9.986, de 18 de julho de 2000, mas podem transformar seus cargos e funções em CCE e FCE, se assim optarem até 31 de março de 2026. Essas autarquias especiais possuem autonomia para alterar seus respectivos quantitativos de cargos e distribuí-los, no âmbito de cada grupo, sem aumento de despesa (art. 14 da Lei nº 9.986, 2000), independentemente da tipologia de cargos e funções adotada.
 
 De acordo com as Leis nº 9.986, de 2000, e nº 14.204, de 2021:
-
   * os Cargos Comissionados de Gerência Executiva, de Assessoria e de Assistência são de livre nomeação e exoneração da instância de deliberação máxima da Agência;
   * o Presidente ou o Diretor-Geral ou o Diretor-Presidente (CD I ou CCE-18) e os demais membros do Conselho Diretor ou da Diretoria (CD II ou CCE-17) serão brasileiros, de reputação ilibada, formação universitária e elevado conceito no campo de especialidade dos cargos para os quais serão nomeados, devendo ser escolhidos pelo Presidente da República e por ele nomeados, após aprovação pelo Senado Federal, nos termos da alínea f do inciso III do art. 52 da Constituição Federal;
   * integrarão a estrutura organizacional de cada agência uma procuradoria, que a representará em juízo, uma ouvidoria e uma auditoria; e
@@ -347,6 +346,30 @@ Também de acordo com o art. 33 da Lei nº 10.871, de 20 de maio de 2004, que di
 Em adotando o modelo de CCE e FCE, os servidores cedidos às agências reguladoras para ocupação de Cargo Comissionado de Gerência Executiva (CGE) de nível IV e de Cargo Comissionado Técnico (CCT) de nível IV ou V poderão permanecer cedidos enquanto estiverem ocupando FCE de nível 8 ou superior.
 
 Os limites do art. 14 da Lei nº 9.986, de 2000, já foram objeto dos Acórdãos TCU nº 569 e 1.600, de 2013, segundo os quais essa possibilidade de alteração de quantitativos deve ser interpretada em conjunto com o inciso V do art. 37 da Constituição Federal. Desse modo, atualmente é vedada a alteração de quantitativos de CCT em cargos de livre provimento (CGE, CA e CAS). Porém, desde que não haja aumento de despesa, é permitida:
+  a)  a alteração dos quantitativos internamente a cada grupo – cargos de livre provimento (CGE, CA e CAS) e cargos privativos (CCT); e
+  b)  a alteração de quantitativos de cargos de livre provimento em favor de cargos privativos, bem como a reversão da alteração realizada.
 
-a)  a alteração dos quantitativos internamente a cada grupo – cargos de livre provimento (CGE, CA e CAS) e cargos privativos (CCT); e
-b)  a alteração de quantitativos de cargos de livre provimento em favor de cargos privativos, bem como a reversão da alteração realizada.
+------------------------------------------------
+Funções comissionadas do Banco Central do Brasil
+------------------------------------------------
+As Funções Comissionadas do Banco Central – FCBC foram criadas pela Lei nº 9.650, de 27 de maio de 1998, e são de exercício privativo por servidores do Banco Central do Brasil [#]_.
+
+Seus quantitativos também poderão ser alterados por ato do Presidente do Banco Central do Brasil, desde que não impliquem aumento de despesa.
+
+-----------------------------------------------------
+Cargos em comissão e funções de confiança temporários
+-----------------------------------------------------
+É possível o remanejamento, por Decreto, de cargos em comissão e de funções de confiança da Secretaria de Gestão e Inovação, do Ministério da Gestão e da Inovação em Serviços Públicos, para órgãos e entidades em caráter temporário, até uma data máxima fixada no mesmo Decreto e com objetivo definido. Nesses casos, deverão estar explícitos no Decreto quais os cargos (ou funções) remanejados temporariamente, a data limite de permanência dos cargos e funções, a sua destinação e o seu caráter de transitoriedade.
+
+.. epigraph:: Exemplo
+
+   Art. 1º Ficam remanejados em caráter temporário, os seguintes Cargos Comissionados Executivos - CCE e Funções Comissionadas Executivas - FCE da Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos para o (órgão ou entidade):
+   - ..........
+   - .........   
+   § 1º Os cargos de que trata o caput:
+   I - destinam-se a ...
+   II - serão restituídos à Secretaria de Gestão e Inovação em (data completa de restituição, quando seus ocupantes ficarão automaticamente exonerados ou dispensados.
+   § 2º Os cargos referidos no caput não integrarão a Estrutura Regimental (ou Estatuto) do (órgão ou entidade) e os atos de nomeação ou designação relacionados terão seu caráter de transitoriedade expressos, mediante remissão ao caput do art. 1º.
+
+
+.. [#] Lei nº 9.650, de 1998, art. 12, § 6º.
