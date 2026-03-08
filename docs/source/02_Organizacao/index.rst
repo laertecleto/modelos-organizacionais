@@ -167,7 +167,7 @@ A descentralização de atividades na administração pública é uma estratégi
 
 Em resumo, a descentralização na administração pública pode levar a uma governança mais eficiente, responsável e adaptável, promovendo o desenvolvimento sustentável e a participação cívica.
 
-A :nunref:`Parcerias-label` apresenta alguns instrumentos de parceria entre o governo federal e entidades da sociedade civil.
+A :numref:`Parcerias-label` apresenta alguns instrumentos de parceria entre o governo federal e entidades da sociedade civil.
 
 
 .. _Parcerias-label:
