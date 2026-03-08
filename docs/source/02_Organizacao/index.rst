@@ -5,7 +5,10 @@ Organização da Administração Pública Federal
 
       Neste capítulo você vai aprender sobre como a administração pública federal se organiza para implementar as políticas públicas. Desde a sua estrutura própria e também sobre como ela se articula com a sociedade civil por meio das parcerias para levar serviços públicos para a sociedade.
 
-O Estado é a instituição jurídica consubstanciada na Constituição e na regulamentação infraconstitucional. O Estado brasileiro é uma república democrática com organização federativa, integrado pelos Poderes Legislativo, Executivo e Judiciário, compreendendo a União, os Estados e o Distrito Federal, bem como os municípios.
+.. contents::
+
+
+O ``Estado`` é a instituição jurídica consubstanciada na Constituição e na regulamentação infraconstitucional. O Estado brasileiro é uma república democrática com organização federativa, integrado pelos Poderes Legislativo, Executivo e Judiciário, compreendendo a União, os Estados e o Distrito Federal, bem como os municípios.
 
 Na qualidade de Estado de Direito Democrático, a constituição preconiza a igualdade política, o acesso à informação, bem como o direito à participação e ao controle dos cidadãos nos processos de formulação, implementação e avaliação de políticas públicas.
 A Administração Pública é regulada pelo art. nº 37 da Constituição Federal, de 1988. Do ponto de vista jurídico, define-se a Administração Pública, em sentido material ou objetivo, como “a atividade concreta e imediata que o Estado desenvolve, sob regime jurídico total ou parcialmente público, para a consecução dos interesses coletivos” e em sentido subjetivo como “o conjunto de órgãos e de pessoas jurídicas aos quais a lei atribui o exercício da função administrativa do Estado” (PIETRO, 2021, pp. 216 e 218).
