@@ -18,8 +18,9 @@ Como alterar uma estrutura regimental - passo a passo
 Fluxo de uma reestruturação organizacional
 -------------------------------------------
 
-xxxxx
+Na figura :numref:`fluxo_reestruturacao_label` você encontra o fluxo normal de uma reestruturação organizacional de ministério ou entidade.
 
+.. _fluxo_reestruturacao_label:
 .. figure:: ../_static/images/fluxo_reestruturacao.png
    :alt: Fluxo de uma reestruturação
    :align: center

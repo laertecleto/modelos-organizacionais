@@ -20,15 +20,55 @@ Tramitação das propostas – art. 3º do D9739 (fazer figura completa)
 Estrutura básica de um decreto de estrutura regimental ou de estatuto
 
 
+Testes de *admonitions*
+
+
+.. note::
+
+   Este é um bloco de nota.
+
+
+.. warning::
+
+   bloco **warning**.
+
+
+.. danger::
+
+   Este é um bloco de Perigo
+
+
+.. admonition:: título personalizado
+
+   Este é um bloco com **título personalizado**.
+
+
 .. seealso::
    
-   This admonition is specific to Sphinx directives and not defined in the reStructuredText specifications as you can `seealso`. The `todo` admonition is also defined as an extension that is distributed with Sphinx.
+   bloco **seealso**
 
 
 .. important::
    
-   It is :important to correctly use admonitions.
+   bloco **important**.
 
-.. error::
+
+.. attention::
    
-   You have made a grave `error`.
+   bloco **attention**.
+
+
+.. caution::
+   
+   bloco **caution**.
+
+
+.. hint::
+   
+   bloco **hint**.
+
+
+.. tip::
+   
+   bloco **tip**.
+
