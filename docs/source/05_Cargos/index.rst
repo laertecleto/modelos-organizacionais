@@ -78,6 +78,7 @@ A diferença das funções de confiança para os cargos em comissão é que as f
 
 Considerando o disposto no inc. V do art. 37 da Constituição Federal, as funções de confiança não podem ser ocupadas por pessoas que não ocupam cargo efetivo, **nem por empregados públicos (pessoas empregadas em empresas estatais), nem por servidores aposentados e nem por militares, sejam da ativa ou da reserva**.
 
+
 A tabela abaixo resume as características dos diferentes tipos de cargos públicos.
 
 
@@ -110,6 +111,7 @@ A tabela abaixo resume as características dos diferentes tipos de cargos públi
      * Livre provimento, observadas as previsões normativas. (60% dos cargos em comissão existentes devem ser preenchidos por servidores efetivos)
      * Servidores públicos efetivos, de qualquer esfera e poder, observadas as previsões normativas. Obs.: não podem ser ocupadas por pessoas que não ocupam cargo efetivo, nem por servidores públicos de carreira aposentados, nem por militares (da ativa ou da reserva) e nem por empregados públicos. (Art. 37, inc. V da CF)
 
+Quando uma lei cria cargos em comissão e/ou funções comissionados, estes são *armazenados* em uma **reserva técnica**, gerida pela Secretaria de Gestão e Inovação, do Ministério da Gestão e da Inovação em Serviços Públicos. Quando um órgão ou entidade precisa ser fortalecido (ou mesmo criado), cabe a esta Secretaria a análise inicial da demanda (link para o texto que traz os requisitos e documentações mínimos?) e o eventual encaminhamento, à Casa Civil, da minuta de decreto que realizará o remanejamento de cargos e funções.
 
 Cargos Comissionados Executivos – CCE e Funções Comissionadas Executivas – FCE
 ------------------------------------------------------------------------------
@@ -363,7 +365,7 @@ Cargos em comissão e funções de confiança temporários
 
 .. epigraph:: Exemplo
 
-   *Art. 1º Ficam remanejados em caráter temporário, os seguintes Cargos Comissionados Executivos - CCE e Funções Comissionadas Executivas - FCE da Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos para o (órgão ou entidade):
+   Art. 1º Ficam remanejados em caráter temporário, os seguintes Cargos Comissionados Executivos - CCE e Funções Comissionadas Executivas - FCE da Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos para o (órgão ou entidade):
    
    - ..........
    
@@ -375,7 +377,7 @@ Cargos em comissão e funções de confiança temporários
    
    II - serão restituídos à Secretaria de Gestão e Inovação em (data completa de restituição, quando seus ocupantes ficarão automaticamente exonerados ou dispensados.
    
-   § 2º Os cargos referidos no caput não integrarão a Estrutura Regimental (ou Estatuto) do (órgão ou entidade) e os atos de nomeação ou designação relacionados terão seu caráter de transitoriedade expressos, mediante remissão ao caput do art. 1º.*
+   § 2º Os cargos referidos no caput não integrarão a Estrutura Regimental (ou Estatuto) do (órgão ou entidade) e os atos de nomeação ou designação relacionados terão seu caráter de transitoriedade expressos, mediante remissão ao caput do art. 1º.
 
 
 .. [#] Lei nº 9.650, de 1998, art. 12, § 6º.
