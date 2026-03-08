@@ -248,3 +248,63 @@ A tabela abaixo resume as características das categorias dos CCE e das FCE.
      * Não
      * Sim. Caso subordinados ocupem cargo ou função, este deverá ser de código 3
      * Não
+
+Níveis dos CCE e das FCE
+++++++++++++++++++++++++
+
+Os CCE e as FCE são divididos em 18 níveis, numerados de 1 a 18, sendo 1 o menor nível e 18, o maior. Na designação de um CCE ou de uma FCE, utiliza-se o tipo do cargo ou função (CCE ou FCE) seguido do código da categoria (1 a 4), um ponto separador e o nível do cargo ou função (1 a 18).
+
+A :numref:`Niveis-CCE-FCE-label` apresenta todas as configurações de níveis para CCE e FCE por categoria (Anexo I do Decreto 10.829, de 5 de outubro de 2021).
+
+.. _Niveis-CCE-FCE-label:
+.. figure:: ../_static/images/Niveis_CCE_FCE.png
+   :alt: Niveis das CCEs e FCEs
+   :align: center
+   :name: Niveis
+
+   Níveis dos CCE e das FCE
+
+CCE e FCE do mesmo nível e da mesma categoria são equiparáveis para todos os efeitos legais e regulamentares.
+
+Regras básicas de ocupação de CCE e FCE:
+
+  * Deve ser observado o disposto no art. 9º da Lei nº 14.204, de 2021, (critérios gerais para ocupação de CCE e FCE) e os arts. 15 a 19 do Decreto nº 10.829, de 2021, (critérios específicos para ocupação de CCE/FCE).
+
+  * CCE de níveis 5 a 18: livre provimento;
+
+  * CCE de níveis 1 a 4: somente poderão ser ocupados por servidor de carreira, empregado permanente da administração pública ou militar;
+
+  * FCE de níveis 1 a 17:  somente poderá ser ocupada por servidor efetivo oriundo de órgão ou de entidade de quaisquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios.
+
+Denominações associadas aos níveis e categorias dos CCE e das FCE
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações associadas a cada nível e categoria para as CCE e FCE.
+
+.. attention::
+
+   Em que pese haver casos em que a denominação se desvia daquelas listadas na figura, é importante que órgãos e entidade se atenham as denominações ali delimitadas, evitando a criação de outras denominações.
+
+.. _Denominacoes-CCE-FCE-label:
+.. figure:: ../_static/images/Denominacoes_CCE_FCE.png
+   :alt: Denominacoes das CCEs e FCEs
+   :align: center
+   :name: Denominacoes
+
+   Denominações dos CCE e das FCE
+
+
+O parâmetro de CCE-unitário
++++++++++++++++++++++++++++
+
+De acordo com o art. 6º do Decreto nº 10.829, de 2021, na proposta de aprovação ou revisão de suas estruturas regimentais ou estatutos, os ministérios, órgãos e entidades deverão tomar como referência, para cálculo da despesa, o custo unitário efetivo expresso em CCE-Unitário.
+
+O valor de um CCE-Unitário equivale ao valor da remuneração do cargo CCE de nível 5. O valor unitário dos demais cargos e funções é obtido dividindo-se o valor da remuneração do respectivo cargo ou função pelo valor da remuneração do CCE de nível 5. Os valores encontram-se fixados nas tabelas do sistema informatizado do SIORG, com duas casas decimais e podem ser consultados em https://siorg.gov.br/siorg-cidadao-webapp/resources/app/cargos-comissionados.html
+
+O CCE-Unitário tem por objetivo facilitar o cálculo da despesa com cargos em comissão e funções de confiança quando da revisão ou aprovação das estruturas regimentais ou estatutos dos ministérios, órgãos e entidades. A finalidade do quadro resumo é demonstrar se houve ou não aumento de despesa na nova estrutura ou no novo estatuto aprovado, em comparação com os custos da estrutura até então vigente que será alterada.
+
+
+Outros cargos em comissão e funções de confiança
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+A maioria das estruturas dos ministérios, órgãos e entidades do Poder Executivo federal é composta Cargos Comissionados Executivos (CCE) e Funções Comissionadas Executivas (FCE). Porém, existem outras tipologias de cargos em comissão e de funções de confiança, em geral específicas para certos órgãos e entidades, que podem ser mencionadas como exceção a essa regra.

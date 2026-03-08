@@ -176,7 +176,7 @@ A :numref:`Parcerias-label` apresenta alguns instrumentos de parceria entre o go
    :align: center
    :name: Parcerias
 
-   Visão idealizada dos tipos institucionais da APF
+   Alguns instrumentos de parceria
 
 ..
   .. list-table::
