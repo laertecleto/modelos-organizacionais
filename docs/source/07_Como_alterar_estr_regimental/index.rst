@@ -20,6 +20,11 @@ Fluxo de uma reestruturação organizacional
 
 xxxxx
 
+.. figure:: ../_static/images/fluxo_reestruturacao.png
+   :alt: Fluxo de uma reestruturação
+   :align: center
+   :name: fluxo_reestruturacao
+
 Peças que compõem um processo de reestruturação organizacional
 ---------------------------------------------------------------
 
