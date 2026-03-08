@@ -5,10 +5,8 @@ Organização da Administração Pública Federal
 
       Neste capítulo você vai aprender sobre como a administração pública federal se organiza para implementar as políticas públicas. Desde a sua estrutura própria e também sobre como ela se articula com a sociedade civil por meio das parcerias para levar serviços públicos para a sociedade.
 
-.. contents::
 
-
-O ``Estado`` é a instituição jurídica consubstanciada na Constituição e na regulamentação infraconstitucional. O Estado brasileiro é uma república democrática com organização federativa, integrado pelos Poderes Legislativo, Executivo e Judiciário, compreendendo a União, os Estados e o Distrito Federal, bem como os municípios.
+O Estado é a instituição jurídica consubstanciada na Constituição e na regulamentação infraconstitucional. O Estado brasileiro é uma república democrática com organização federativa, integrado pelos Poderes Legislativo, Executivo e Judiciário, compreendendo a União, os Estados e o Distrito Federal, bem como os municípios.
 
 Na qualidade de Estado de Direito Democrático, a constituição preconiza a igualdade política, o acesso à informação, bem como o direito à participação e ao controle dos cidadãos nos processos de formulação, implementação e avaliação de políticas públicas.
 A Administração Pública é regulada pelo art. nº 37 da Constituição Federal, de 1988. Do ponto de vista jurídico, define-se a Administração Pública, em sentido material ou objetivo, como “a atividade concreta e imediata que o Estado desenvolve, sob regime jurídico total ou parcialmente público, para a consecução dos interesses coletivos” e em sentido subjetivo como “o conjunto de órgãos e de pessoas jurídicas aos quais a lei atribui o exercício da função administrativa do Estado” (PIETRO, 2021, pp. 216 e 218).
@@ -68,11 +66,15 @@ Sua criação é autorizada por lei e efetivada por Decreto do Poder Executivo, 
 
 A relação das empresas estatais federais pode ser encontrada junto às publicações da Secretaria de Coordenação e Governança das Empresas Estatais (SEST), do Ministério da Gestão e Inovação de Serviços Públicos no endereço eletrônico `Estatais <https://www.gov.br/gestao/pt-br/assuntos/estatais>`.
 
-**Sociedade de economia mista**
+---------------------------
+Sociedade de economia mista
+---------------------------
 
   Tipo de empresa estatal que explora atividade econômica sob a forma de sociedade anônima, cuja maioria das ações com direito a voto pertença diretamente à União e cujo capital social admite a participação do setor privado (Inciso III do art. 2º do Decreto nº 8.945, de 2016).
 
-**Empresa pública**
+---------------
+Empresa pública
+---------------
 
   Tipo de empresa estatal cuja maioria do capital votante pertença diretamente à União e cujo capital social seja constituído de recursos provenientes exclusivamente do setor público (Inciso II do art. 2º do Decreto nº 8.945, de 2016).  
 
@@ -84,16 +86,17 @@ O Decreto-Lei nº 200, de 1967, modificado pela Lei nº 7.596, de 10 de abril de
 
 Conforme o inciso XIX do art. 37 da Constituição Federal de 1988, a instituição de fundação é autorizada por lei, cabendo à lei complementar a definição das áreas de atuação da fundação.
 
-De acordo com o STF (ADI nº 4.197 SE), a Fundação Estatal de Direito Privado é constitucional.
+De acordo com o STF (ADI nº 4.197 SE), a instituição de Fundação Estatal de Direito Privado pelo poder executivo é constitucional.
 
-Na figura abaixo há uma visualização idealizada dos tipos institucionais correlacionados com suas funções, tipo de atividade e área de atuação.
+Na figura abaixo há uma visualização **idealizada** dos tipos institucionais correlacionados com suas funções, seus tipos de atividade e suas áreas de atuação.
 
 .. figure:: ../_static/images/APF_direta_indireta.png
    :alt: Administracao direta e indireta
    :align: center
    :name: ADM_direta_indireta
 
-.. list-table::
+..
+  .. list-table::
    :header-rows: 1
    :widths: 18 22 22 22 16
    
@@ -134,13 +137,13 @@ Na figura abaixo há uma visualização idealizada dos tipos institucionais corr
      * Direito privado, CLT, regras próprias
 
 .. note::
-      Sobretudo por razões históricas, há na administração pública federal muitas atividades alocadas em tipos institucionais não adequados. Há atividades finalísticas da área social sendo executadas por ministérios ou por empresas estatais, atividades executadas por autarquias, mas que não demandam poderes próprios de Estado, etc. Essa desconformidade entre modelo institucional e função administrativa pode ter impacto negativo sobre o desempenho dessas entidades, já que impõe restrições e controles não adequados ao tipo de atividade realizada. Deve-se, portanto, buscar a adequação do modelo institucional aplicado a essas entidades.
+      Sobretudo por razões históricas, há na administração pública federal muitas atividades alocadas em tipos institucionais não adequados. Há atividades finalísticas da área social sendo executadas por ministérios ou por empresas estatais; atividades executadas por autarquias, mas que não demandam poderes próprios de Estado, etc. Essa desconformidade entre modelo institucional e função administrativa pode ter impacto negativo sobre o desempenho dessas entidades, já que impõe restrições e controles não adequados ao tipo de atividade realizada. Deve-se, portanto, buscar a adequação do modelo institucional aplicado a essas entidades.
 
 .. important::
 
-      A execução das políticas públicas não se dá exclusivamente por estruturas do Poder Executivo Federal. Algumas políticas públicas são descentralizadas para estados, municípios e Distrito Federal. E muitas políticas públicas importantes são implementadas por meio de parcerias entre o governo federal e entidades da sociedade civil (com ou sem fins lucrativos).
+      A execução das políticas públicas não se dá exclusivamente por estruturas do Poder Executivo Federal. Algumas políticas públicas são descentralizadas para estados, municípios e Distrito Federal. Além disso, muitas políticas públicas importantes são implementadas por meio de parcerias entre o governo federal e entidades da sociedade civil (com ou sem fins lucrativos).
 
-      Dessa forma, no momento de escolher uma forma de implementação, os gestores devem sempre considerar, além de estruturas estatais, as parcerias com a sociedade civil organizada.
+      Dessa forma, no momento de escolher uma forma de implementação, os gestores públicos devem sempre considerar, além de estruturas estatais, as parcerias com a sociedade civil organizada.
 
 
 Parcerias
