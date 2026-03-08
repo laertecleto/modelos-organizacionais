@@ -363,13 +363,19 @@ Cargos em comissão e funções de confiança temporários
 
 .. epigraph:: Exemplo
 
-   Art. 1º Ficam remanejados em caráter temporário, os seguintes Cargos Comissionados Executivos - CCE e Funções Comissionadas Executivas - FCE da Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos para o (órgão ou entidade):
+   *Art. 1º Ficam remanejados em caráter temporário, os seguintes Cargos Comissionados Executivos - CCE e Funções Comissionadas Executivas - FCE da Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos para o (órgão ou entidade):
+   
    - ..........
+   
    - .........   
+   
    § 1º Os cargos de que trata o caput:
+   
    I - destinam-se a ...
+   
    II - serão restituídos à Secretaria de Gestão e Inovação em (data completa de restituição, quando seus ocupantes ficarão automaticamente exonerados ou dispensados.
-   § 2º Os cargos referidos no caput não integrarão a Estrutura Regimental (ou Estatuto) do (órgão ou entidade) e os atos de nomeação ou designação relacionados terão seu caráter de transitoriedade expressos, mediante remissão ao caput do art. 1º.
+   
+   § 2º Os cargos referidos no caput não integrarão a Estrutura Regimental (ou Estatuto) do (órgão ou entidade) e os atos de nomeação ou designação relacionados terão seu caráter de transitoriedade expressos, mediante remissão ao caput do art. 1º.*
 
 
 .. [#] Lei nº 9.650, de 1998, art. 12, § 6º.
