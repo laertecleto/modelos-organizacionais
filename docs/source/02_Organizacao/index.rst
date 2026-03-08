@@ -87,7 +87,7 @@ Conforme o inciso XIX do art. 37 da Constituição Federal de 1988, a instituiç
 
 De acordo com o STF (ADI nº 4.197 SE), a instituição de Fundação Estatal de Direito Privado pelo poder executivo é constitucional.
 
-Na :numref:`_ADM_direta_indireta` há uma visualização **idealizada** dos tipos institucionais correlacionados com suas funções, seus tipos de atividade e suas áreas de atuação.
+Na :numref:`ADM-direta-indireta` há uma visualização **idealizada** dos tipos institucionais correlacionados com suas funções, seus tipos de atividade e suas áreas de atuação.
 
 .. _ADM-direta-indireta:
 .. figure:: ../_static/images/APF_direta_indireta.png
