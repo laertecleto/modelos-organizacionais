@@ -285,7 +285,7 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações associadas a 
 
 .. attention::
 
-   Em que pese haver casos em que a denominação se desvia daquelas listadas na figura, é importante que órgãos e entidade se atenham as denominações ali delimitadas, evitando a criação de outras denominações.
+   Em que pese haver casos em que a denominação se desvia daquelas listadas na figura, é importante que órgãos e entidade se atenham àquelas listadas na tabela, evitando a criação de outras denominações.
 
 .. _Denominacoes-CCE-FCE-label:
 .. figure:: ../_static/images/Denominacoes_CCE_FCE.png
@@ -305,6 +305,19 @@ O valor de um CCE-Unitário equivale ao valor da remuneração do cargo CCE de n
 
 O CCE-Unitário tem por objetivo facilitar o cálculo da despesa com cargos em comissão e funções de confiança quando da revisão ou aprovação das estruturas regimentais ou estatutos dos ministérios, órgãos e entidades. A finalidade do quadro resumo é demonstrar se houve ou não aumento de despesa na nova estrutura ou no novo estatuto aprovado, em comparação com os custos da estrutura até então vigente que será alterada.
 
+
+.. seealso::
+   
+   **Saiba mais sobre a transformação de cargos e funções**
+      A Lei nº 14.204, de 2021, autoriza o Poder Executivo federal a transformar cargos em comissão, funções de confiança e gratificações por meio de decreto.
+
+      Na prática, isso significa que é possível *criar* novos cargos e funções por meio da transformação daqueles existentes na estrutura da instituição demandante ou na reserva técnica da Secretaria de Gestão e Inovação, sem a edição de nova lei.
+
+      Essa transformação ocorre, necessariamente sem aumento de despesa. Assim a tabela que traz o demonstrativo dos cargos comissionados executivos – CCE e das funções comissionadas executivas – FCE transformados deve, obrigatoriamente, demonstrar o custo zero ou negativo, em CCE-unitários.
+
+      É interessante notar que essa tabela não demonstra o impacto orçamentário da reestruturação organizacional em si, que pode ser positivo. Nesse caso, a nova estrutura terá um custo em CCE-unitários superior à estrutura atual, demonstrado no quadro resumo de custos dos cargos em comissão e das funções de confiança do órgão ou entidade.
+
+      A tabela que demonstra as transformações necessárias à nova estrutura, nesse caso, incorporará cargos e funções vagos, disponíveis na chamada *reserva técnica*, de forma a demonstrar que não houve custo no ato da transformação. A consulta à reserva técnica é feita, atualmente, pela Secretaria de Gestão e Inovação, a quem cabe a construção da referida tabela.
 
 Outros cargos em comissão e funções de confiança
 ++++++++++++++++++++++++++++++++++++++++++++++++
