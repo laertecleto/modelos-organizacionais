@@ -55,7 +55,7 @@ Independentemente se órgão, autarquia ou fundação pública, a peça que mate
 
 A forma de organização dessa peça deve ser definida após um estudo interno sobre as alterações que serão necessárias na estrutura organizacional vigente (link para o site com as estruturas vigentes?), sempre considerando o alcance dos objetivos institucionais e a entrega de serviços públicos. Feita essa reflexão e o mapeamento das alterações que serão necessárias, a definição do tipo de decreto mais adequado dependerá do tipo de alteração almejada: 
 
-    1) **Alterações numerosas e significativas**, que demandam reestruturação completa da estrutura regimental ou estatuto.
+1) **Alterações numerosas e significativas**, que demandam reestruturação completa da estrutura regimental ou estatuto.
       **Indicação**: edição de decreto que aprova uma nova estrutura regimental ou estatuto. Falamos, aqui, numa substituição da norma existente, que será revogada. Assim, segue-se, de forma geral, a mesma organização do decreto vigente.
     
       **Organização sequencial padrão**: Epígrafe, ementa, preâmbulo (link para o Decreto n. 12.002, de 22 de abril de 2024) e texto principal contendo, resumidamente, os remanejamentos necessários à nova estrutura, regramentos específicos, revogação do decreto que trata da estrutura atual e, se for o caso, de outros que a alteraram, e data de vigência da nova estrutura (download de modelo);
@@ -70,13 +70,13 @@ A forma de organização dessa peça deve ser definida após um estudo interno s
 
        **Anexo IV**: com quadro demonstrativo dos cargos comissionados executivos – CCE e das funções comissionadas executivas - FCE, contendo as transformações de cargos e funções que serão necessárias à estrutura proposta. Esse anexo nem sempre é necessário e depende de alguns fatores, que você pode ler aqui (link).
 
-      .. warning::
+            .. warning::
 
-            A Diretoria de Modelos Organizacionais, da Seges, desenvolveu uma planilha que constrói automaticamente os anexos II e III, a partir do quadro demonstrativo dos cargos e funções. Essa mesma planilha informa também se a alteração implicará ou não impacto orçamentário.
+                  A Diretoria de Modelos Organizacionais, da Seges, desenvolveu uma planilha que constrói automaticamente os anexos II e III, a partir do quadro demonstrativo dos cargos e funções. Essa mesma planilha informa também se a alteração implicará ou não impacto orçamentário.
 
-            (Download, com passo a passo sobre a planilha?)
+                  (Download, com passo a passo sobre a planilha?)
 
-    2) **Alterações pontuais e simples**
+2) **Alterações pontuais e simples**
       **Indicação**: decreto que altera a atual estrutura regimental ou estatuto. 
 
       **Organização sequencial padrão**: epígrafe, ementa, preâmbulo, com texto principal e anexos dependentes das alterações propostas. 
@@ -112,7 +112,7 @@ A forma de organização dessa peça deve ser definida após um estudo interno s
 
                A divisão da norma em anexos é exclusivamente didática, sendo impossível dissociar as competências de uma unidade de sua estrutura de cargos e funções. Afinal, são a complexidade, a finalidade e a natureza da atuação de uma unidade que determinarão o desenho organizacional mais adequado para ela.
 
-    3) **Necessidades temporárias de cargos ou funções, para atendimento a necessidades emergenciais, transitórias ou estratégicas, por período certo e finalidade determinada.**
+3) **Necessidades temporárias de cargos ou funções, para atendimento a necessidades emergenciais, transitórias ou estratégicas, por período certo e finalidade determinada.**
        **Indicação**: decreto que remaneja, em caráter temporário, cargo em comissão ou função de confiança do Órgão Central de Administração, responsável pela reserva técnica de cargos em comissão e funções de confiança, para órgão e entidades.
 
        **Organização sequencial padrão**: Epígrafe, ementa, preâmbulo. O texto principal deve incluir, necessariamente:
@@ -127,7 +127,7 @@ A forma de organização dessa peça deve ser definida após um estudo interno s
       O texto principal abrange ainda: referência à transformação de cargos e funções (se houver), regramentos específicos (se houver), revogação de algum ato ou dispositivo normativo (se houver) e data de vigência (inserir modelo como exemplo).
 
 
-      *Anexo*: se houver transformações, deverá refletir o quadro demonstrativo dos cargos comissionados executivos - CCE e das funções comissionadas executivas - FCE, transformados. Esse anexo nem sempre é necessário e depende de alguns fatores, que você pode ler aqui.
+      **Anexo**: se houver transformações, deverá refletir o quadro demonstrativo dos cargos comissionados executivos - CCE e das funções comissionadas executivas - FCE, transformados. Esse anexo nem sempre é necessário e depende de alguns fatores, que você pode ler aqui.
 
 
 
