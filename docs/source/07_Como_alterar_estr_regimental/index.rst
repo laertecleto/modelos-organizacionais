@@ -188,16 +188,21 @@ No caso das estruturas, a divisão do texto que trata da estrutura regimental se
       Por padrão, abrange somente o art. 1º, que traz as competências do órgão:
       
       “Art. 1º  O [nome do órgão], órgão da administração pública federal direta, tem como área de competência os seguintes assuntos: 
+      
       [competências idênticas às constantes na lei que estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios]“
 
 .. admonition:: Capítulo II: DA ESTRUTURA ORGANIZACIONAL
 
       Por padrão, abrange somente o art. 2º, que traz a organização interna do órgão (uma descrição do organograma básico do órgão), dividida da seguinte forma:
-      
+
       I - órgãos de assistência direta e imediata ao Ministro de Estado (link): engloba todas as unidades de assessoria direta (começando pelo Gabinete do Ministro e seguindo com suas Assessorias Especiais), unidades setoriais (Ouvidoria, Corregedoria, Consultoria Jurídica) e a Secretaria-Executiva, com suas Subsecretarias.
+      
       II - órgãos específicos singulares: engloba as unidades finalísticas do órgão, ou seja, as Secretarias e suas Diretorias ou Departamentos.
+      
       III – unidades descentralizadas (se houver): engloba todas as unidades situadas em município distinto ao da sede do órgão.
+      
       IV – órgãos colegiados (se houver): engloba colegiados criados por lei, sob responsabilidade do órgão.
+      
       V – entidades vinculadas (se houver): engloba autarquias, fundações públicas e empresas públicas vinculadas ao órgão.
 
 Exemplo simplificado
@@ -207,3 +212,56 @@ Exemplo simplificado
    :alt: Organograma
    :align: center
    :name: Organograma
+
+.. admonition:: Capítulo III: DAS COMPETÊNCIAS DOS ÓRGÃOS
+
+      Esse capítulo descreve as competências de todas as unidades organizacionais elencadas no art. 2º, na exata ordem que lá aparecem. Para cada grupo de unidades, haverá uma Seção específica. E para cada unidade organizacional, haverá um artigo.
+
+.. note::
+
+   A redação de competências segue regras e boas práticas gerais, definidas a partir no Decreto n. 12.002, de 22 de abril de 2024.
+
+   Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas específicas e, em alguns casos, a redação de suas competências foi padronizada pelo órgão central do sistema.
+
+Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com status ministerial, conforme lei que estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios, começaremos o Capítulo III por ele.
+
+Assim:
+
+“**Seção I**
+
+**Dos órgãos de assistência direta e imediata ao Ministro de Estado X**
+
+Art. 3º  Ao Gabinete compete:
+
+I - xxx”
+
+.. hint::
+   
+      Alterações pontuais de competências de unidades existentes serão feitas na forma de substituição do texto vigente. Por exemplo:
+
+            "Art. 3º  O Anexo I ao Decreto nº [número do decreto com a estrutura vigente, com data], passa a vigorar com as seguintes alterações:
+
+            “Art. 12.  .....................................................................................
+            
+            II - supervisionar, no âmbito do Ministério, as atividades de modernização administrativa;
+            ..........................................................................................................” (NR)
+
+      Alterações pontuais que visem a criação de nova unidade serão feitas na forma de inserção de artigo, na ordem definida pela nova organização prevista no art. 2º.
+
+      No exemplo de criação de nova unidade denominada Subsecretaria de Gestão Administrativa, subordinada à já existente Secretaria-Executiva, altera-se o art. 2º e inclui-se suas competências logo após as atualmente descritas para a Secretaria-Executiva (art. 12):
+
+            "Art. 3º  O Anexo I ao Decreto nº [número do decreto com a estrutura vigente, com data], passa a vigorar com as seguintes alterações:
+
+            “Art. 2º  .......................................................................................................
+            I - .................................................................................................................
+
+            j) Secretaria-Executiva: Subsecretaria de Gestão Administrativa;
+            .....................................................................................................” (NR)
+
+            “Art. 12-A  À Subsecretaria de Gestão Administrativa compete:
+
+            I - assistir o Ministro de Estado na definição de diretrizes, na supervisão e na coordenação das atividades das Secretarias integrantes da estrutura do Ministério; e
+
+            II - supervisionar, no âmbito do Ministério, as atividades de modernização administrativa."
+
+      Nesse segundo exemplo, o quadro demonstrativo de cargos e funções (Anexo II) também é substituído, com inclusão de novo bloco de cargos e funções (link).
