@@ -130,7 +130,11 @@ A forma de organização dessa peça deve ser definida após um estudo interno s
       **Anexo**: se houver transformações, deverá refletir o quadro demonstrativo dos cargos comissionados executivos - CCE e das funções comissionadas executivas - FCE, transformados. Esse anexo nem sempre é necessário e depende de alguns fatores, que você pode ler aqui.
 
 
-
+.. Tipodecreto-label:
+.. figure:: ../_static/images/Fig 1_tipos de decreto.png
+   :alt: Tipos de decreto
+   :align: center
+   :name: Tipodecreto
 
 
 
