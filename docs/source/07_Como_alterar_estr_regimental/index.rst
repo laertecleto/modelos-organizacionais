@@ -441,9 +441,10 @@ São aquelas unidades que executam atividades comuns a todos os órgãos, sob co
 
             Sobre as competências: necessariamente descritas em Decreto, definidas pelo art. 10 do Decreto nº 9.492, de 2018.
 
-.. admonition:: Outras informações
+            .. admonition:: Outras informações
 
-   A nomeação, a designação, a exoneração ou a dispensa dos titulares das unidades setoriais do Sistema de Ouvidoria do Poder Executivo federal será submetida, pelo dirigente máximo do órgão ou da entidade, à aprovação da Controladoria-Geral da União.
+                  A nomeação, a designação, a exoneração ou a dispensa dos titulares das unidades setoriais do Sistema de Ouvidoria do Poder Executivo federal será submetida, pelo dirigente máximo do órgão ou da entidade, à aprovação da Controladoria-Geral da União.
+
 
       *Corregedoria*
 
@@ -459,9 +460,9 @@ São aquelas unidades que executam atividades comuns a todos os órgãos, sob co
 
             Sobre as competências: necessariamente descritas em Decreto, definidas pelo art. 5º do Decreto nº 5.480, de 2005.
 
-.. admonition:: Outras informações
+            .. admonition:: Outras informações
 
-   A indicação dos titulares das unidades setoriais de correição será submetida previamente à apreciação do Órgão Central do Sistema de Correição.  Os critérios para nomeação ou designação são definidos pelo art. 8º do Decreto nº 5.480, de 2005.
+                  A indicação dos titulares das unidades setoriais de correição será submetida previamente à apreciação do Órgão Central do Sistema de Correição.  Os critérios para nomeação ou designação são definidos pelo art. 8º do Decreto nº 5.480, de 2005.
 
 **e) Consultoria Jurídica**
 
@@ -485,19 +486,19 @@ As Consultorias Jurídicas junto aos Ministérios são órgãos de execução da
 
       Sistemas estruturadores usualmente associados:
 
-            Sistema de Planejamento e de Orçamento Federal,
+            * Sistema de Planejamento e de Orçamento Federal,
 
-            Sistema de Administração Financeira Federal,
+            * Sistema de Administração Financeira Federal,
 
-            Sistema de Organização e Inovação Institucional - SIORG,
+            * Sistema de Organização e Inovação Institucional - SIORG,
 
-            Sistema de Gestão de Documentos de Arquivo - SIGA,
+            * Sistema de Gestão de Documentos de Arquivo - SIGA,
 
-            Sistemas de Pessoal Civil da Administração Federal - SIPEC,
+            * Sistemas de Pessoal Civil da Administração Federal - SIPEC,
 
-            Sistema de Serviços Gerais - SISG
+            * Sistema de Serviços Gerais - SISG
 
-            Sistema de Contabilidade Federal 
+            * Sistema de Contabilidade Federal 
 
 Sobre as competências: necessariamente descritas em Decreto.
 
@@ -515,7 +516,7 @@ Caso o órgão integre o Centro de Serviços Compartilhados Colaboragov, a Secre
 
 Regras específicas sobre a estrutura de cargos e funções que compõem a Secretaria-Executiva:
 
-      1.Foi convencionado que todos os Secretários-Executivos contarão com um Secretário-Executivo Adjunto, CCE ou FCE, de código 1.17.
+      1. Foi convencionado que todos os Secretários-Executivos contarão com um Secretário-Executivo Adjunto, CCE ou FCE, de código 1.17.
 
       2. A Secretaria-Executiva é usualmente estruturada em Subsecretarias (chefiadas por um Subsecretário, ocupante de CCE ou FCE, de código 1.15 ou 1.16), com competências e estrutura delimitadas em decreto. Aqueles órgãos que aderiram ao Centro de Serviços Compartilhados Colaboragov, costumam contar, em suas estruturas, com uma única unidade voltada à gestão das atividades dos sistemas estruturadores acima mencionados (uma Diretoria de Gestão e Administração ou uma Subsecretaria de Administração).
 
