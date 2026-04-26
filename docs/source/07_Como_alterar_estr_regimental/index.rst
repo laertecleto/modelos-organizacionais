@@ -131,7 +131,7 @@ A forma de organização dessa peça deve ser definida após um estudo interno s
 
 
 .. Tipodecreto-label:
-.. figure:: ../_static/images/Fig 1_tipos de decreto.png
+.. figure:: ../_static/images/Fig1_tipos_de_decreto.png
    :alt: Tipos de decreto
    :align: center
    :name: Tipodecreto
