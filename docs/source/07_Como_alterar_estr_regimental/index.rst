@@ -183,19 +183,17 @@ A organização do Anexo I segue os princípios definidos pelo Decreto n. 12.002
 
 No caso das estruturas, a divisão do texto que trata da estrutura regimental segue a seguinte lógica:
 
-.. admonition::
+.. admonition:: Capítulo I: DA NATUREZA E DA COMPETÊNCIA
 
-      Capítulo I: DA NATUREZA E DA COMPETÊNCIA
       Por padrão, abrange somente o art. 1º, que traz as competências do órgão:
       
       “Art. 1º  O [nome do órgão], órgão da administração pública federal direta, tem como área de competência os seguintes assuntos: 
       [competências idênticas às constantes na lei que estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios]“
 
-.. admonition::
-
-      Capítulo II: DA ESTRUTURA ORGANIZACIONAL
+.. admonition:: Capítulo II: DA ESTRUTURA ORGANIZACIONAL
 
       Por padrão, abrange somente o art. 2º, que traz a organização interna do órgão (uma descrição do organograma básico do órgão), dividida da seguinte forma:
+      
       I - órgãos de assistência direta e imediata ao Ministro de Estado (link): engloba todas as unidades de assessoria direta (começando pelo Gabinete do Ministro e seguindo com suas Assessorias Especiais), unidades setoriais (Ouvidoria, Corregedoria, Consultoria Jurídica) e a Secretaria-Executiva, com suas Subsecretarias.
       II - órgãos específicos singulares: engloba as unidades finalísticas do órgão, ou seja, as Secretarias e suas Diretorias ou Departamentos.
       III – unidades descentralizadas (se houver): engloba todas as unidades situadas em município distinto ao da sede do órgão.
