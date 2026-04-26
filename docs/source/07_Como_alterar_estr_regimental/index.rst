@@ -252,11 +252,12 @@ I - xxx”
 
             "Art. 3º  O Anexo I ao Decreto nº [número do decreto com a estrutura vigente, com data], passa a vigorar com as seguintes alterações:
 
-            “Art. 2º  .......................................................................................................
-            I - .................................................................................................................
+            “Art. 2º  .......................................
+
+            I - ..............................................................
 
             j) Secretaria-Executiva: Subsecretaria de Gestão Administrativa;
-            .....................................................................................................” (NR)
+            ...................................................................................” (NR)
 
             “Art. 12-A  À Subsecretaria de Gestão Administrativa compete:
 
@@ -265,3 +266,26 @@ I - xxx”
             II - supervisionar, no âmbito do Ministério, as atividades de modernização administrativa."
 
       Nesse segundo exemplo, o quadro demonstrativo de cargos e funções (Anexo II) também é substituído, com inclusão de novo bloco de cargos e funções (link).
+
+.. admonition:: Capítulo IV: DAS ATRIBUIÇÕES DOS DIRIGENTES
+
+      Esse capítulo define XXXX.
+
+Alteração do quadro demonstrativo dos cargos em comissão e das funções comissionadas (Anexo II a)
+-------------------------------------------------------------------------------------------------
+
+O quadro demonstrativo de cargos é um resumo do organograma do órgão que foi descrito no art. 2º do Anexo I, representado por uma tabela. A fim de facilitar as consultas aos decretos vigentes, convencionou-se substituir esse quadro por inteiro sempre que sofre alterações.
+
+Essa tabela é formada por quatro colunas e traz todos os cargos em comissão e as funções comissionadas de que o órgão dispõe, representados por códigos.
+
+.. AnexoIIA-label:
+.. figure:: ../_static/images/Fig3a_anexoiia.png
+   :alt: AnexoIIA
+   :align: center
+   :name: Anexo II a
+
+.. codigoccefce-label:
+.. figure:: ../_static/images/Fig3_codigo.png
+   :alt: Codigo_CCE_FCE
+   :align: center
+   :name: Código CCE FCE
