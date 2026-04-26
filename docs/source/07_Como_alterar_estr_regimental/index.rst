@@ -205,7 +205,7 @@ No caso das estruturas, a divisão do texto que trata da estrutura regimental se
 Exemplo simplificado
 
 .. Organograma-label:
-.. figure:: ../_static/images/Fig2_Organograma Ministério.png
+.. figure:: ../_static/images/Fig2_Organograma_Ministerio.png
    :alt: Organograma
    :align: center
    :name: Organograma
