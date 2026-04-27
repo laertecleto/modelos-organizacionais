@@ -523,3 +523,60 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 .. admonition:: Outras informações
 
    Cabe ao Secretário-Executivo exercer a função de substituto do Ministro de Estado, conforme disposto no Decreto nº 8.851, de 20 de setembro de 2016.
+
+**g) Órgãos específicos singulares**
+
+      *I - Secretarias*
+
+      Unidade obrigatória: ao menos uma, no limite da quantidade eventualmente estabelecida na Lei que estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios.
+
+      Nomenclatura permite complemento: sim, necessariamente
+
+      Sobre o titular: Secretário, CCE ou FCE, necessariamente de código 1.17. 
+
+      Sobre as competências: necessariamente descritas em Decreto.
+
+      As Secretarias devem ser organizadas de forma que o órgão seja capaz de exercer todas as competências definidas na Lei que estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios. Por regra, uma Secretaria é responsável por uma ou mais das competências atribuídas ao órgão.
+
+      Regras específicas sobre a estrutura de cargos e funções que compõem as Secretarias:
+
+      1. As Secretarias usualmente contam com um Gabinete (chefiado por um Chefe de Gabinete, ocupante de CCE ou FCE de código 1.13 ou 1.14, sem competências ou estrutura discriminada em Decreto) e um Secretário-Adjunto, de código 1.15 ou 1.16.
+
+      2. Às Secretarias se subordinam Diretorias ou Departamentos, responsáveis por executar as atividades, políticas e programas planejadas no âmbito da Secretaria.
+
+      3. É possível estruturar uma ou mais unidades de nível 14 ou menor para atuação na assistência direta ao Secretário. No entanto, sugere-se cautela nessa medida, a fim de manter a racionalidade do desenho organizacional da unidade, evitando sobreposição à atuação dos Departamentos e Diretorias. 
+
+
+      *II - Departamentos e Diretorias*
+
+      Unidade obrigatória: não
+
+      Nomenclatura permite complemento: sim, necessariamente.
+
+      Sobre o titular: Diretor, CCE ou FCE, código 1.15 ou 1.16, a depender do volume processos e pessoal subordinado, e da complexidade da atuação.
+
+      Sobre as competências: necessariamente descritas em Decreto ?????.
+
+      Os Departamentos ou Diretorias devem ser organizados de forma a dar concretude às competências da Secretaria a qual estejam subordinadas. Nesse sentido, suas competências devem, necessariamente ser desdobramentos daquelas da Secretaria.
+
+      Regras específicas sobre a estrutura de cargos e funções que compõem as Diretorias e Departamentos:
+
+      1. Não é desejável a estruturação de gabinete em Diretorias e Departamentos.
+
+      2. Às Diretorias e Departamentos podem se subordinar todas as unidades e cargos e funções de nível inferior àquele atribuído ao Diretor, à exceção das unidades reservadas à assessoria direta e imediata ao Ministro.
+
+      3. Todas as unidades, cargos e funções subordinados às Diretorias e Departamentos comporão um único bloco, organizando-se conforme regras associadas ao Quadro demonstrativo dos cargos em comissão e das funções comissionadas. 
+
+
+      *III - Outras Unidades*
+
+      Unidades obrigatórias: não
+
+      Nomenclatura permite complemento: não
+
+      Sobre o titular: conforme tabela
+
+      Sobre as competências: não constam em Decreto, mas precisam ser inseridas no sistema informatizado Siorg.
+
+      Regra específica sobre a estrutura de cargos e funções que compõem as demais unidades: devem ser agrupados, abaixo da Diretoria ou Departamento superior, conforme regras associadas ao Quadro demonstrativo dos cargos em comissão e das funções comissionadas.
+
