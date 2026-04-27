@@ -524,6 +524,7 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 
    Cabe ao Secretário-Executivo exercer a função de substituto do Ministro de Estado, conforme disposto no Decreto nº 8.851, de 20 de setembro de 2016.
 
+
 **g) Órgãos específicos singulares**
 
       *I - Secretarias*
@@ -580,3 +581,21 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 
       Regra específica sobre a estrutura de cargos e funções que compõem as demais unidades: devem ser agrupados, abaixo da Diretoria ou Departamento superior, conforme regras associadas ao Quadro demonstrativo dos cargos em comissão e das funções comissionadas.
 
+
+      *IV - Unidades descentralizadas*
+
+      O termo se refere à descentralização física, ou seja, às unidades do órgão situadas em município diferente do da sede e que executam ações em nível local.
+
+      Unidades obrigatórias: não
+
+      Sobre a nomenclatura da unidade: definida conforme atuação.
+
+      São exemplos comuns as Superintendências Federais.
+
+      Sobre o titular: nomenclatura definida conforme nomenclatura da unidade.
+
+      Por exemplo: Superintendente
+
+.. warning::
+
+   Na definição da nomenclatura da unidade descentralizada, não devem ser utilizadas as seguintes denominações: “Secretaria”; “Gabinete”; “Secretaria-Executiva”; “Secretaria de Controle Interno”; “Departamento”; “Diretoria” e “Coordenação-Geral”.
