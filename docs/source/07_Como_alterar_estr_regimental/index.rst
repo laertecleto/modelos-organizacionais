@@ -599,3 +599,150 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 .. warning::
 
    Na definição da nomenclatura da unidade descentralizada, não devem ser utilizadas as seguintes denominações: “Secretaria”; “Gabinete”; “Secretaria-Executiva”; “Secretaria de Controle Interno”; “Departamento”; “Diretoria” e “Coordenação-Geral”.
+
+
+
+      O titular será ocupante de CCE ou FCE de categoria 1, com nível definido pelo órgão, conforme volume de processos e pessoas alocadas, e nível de complexidade.
+
+      Sobre as competências: necessariamente descritas em Decreto, em seção própria, independentemente da subordinação. Esta deve constar no caput do artigo específico.
+
+      Por exemplo:
+
+            “Seção III
+
+            Das unidades descentralizadas
+
+            Art. xx.  Às Superintendências Federais, supervisionadas pela [*nome da unidade*], compete executar:
+
+            I - ...”
+
+
+      Regras específicas sobre a estrutura de cargos e funções que compõem as unidades descentralizadas:
+
+            1. As unidades descentralizadas são inseridas de forma agrupada, por unidade superior, em um único bloco de cargos e funções, organizado conforme regras associadas ao Quadro demonstrativo dos cargos em comissão e das funções comissionadas. Essa regra é válida também quando há variação dos níveis dos titulares entre unidades de mesma nomenclatura.
+
+            2. Às unidades descentralizadas podem se subordinar todas as unidades e cargos e funções de nível inferior àquele atribuído aos titulares.
+
+
+**ATENÇÃO: incluir figura aqui**
+
+
+
+**h) Órgãos colegiados:**
+ 
+      Os órgãos colegiados são os órgãos integrados por mais de uma autoridade, nos quais a decisão é tomada de forma coletiva, com o aproveitamento de experiências diferenciadas. Seus representantes podem ser originários do setor público, do setor privado ou da sociedade civil, segundo a natureza da representação. São conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões etc. 
+
+      Alguns órgãos ou entidades do Poder Executivo federal dispõem, dentro de seu sistema de governança organizacional, de órgãos colegiados de caráter deliberativo, consultivo ou judicante, criados com o propósito de contribuir para o processo decisório institucional de condução de determinada política pública. Esses colegiados participam das decisões sobre os rumos das políticas e não sobre questões de gestão interna dos órgãos aos quais se vinculam.
+
+      Esses órgãos, embora previstos na estrutura organizacional, não dispõem de estrutura interna de cargos, e se constituem por representantes de órgãos e entidades do Poder Público e, em alguns casos, também de entidades privadas (composição pluripessoal). Seus membros não detêm cargos pela participação no conselho e não recebem remuneração de qualquer natureza por essa função. Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior do órgão ou entidade ao qual ele está subordinado. 
+
+      A criação de colegiados, a ser tratada em ato normativo à parte do decreto de estrutura regimental ou estatuto, deve observar os critérios estabelecidos no Capítulo VI do Decreto nº 12.002, de 2024.
+
+
+**i) Entidades vinculadas:**
+
+            xxxxx
+
+
+**j) Estruturas atípicas:**
+
+      I. Procuradoria-Geral da Fazenda Nacional
+
+            Unidade prevista exclusivamente no Ministério da Fazenda
+
+            Sobre o titular: Procurador-Geral, necessariamente de código CCE 1.18.
+
+            Sobre as competências: necessariamente descritas em Decreto, definidas pelo art. 12 da Lei Complementar nº 73, de 10 de fevereiro de 1993.
+
+            A Procuradoria-Geral da Fazenda Nacional é órgão de direção da Advocacia-Geral da União. Integra a estrutura organizacional do Ministério da Fazenda, sendo subordinada administrativamente ao Ministro da pasta, mas, nos aspectos técnico e jurídico, subordina-se ao Advogado-Geral da União.
+
+            Por outro lado, são órgãos de execução da Advocacia-Geral da União, que também devem ser previstos na estrutura do Ministério da Fazenda:
+
+            * as Procuradorias Regionais da Fazenda Nacional; e
+
+            * as Procuradorias da Fazenda Nacional nos Estados e no Distrito Federal e as Procuradorias Seccionais destas.
+
+      II. Secretaria de Controle Interno
+
+            Unidade prevista somente na Casa Civil, na Advocacia-Geral da União, no Ministério das Relações Exteriores e no Ministério da Defesa.
+
+            Sobre o titular: Secretário, necessariamente de código FCE 1.15.
+
+            Sistema estruturador associado: Sistema de Controle Interno do Poder Executivo Federal, instituído pelo Decreto nº 3.591, de 2000.
+
+            Órgão central do sistema: Controladoria-Geral da União.
+
+            Sobre as competências: necessariamente descritas em Decreto, definidas pelo art. 12 do Decreto nº 3.591, de 2000.
+
+      III. Secretaria-Geral
+
+            Unidade prevista somente no Ministério das Relações Exteriores e no Ministério da Defesa.
+
+            Sobre o titular: Secretário-Geral, necessariamente de código CCE 1.18.
+
+            Sobre as competências: necessariamente descritas em Decreto.
+
+            Diferentemente dos demais órgãos da administração direta, nos quais o Ministro exerce a representação política e a direção central das unidades internas, no MRE e no MD, essa segunda função é mediada pelo Secretário-Geral.
+
+            Assim, a Secretaria-Geral recebe discriminação específica no art. 2º do Anexo I, com estrutura própria de assessoria direta, que atua também como autoridade hierárquica superior aos órgãos singulares:
+
+                  "Art. 2º  ...
+
+                        [estrutura específica do órgão, incluindo quanto aos órgãos de assessoria direta e imediata ao Ministro]
+
+                        II - órgão central de direção: Secretaria-Geral;
+
+                        III - órgãos de assessoria ao Secretário-Geral:
+
+                        a) Gabinete do Secretário-Geral;
+
+                        b) Órgão setorial I;
+
+                        (...)
+
+                        g) Órgão específico singular I:
+
+                        1. Departamento;
+
+                        2. Departamento;
+
+                        (...)"
+
+            Essa organização se reflete também na descrição das competências, onde as competências da Secretaria Geral constam em seção específica - denominada "Do órgão central de direção" -, assim como a dos órgãos de assessoria direta:
+
+                  "CAPÍTULO III
+
+                  DAS COMPETÊNCIAS DOS ÓRGÃOS
+
+                  Seção I
+
+                  Dos órgãos de assistência direta e imediata ao Ministro
+
+                  (...)
+
+                  Seção II
+
+                  Do órgão central de direção
+
+                        Art. 10.  À Secretaria-Geral compete:
+
+                        (...)
+
+                  Seção III
+
+                  Dos órgãos de assessoria ao Secretário-Geral
+
+                        Art. 11.  Ao Gabinete do Secretário-Geral compete:
+
+                        (...)"
+
+
+**k) Outras regras a serem observadas**
+
+      * Não deve haver unidades administrativas denominadas “Presidência”, “Vice-Presidência, “Diretoria-Adjunta”, “Direção”, “Chefia” e outras análogas.
+
+      * Deve ser evitado o uso da denominação “Secretaria Executiva” para unidade diversa do previsto no art. 55 da Lei nº 13.844, de 2019. 
+
+      * Evitar a divisão vertical da estrutura organizacional em mais de quatro níveis hierárquicos (isso vai ficar???) (a contar da unidade DAS/FCPE nível 6 ou, na ausência deste, a contar da unidade de nível imediatamente inferior, no caso dos Ministérios e Órgãos da Presidência da República, e a contar do nível 5 no caso das autarquias e fundações), conforme as figuras abaixo, para agilizar a tomada de decisão e reduzir a necessidade de ajustes no curto prazo nos níveis mais baixos. Esta diretriz não se aplica às unidades descentralizadas e nem às Funções Gratificadas.
+
+      * Evitar a existência ou criação de unidades administrativas com menos de sete profissionais, para aumentar a amplitude de comando e reduzir a fragmentação organizacional.
