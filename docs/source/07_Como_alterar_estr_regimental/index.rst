@@ -423,7 +423,8 @@ São Assessorias típicas:
 
    O uso da denominação “Assessoria” para designar uma unidade é restrita àquela de assistência direta e imediata Ministro de Estado – a existência de assessores não implica a constituição de unidade administrativa desse tipo.
 
-**d) Órgãos setoriais**
+Órgãos setoriais
+++++++++++++++++
 
 São aquelas unidades que executam atividades comuns a todos os órgãos, sob coordenação de um órgão central, formando um sistema estruturador. 
 
@@ -464,19 +465,20 @@ São aquelas unidades que executam atividades comuns a todos os órgãos, sob co
 
                   A indicação dos titulares das unidades setoriais de correição será submetida previamente à apreciação do Órgão Central do Sistema de Correição.  Os critérios para nomeação ou designação são definidos pelo art. 8º do Decreto nº 5.480, de 2005.
 
-**e) Consultoria Jurídica**
+      *Consultoria Jurídica*
 
-      Unidade obrigatória: sim
+            Unidade obrigatória: sim
 
-      Nomenclatura permite complemento: não
+            Nomenclatura permite complemento: não
 
-      Sobre o titular: Consultor Jurídico, necessariamente FCE, usualmente de código 1.15. 
+            Sobre o titular: Consultor Jurídico, necessariamente FCE, usualmente de código 1.15. 
 
-      Sobre as competências: necessariamente descritas em Decreto, definidas pelo art. 11 da Lei Complementar nº 73, de 10 de fevereiro de 1993.
+            Sobre as competências: necessariamente descritas em Decreto, definidas pelo art. 11 da Lei Complementar nº 73, de 10 de fevereiro de 1993.
 
-As Consultorias Jurídicas junto aos Ministérios são órgãos de execução da Consultoria-Geral da União (da Advocacia-Geral da União). Integram a estrutura organizacional dos respectivos Ministérios, sendo subordinadas administrativamente ao Ministro, mas nos aspectos técnico e jurídico, subordinam-se ao Consultor-Geral da União e ao Advogado-Geral da União.
+            As Consultorias Jurídicas junto aos Ministérios são órgãos de execução da Consultoria-Geral da União (da Advocacia-Geral da União). Integram a estrutura organizacional dos respectivos Ministérios, sendo subordinadas administrativamente ao Ministro, mas nos aspectos técnico e jurídico, subordinam-se ao Consultor-Geral da União e ao Advogado-Geral da União.
 
-**f) Secretaria-Executiva**
+Secretaria-Executiva
+++++++++++++++++++++
 
       Unidade obrigatória: sim
 
@@ -525,7 +527,8 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
    Cabe ao Secretário-Executivo exercer a função de substituto do Ministro de Estado, conforme disposto no Decreto nº 8.851, de 20 de setembro de 2016.
 
 
-**g) Órgãos específicos singulares**
+Órgãos específicos singulares
++++++++++++++++++++++++++++++
 
       *I - Secretarias*
 
@@ -628,7 +631,8 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 
 
 
-**h) Órgãos colegiados:**
+Órgãos colegiados
++++++++++++++++++
  
       Os órgãos colegiados são os órgãos integrados por mais de uma autoridade, nos quais a decisão é tomada de forma coletiva, com o aproveitamento de experiências diferenciadas. Seus representantes podem ser originários do setor público, do setor privado ou da sociedade civil, segundo a natureza da representação. São conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões etc. 
 
@@ -639,12 +643,14 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
       A criação de colegiados, a ser tratada em ato normativo à parte do decreto de estrutura regimental ou estatuto, deve observar os critérios estabelecidos no Capítulo VI do Decreto nº 12.002, de 2024.
 
 
-**i) Entidades vinculadas:**
+Entidades vinculadas
+++++++++++++++++++++
 
             xxxxx
 
 
-**j) Estruturas atípicas:**
+Estruturas atípicas
++++++++++++++++++++
 
       I. Procuradoria-Geral da Fazenda Nacional
 
@@ -737,12 +743,23 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
                         (...)"
 
 
-**k) Outras regras a serem observadas**
+Outras regras a serem observadas
+++++++++++++++++++++++++++++++++
 
-      * Não deve haver unidades administrativas denominadas “Presidência”, “Vice-Presidência, “Diretoria-Adjunta”, “Direção”, “Chefia” e outras análogas.
+* Não deve haver unidades administrativas denominadas “Presidência”, “Vice-Presidência, “Diretoria-Adjunta”, “Direção”, “Chefia” e outras análogas.
 
-      * Deve ser evitado o uso da denominação “Secretaria Executiva” para unidade diversa do previsto no art. 55 da Lei nº 13.844, de 2019. 
+* Deve ser evitado o uso da denominação “Secretaria Executiva” para unidade diversa do previsto no art. 55 da Lei nº 13.844, de 2019. 
 
-      * Evitar a divisão vertical da estrutura organizacional em mais de quatro níveis hierárquicos (isso vai ficar???) (a contar da unidade DAS/FCPE nível 6 ou, na ausência deste, a contar da unidade de nível imediatamente inferior, no caso dos Ministérios e Órgãos da Presidência da República, e a contar do nível 5 no caso das autarquias e fundações), conforme as figuras abaixo, para agilizar a tomada de decisão e reduzir a necessidade de ajustes no curto prazo nos níveis mais baixos. Esta diretriz não se aplica às unidades descentralizadas e nem às Funções Gratificadas.
+* Evitar a divisão vertical da estrutura organizacional em mais de quatro níveis hierárquicos (isso vai ficar???) (a contar da unidade DAS/FCPE nível 6 ou, na ausência deste, a contar da unidade de nível imediatamente inferior, no caso dos Ministérios e Órgãos da Presidência da República, e a contar do nível 5 no caso das autarquias e fundações), conforme as figuras abaixo, para agilizar a tomada de decisão e reduzir a necessidade de ajustes no curto prazo nos níveis mais baixos. Esta diretriz não se aplica às unidades descentralizadas e nem às Funções Gratificadas.
 
-      * Evitar a existência ou criação de unidades administrativas com menos de sete profissionais, para aumentar a amplitude de comando e reduzir a fragmentação organizacional.
+* Evitar a existência ou criação de unidades administrativas com menos de sete profissionais, para aumentar a amplitude de comando e reduzir a fragmentação organizacional.
+
+
+DEMAIS TABELAS QUE COMPÕEM UM DECRETO DE ESTRUTURA REGIMENTAL
+-------------------------------------------------------------
+
+1. Quadro resumo de custos dos cargos em comissão e das funções de confiança (Anexo IIb)
+
+O Quadro resumo de custos informa o tamanho da estrutura organizacional de um órgão ou entidade em CCE-unitários. Quando a estrutura está sendo alterada, esse quadro passa a demonstrar a situação nova em relação à situação atual. Tal quadro agrega os cargos e funções de mesmo código, mostrando seu somatório. 
+
+Exemplo:
