@@ -994,3 +994,103 @@ Alteração de estrutura regimental de autarquias e de estatuto de fundações p
       Foi convencionado que o Gabinete da autoridade máxima constitui-se como unidade obrigatória também das entidades, de forma que começaremos o Capítulo III por ele.
 
       Assim:
+
+      .. epigraph::
+
+            “**Seção I**
+
+            **Dos órgãos de assistência direta e imediata ao [nome do cargo da autoridade máxima]**
+
+            Art. 3º  Ao Gabinete compete:
+
+            I - xxx”
+
+
+      .. hint::
+
+            Alterações pontuais de competências de unidades existentes serão feitas na forma de substituição do texto vigente. Por exemplo:
+
+                  "Art. 3º  O Anexo I ao Decreto nº [número do decreto com a estrutura vigente, com data], passa a vigorar com as seguintes alterações:
+
+                  “Art. 12.  ...................................................................................................
+
+                  II - supervisionar, no âmbito da [nome das autarquia ou fundação pública], as atividades de modernização administrativa;
+                  ......................................................” (NR)
+
+            Alterações pontuais que visem a criação de nova unidade serão feitas na forma de inserção de artigo, na ordem definida pela nova organização prevista no art. 2º.
+
+            No exemplo de criação de nova unidade denominada Diretoria de Gestão Administrativa, como novo órgão seccional, altera-se o art. 2º e inclui-se suas competências na ordem estabelecida:
+
+                  "Art. 3º  O Anexo I ao Decreto nº [número do decreto com a estrutura vigente, com data], passa a vigorar com as seguintes alterações:
+
+                  “Art. 2º  ....................................................................
+
+                  II - .......................................................................
+
+                  e) Diretoria de Gestão Administrativa;
+
+                  ...........................................................................” (NR)
+
+                  “Art. 12-A  À Diretoria de Gestão Administrativa compete:
+
+                  I - assistir o Presidente na definição de diretrizes, na supervisão e na coordenação das atividades das Diretorias integrantes da estrutura da [nome da autarquia ou fundação pública]; e
+
+                  II - supervisionar, no âmbito da [nome da autarquia ou fundação pública], as atividades de modernização administrativa."
+
+ 
+            Nesse segundo exemplo, o quadro demonstrativo de cargos e funções (Anexo II) também é substituído, com inclusão de novo bloco de cargos e funções (link).
+
+
+      - **Capítulo V: DAS ATRIBUIÇÕES DOS DIRIGENTES**
+
+      Esse capítulo descreve as competências da autoridade máxima da entidade e dos cargos de chefia de todas as unidades organizacionais elencadas no capítulo que trata “Da Estrutura Organizacional” (em regra, Capítulo II), na exata ordem em que lá aparecem. 
+
+      Adota-se seções específicas, com um artigo cada, para tratar, separada e respectivamente, das competências da autoridade máxima, do Diretor-Executivo ou equivalente e dos demais dirigentes.
+
+      .. epigraph::Exemplo
+
+            “**CAPÍTULO V**
+
+            **DAS ATRIBUIÇÕES DOS DIRIGENTES**
+
+            **Seção I**
+
+            **Do Presidente da [nome da entidade por extenso]**
+
+            Art. X.  Ao Presidente da [nome da entidade por extenso] incumbe:
+
+            I - xxx;
+
+            II - xxx; e
+
+            III - xxx.
+
+
+            **Seção II**
+
+            **Do Diretor-Executivo [ou equivalente]**
+
+            Art. X.  Ao Diretor-Executivo incumbe:
+
+            I - xxx;
+
+            II - xxx; e
+
+            III - xxx. 
+
+            **Seção III**
+
+            **Dos demais dirigentes**
+
+            Art. X.  Aos Diretores, ao Procurador-Chefe, ao Auditor- Chefe, ao Corregedor, ao Ouvidor, ao Chefe de Gabinete e aos demais dirigentes incumbe planejar, dirigir, coordenar e orientar a execução das atividades de suas unidades e exercer outras atribuições que lhes sejam cometidas pelo Presidente da [nome da entidade].”
+
+
+      .. note::
+
+            A organização do Anexo I nos capítulos acima descritos corresponde a uma configuração mínima necessária à estruturação organizacional, e não impede a inclusão de outros capítulos específicos à organização da entidade. A existência de um órgão diretor, por exemplo, pode ensejar a inclusão de capítulo que trate “Da Diretoria Colegiada”.
+
+
+
+
+
+
