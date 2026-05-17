@@ -829,10 +829,10 @@ Demais tabelas que compõem um decreto de estrutura regimental
 
 
 
-Alteração de estrutura regimental de autarquias e de estatuto de fundações públicas (anexo i)
+Alteração de estrutura regimental de autarquias e de estatuto de fundações públicas (Anexo I)
 ---------------------------------------------------------------------------------------------
 
-1. Conhecimentos básicos: unidades e competências obrigatórias
+**1. Conhecimentos básicos: unidades e competências obrigatórias**
 
       A natureza e a finalidade, a sede e as competências de uma entidade da administração indireta são definidas pela respectiva lei de criação e devem ser reproduzidas no Capítulo I do Anexo I do decreto.
 
@@ -863,13 +863,12 @@ Alteração de estrutura regimental de autarquias e de estatuto de fundações p
 
       Assim, se sua proposta cria ou extingue alguma unidade com essas características, será necessário inserir ou excluir suas competências no anexo específico do decreto que aprova sua estrutura.
 
-
-       .. warning::
+      .. warning::
 
             A não ser que haja previsão legal, fique atento para que sua proposta não traga alterações que gerem sombreamento de competências com órgãos ou outras entidades.
 
 
-2. Organização básica e elementos da estrutura regimental ou estatuto
+**2. Organização básica e elementos da estrutura regimental ou estatuto**
 
       A organização do Anexo I segue os princípios definidos pelo Decreto n. 12.002, de 22 de abril de 2024, onde constam as normas gerais para elaboração, redação, alteração e consolidação de atos normativos. Todos esses princípios devem ser observados também em propostas de alteração de estruturas regimentais.
 
@@ -888,7 +887,7 @@ Alteração de estrutura regimental de autarquias e de estatuto de fundações p
 
       .. epigraph:: Exemplo
 
-            “Art. 1º  O/ A [nome da entidade], [natureza jurídica: autarquia ou fundação pública], criada pela Lei nº [número e data de publicação], tem sede em [município e estado].
+            “Art. 1º  O/A [nome da entidade], [natureza jurídica: autarquia ou fundação pública], criada pela Lei nº [número e data de publicação], tem sede em [município e estado].
 
             Parágrafo único.  O/A [nome da entidade] tem como finalidade:
 
@@ -902,7 +901,7 @@ Alteração de estrutura regimental de autarquias e de estatuto de fundações p
 
             Embora não haja exigência de rigidez formal na redação - contanto que preserve o conteúdo - diferenças entre as competências previstas no decreto que aprova a estrutura e as aquelas descritas na lei são possíveis somente em casos excepcionais, como quando a entidade recebe uma nova competência legal ou quando realiza ajustes redacionais que não alterem o seu conteúdo.
 
-      .. epigraph:: Exemplo
+      .. epigraph:: Exemplos
 
             INCRA - DECRETO Nº 11.232, DE 10 DE OUTUBRO DE 2022 (link)
 
@@ -920,3 +919,78 @@ Alteração de estrutura regimental de autarquias e de estatuto de fundações p
 
 
 
+            FUNARTE- DECRETO Nº 12.586, DE 12 DE AGOSTO DE 2025 (link)
+
+            “Art. 1º  A Fundação Nacional de Artes – Funarte, fundação pública, constituída com base na Lei nº 8.029, de 12 de abril de 1990, vinculada ao Ministério da Cultura, tem sede e foro em Brasília, Distrito Federal, e prazo de duração indeterminado.
+
+            Parágrafo único.  A Funarte poderá manter, provisoriamente, sede e foro no Município do Rio de Janeiro, Estado do Rio de Janeiro, até ser determinada, nos termos de ato do Poder Executivo federal, a transferência para Brasília.
+
+            Art. 2º A Funarte tem como finalidade promover, incentivar e amparar, em todo o território nacional, a prática, o desenvolvimento, o fomento e a difusão das artes.”
+
+
+
+            FUNASA - DECRETO Nº 11.223, DE 5 DE OUTUBRO DE 2022 (link)
+
+            “Art. 1º  A Fundação Nacional de Saúde - Funasa, fundação pública vinculada ao Ministério da Saúde, instituída com fundamento no disposto no art. 14 da Lei nº 8.029, de 12 de abril de 1990, tem sede e foro em Brasília, Distrito Federal, e prazo de duração indeterminado.
+
+            Art. 2º  À Funasa, entidade de promoção e proteção à saúde, compete:
+
+            I - fomentar soluções de saneamento para prevenção e controle de doenças; e
+
+            II - formular e implementar ações de promoção e proteção à saúde relacionadas com as ações estabelecidas pelo Subsistema Nacional de Vigilância em Saúde Ambiental.”
+
+
+
+            ENAP - DECRETO Nº 10.369, DE 22 DE MAIO DE 2020 (link)
+
+            “Art. 1º  A Fundação Escola Nacional de Administração Pública – Enap, instituída na forma prevista na Lei nº 6.871, de 3 de dezembro de 1980, e com denominação estabelecida pela Lei nº 8.140, de 28 de dezembro de 1990, com sede e foro no Distrito Federal, pessoa jurídica de direito público, vinculada ao Ministério da Gestão e da Inovação em Serviços Públicos, tem por finalidade promover, elaborar e executar programas de capacitação de recursos humanos para a administração pública federal, com vistas ao desenvolvimento e à aplicação de tecnologias de gestão que aumentem a eficácia e a qualidade permanente dos serviços prestados pelo Estado aos cidadãos.
+
+            § 1º  Cabe ainda à Enap executar as seguintes atividades:
+
+            I - coordenar, elaborar e executar os programas de desenvolvimento de pessoal civil do Poder Executivo federal, com vistas à inovação e à modernização do Estado, de forma a aumentar a eficácia e a qualidade dos serviços prestados aos cidadãos; (...)”.
+
+
+      - **Capítulo II: DA ESTRUTURA ORGANIZACIONAL**
+
+      Por padrão, abrange somente um artigo, que traz a organização interna da entidade (uma descrição de seu organograma básico), dividida, geralmente, da seguinte forma:
+
+      I - órgãos de assistência direta e imediata à autoridade máxima da entidade (link): engloba todas as unidades de assessoria direta (começando pelo Gabinete da autoridade máxima e seguindo com suas Assessorias).
+
+      II - órgãos seccionais: unidades que atuam como suporte administrativo setorial. São exemplos de órgãos seccionais as unidades de Ouvidoria, Corregedoria, Auditoria Interna, Procuradoria Federal e a Diretoria responsável pelas atividades de planejamento, administração, gestão, finanças, logística, governança, inovação e tecnologia da Informação.
+
+      III - órgãos específicos singulares: engloba as unidades finalísticas do órgão, ou seja, as Diretorias, Departamentos e Institutos.
+
+      IV – unidades descentralizadas (se houver): engloba todas as unidades situadas em município distinto ao da sede do órgão.
+
+      V – órgãos colegiados (se houver): engloba colegiados criados por lei, sob responsabilidade do órgão.
+
+
+      Exemplo simplificado:
+
+      FIGURA
+
+
+      .. warning::
+
+            A ordem definida nesse artigo determinará a ordem das competências descritas no Capítulo III e do Quadro demonstrativo de cargos e funções (Anexo II). A regra é: se a unidade está elencada no art. 2º, ela deve ter suas competências descritas e sua estrutura de cargos e funções definida. A exceção é válida para órgãos colegiados quanto ao quadro demonstrativo (já que não são unidades administrativas).
+
+
+      - **Capítulo III: DA DIREÇÃO E DA NOMEAÇÃO**
+
+      Esse capítulo descreve as especificidades da estrutura diretiva da entidade, em alinhamento com a lei de criação: se é exercida pelo presidente ou por colegiado; como se dá a indicação e a nomeação da autoridade máxima e de seus principais cargos e funções de chefia (Procurador-Chefe, Auditor- Chefe, Corregedor, dentre outros); e outras singularidades alinhadas à temática. (a melhorar)
+
+
+      - **Capítulo IV: DAS COMPETÊNCIAS DOS ÓRGÃOS**
+
+      Esse capítulo descreve as competências de todas as unidades organizacionais elencadas no art. 2º, na exata ordem que lá aparecem. Para cada grupo de unidades, haverá uma Seção específica. E para cada unidade organizacional, haverá um artigo. 
+
+      .. note::
+
+            A redação de competências segue regras e boas práticas gerais, definidas a partir no Decreto n. 12.002, de 22 de abril de 2024.
+
+            Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas específicas e, em alguns casos, a redação de suas competências foi padronizada pelo órgão central do sistema.
+
+
+      Foi convencionado que o Gabinete da autoridade máxima constitui-se como unidade obrigatória também das entidades, de forma que começaremos o Capítulo III por ele.
+
+      Assim:
