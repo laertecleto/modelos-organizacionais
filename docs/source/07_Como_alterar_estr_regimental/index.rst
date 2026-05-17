@@ -828,3 +828,95 @@ Demais tabelas que compõem um decreto de estrutura regimental
                * Não há limitações para realocação de cargos em comissão e funções de confiança da administração direta federal para autarquias ou fundações públicas.
 
 
+
+Alteração de estrutura regimental de autarquias e de estatuto de fundações públicas (anexo i)
+---------------------------------------------------------------------------------------------
+
+1. Conhecimentos básicos: unidades e competências obrigatórias
+
+      A natureza e a finalidade, a sede e as competências de uma entidade da administração indireta são definidas pela respectiva lei de criação e devem ser reproduzidas no Capítulo I do Anexo I do decreto.
+
+      Propostas de alteração de estrutura devem observar, inicialmente, quanto à lei instituidora:
+
+      a. o local da sede;
+
+      b. as competências legais da entidade, que devem nortear as competências de todas outras unidades subordinadas.
+
+      c. a vinculação ministerial, se não houver lei posterior.
+
+      d. as unidades obrigatórias e regramentos específicos a serem observados no desenho da estrutura organizacional, inclusive quanto ao limite de Diretorias e à forma e composição da direção.
+
+      Deve-se observar que o Decreto nº 10.829, de 2021, determina a necessidade de descrição das competências da entidade e de suas diretorias, ou equivalentes.
+
+
+      .. warning::
+
+            Quando as unidades estiverem subordinadas diretamente à autoridade máxima da entidade, entende-se que são equivalentes às Diretorias, independentemente de seu nível, cabendo também a discriminação de suas competências. São exemplos de unidades dessa natureza o Gabinete e as Assessorias que não compõem o Gabinete do Presidente, assim como:
+
+             * órgãos seccionais, como a Procuradoria Federal, a Auditoria Interna, a Ouvidoria e a Corregedoria; e
+
+             * órgãos colegiados, como Conselho Diretor, Conselho Consultivo e Conselho Deliberativo.
+   
+      **Aqui**, é possível consultar os níveis a serem associados a cada unidade.
+
+
+
+      Assim, se sua proposta cria ou extingue alguma unidade com essas características, será necessário inserir ou excluir suas competências no anexo específico do decreto que aprova sua estrutura.
+
+
+       .. warning::
+
+            A não ser que haja previsão legal, fique atento para que sua proposta não traga alterações que gerem sombreamento de competências com órgãos ou outras entidades.
+
+
+2. Organização básica e elementos da estrutura regimental ou estatuto
+
+      A organização do Anexo I segue os princípios definidos pelo Decreto n. 12.002, de 22 de abril de 2024, onde constam as normas gerais para elaboração, redação, alteração e consolidação de atos normativos. Todos esses princípios devem ser observados também em propostas de alteração de estruturas regimentais.
+
+      .. note::
+
+            O Decreto n. 12.002, de 22 de abril de 2024 permite compreender como estruturar um ato normativo, o que deve ser observado em sua redação para manter a clareza, precisão e ordem lógica, formatação (como espaçamentos, uso de negritos e itálicos), regras para alterações e para as revogações. (inserir links para as partes específicas da norma).
+
+
+      No caso das estruturas organizacionais das entidades, a divisão do texto que trata da estrutura regimental (autarquias) ou estatuto (fundação pública) segue, de forma geral, a seguinte lógica, com pequenas variações:
+
+      - **Capítulo I: DA NATUREZA E DA FINALIDADE**
+
+      Por padrão, abrange o art. 1º, que informa a denominação e a sigla da entidade, sua lei de criação, sua natureza jurídica, o órgão ao qual se vincula e sua sede, sem ordem específica.
+
+      No capítulo I, devem constar, ainda, as finalidades ou competências da entidade, espelhando, tanto quanto possível, sua lei de criação ou autorização. 
+
+      .. epigraph:: Exemplo
+
+            “Art. 1º  O/ A [nome da entidade], [natureza jurídica: autarquia ou fundação pública], criada pela Lei nº [número e data de publicação], tem sede em [município e estado].
+
+            Parágrafo único.  O/A [nome da entidade] tem como finalidade:
+
+            [finalidades idênticas às constantes na lei de criação]
+
+            Art. 2º  Ao/À [sigla da entidade] compete:
+
+            [competências idênticas às constantes na lei de criação, se houver]"
+
+      .. warning::
+
+            Embora não haja exigência de rigidez formal na redação - contanto que preserve o conteúdo - diferenças entre as competências previstas no decreto que aprova a estrutura e as aquelas descritas na lei são possíveis somente em casos excepcionais, como quando a entidade recebe uma nova competência legal ou quando realiza ajustes redacionais que não alterem o seu conteúdo.
+
+      .. epigraph:: Exemplo
+
+            INCRA - DECRETO Nº 11.232, DE 10 DE OUTUBRO DE 2022 (link)
+
+            “Art. 1º  O Instituto Nacional de Colonização e Reforma Agrária – INCRA, autarquia criada pelo Decreto-Lei nº 1.110, de 9 de julho de 1970, vinculada ao Ministério do Desenvolvimento Agrário e Agricultura Familiar, tem sede em Brasília, Distrito Federal, e atuação no território nacional.
+
+            Parágrafo único.  O INCRA tem suas competências estabelecidas na legislação agrária, em especial as que se referem à:
+
+            I - realização do ordenamento territorial;
+
+            II - regularização da estrutura fundiária;
+
+            III - promoção e execução da reforma agrária e da colonização; e   
+
+            IV - regularização fundiária das comunidades e dos territórios quilombolas.”
+
+
+
