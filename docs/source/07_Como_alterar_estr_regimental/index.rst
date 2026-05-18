@@ -1047,7 +1047,7 @@ Alteração de estrutura regimental de autarquias e de estatuto de fundações p
 
       Adota-se seções específicas, com um artigo cada, para tratar, separada e respectivamente, das competências da autoridade máxima, do Diretor-Executivo ou equivalente e dos demais dirigentes.
 
-      .. epigraph::Exemplo
+      .. epigraph:: Exemplo
 
             “**CAPÍTULO V**
 
