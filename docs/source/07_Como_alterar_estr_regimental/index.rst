@@ -1183,4 +1183,4 @@ A regra básica para definir se um cargo ou função pode ser inserido em dada u
 
             * Assessoria de Comunicação Social
 
-            *Assessoria Parlamentar
+            * Assessoria Parlamentar
