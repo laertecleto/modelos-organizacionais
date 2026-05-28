@@ -18,7 +18,6 @@ Como alterar uma estrutura regimental - passo a passo
 
 
 .. toctree::
-   :hidden:
    :maxdepth: 5
 
    01_Fluxo_pecas_tipos/index
