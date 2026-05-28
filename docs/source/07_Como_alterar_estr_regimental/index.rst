@@ -18,7 +18,7 @@ Como alterar uma estrutura regimental - passo a passo
 
 
 .. toctree::
-   :maxdepth: 5
+   :hidden:
 
    01_Fluxo_pecas_tipos
    02_Alteracao_Ministerio_Anexo_I
