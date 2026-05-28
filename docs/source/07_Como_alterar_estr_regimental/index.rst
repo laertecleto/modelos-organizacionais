@@ -1185,6 +1185,7 @@ A regra básica para definir se um cargo ou função pode ser inserido em dada u
 
             * Assessoria Parlamentar
 
+      
       .. warning::
 
             O uso da denominação *Assessoria* para designar uma unidade é restrita àquela de assistência direta e imediata à autoridade máxima – a existência de assessores não implica a constituição de unidade administrativa desse tipo.
