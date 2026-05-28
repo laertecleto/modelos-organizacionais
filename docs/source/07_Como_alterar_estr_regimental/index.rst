@@ -20,13 +20,13 @@ Como alterar uma estrutura regimental - passo a passo
 .. toctree::
    :maxdepth: 5
 
-   01_Fluxo_pecas_tipos/index
-   02_Alteracao_Ministerio_Anexo_I/index
-   03_Alteracao_Ministerio_Anexo_II/index
-   04_Conhecendo_UA_Adm_Direta/index
-   05_Demais_tabelas/index
-   06_Alteracao_autarquia_Anexo_I/index
-   07_Alteracao_autarquia_Anexo_II/index
-   08_Conhecendo_UA_Adm_Indireta/index
-   09_Parecer_Merito/index
-   10_Exp_Motivos_Interministerial/index
+   01_Fluxo_pecas_tipos
+   02_Alteracao_Ministerio_Anexo_I
+   03_Alteracao_Ministerio_Anexo_II
+   04_Conhecendo_UA_Adm_Direta
+   05_Demais_tabelas
+   06_Alteracao_autarquia_Anexo_I
+   07_Alteracao_autarquia_Anexo_II
+   08_Conhecendo_UA_Adm_Indireta
+   09_Parecer_Merito
+   10_Exp_Motivos_Interministerial
