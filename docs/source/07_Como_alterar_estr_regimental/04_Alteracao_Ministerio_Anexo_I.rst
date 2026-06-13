@@ -1,8 +1,10 @@
 Alteração de estruturas regimentais de órgãos da Presidência da República e dos Ministérios (Anexo I) 
------------------------------------------------------------------------------------------------------
+=====================================================================================================
+
+Nesta seção exploramos como elaborar estruturas regimentais de órgãos da Presidência da República e dos Ministérios. A estrutura regimental ocupa o Anexo I de um decreto de estrutura.
 
 Conhecimentos básicos: unidades e competências obrigatórias
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------------
 As competências (link glossário) de cada órgão são dadas pela lei que organiza a Administração Pública federal, usualmente publicada no início do governo em exercício, na forma de medida provisória (vide Lei n. 14.600, de 19 de junho de 2023).
 
 Propostas de alteração de estrutura devem, inicialmente, observar essa lei quanto:
@@ -36,7 +38,7 @@ Assim, se sua proposta cria ou extingue alguma unidade com essas característica
                   A não ser que haja previsão legal, fique atento para que sua proposta não traga alterações que gerem sombreamento de competências com outros órgãos.
 
 Organização básica e elementos da estrutura regimental
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
+------------------------------------------------------
 A organização do Anexo I segue os princípios definidos pelo Decreto n. 12.002, de 22 de abril de 2024, onde constam as normas gerais para elaboração, redação, alteração e consolidação de atos normativos. Todos esses princípios devem ser observados também em propostas de alteração de estruturas regimentais.
 
 .. note::
