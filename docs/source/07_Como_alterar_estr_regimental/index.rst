@@ -16,8 +16,10 @@ Como alterar uma estrutura regimental - passo a passo
             - Como elaborar uma minuta de exposição de motivos interministerial.
 
 
+Este capítulo inclui as seguintes seções
+
 .. toctree::
-   :hidden:
+   :maxdepth: 2
 
    01_Fluxo_reestruturacao
    02_Pecas_reestruturacao
