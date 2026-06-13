@@ -16,17 +16,18 @@ Como alterar uma estrutura regimental - passo a passo
             - Como elaborar uma minuta de exposição de motivos interministerial.
 
 
-
 .. toctree::
    :hidden:
 
-   01_Fluxo_pecas_tipos
-   02_Alteracao_Ministerio_Anexo_I
-   03_Alteracao_Ministerio_Anexo_II
-   04_Conhecendo_UA_Adm_Direta
-   05_Demais_tabelas
-   06_Alteracao_autarquia_Anexo_I
-   07_Alteracao_autarquia_Anexo_II
-   08_Conhecendo_UA_Adm_Indireta
-   09_Parecer_Merito
-   10_Exp_Motivos_Interministerial
+   01_Fluxo_reestruturacao
+   02_Pecas_reestruturacao
+   03_Tipos_decretos
+   04_Alteracao_Ministerio_Anexo_I
+   05_Alteracao_Ministerio_Anexo_II
+   06_Conhecendo_UA_Adm_Direta
+   07_Demais_tabelas
+   08_Alteracao_autarquia_Anexo_I
+   09_Alteracao_autarquia_Anexo_II
+   10_Conhecendo_UA_Adm_Indireta
+   11_Parecer_Merito
+   12_Exp_Motivos_Interministerial
