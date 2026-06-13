@@ -19,7 +19,7 @@ Como alterar uma estrutura regimental - passo a passo
 Este capítulo inclui as seguintes seções
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    01_Fluxo_reestruturacao
    02_Pecas_reestruturacao
@@ -33,3 +33,5 @@ Este capítulo inclui as seguintes seções
    10_Conhecendo_UA_Adm_Indireta
    11_Parecer_Merito
    12_Exp_Motivos_Interministerial
+
+   
