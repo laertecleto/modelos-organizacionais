@@ -1,4 +1,4 @@
-Alteração de estruturas regimentais de órgãos da Presidência da República e dos Ministérios (Anexo I) 
+Alteração de estruturas regimentais de órgãos da Presidência da República e dos Ministérios - Anexo I 
 =====================================================================================================
 
 Nesta seção exploramos como elaborar estruturas regimentais de órgãos da Presidência da República e dos Ministérios. A estrutura regimental ocupa o Anexo I de um decreto de estrutura.

@@ -1,5 +1,5 @@
 Alteração do quadro demonstrativo dos cargos em comissão e das funções comissionadas (Anexo II a)
--------------------------------------------------------------------------------------------------
+================================================================================================
 
 O quadro demonstrativo de cargos é um resumo do organograma do órgão que foi descrito no art. 2º do Anexo I, representado por uma tabela. A fim de facilitar as consultas aos decretos vigentes, convencionou-se substituir esse quadro por inteiro sempre que sofre alterações.
 

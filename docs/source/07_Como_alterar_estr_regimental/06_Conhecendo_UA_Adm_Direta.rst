@@ -1,12 +1,12 @@
 Conhecendo as unidades administrativas da administração direta e suas regras específicas
-----------------------------------------------------------------------------------------
+========================================================================================
 
 As regras a seguir focam na estruturação hierárquica das unidades, que são chefiadas por ocupantes de cargos e funções da categoria 1. No entanto, outros tipos de cargos e funções (categorias 2, 3 e 4), que não são visíveis no organograma do órgão, podem compor a estrutura de cada unidade. 
 
 A regra básica para definir se um cargo ou função pode ser inserido em dada unidade é: se o nível for menor do que o atribuído ao titular, é possível alocá-lo na unidade. Aqui é possível saber mais sobre as nomenclaturas e atuação associadas a cada categoria.
 
 Órgãos de assistência direta e imediata ao Ministro de Estado
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-------------------------------------------------------------
 
 **a) Gabinete do Ministro**
 
@@ -67,7 +67,7 @@ São Assessorias típicas:
    O uso da denominação “Assessoria” para designar uma unidade é restrita àquela de assistência direta e imediata Ministro de Estado – a existência de assessores não implica a constituição de unidade administrativa desse tipo.
 
 Órgãos setoriais
-++++++++++++++++
+----------------
 
 São aquelas unidades que executam atividades comuns a todos os órgãos, sob coordenação de um órgão central, formando um sistema estruturador. 
 
@@ -121,7 +121,7 @@ São aquelas unidades que executam atividades comuns a todos os órgãos, sob co
             As Consultorias Jurídicas junto aos Ministérios são órgãos de execução da Consultoria-Geral da União (da Advocacia-Geral da União). Integram a estrutura organizacional dos respectivos Ministérios, sendo subordinadas administrativamente ao Ministro, mas nos aspectos técnico e jurídico, subordinam-se ao Consultor-Geral da União e ao Advogado-Geral da União.
 
 Secretaria-Executiva
-++++++++++++++++++++
+--------------------
 
       Unidade obrigatória: sim
 
@@ -171,7 +171,7 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 
 
 Órgãos específicos singulares
-+++++++++++++++++++++++++++++
+-----------------------------
 
       *I - Secretarias*
 
@@ -275,7 +275,7 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 
 
 Órgãos colegiados
-+++++++++++++++++
+-----------------
  
       Os órgãos colegiados são os órgãos integrados por mais de uma autoridade, nos quais a decisão é tomada de forma coletiva, com o aproveitamento de experiências diferenciadas. Seus representantes podem ser originários do setor público, do setor privado ou da sociedade civil, segundo a natureza da representação. São conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões etc. 
 
@@ -287,13 +287,13 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 
 
 Entidades vinculadas
-++++++++++++++++++++
+--------------------
 
             xxxxx
 
 
 Estruturas atípicas
-+++++++++++++++++++
+-------------------
 
       I. Procuradoria-Geral da Fazenda Nacional
 
@@ -387,7 +387,7 @@ Estruturas atípicas
 
 
 Outras regras a serem observadas
-++++++++++++++++++++++++++++++++
+--------------------------------
 
 * Não deve haver unidades administrativas denominadas “Presidência”, “Vice-Presidência, “Diretoria-Adjunta”, “Direção”, “Chefia” e outras análogas.
 

@@ -16,7 +16,7 @@ Como alterar uma estrutura regimental - passo a passo
             - Como elaborar uma minuta de exposição de motivos interministerial.
 
 
-Este capítulo inclui as seguintes seções
+Este capítulo inclui as seguintes seções:
 
 .. toctree::
    :maxdepth: 1

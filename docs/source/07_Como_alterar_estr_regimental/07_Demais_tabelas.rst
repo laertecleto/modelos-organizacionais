@@ -8,7 +8,7 @@ Demais tabelas que compõem um decreto de estrutura regimental
       Exemplo:
 
 
-      xxxxxxx
+      xxxxxxxxxxx
 
 
       A planilha disponibilizada pelo Departamento de Modelos Organizacionais produz esse quadro automaticamente a partir do novo quadro demonstrativo informado pelo órgão. 
