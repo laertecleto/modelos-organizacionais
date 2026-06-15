@@ -20,7 +20,7 @@ Como alterar uma estrutura regimental
 Este capítulo inclui as seguintes seções:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    01_fluxo_reestruturacao
    02_pecas_reestruturacao
