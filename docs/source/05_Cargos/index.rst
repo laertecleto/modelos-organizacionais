@@ -1,7 +1,7 @@
 Cargos e funções
 ================
 
-.. admonition:: Sobre este sub-capítulo
+.. admonition:: Sobre este capítulo
 
    .. line-block::
 
