@@ -25,8 +25,8 @@ Este capítulo inclui as seguintes seções:
    02_pecas_reestruturacao
    03_tipos_decretos
    04_alteracao_ministerio_anexo_1
-   .. 05_Alteracao_Ministerio_Anexo_II
-      06_Conhecendo_UA_Adm_Direta
+   05_Alteracao_Ministerio_Anexo_II
+   06_Conhecendo_UA_Adm_Direta
       07_Demais_tabelas
       08_Alteracao_autarquia_Anexo_I
       09_Alteracao_autarquia_Anexo_II
