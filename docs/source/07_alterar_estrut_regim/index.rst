@@ -23,4 +23,8 @@ Este capítulo inclui as seguintes seções:
    :maxdepth: 2
 
    01_fluxo_reestruturacao
+   02_pecas_reestruturacao
+   03_tipos_decretos
+   04_altera_minist_anex_1
+   05_altera_minist_anex_2
 
