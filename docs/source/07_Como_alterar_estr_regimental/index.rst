@@ -21,10 +21,10 @@ Este capítulo inclui as seguintes seções:
 .. toctree::
    :maxdepth: 1
 
-   01_Fluxo_reestruturacao
-   02_Pecas_reestruturacao
-   03_Tipos_decretos
-   04_Alteracao_Ministerio_Anexo_I
+   01_fluxo_reestruturacao
+   02_pecas_reestruturacao
+   03_tipos_decretos
+   04_alteracao_ministerio_anexo_1
    .. 05_Alteracao_Ministerio_Anexo_II
       06_Conhecendo_UA_Adm_Direta
       07_Demais_tabelas
