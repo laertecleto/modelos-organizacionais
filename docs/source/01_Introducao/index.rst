@@ -15,7 +15,7 @@ A estrutura organizacional é a configuração hierárquica que define como uma 
 
 .. note::
 
-      **Em suma, a estrutura é o arcabouço que determina como uma entidade opera, quem responde por cada entrega e de que forma a coordenação acontece em todos os níveis.**
+      **A estrutura organizacional é o arcabouço que determina como uma entidade opera, quem responde por cada entrega e de que forma a coordenação acontece em todos os níveis.**
 
 Por que a Eficiência Estrutural é Crucial no Setor Público?
 -----------------------------------------------------------
@@ -37,7 +37,7 @@ Nos últimos anos, o governo federal promoveu importantes inovações legislativ
 
 * FCE: Funções Comissionadas Executivas.
 
-Esses novos mecanismos tornaram-se o padrão atual para a montagem das estruturas organizacionais. Além de desburocratizar o processo, a lei estabeleceu exigências rígidas de qualificação para a ocupação dessas vagas, profissionalizando o corpo funcional da administração pública.
+Esses novos mecanismos tornaram-se o padrão atual para a montagem das estruturas organizacionais. Além de desburocratizar o processo, a lei estabeleceu exigências de qualificação para a ocupação dessas vagas, profissionalizando o corpo funcional da administração pública.
 
 Sobre este Manual
 -----------------
