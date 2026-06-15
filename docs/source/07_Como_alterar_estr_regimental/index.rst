@@ -19,19 +19,8 @@ Como alterar uma estrutura regimental - passo a passo
 Este capítulo inclui as seguintes seções:
 
 .. toctree::
-   :maxdepth: 1
-
+   :maxdepth: 2
+   
    01_fluxo_reestruturacao
    02_pecas_reestruturacao
    03_tipos_decretos
-   04_alteracao_ministerio_anexo_1
-   05_Alteracao_Ministerio_Anexo_II
-   06_Conhecendo_UA_Adm_Direta
-      07_Demais_tabelas
-      08_Alteracao_autarquia_Anexo_I
-      09_Alteracao_autarquia_Anexo_II
-      10_Conhecendo_UA_Adm_Indireta
-      11_Parecer_Merito
-      12_Exp_Motivos_Interministerial
-
-   
