@@ -33,4 +33,5 @@ Como resultado dessa diretriz foram publicadas, dentre outros atos, a Medida Pro
    Historico
    Sistemas_Estruturadores
    Conceitos
+   01_fluxo_reestruturacao
 
