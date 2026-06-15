@@ -60,7 +60,7 @@ A decisão de descentralizar uma atividade que demanda poder de império para um
 * **Captação de recursos:** Confere a capacidade legal de gerar receitas próprias por meio de taxas e tarifas. Contudo, na esfera federal, o impacto prático dessa autonomia financeira é mitigado devido à centralização e à arrecadação unificada das receitas da União.
 
 Autarquias de regime especial
------------------------------
++++++++++++++++++++++++++++++
 
 As autarquias de regime especial são aquelas às quais a Constituição ou a Lei outorgou maior grau de autonomia. Suas prerrogativas típicas incluem a garantia de mandato fixo e estabilidade para seus dirigentes, além da impossibilidade de revisão de seus atos técnicos pela administração direta, ressalvada a atuação do Poder Judiciário.
 
@@ -74,17 +74,17 @@ Empresa estatal
 Sua criação depende de autorização legislativa e é efetivada por Decreto do Poder Executivo por razões de segurança nacional ou relevante interesse coletivo, podendo assumir duas formas:
 
 Sociedade de economia mista
----------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Explora atividade econômica sob a forma de sociedade anônima (S.A.), permitindo a participação de capital privado, desde que a maioria das ações com direito a voto permaneça com a União (Art. 2º, III do Decreto nº 8.945/2016).
 
 Empresa pública
----------------
+^^^^^^^^^^^^^^^^
 Seu capital social é constituído por recursos provenientes exclusivamente do setor público, admitindo-se a participação de outros entes da administração, desde que a maioria do capital votante continue com a União (Art. 2º, II do Decreto nº 8.945/2016).
 
 A relação atualizada das empresas estatais federais pode ser encontrada junto às publicações da Secretaria de Coordenação e Governança das Empresas Estatais (SEST), no endereço eletrônico `Estatais <https://www.gov.br/gestao/pt-br/assuntos/estatais>`_.
 
 Fundação instituída pelo poder público de direito privado
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 O Decreto-Lei nº 200, de 1967 (com redação dada pela Lei nº 7.596/1987), define-a como a entidade sem fins lucrativos, dotada de personalidade jurídica de direito privado, criada por autorização legislativa para o desenvolvimento de atividades que não exijam execução por órgãos de direito público. Conta com autonomia administrativa, patrimônio próprio e funcionamento custeado por recursos da União e de outras fontes.
 
@@ -152,7 +152,7 @@ Parcerias
 
 Uma parcela expressiva das políticas públicas federais é operacionalizada por meio de parcerias com entidades privadas, com ou sem fins lucrativos. 
 
-Essa estratégia de descentralização assegura vantagens cruciais para a administração:
+Essa estratégia de descentralização assegura **vantagens cruciais para a administração**:
 
 * **Eficiência operacional:** Aproxima o processo decisório dos beneficiários finais, conferindo respostas ágeis e desburocratizadas.
 * **Inovação e adaptação local:** Garante flexibilidade para customizar os programas governamentais de acordo com as peculiaridades regionais.
