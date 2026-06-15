@@ -3,94 +3,176 @@ Organização da Administração Pública Federal
 
 .. admonition:: Sobre este capítulo
 
-   Neste capítulo, você compreenderá como a Administração Pública Federal se organiza para implementar políticas públicas. Veremos desde o desenho de suas estruturas próprias até as estratégias de articulação com a sociedade civil, por meio de parcerias, para a entrega de serviços de qualidade aos cidadãos.
+   Neste capítulo, você compreenderá como a Administração Pública Federal se organiza
+   para implementar políticas públicas. Você verá desde o desenho de suas estruturas
+   próprias até as estratégias de articulação com a sociedade civil, por meio de
+   parcerias, para a entrega de serviços de qualidade aos cidadãos.
 
 
-O Estado é a instituição jurídica consubstanciada na Constituição e na regulamentação infraconstitucional. O Estado brasileiro é uma república democrática com organização federativa, integrado pelos Poderes Legislativo, Executivo e Judiciário, compreendendo a União, os Estados, o Distrito Federal e os Municípios.
+O Estado é a instituição jurídica consubstanciada na Constituição e na regulamentação
+infraconstitucional. O Estado brasileiro é uma república democrática com organização
+federativa, integrado pelos Poderes Legislativo, Executivo e Judiciário, compreendendo
+a União, os Estados, o Distrito Federal e os Municípios.
 
-Na qualidade de Estado Democrático de Direito, a Constituição preconiza a igualdade política, o acesso à informação, bem como o direito à participação e ao controle dos cidadãos nos processos de formulação, implementação e avaliação de políticas públicas.
+Na qualidade de Estado Democrático de Direito, a Constituição preconiza a igualdade
+política, o acesso à informação, bem como o direito à participação e ao controle dos
+cidadãos nos processos de formulação, implementação e avaliação de políticas públicas.
 
-A Administração Pública é regulada pelo art. 37 da Constituição Federal de 1988. Do ponto de vista jurídico, a doutrina a define sob dois aspectos principais (DI PIETRO, 2021, pp. 216 e 218):
+A Administração Pública é regulada pelo art. 37 da Constituição Federal de 1988. Do
+ponto de vista jurídico, a doutrina a define sob dois aspectos principais
+(DI PIETRO, 2021, pp. 216 e 218):
 
-* **Sentido material ou objetivo:** A atividade concreta e imediata que o Estado desenvolve, sob regime jurídico total ou parcialmente público, para a consecução dos interesses coletivos.
-* **Sentido subjetivo ou formal:** O conjunto de órgãos e de pessoas jurídicas aos quais a lei atribui o exercício da função administrativa do Estado.
+* **Sentido material ou objetivo:** A atividade concreta e imediata que o Estado
+  desenvolve, sob regime jurídico total ou parcialmente público, para a consecução
+  dos interesses coletivos.
+* **Sentido subjetivo ou formal:** O conjunto de órgãos e de pessoas jurídicas aos
+  quais a lei atribui o exercício da função administrativa do Estado.
 
-O conjunto de órgãos e entidades que integram a administração pública é dinâmico, adaptando-se às necessidades de implementação e às linhas programáticas do governo eleito.
+O conjunto de órgãos e entidades que integram a administração pública é dinâmico,
+adaptando-se às necessidades de implementação e às linhas programáticas do governo eleito.
 
-O art. 84 da CF estabelece a competência privativa do Presidente da República para dispor sobre a organização e o funcionamento da administração federal, desde que não implique aumento de despesa nem a criação ou extinção de órgãos públicos. Diante das transformações políticas e tecnológicas, essas estruturas são constantemente aperfeiçoadas para garantir a eficiência da ação estatal.
+O art. 84 da CF estabelece a competência privativa do Presidente da República para
+dispor sobre a organização e o funcionamento da administração federal, desde que não
+implique aumento de despesa nem a criação ou extinção de órgãos públicos. Diante das
+transformações políticas e tecnológicas, essas estruturas são constantemente
+aperfeiçoadas para garantir a eficiência da ação estatal.
 
-O Decreto-Lei nº 200, de 1967, parcialmente vigente, classifica os órgãos e as entidades da administração federal em dois grandes blocos: a **administração direta** e a **administração indireta**.
+O Decreto-Lei nº 200, de 1967, parcialmente vigente, classifica os órgãos e as
+entidades da administração federal em dois grandes blocos: a **administração direta**
+e a **administração indireta**.
 
 Administração direta
 --------------------
 
-Na organização da administração pública federal direta, a Presidência da República atua como o órgão independente do Poder Executivo da União, centralizando as atividades administrativas superiores de âmbito federal, de política, planejamento, coordenação e controle do desenvolvimento socioeconômico do País e da segurança nacional (MEIRELLES, 1990, p. 647). Nesse sentido, a administração direta exerce uma função predominantemente estratégica, focada na formulação, supervisão e avaliação de políticas públicas.
+Na organização da administração pública federal direta, a Presidência da República
+atua como o órgão independente do Poder Executivo da União, centralizando as atividades
+administrativas superiores de âmbito federal, de política, planejamento, coordenação e
+controle do desenvolvimento socioeconômico do País e da segurança nacional
+(MEIRELLES, 1990, p. 647). Nesse sentido, a administração direta exerce uma função
+predominantemente estratégica, focada na formulação, supervisão e avaliação de políticas
+públicas.
 
-Os Ministérios são órgãos autônomos situados logo abaixo da Presidência da República. Eles integram os serviços da Administração Direta e supervisionam as entidades da administração indireta cujas atividades se enquadrem nas suas respectivas áreas de competência (salvo as exceções integradas ou vinculadas diretamente à Presidência) (Ibidem, p. 649).
+Os Ministérios são órgãos autônomos situados logo abaixo da Presidência da República.
+Eles integram os serviços da Administração Direta e supervisionam as entidades da
+administração indireta cujas atividades se enquadrem nas suas respectivas áreas de
+competência (salvo as exceções integradas ou vinculadas diretamente à Presidência)
+(Ibidem, p. 649).
 
-A organização básica dos órgãos da Presidência da República e dos Ministérios é estabelecida em lei específica, atualmente a `[inserir link da lei]`. Essa legislação define as macrocompetências de cada pasta, as quais são posteriormente detalhadas nos respectivos decretos de estrutura regimental ou estatuto. Assim, enquanto a lei traz a organização básica geral, os decretos especificam o funcionamento de cada órgão, detalhando o quadro de cargos e funções.
+A organização básica dos órgãos da Presidência da República e dos Ministérios é
+estabelecida em lei específica, atualmente a `[inserir link da lei]`. Essa legislação
+define as macrocompetências de cada pasta, as quais são posteriormente detalhadas nos
+respectivos decretos de estrutura regimental ou estatuto. Assim, enquanto a lei traz a
+organização básica geral, os decretos especificam o funcionamento de cada órgão,
+detalhando o quadro de cargos e funções.
 
 Administração indireta
 ----------------------
 
-A administração indireta tem como função principal a execução de políticas públicas e é integrada por entidades dotadas de personalidade jurídica própria, autonomia administrativa e funcional, vinculadas aos fins definidos em suas leis de criação.
+A administração indireta tem como função principal a execução de políticas públicas e
+é integrada por entidades dotadas de personalidade jurídica própria, autonomia
+administrativa e funcional, vinculadas aos fins definidos em suas leis de criação.
 
 A administração indireta compreende:
 
-1. **Entidades estatais de direito público:** Autarquias e fundações públicas (incluindo as fundações autárquicas e autarquias fundacionais).
-2. **Entidades estatais de direito privado:** Empresas estatais e fundações instituídas pelo poder público com personalidade jurídica de direito privado.
+1. **Entidades estatais de direito público:** Autarquias e fundações públicas
+   (incluindo as fundações autárquicas e autarquias fundacionais).
+2. **Entidades estatais de direito privado:** Empresas estatais e fundações
+   instituídas pelo poder público com personalidade jurídica de direito privado.
 
-A vinculação dessas entidades aos órgãos da administração direta é estabelecida por ato do Poder Executivo federal, atualmente disposta no `[inserir link para o decreto]`. 
+A vinculação dessas entidades aos órgãos da administração direta é estabelecida por
+ato do Poder Executivo federal, atualmente disposta no `[inserir link para o decreto]`.
 
 .. note::
-   Caso a proposta de alteração da estrutura regimental de um Ministério inclua ou remova a vinculação de uma entidade, o respectivo Decreto de estrutura deverá prever a devida alteração ou revogação no decreto de vinculação vigente.
+   Caso a proposta de alteração da estrutura regimental de um Ministério inclua ou
+   remova a vinculação de uma entidade, o respectivo Decreto de estrutura deverá
+   prever a devida alteração ou revogação no decreto de vinculação vigente.
 
 Autarquia e fundação pública
 ++++++++++++++++++++++++++++
 
-Trata-se da pessoa jurídica de direito público, criada por lei específica, para prestar serviços públicos ou executar atividades administrativas que exijam poderes próprios de Estado.
+Trata-se da pessoa jurídica de direito público, criada por lei específica, para prestar
+serviços públicos ou executar atividades administrativas que exijam poderes próprios
+de Estado.
 
-A decisão de descentralizar uma atividade que demanda poder de império para uma entidade autárquica baseia-se em objetivos estratégicos de gestão:
+.. important::
+   A descentralização de atividades pode ocorrer em dois planos distintos:
 
-* **Especialização:** Permite que estruturas focadas lidem com setores técnicos complexos com maior expertise do que o governo central.
-* **Descentralização:** Aproxima a prestação dos serviços públicos das realidades locais, melhorando a responsividade regional.
-* **Flexibilidade administrativa:** A autonomia financeira e administrativa confere agilidade na tomada de decisões e na adaptação a cenários dinâmicos.
-* **Redução da burocracia:** Simplifica o fluxo decisório ao evitar que demandas operacionais do cotidiano sobrecarreguem o núcleo central do governo.
-* **Responsabilização (Accountability):** Estruturas de governança próprias, como diretorias colegiadas, aumentam a transparência e aproximam o órgão do controle social.
-* **Captação de recursos:** Confere a capacidade legal de gerar receitas próprias por meio de taxas e tarifas. Contudo, na esfera federal, o impacto prático dessa autonomia financeira é mitigado devido à centralização e à arrecadação unificada das receitas da União.
+   * **Dentro da administração pública** — por meio de entidades com personalidade
+     jurídica própria, como autarquias, fundações públicas ou empresas estatais.
+   * **Fora da administração pública** — por meio de parcerias com a sociedade
+     civil, como organizações sociais e OSCIPs.
+
+A opção pela descentralização — seja para dentro ou para fora da administração —
+costuma basear-se nos mesmos objetivos estratégicos de gestão:
+
+* **Especialização:** Permite que estruturas focadas lidem com setores técnicos
+  complexos com maior expertise do que o governo central.
+* **Descentralização:** Aproxima a prestação dos serviços públicos das realidades
+  locais, melhorando a responsividade regional.
+* **Flexibilidade administrativa:** A autonomia financeira e administrativa confere
+  agilidade na tomada de decisões e na adaptação a cenários dinâmicos.
+* **Redução da burocracia:** Simplifica o fluxo decisório ao evitar que demandas
+  operacionais sobrecarreguem o núcleo central do governo.
+* **Responsabilização:** Estruturas de governança próprias, como diretorias
+  colegiadas, aumentam a transparência e aproximam o órgão do controle social.
+* **Captação de recursos:** Confere capacidade legal de gerar receitas próprias
+  por meio de taxas e tarifas — embora, na esfera federal, esse impacto seja
+  mitigado pela centralização da arrecadação da União.
 
 Autarquias de regime especial
 +++++++++++++++++++++++++++++
 
-As autarquias de regime especial são aquelas às quais a Constituição ou a Lei outorgou maior grau de autonomia. Suas prerrogativas típicas incluem a garantia de mandato fixo e estabilidade para seus dirigentes, além da impossibilidade de revisão de seus atos técnicos pela administração direta, ressalvada a atuação do Poder Judiciário.
+As autarquias de regime especial são aquelas às quais a Constituição ou a lei outorgou
+maior grau de autonomia. Suas prerrogativas típicas incluem a garantia de mandato fixo
+e estabilidade para seus dirigentes, além da impossibilidade de revisão de seus atos
+técnicos pela administração direta, ressalvada a atuação do Poder Judiciário.
 
 São exemplos consolidados as agências reguladoras e o Banco Central do Brasil.
 
 Empresa estatal
 +++++++++++++++
 
-É a entidade dotada de personalidade jurídica de direito privado e fins econômicos, cuja maioria do capital votante pertença, direta ou indiretamente, à União. Sua atuação volta-se à prestação de serviços públicos ou à exploração de atividade econômica de bens e serviços (Art. 2º, I do Decreto nº 8.945/2016).
+É a entidade dotada de personalidade jurídica de direito privado e fins econômicos,
+cuja maioria do capital votante pertença, direta ou indiretamente, à União. Sua atuação
+volta-se à prestação de serviços públicos ou à exploração de atividade econômica
+(Art. 2º, I do Decreto nº 8.945/2016).
 
-Sua criação depende de autorização legislativa e é efetivada por Decreto do Poder Executivo por razões de segurança nacional ou relevante interesse coletivo, podendo assumir duas formas:
+Sua criação depende de autorização legislativa e é efetivada por Decreto do Poder
+Executivo por razões de segurança nacional ou relevante interesse coletivo. Essa
+entidade pode assumir duas configurações jurídicas:
 
 Sociedade de economia mista
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Explora atividade econômica sob a forma de sociedade anônima (S.A.), permitindo a participação de capital privado, desde que a maioria das ações com direito a voto permaneça com a União (Art. 2º, III do Decreto nº 8.945/2016).
+Explora atividade econômica sob a forma de sociedade anônima (S.A.), permitindo a
+participação de capital privado, desde que a maioria das ações com direito a voto
+permaneça com a União (Art. 2º, III do Decreto nº 8.945/2016).
 
 Empresa pública
-^^^^^^^^^^^^^^^^
-Seu capital social é constituído por recursos provenientes exclusivamente do setor público, admitindo-se a participação de outros entes da administração, desde que a maioria do capital votante continue com a União (Art. 2º, II do Decreto nº 8.945/2016).
+^^^^^^^^^^^^^^^
+Seu capital social é constituído por recursos provenientes exclusivamente do setor
+público, admitindo-se a participação de outros entes da administração, desde que a
+maioria do capital votante continue com a União (Art. 2º, II do Decreto nº 8.945/2016).
 
-A relação atualizada das empresas estatais federais pode ser encontrada junto às publicações da Secretaria de Coordenação e Governança das Empresas Estatais (SEST), no endereço eletrônico `Estatais <https://www.gov.br/gestao/pt-br/assuntos/estatais>`_.
+A relação atualizada das empresas estatais federais está disponível no portal da
+Secretaria de Coordenação e Governança das Empresas Estatais (SEST):
+`Estatais <https://www.gov.br/gestao/pt-br/assuntos/estatais>`_.
 
 Fundação instituída pelo poder público de direito privado
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-O Decreto-Lei nº 200, de 1967 (com redação dada pela Lei nº 7.596/1987), define-a como a entidade sem fins lucrativos, dotada de personalidade jurídica de direito privado, criada por autorização legislativa para o desenvolvimento de atividades que não exijam execução por órgãos de direito público. Conta com autonomia administrativa, patrimônio próprio e funcionamento custeado por recursos da União e de outras fontes.
+O Decreto-Lei nº 200, de 1967 (com redação dada pela Lei nº 7.596/1987), define-a como
+entidade sem fins lucrativos, dotada de personalidade jurídica de direito privado,
+criada por autorização legislativa para o desenvolvimento de atividades que não exijam
+execução por órgãos de direito público. Conta com autonomia administrativa, patrimônio
+próprio e funcionamento custeado por recursos da União e de outras fontes.
 
-De acordo com o inciso XIX do art. 37 da Constituição Federal de 1988, a instituição de fundação é autorizada por lei, cabendo à lei complementar a definição das suas áreas de atuação. O Supremo Tribunal Federal chancelou a constitucionalidade desse modelo (ADI nº 4.197 SE).
+De acordo com o inciso XIX do art. 37 da Constituição Federal de 1988, a instituição
+de fundação é autorizada por lei, cabendo à lei complementar a definição das suas áreas
+de atuação. O Supremo Tribunal Federal chancelou a constitucionalidade desse modelo
+(ADI nº 4.197 SE).
 
-Na :numref:`ADM-direta-indireta` há uma visualização **idealizada** dos tipos institucionais correlacionados com suas funções, atividades e áreas de atuação.
+Na :numref:`ADM-direta-indireta` há uma visualização **idealizada** dos tipos
+institucionais correlacionados com suas funções, atividades e áreas de atuação.
 
 .. _ADM-direta-indireta:
 .. figure:: ../_static/images/APF_direta_indireta.png
@@ -104,8 +186,8 @@ Na :numref:`ADM-direta-indireta` há uma visualização **idealizada** dos tipos
    .. list-table::
       :header-rows: 1
       :widths: 18 22 22 22 16
-      
-      - * 
+
+      - *
         * Administração direta
         * Autarquia (ou fundação pública, fundação autárquica, autarquia fundacional e autarquia especial)
         * Empresa estatal (empresa pública ou sociedade de economia mista)
@@ -142,25 +224,43 @@ Na :numref:`ADM-direta-indireta` há uma visualização **idealizada** dos tipos
         * Direito privado, CLT, regras próprias
 
 .. note::
-   Por razões históricas, existem desconformidades na alocação de certas atividades na administração pública federal. Há funções finalísticas da área social sendo executadas diretamente por ministérios ou empresas estatais, bem como autarquias desempenhando papéis que não demandam poder de império. Esse descompasso institucional gera restrições e controles inadequados ao tipo de atividade, afetando negativamente o desempenho institucional. Portanto, propostas de reestruturação devem buscar continuamente a correção desse modelo.
+   Por razões históricas, existem desconformidades na alocação de certas atividades na
+   administração pública federal. Há funções finalísticas da área social sendo executadas
+   diretamente por ministérios ou empresas estatais, bem como autarquias desempenhando
+   papéis que não demandam poder de império. Esse descompasso institucional gera
+   restrições e controles inadequados ao tipo de atividade, afetando negativamente o
+   desempenho institucional. Portanto, propostas de reestruturação devem buscar
+   continuamente a correção desse modelo.
 
 .. important::
-   A execução das políticas públicas não ocorre exclusivamente por meio das estruturas internas do Poder Executivo Federal. Além da descentralização federativa (para estados e municípios), o poder público atua em estreita cooperação com entidades da sociedade civil. Assim, ao desenhar a estratégia de implementação de uma política, os gestores públicos devem sempre considerar os arranjos de parceria como alternativas viáveis à criação de novas estruturas estatais.
+   A execução das políticas públicas não ocorre exclusivamente por meio das estruturas
+   internas do Poder Executivo Federal. Além da descentralização federativa (para estados
+   e municípios), o poder público atua em estreita cooperação com entidades da sociedade
+   civil. Assim, ao desenhar a estratégia de implementação de uma política, os gestores
+   públicos devem sempre considerar os arranjos de parceria como alternativas viáveis à
+   criação de novas estruturas estatais.
 
 Parcerias
 ---------
 
-Uma parcela expressiva das políticas públicas federais é operacionalizada por meio de parcerias com entidades privadas, com ou sem fins lucrativos. 
+Uma parcela expressiva das políticas públicas federais é operacionalizada por meio de
+parcerias com entidades privadas, com ou sem fins lucrativos.
 
-Essa estratégia de descentralização assegura **vantagens cruciais para a administração**:
+Essa estratégia de descentralização traz vantagens relevantes para a administração:
 
-* **Eficiência operacional:** Aproxima o processo decisório dos beneficiários finais, conferindo respostas ágeis e desburocratizadas.
-* **Inovação e adaptação local:** Garante flexibilidade para customizar os programas governamentais de acordo com as peculiaridades regionais.
-* **Participação cívica:** Fortalece o controle social e estimula o engajamento direto da comunidade na execução do serviço público.
-* **Responsabilização (Accountability):** Vincula o repasse de recursos públicos ao cumprimento de metas claras de desempenho.
-* **Redução de desigualdades:** Permite direcionar esforços e ativos para áreas vulneráveis de forma mais direcionada.
+* **Eficiência operacional:** Aproxima o processo decisório dos beneficiários finais,
+  conferindo respostas ágeis e desburocratizadas.
+* **Inovação e adaptação local:** Garante flexibilidade para adaptar os programas
+  governamentais às peculiaridades regionais.
+* **Participação cívica:** Fortalece o controle social e estimula o engajamento direto
+  da comunidade na execução do serviço público.
+* **Responsabilização:** Vincula o repasse de recursos públicos ao cumprimento de metas
+  claras de desempenho.
+* **Redução de desigualdades:** Permite concentrar esforços e recursos em áreas
+  vulneráveis com maior precisão.
 
-A :numref:`Parcerias-label` apresenta os principais instrumentos jurídicos de parceria utilizados pela União.
+A :numref:`Parcerias-label` apresenta os principais instrumentos jurídicos de parceria
+utilizados pela União.
 
 .. _Parcerias-label:
 .. figure:: ../_static/images/Parcerias.png
