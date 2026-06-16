@@ -27,20 +27,15 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
    ao cadastro da nova estrutura no SIORG e nos demais sistemas informatizados
    do governo federal.
  
-A quem se aplica
-----------------
+** A quem se aplica**
+
+   Este manual se aplica aos ministérios, órgãos da Presidência da República e à maioria das autarquias e fundações públicas.
  
-Este manual se aplica aos ministérios, órgãos da Presidência da República e à
-maioria das autarquias e fundações públicas.
+   As Agências Reguladoras, as Instituições Federais de Ensino e o Banco Central do Brasil têm regras próprias, tratadas em seções específicas do manual.
  
-As Agências Reguladoras, as Instituições Federais de Ensino e o Banco Central
-do Brasil têm regras próprias, tratadas em seções específicas do manual.
+**Não encontrou o que procurava?**
  
-Não encontrou o que procurava?
-------------------------------
- 
-Caso reste alguma dúvida, entre em contato pelo endereço eletrônico
-**manualdeestruturas@mgi.gov.br**.
+   Caso reste alguma dúvida, entre em contato pelo endereço eletrônico **manualdeestruturas@mgi.gov.br**.
 
 
 .. O poder executivo federal é dividido em administração direta (ministérios) e indireta (autarquias, fundações públicas e empresas estatais) :cite:`teste2`.
