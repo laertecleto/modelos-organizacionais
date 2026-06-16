@@ -25,7 +25,7 @@ O Parecer de Mérito é o documento que consolida as motivações técnicas para
 
                   a) sobre o meio ambiente; e
 
-                  b) sobre outras políticas públicas, inclusive quanto à interação ou à sobreposição”
+                  b) sobre outras políticas públicas, inclusive quanto à interação ou à sobreposição"
 
       ii. Justificativas específicas para as alterações de competências
 
@@ -44,26 +44,26 @@ O Parecer de Mérito é o documento que consolida as motivações técnicas para
 
             * Exclusão de cargos e funções de chefia de unidades de assistência direta e imediata ao titular do órgão ou entidade;
 
-            * Criação Secretarias com menos de duas Diretorias ou dois Diretores de Programa;
+            * Criação de Secretarias com menos de duas Diretorias ou dois Diretores de Programa;
 
             * Criação de Diretorias com menos de duas Coordenações-Gerais ou dois Gerentes de Projeto.
 
 
-      iv)   Impacto orçamentário da proposta
+      iv. Impacto orçamentário da proposta
 
       O impacto orçamentário da proposta deve estar explicitado no parecer de mérito, de forma a demonstrar os custos da nova estrutura para o exercício corrente (a partir da vigência pretendida (link)) e para os dois exercícios subsequentes.
 
       .. important::
 
-            A partir das orientações da Secretaria de Orçamento Federal (SOF), Diretoria de Modelos Organizacionais, da Seges, desenvolveu uma planilha que informa automaticamente o impacto orçamentário da proposta, a partir do quadro demonstrativo dos cargos e funções.
+            A partir das orientações da Secretaria de Orçamento Federal (SOF), a Diretoria de Modelos Organizacionais, da Seges, desenvolveu uma planilha que informa automaticamente o impacto orçamentário da proposta, a partir do quadro demonstrativo dos cargos e funções.
 
-            O cálculo considera as remunerações mensais de cada cargo ou função adicionado à estrutura ou transformado, incluindo valores referentes à contribuição previdenciária pela União, décimo-terceiro salário e gratificação natalina. 
+            O cálculo considera as remunerações mensais de cada cargo ou função adicionado à estrutura ou transformado, incluindo valores referentes à contribuição previdenciária pela União, décimo-terceiro salário e gratificação natalina.
 
-            **(Download, com passo a passo sobre a planilha?)**
+.. Download com passo a passo sobre a planilha a ser inserido
 
 
       .. warning::
 
-            Os padrões adotados nos órgãos e entidades do Poder Executivo federal facilitam a compreensão das estruturas pelos cidadãos e por outros agentes públicos, além de oferecer parâmetros importantes às análises pelo órgão central.  
+            Os padrões adotados nos órgãos e entidades do Poder Executivo federal facilitam a compreensão das estruturas pelos cidadãos e por outros agentes públicos, além de oferecer parâmetros importantes às análises pelo órgão central.
 
             Por esses motivos, alterações que fogem aos padrões e às recomendações desse manual ensejam uma análise mais detalhada do caso pelo órgão central, sendo necessário que a justificativa demonstre claramente as razões que motivariam a excepcionalidade.

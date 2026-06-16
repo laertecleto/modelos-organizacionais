@@ -22,7 +22,7 @@ Cada cargo ou função tem um código que identifica o tipo, a categoria e o ní
 E cada código possui uma ou mais denominações específicas, conforme a tabela XXX.
 
 .. seealso::
-   
+
    Para saber mais sobre os diferentes tipos, categorias e níveis, consulte o capítulo x.
 
 Os cargos e funções existentes no órgão são agrupados conforme regras dispostas no Decreto nº 10.829, de 2021, que já orientou o desenho do Anexo I: se a unidade consta no art. 2º, há competência descrita e a unidade precisa ser nomeada no quadro demonstrativo. Essa unidade e os cargos e funções a ela subordinados compõem um grupo, no qual as unidades subordinadas recebem nomenclatura genérica e são apresentadas de forma agrupada.
@@ -33,7 +33,7 @@ Os cargos e funções existentes no órgão são agrupados conforme regras dispo
    :align: center
    :name: Quadro de Cargos e Funções
 
-Como se observa do exemplo acima, a organização do quadro demonstrativo respeita a seguinte ordem para cada grupo:
+Como se observa no exemplo acima, a organização do quadro demonstrativo respeita a seguinte ordem para cada grupo:
 
 Primeira linha do grupo:
 
@@ -53,7 +53,7 @@ Cargo ou função da chefia adjunta, se o grupo for chefiado por um cargo ou fun
 
       Coluna 2: quantidade de chefias adjuntas (usualmente limitada a 1);
 
-      Coluna 3: Nome do cargo ou função da chefia da unidade seguido do termo “Adjunto”; e
+      Coluna 3: Nome do cargo ou função da chefia da unidade seguido do termo "Adjunto"; e
 
       Coluna 4: Código do cargo ou função com o segundo maior nível do grupo, necessariamente de categoria 1 (direção).
 
@@ -65,7 +65,7 @@ Linhas seguintes:
 
 Observam a ordem decrescente de nível. Dentro do mesmo nível, observa-se a ordem crescente da categoria. Se existe um cargo e uma função com a mesma categoria e o mesmo nível, o cargo (CCE) é posicionado antes da função (FCE).
 
-Finalizada a descrição do grupo, pula-se uma linha da tabela e inicia-se o grupo com a próxima unidade descrita no art. art. 2º do Anexo I.
+Finalizada a descrição do grupo, pula-se uma linha da tabela e inicia-se o grupo com a próxima unidade descrita no art. 2º do Anexo I.
 
 O que mais levar em consideração:
 

@@ -1,8 +1,8 @@
 Conhecendo as unidades administrativas da administração indireta e suas regras específicas
 ==========================================================================================
 
-As regras a seguir focam na estruturação hierárquica das unidades, que são chefiadas por ocupantes de cargos e funções da categoria 1. No entanto, outros tipos de cargos e funções (categorias 2, 3 e 4), que não são visíveis no organograma do órgão, podem compor a estrutura de cada unidade. 
- 
+As regras a seguir focam na estruturação hierárquica das unidades, que são chefiadas por ocupantes de cargos e funções da categoria 1. No entanto, outros tipos de cargos e funções (categorias 2, 3 e 4), que não são visíveis no organograma do órgão, podem compor a estrutura de cada unidade.
+
 A regra básica para definir se um cargo ou função pode ser inserido em dada unidade é: se o nível for menor do que o atribuído ao titular, é possível alocá-lo na unidade. Aqui é possível saber mais sobre as nomenclaturas e atuação associadas a cada categoria.
 
 Órgãos de assistência direta e imediata à autoridade máxima da entidade
@@ -18,13 +18,7 @@ A regra básica para definir se um cargo ou função pode ser inserido em dada u
 
             Sobre as competências: necessariamente descritas em Decreto.
 
-                  Sugere-se, no mínimo:
-
-                  Não há um padrão 
- 
-                  Ainda, dependem de sua estruturação (por exemplo: se exerce atividades de cerimonial).
-
-                  Devem contemplar, no mínimo...
+.. Sugestão mínima de competências e dependências de estruturação a serem desenvolvidas
 
       b) Assessorias
 
@@ -48,14 +42,14 @@ A regra básica para definir se um cargo ou função pode ser inserido em dada u
 
             * Assessoria Parlamentar
 
-      
+
       .. warning::
 
             O uso da denominação *Assessoria* para designar uma unidade é restrita àquela de assistência direta e imediata à autoridade máxima – a existência de assessores não implica a constituição de unidade administrativa desse tipo.
 
 
       .. important::
-   
+
             É possível estruturar uma Coordenação-Geral vinculada diretamente à autoridade máxima da entidade.
 
             **Mas atenção**:
@@ -66,8 +60,8 @@ A regra básica para definir se um cargo ou função pode ser inserido em dada u
 Órgãos seccionais
 -----------------
 
-São aquelas unidades que executam atividades comuns a todos os órgãos, sob coordenação de um órgão central, formando um sistema estruturador. 
- 
+São aquelas unidades que executam atividades comuns a todos os órgãos, sob coordenação de um órgão central, formando um sistema estruturador.
+
 
       a) Ouvidoria
 
@@ -88,7 +82,7 @@ São aquelas unidades que executam atividades comuns a todos os órgãos, sob co
 
             Apesar de elencadas dentre os órgãos seccionais, as unidades de ouvidoria das entidades - ou aquelas responsáveis pelas atividades de ouvidoria - são classificadas como unidades setoriais do Sistema de Ouvidoria do Poder Executivo federal (art. 6º do Decreto nº 9.492, de 2018).
 
-            Assim, a nomeação, a designação, a exoneração ou a dispensa dos titulares sessas unidades deve ser submetida, pelo dirigente máximo do órgão ou da entidade, à aprovação da Controladoria-Geral da União.
+            Assim, a nomeação, a designação, a exoneração ou a dispensa dos titulares dessas unidades deve ser submetida, pelo dirigente máximo do órgão ou da entidade, à aprovação da Controladoria-Geral da União.
 
 
       b) Corregedoria
@@ -145,7 +139,7 @@ São aquelas unidades que executam atividades comuns a todos os órgãos, sob co
 
             Sobre as competências: necessariamente descritas em Decreto e devem estar alinhadas ao constante no art. 10 da Lei nº 10.480, de 2 de julho de 2002.
 
-            As Procuradorias Federais junto às autarquias e às fundações públicas federais são órgãos de execução da Procuradoria-Geral Federal (da Advocacia-Geral da União). Integram a estrutura organizacional das respectivas entidades, sendo subordinadas administrativamente ao Ministro, mas nos aspectos técnico e jurídico, subordinam-se ao Procurador-Geral Federal, conforme art. 10, § 2º, da Lei nº 10.480, de 2002.
+            As Procuradorias Federais junto às autarquias e às fundações públicas federais são órgãos de execução da Procuradoria-Geral Federal (da Advocacia-Geral da União). Integram a estrutura organizacional das respectivas entidades, sendo subordinadas administrativamente à autoridade máxima da entidade, mas nos aspectos técnico e jurídico, subordinam-se ao Procurador-Geral Federal, conforme art. 10, § 2º, da Lei nº 10.480, de 2002.
 
 
       e) Diretoria de Gestão, Diretoria-Executiva ou equivalente
@@ -202,12 +196,12 @@ São aquelas unidades que executam atividades comuns a todos os órgãos, sob co
             Sobre as competências: não constam em Decreto, mas precisam ser inseridas no sistema informatizado Siorg.
 
       Regra específica sobre a estrutura de cargos e funções que compõem as demais unidades: devem ser agrupados, abaixo da Diretoria ou Departamento superior, conforme regras associadas ao Quadro demonstrativo dos cargos em comissão e das funções comissionadas.
- 
+
 Unidades descentralizadas
 -------------------------
 
       O termo se refere à descentralização física, ou seja, às unidades da entidade situadas em município diferente do da sede e que executam ações em nível local.
- 
+
       Unidades obrigatórias: não
 
       Sobre a nomenclatura da unidade: definida conforme atuação.
@@ -228,15 +222,15 @@ Unidades descentralizadas
 
       Sobre as competências: necessariamente descritas em Decreto, em seção própria, independentemente da subordinação - esta deve constar no caput do artigo específico.
 
-      Por exemplo: 
+      Por exemplo:
 
-                  “**Seção III**
+                  "**Seção III**
 
                   **Das unidades descentralizadas**
 
                   Art. xx.  Às Superintendências Regionais, supervisionadas pela [nome da unidade], compete executar:
 
-                  I - ...”
+                  I - ..."
 
 
       Regras específicas sobre a estrutura de cargos e funções que compõem as unidades descentralizadas
@@ -253,22 +247,22 @@ Unidades descentralizadas
 Órgãos colegiados
 -----------------
 
-      Os órgãos colegiados são os órgãos integrados por mais de uma autoridade, nos quais a decisão é tomada de forma coletiva, com o aproveitamento de experiências diferenciadas. Seus representantes podem ser originários do setor público, do setor privado ou da sociedade civil, segundo a natureza da representação. São conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões etc. 
- 
+      Os órgãos colegiados são os órgãos integrados por mais de uma autoridade, nos quais a decisão é tomada de forma coletiva, com o aproveitamento de experiências diferenciadas. Seus representantes podem ser originários do setor público, do setor privado ou da sociedade civil, segundo a natureza da representação. São conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões etc.
+
       Alguns órgãos ou entidades do Poder Executivo federal dispõem, dentro de seu sistema de governança organizacional, de órgãos colegiados de caráter deliberativo, consultivo ou judicante, criados com o propósito de contribuir para o processo decisório institucional de condução de determinada política pública. Esses colegiados participam das decisões sobre os rumos das políticas e não sobre questões de gestão interna dos órgãos aos quais se vinculam.
- 
-      Esses órgãos, embora previstos na estrutura organizacional, não dispõem de estrutura interna de cargos, e se constituem por representantes de órgãos e entidades do Poder Público e, em alguns casos, também de entidades privadas (composição pluripessoal). Seus membros não detêm cargos pela participação no conselho e não recebem remuneração de qualquer natureza por essa função. Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior do órgão ou entidade ao qual ele está subordinado. 
+
+      Esses órgãos, embora previstos na estrutura organizacional, não dispõem de estrutura interna de cargos, e se constituem por representantes de órgãos e entidades do Poder Público e, em alguns casos, também de entidades privadas (composição pluripessoal). Seus membros não detêm cargos pela participação no conselho e não recebem remuneração de qualquer natureza por essa função. Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior do órgão ou entidade ao qual ele está subordinado.
 
       São exemplos: Comitê Gestor, Câmara Recursal, Conselho Técnico-Científico, Conselho Superior; Conselho Deliberativo; Conselho Consultivo.
 
 Particularidades da estrutura regimental das Agências Reguladoras
 -----------------------------------------------------------------
 
-      Agências reguladoras são autarquias especiais com regime jurídico próprio, que possuem cargos com atribuições exclusivas para regular setores econômicos específicos (ex.: proteção de dados, energia, telecomunicação). Apesar de também integrarem a Administração Indireta, possuem maior autonomia técnica, decisória, administrativa e financeira do que as autarquias comuns. 
+      Agências reguladoras são autarquias especiais com regime jurídico próprio, que possuem cargos com atribuições exclusivas para regular setores econômicos específicos (ex.: proteção de dados, energia, telecomunicação). Apesar de também integrarem a Administração Indireta, possuem maior autonomia técnica, decisória, administrativa e financeira do que as autarquias comuns.
 
-      Consequentemente, possuem significativa flexibilidade para organizar sua estrutura regimental e não precisam de um novo decreto presidencial quando a alteram, contanto que não extrapolem o custo de sua atual estrutura. Assim, a estrutura mais atualizada de uma agência reguladora é aquela que consta em seu regimento interno – aprovado por Resolução de sua Diretoria Colegiada -, razão pela qual o decreto que aprova sua estrutura traz apenas as competências e finalidades da agência e de suas unidades obrigatórias, as regras de funcionamento de seus colegiados e as atribuições de seus dirigentes. 
+      Consequentemente, possuem significativa flexibilidade para organizar sua estrutura regimental e não precisam de um novo decreto presidencial quando a alteram, contanto que não extrapolem o custo de sua atual estrutura. Assim, a estrutura mais atualizada de uma agência reguladora é aquela que consta em seu regimento interno – aprovado por Resolução de sua Diretoria Colegiada -, razão pela qual o decreto que aprova sua estrutura traz apenas as competências e finalidades da agência e de suas unidades obrigatórias, as regras de funcionamento de seus colegiados e as atribuições de seus dirigentes.
 
-      Se a agência visar um aumento de sua estrutura de cargos e funções, o pedido segue o mesmo rito das demais autarquias. 
+      Se a agência visar um aumento de sua estrutura de cargos e funções, o pedido segue o mesmo rito das demais autarquias.
 
       Em ambas as situações, a alteração da estrutura regimental, por definição legal, deverá observar o seguinte:
 
@@ -282,7 +276,7 @@ Particularidades da estrutura regimental das Agências Reguladoras
 
             * A unidade de Ouvidoria será necessariamente chefiada por um CCE ou FCE de código 1.15; e
 
-            * Os cargos e funções de níveis de 1 a 16 terão seus titulares nomeados ou designados por atos da própria agência reguladora.  
+            * Os cargos e funções de níveis de 1 a 16 terão seus titulares nomeados ou designados por atos da própria agência reguladora.
 
 
       .. admonition:: O que consultar
@@ -306,7 +300,7 @@ Particularidades da estrutura regimental das Instituições Federais de Ensino
       As Instituições Federais de Ensino englobam as Instituições Federais de Ensino Superior - Ifes, (autarquias ou fundações públicas), os Institutos Federais de Educação, Ciência e Tecnologia - Ifets (autarquias) e, por equiparação a esses últimos: o Instituto Nacional de Educação de Surdos e o Instituto Benjamim Constant (ambos unidades organizacionais do Ministério da Educação), as Escolas Técnicas e Colégios de Aplicação vinculados às Ifes, os centros federais de educação tecnológica e o Colégio Pedro I.
 
       .. seealso::
-   
+
             A Lei nº 11.892, de 29 de dezembro de 2008, elenca as Ifets e suas sedes e traz suas finalidades e as definições gerais sobre sua estrutura organizacional. Essa Lei deve ser consultada quanto aos critérios para nomeação de seus dirigentes. De forma geral, é relevante apontar que cada Ifet:
 
                   * É organizado em estrutura multicampi;
@@ -320,26 +314,26 @@ Particularidades da estrutura regimental das Instituições Federais de Ensino
             As Ifes são criadas por leis específicas, onde constam informações sobre a sede, sua organização, finalidade, patrimônio e regras de transição.
 
 
-      Todas as Instituições Federais de Ensino dispõem de cargos e funções específicos (link para parte específica do Manual), desenhados para uma adequada gestão de organizações voltadas ao ensino. 
+      Todas as Instituições Federais de Ensino dispõem de cargos e funções específicos (link para parte específica do Manual), desenhados para uma adequada gestão de organizações voltadas ao ensino.
 
       .. warning::
 
             As transformações e realocações dos Cargos de Direção, Funções Gratificadas e Funções Comissionadas de Coordenação de Curso somente poderá ocorrer no âmbito da própria instituição ou entre instituições de ensino.
 
-            O órgão responsável pela gestão e distribuição desses cargos e funções é o Ministério da Educação, a quem compete analisar as demandas das instituições federais de ensino. Se necessárias transformações, cabe ao MEC instruir o processo necessário à edição de decreto presidencial e submetê-lo ao MGI, garantindo que o ato ocorra sem aumento de despesa (download de modelo). 
+            O órgão responsável pela gestão e distribuição desses cargos e funções é o Ministério da Educação, a quem compete analisar as demandas das instituições federais de ensino. Se necessárias transformações, cabe ao MEC instruir o processo necessário à edição de decreto presidencial e submetê-lo ao MGI, garantindo que o ato ocorra sem aumento de despesa (download de modelo).
 
             Aqui, é possível baixar planilha que permite a geração da tabela de transformação e o cálculo do impacto orçamentário da medida.
 
 
       Cargos e Funções das instituições federais de ensino
 
-            As instituições federais de ensino (Instituições Federais de Ensino Superior, Institutos Federais de Educação, Ciência e Tecnologia, Centros Federais de Educação Tecnológica, Escolas Agrotécnicas Federais, Escolas Técnicas Federais e Instituições Federais de Ensino Militar) se estruturam a partir dos Cargos de Direção – CD, divididos em quatro níveis, das Funções Gratificadas, divididas em nove níveis, e das Funções Comissionadas de Coordenação de Curso – FCC. 
+            As instituições federais de ensino (Instituições Federais de Ensino Superior, Institutos Federais de Educação, Ciência e Tecnologia, Centros Federais de Educação Tecnológica, Escolas Agrotécnicas Federais, Escolas Técnicas Federais e Instituições Federais de Ensino Militar) se estruturam a partir dos Cargos de Direção – CD, divididos em quatro níveis, das Funções Gratificadas, divididas em nove níveis, e das Funções Comissionadas de Coordenação de Curso – FCC.
 
             Todos esses cargos e funções são criados no âmbito do Ministério da Educação, a quem cabe definir a distribuição entre as instituições federais de ensino.
 
             * Cargos de Direção (CD)
 
-                  Foram instituídos pela Lei nº 8.168, de 16 de janeiro de 1991. Os Reitores ocupam, necessariamente, o CD-I. 
+                  Foram instituídos pela Lei nº 8.168, de 16 de janeiro de 1991. Os Reitores ocupam, necessariamente, o CD-I.
 
             * Funções Gratificadas (FG)
 

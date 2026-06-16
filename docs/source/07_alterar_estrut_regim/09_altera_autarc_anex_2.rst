@@ -1,8 +1,8 @@
 Alteração do quadro demonstrativo dos cargos em comissão e das funções comissionadas - ANEXO II a
 =================================================================================================
- 
+
 O quadro demonstrativo de cargos é um resumo do organograma do órgão que foi descrito no art. 2º do Anexo I, representado por uma tabela. A fim de facilitar as consultas aos decretos vigentes, convencionou-se substituir esse quadro por inteiro sempre que sofre alterações.
- 
+
 Essa tabela é formada por quatro colunas e traz todos os cargos em comissão e as funções comissionadas de que o órgão dispõe, representados por códigos.
 
 **FIGURA**
@@ -24,14 +24,14 @@ Como se observa do exemplo acima, a organização do quadro demonstrativo respei
             Coluna 3: Nome do cargo ou função da chefia da unidade (que não pode se repetir no mesmo grupo); e
 
             Coluna 4: código do cargo ou função do chefe da unidade, necessariamente de categoria 1 (direção), no maior nível do grupo.
-  
+
 
       Linhas seguintes:
 
             Observam a ordem decrescente de nível. Dentro do mesmo nível, observa-se a ordem crescente da categoria. Se existe um cargo e uma função com a mesma categoria e o mesmo nível, o cargo (CCE) é posicionado antes da função (FCE).
- 
-            Finalizada a descrição do grupo, pula-se uma linha da tabela e inicia-se o grupo com a próxima unidade descrita no art. art. 2º do Anexo I.
- 
+
+            Finalizada a descrição do grupo, pula-se uma linha da tabela e inicia-se o grupo com a próxima unidade descrita no art. 2º do Anexo I.
+
       O que mais levar em consideração:
 
             1)    Os primeiros cargos e funções constantes na tabela serão os que assessoram diretamente a autoridade máxima (categorias 2 ou 3);
@@ -41,5 +41,5 @@ Como se observa do exemplo acima, a organização do quadro demonstrativo respei
             3)    Todas as alterações realizadas por portaria da autoridade máxima devem ser consideradas no novo quadro demonstrativo (e no quadro resumo de custos), já que esse será o retrato mais recente da estrutura da entidade. Alterações não incorporadas – ainda que acidentalmente - exigirão, portanto, nova portaria de realocação ou permuta e, provavelmente, novos atos de nomeação ou designação;
 
             4)    O custo da estrutura proposta deve sempre ser considerado no ato de sua construção. Propostas com impacto orçamentário dependem da disponibilidade de cargos e funções na reserva técnica e exigem articulação junto à Seges, podendo não ser acatadas em sua integralidade, ainda que cumpram requisitos legais e de boas práticas.
- 
+
 As demais tabelas que compõem o decreto que aprova a estrutura regimental ou estatuto seguem essas regras.

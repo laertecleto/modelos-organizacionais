@@ -1,7 +1,7 @@
 Conhecendo as unidades administrativas da administração direta e suas regras específicas
 ========================================================================================
 
-As regras a seguir focam na estruturação hierárquica das unidades, que são chefiadas por ocupantes de cargos e funções da categoria 1. No entanto, outros tipos de cargos e funções (categorias 2, 3 e 4), que não são visíveis no organograma do órgão, podem compor a estrutura de cada unidade. 
+As regras a seguir focam na estruturação hierárquica das unidades, que são chefiadas por ocupantes de cargos e funções da categoria 1. No entanto, outros tipos de cargos e funções (categorias 2, 3 e 4), que não são visíveis no organograma do órgão, podem compor a estrutura de cada unidade.
 
 A regra básica para definir se um cargo ou função pode ser inserido em dada unidade é: se o nível for menor do que o atribuído ao titular, é possível alocá-lo na unidade. Aqui é possível saber mais sobre as nomenclaturas e atuação associadas a cada categoria.
 
@@ -16,13 +16,11 @@ Nomenclatura permite complemento: não
 
 Sobre o titular: Chefe de Gabinete, ocupante de cargo ou função, necessariamente de código 1.15 ou 1.16 em Ministérios. Em órgãos da Presidência da República, foi convencionado o código 1.17.
 
-Sobre as competências: necessariamente descritas em Decreto. 
+Sobre as competências: necessariamente descritas em Decreto.
 
-Sugere-se, no mínimo:
-Não há um padrão 
-
-Ainda, dependem de sua estruturação (por exemplo: se exerce atividades de cerimonial). 
-Devem contemplar, no mínimo...
+.. Sugere-se, no mínimo: conteúdo a ser desenvolvido
+.. Ainda, dependem de sua estruturação (por exemplo: se exerce atividades de cerimonial).
+.. Devem contemplar, no mínimo: conteúdo a ser desenvolvido
 
 **b) Assessoria Especial de Controle Interno**
 
@@ -64,12 +62,12 @@ São Assessorias típicas:
 
 .. warning::
 
-   O uso da denominação “Assessoria” para designar uma unidade é restrita àquela de assistência direta e imediata Ministro de Estado – a existência de assessores não implica a constituição de unidade administrativa desse tipo.
+   O uso da denominação "Assessoria" para designar uma unidade é restrita àquela de assistência direta e imediata Ministro de Estado – a existência de assessores não implica a constituição de unidade administrativa desse tipo.
 
 Órgãos setoriais
 ----------------
 
-São aquelas unidades que executam atividades comuns a todos os órgãos, sob coordenação de um órgão central, formando um sistema estruturador. 
+São aquelas unidades que executam atividades comuns a todos os órgãos, sob coordenação de um órgão central, formando um sistema estruturador.
 
       *Ouvidoria*
 
@@ -114,7 +112,7 @@ São aquelas unidades que executam atividades comuns a todos os órgãos, sob co
 
             Nomenclatura permite complemento: não
 
-            Sobre o titular: Consultor Jurídico, necessariamente FCE, usualmente de código 1.15. 
+            Sobre o titular: Consultor Jurídico, necessariamente FCE, usualmente de código 1.15.
 
             Sobre as competências: necessariamente descritas em Decreto, definidas pelo art. 11 da Lei Complementar nº 73, de 10 de fevereiro de 1993.
 
@@ -143,7 +141,7 @@ Secretaria-Executiva
 
             * Sistema de Serviços Gerais - SISG
 
-            * Sistema de Contabilidade Federal 
+            * Sistema de Contabilidade Federal
 
 Sobre as competências: necessariamente descritas em Decreto.
 
@@ -155,9 +153,9 @@ Sugere-se:
 
       *II - orientar, no âmbito do Ministério, a execução das atividades de administração patrimonial e das atividades relacionadas aos sistemas federais de planejamento e de orçamento, de contabilidade, de administração financeira, de administração dos recursos de informação e informática, de recursos humanos, de organização e inovação institucional e de serviços gerais*.
 
-      *Parágrafo único.  A Secretaria-Executiva exerce a função de órgão setorial dos Sistemas de Planejamento e de Orçamento Federal, de Administração Financeira Federal, de Organização e Inovação Institucional - SIORG, de Gestão de Documentos de Arquivo - SIGA, de Pessoal Civil da Administração Federal - SIPEC, de Serviços Gerais - SISG, de Contabilidade Federal e de Administração dos Recursos de Tecnologia da Informação - SISP*”.
+      *Parágrafo único.  A Secretaria-Executiva exerce a função de órgão setorial dos Sistemas de Planejamento e de Orçamento Federal, de Administração Financeira Federal, de Organização e Inovação Institucional - SIORG, de Gestão de Documentos de Arquivo - SIGA, de Pessoal Civil da Administração Federal - SIPEC, de Serviços Gerais - SISG, de Contabilidade Federal e de Administração dos Recursos de Tecnologia da Informação - SISP*".
 
-Caso o órgão integre o Centro de Serviços Compartilhados Colaboragov, a Secretaria de Serviços Compartilhados, do Ministério da Gestão e da Inovação em Serviços Públicos, atua como órgão setorial desses sistemas, nos termos do Decreto nº 11.837, de 21 de dezembro de 2023. 
+Caso o órgão integre o Centro de Serviços Compartilhados Colaboragov, a Secretaria de Serviços Compartilhados, do Ministério da Gestão e da Inovação em Serviços Públicos, atua como órgão setorial desses sistemas, nos termos do Decreto nº 11.837, de 21 de dezembro de 2023.
 
 Regras específicas sobre a estrutura de cargos e funções que compõem a Secretaria-Executiva:
 
@@ -179,7 +177,7 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 
       Nomenclatura permite complemento: sim, necessariamente
 
-      Sobre o titular: Secretário, CCE ou FCE, necessariamente de código 1.17. 
+      Sobre o titular: Secretário, CCE ou FCE, necessariamente de código 1.17.
 
       Sobre as competências: necessariamente descritas em Decreto.
 
@@ -191,7 +189,7 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 
       2. Às Secretarias se subordinam Diretorias ou Departamentos, responsáveis por executar as atividades, políticas e programas planejadas no âmbito da Secretaria.
 
-      3. É possível estruturar uma ou mais unidades de nível 14 ou menor para atuação na assistência direta ao Secretário. No entanto, sugere-se cautela nessa medida, a fim de manter a racionalidade do desenho organizacional da unidade, evitando sobreposição à atuação dos Departamentos e Diretorias. 
+      3. É possível estruturar uma ou mais unidades de nível 14 ou menor para atuação na assistência direta ao Secretário. No entanto, sugere-se cautela nessa medida, a fim de manter a racionalidade do desenho organizacional da unidade, evitando sobreposição à atuação dos Departamentos e Diretorias.
 
 
       *II - Departamentos e Diretorias*
@@ -202,7 +200,7 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 
       Sobre o titular: Diretor, CCE ou FCE, código 1.15 ou 1.16, a depender do volume processos e pessoal subordinado, e da complexidade da atuação.
 
-      Sobre as competências: necessariamente descritas em Decreto ?????.
+      Sobre as competências: necessariamente descritas em Decreto.
 
       Os Departamentos ou Diretorias devem ser organizados de forma a dar concretude às competências da Secretaria a qual estejam subordinadas. Nesse sentido, suas competências devem, necessariamente ser desdobramentos daquelas da Secretaria.
 
@@ -212,7 +210,7 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 
       2. Às Diretorias e Departamentos podem se subordinar todas as unidades e cargos e funções de nível inferior àquele atribuído ao Diretor, à exceção das unidades reservadas à assessoria direta e imediata ao Ministro.
 
-      3. Todas as unidades, cargos e funções subordinados às Diretorias e Departamentos comporão um único bloco, organizando-se conforme regras associadas ao Quadro demonstrativo dos cargos em comissão e das funções comissionadas. 
+      3. Todas as unidades, cargos e funções subordinados às Diretorias e Departamentos comporão um único bloco, organizando-se conforme regras associadas ao Quadro demonstrativo dos cargos em comissão e das funções comissionadas.
 
 
       *III - Outras Unidades*
@@ -244,7 +242,7 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 
 .. warning::
 
-   Na definição da nomenclatura da unidade descentralizada, não devem ser utilizadas as seguintes denominações: “Secretaria”; “Gabinete”; “Secretaria-Executiva”; “Secretaria de Controle Interno”; “Departamento”; “Diretoria” e “Coordenação-Geral”.
+   Na definição da nomenclatura da unidade descentralizada, não devem ser utilizadas as seguintes denominações: "Secretaria"; "Gabinete"; "Secretaria-Executiva"; "Secretaria de Controle Interno"; "Departamento"; "Diretoria" e "Coordenação-Geral".
 
 
 
@@ -254,13 +252,13 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 
       Por exemplo:
 
-            “Seção III
+            "Seção III
 
             Das unidades descentralizadas
 
             Art. xx.  Às Superintendências Federais, supervisionadas pela [*nome da unidade*], compete executar:
 
-            I - ...”
+            I - ..."
 
 
       Regras específicas sobre a estrutura de cargos e funções que compõem as unidades descentralizadas:
@@ -269,19 +267,18 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 
             2. Às unidades descentralizadas podem se subordinar todas as unidades e cargos e funções de nível inferior àquele atribuído aos titulares.
 
-
-**ATENÇÃO: incluir figura aqui**
+.. Inserir figura sobre unidades descentralizadas
 
 
 
 Órgãos colegiados
 -----------------
- 
-      Os órgãos colegiados são os órgãos integrados por mais de uma autoridade, nos quais a decisão é tomada de forma coletiva, com o aproveitamento de experiências diferenciadas. Seus representantes podem ser originários do setor público, do setor privado ou da sociedade civil, segundo a natureza da representação. São conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões etc. 
+
+      Os órgãos colegiados são os órgãos integrados por mais de uma autoridade, nos quais a decisão é tomada de forma coletiva, com o aproveitamento de experiências diferenciadas. Seus representantes podem ser originários do setor público, do setor privado ou da sociedade civil, segundo a natureza da representação. São conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões etc.
 
       Alguns órgãos ou entidades do Poder Executivo federal dispõem, dentro de seu sistema de governança organizacional, de órgãos colegiados de caráter deliberativo, consultivo ou judicante, criados com o propósito de contribuir para o processo decisório institucional de condução de determinada política pública. Esses colegiados participam das decisões sobre os rumos das políticas e não sobre questões de gestão interna dos órgãos aos quais se vinculam.
 
-      Esses órgãos, embora previstos na estrutura organizacional, não dispõem de estrutura interna de cargos, e se constituem por representantes de órgãos e entidades do Poder Público e, em alguns casos, também de entidades privadas (composição pluripessoal). Seus membros não detêm cargos pela participação no conselho e não recebem remuneração de qualquer natureza por essa função. Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior do órgão ou entidade ao qual ele está subordinado. 
+      Esses órgãos, embora previstos na estrutura organizacional, não dispõem de estrutura interna de cargos, e se constituem por representantes de órgãos e entidades do Poder Público e, em alguns casos, também de entidades privadas (composição pluripessoal). Seus membros não detêm cargos pela participação no conselho e não recebem remuneração de qualquer natureza por essa função. Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior do órgão ou entidade ao qual ele está subordinado.
 
       A criação de colegiados, a ser tratada em ato normativo à parte do decreto de estrutura regimental ou estatuto, deve observar os critérios estabelecidos no Capítulo VI do Decreto nº 12.002, de 2024.
 
@@ -289,7 +286,7 @@ Regras específicas sobre a estrutura de cargos e funções que compõem a Secre
 Entidades vinculadas
 --------------------
 
-            xxxxx
+.. Conteúdo a ser desenvolvido
 
 
 Estruturas atípicas
@@ -389,10 +386,10 @@ Estruturas atípicas
 Outras regras a serem observadas
 --------------------------------
 
-* Não deve haver unidades administrativas denominadas “Presidência”, “Vice-Presidência, “Diretoria-Adjunta”, “Direção”, “Chefia” e outras análogas.
+* Não deve haver unidades administrativas denominadas "Presidência", "Vice-Presidência, "Diretoria-Adjunta", "Direção", "Chefia" e outras análogas.
 
-* Deve ser evitado o uso da denominação “Secretaria Executiva” para unidade diversa do previsto no art. 55 da Lei nº 13.844, de 2019. 
+* Deve ser evitado o uso da denominação "Secretaria Executiva" para unidade diversa da prevista no art. 55 da Lei nº 13.844, de 2019.
 
-* Evitar a divisão vertical da estrutura organizacional em mais de quatro níveis hierárquicos (isso vai ficar???) (a contar da unidade DAS/FCPE nível 6 ou, na ausência deste, a contar da unidade de nível imediatamente inferior, no caso dos Ministérios e Órgãos da Presidência da República, e a contar do nível 5 no caso das autarquias e fundações), conforme as figuras abaixo, para agilizar a tomada de decisão e reduzir a necessidade de ajustes no curto prazo nos níveis mais baixos. Esta diretriz não se aplica às unidades descentralizadas e nem às Funções Gratificadas.
+* Evitar a divisão vertical da estrutura organizacional em mais de quatro níveis hierárquicos (a contar da unidade DAS/FCPE nível 6 ou, na ausência deste, a contar da unidade de nível imediatamente inferior, no caso dos Ministérios e Órgãos da Presidência da República, e a contar do nível 5 no caso das autarquias e fundações), conforme as figuras abaixo, para agilizar a tomada de decisão e reduzir a necessidade de ajustes no curto prazo nos níveis mais baixos. Esta diretriz não se aplica às unidades descentralizadas e nem às Funções Gratificadas.
 
 * Evitar a existência ou criação de unidades administrativas com menos de sete profissionais, para aumentar a amplitude de comando e reduzir a fragmentação organizacional.
