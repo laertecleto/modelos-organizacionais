@@ -18,7 +18,7 @@ Na qualidade de Estado Democrático de Direito, a Constituição preconiza a igu
 política, o acesso à informação, bem como o direito à participação e ao controle dos
 cidadãos nos processos de formulação, implementação e avaliação de políticas públicas.
 
-A Administração Pública é regulada pelo art. 37 da Constituição Federal de 1988. Do
+A Administração Pública é regulada pelo art. 37 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_. Do
 ponto de vista jurídico, a doutrina a define sob dois aspectos principais
 :cite:`di_pietro_2021`:
 
@@ -31,13 +31,13 @@ ponto de vista jurídico, a doutrina a define sob dois aspectos principais
 O conjunto de órgãos e entidades que integram a administração pública é dinâmico,
 adaptando-se às necessidades de implementação e às linhas programáticas do governo eleito.
 
-O art. 84 da CF estabelece a competência privativa do Presidente da República para
+O art. 84 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_ estabelece a competência privativa do Presidente da República para
 dispor sobre a organização e o funcionamento da administração federal, desde que não
 implique aumento de despesa nem a criação ou extinção de órgãos públicos. Diante das
 transformações políticas e tecnológicas, essas estruturas são constantemente
 aperfeiçoadas para garantir a eficiência da ação estatal.
 
-O Decreto-Lei nº 200, de 1967, parcialmente vigente, classifica os órgãos e as
+O `Decreto-Lei nº 200, de 1967 <https://www.planalto.gov.br/ccivil_03/constituicao constituicao.htm>`_, parcialmente vigente, classifica os órgãos e as
 entidades da administração federal em dois grandes blocos: a **administração direta**
 e a **administração indireta**.
 
@@ -48,7 +48,7 @@ Na organização da administração pública federal direta, a Presidência da R
 atua como o órgão independente do Poder Executivo da União, centralizando as atividades
 administrativas superiores de âmbito federal, de política, planejamento, coordenação e
 controle do desenvolvimento socioeconômico do País e da segurança nacional
-(MEIRELLES, 1990, p. 647). Nesse sentido, a administração direta exerce uma função
+:cite:`meirelles_2016a`. Nesse sentido, a administração direta exerce uma função
 predominantemente estratégica, focada na formulação, supervisão e avaliação de políticas
 públicas.
 
