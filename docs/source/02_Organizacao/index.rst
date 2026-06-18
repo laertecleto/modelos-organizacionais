@@ -80,7 +80,7 @@ A administração indireta compreende:
    instituídas pelo poder público com personalidade jurídica de direito privado.
 
 A vinculação dessas entidades aos órgãos da administração direta é estabelecida por
-ato do Poder Executivo federal, atualmente disposta no `[inserir link para o decreto]`.
+ato do Poder Executivo federal, atualmente disposta no `Decreto nº 11.401, de 2023 <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11401.htm>`_.
 
 .. note::
    Caso a proposta de alteração da estrutura regimental de um Ministério inclua ou
