@@ -37,7 +37,7 @@ implique aumento de despesa nem a criação ou extinção de órgãos públicos.
 transformações políticas e tecnológicas, essas estruturas são constantemente
 aperfeiçoadas para garantir a eficiência da ação estatal.
 
-O `Decreto-Lei nº 200, de 1967 <https://www.planalto.gov.br/ccivil_03/constituicao constituicao.htm>`_, parcialmente vigente, classifica os órgãos e as
+O `Decreto-Lei nº 200, de 1967 <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm>`_, parcialmente vigente, classifica os órgãos e as
 entidades da administração federal em dois grandes blocos: a **administração direta**
 e a **administração indireta**.
 
@@ -135,7 +135,7 @@ Empresa estatal
 É a entidade dotada de personalidade jurídica de direito privado e fins econômicos,
 cuja maioria do capital votante pertença, direta ou indiretamente, à União. Sua atuação
 volta-se à prestação de serviços públicos ou à exploração de atividade econômica
-(Art. 2º, I do Decreto nº 8.945/2016).
+(Art. 2º, I do `Decreto nº 8.945, de 2016 <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8945.htm>`_).
 
 Sua criação depende de autorização legislativa e é efetivada por Decreto do Poder
 Executivo por razões de segurança nacional ou relevante interesse coletivo. Essa
@@ -145,13 +145,13 @@ Sociedade de economia mista
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Explora atividade econômica sob a forma de sociedade anônima (S.A.), permitindo a
 participação de capital privado, desde que a maioria das ações com direito a voto
-permaneça com a União (Art. 2º, III do Decreto nº 8.945/2016).
+permaneça com a União (Art. 2º, III do `Decreto nº 8.945, de 2016 <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8945.htm>`_).
 
 Empresa pública
 ^^^^^^^^^^^^^^^
 Seu capital social é constituído por recursos provenientes exclusivamente do setor
 público, admitindo-se a participação de outros entes da administração, desde que a
-maioria do capital votante continue com a União (Art. 2º, II do Decreto nº 8.945/2016).
+maioria do capital votante continue com a União (Art. 2º, II do `Decreto nº 8.945, de 2016 <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8945.htm>`_).
 
 A relação atualizada das empresas estatais federais está disponível no portal da
 Secretaria de Coordenação e Governança das Empresas Estatais (SEST):
@@ -160,16 +160,16 @@ Secretaria de Coordenação e Governança das Empresas Estatais (SEST):
 Fundação instituída pelo poder público de direito privado
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-O Decreto-Lei nº 200, de 1967 (com redação dada pela Lei nº 7.596/1987), define-a como
+O `Decreto-Lei nº 200, de 1967 <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm>`_ (com redação dada pela `Lei nº 7.596, de 1987 <https://www.planalto.gov.br/ccivil_03/leis/l7596.htm`_), define-a como
 entidade sem fins lucrativos, dotada de personalidade jurídica de direito privado,
 criada por autorização legislativa para o desenvolvimento de atividades que não exijam
 execução por órgãos de direito público. Conta com autonomia administrativa, patrimônio
 próprio e funcionamento custeado por recursos da União e de outras fontes.
 
-De acordo com o inciso XIX do art. 37 da Constituição Federal de 1988, a instituição
+De acordo com o inciso XIX do art. 37 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, a instituição
 de fundação é autorizada por lei, cabendo à lei complementar a definição das suas áreas
 de atuação. O Supremo Tribunal Federal chancelou a constitucionalidade desse modelo
-(ADI nº 4.197 SE).
+(`ADI nº 4.197 SE <https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=766081758>`_). Para um resumo didático do referido acórdão, acesse `ADI nº 4.197 <https://informativos.trilhante.com.br/julgados/stf-adi-4197-se>`_
 
 Na :numref:`ADM-direta-indireta` há uma visualização **idealizada** dos tipos
 institucionais correlacionados com suas funções, atividades e áreas de atuação.
