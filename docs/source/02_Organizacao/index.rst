@@ -20,7 +20,7 @@ cidadãos nos processos de formulação, implementação e avaliação de polít
 
 A Administração Pública é regulada pelo art. 37 da Constituição Federal de 1988. Do
 ponto de vista jurídico, a doutrina a define sob dois aspectos principais
-(DI PIETRO, 2021, pp. 216 e 218):
+:cite:`di_pietro_2021`:
 
 * **Sentido material ou objetivo:** A atividade concreta e imediata que o Estado
   desenvolve, sob regime jurídico total ou parcialmente público, para a consecução
@@ -59,7 +59,7 @@ competência (salvo as exceções integradas ou vinculadas diretamente à Presid
 (Ibidem, p. 649).
 
 A organização básica dos órgãos da Presidência da República e dos Ministérios é
-estabelecida em lei específica, atualmente a `[inserir link da lei]`. Essa legislação
+estabelecida em lei específica, atualmente a `Lei nº 14.600, de 19 de junho de 2023 <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14600.htm>`_. Essa legislação
 define as macrocompetências de cada pasta, as quais são posteriormente detalhadas nos
 respectivos decretos de estrutura regimental ou estatuto. Assim, enquanto a lei traz a
 organização básica geral, os decretos especificam o funcionamento de cada órgão,

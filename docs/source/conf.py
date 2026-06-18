@@ -3,13 +3,13 @@
 # -- Project information
 
 project = 'Estruturas Organizacionais'
-copyright = '2025, Demor'
+copyright = '2026, Demor'
 author = 'Diretoria de Modelos Organizacionais'
 project_copyright = 'Estruturas Organizacionais'
 
 
 release = ''
-version = '0.2'
+version = '0.8'
 
 language = 'pt_BR'
 
@@ -119,10 +119,9 @@ latex_elements = {
 \\newpage
 \\thispagestyle{{empty}}
 
-\\noindent\\textbf{{Ministério da Economia}}\\\\
-Secretaria Especial de Desburocratização, Gestão e Governo Digital\\\\
-Secretaria de Gestão\\\\
-Departamento de Modelos Organizacionais\\\\[1cm]
+\\noindent\\textbf{{Ministério da Gestão e da Inovação em Serviços Públicos}}\\\\
+Secretaria de Gestão e Inovação\\\\
+Diretoria de Modelos Organizacionais\\\\[1cm]
 
 \\textbf{{Colaboraram com a 1ª edição:}}\\\\
 Juliana Akiko Noguchi Suzuki (Org.), Danyela de Oliveira Felix (Org.), Antonio Augusto Ignacio Amaral, Giovanna de Sá Lúcio, Christiano Perez de Resende, Eduardo Monteiro Pastore, Kaiser Freiras, Manuel Ferreira Filho.\\\\[0.5cm]
@@ -130,22 +129,24 @@ Juliana Akiko Noguchi Suzuki (Org.), Danyela de Oliveira Felix (Org.), Antonio A
 \\textbf{{Colaboraram com a 2ª edição:}}\\\\
 Juliana Akiko Noguchi Suzuki, Danyela de Oliveira Felix, Frederico Porto de Souza, Marcos Santos Kroll, Giovanna de Sá Lúcio, Christiano Perez de Resende, Sheila Maria Reis Ribeiro, Eduardo Monteiro Pastore, Sylvia Helena Figueiredo Prata, Rodrigo Machado Bolina, Maria Beatriz Teixeira Barral Vidal, Iracema Pontes da Cruz.\\\\[0.5cm]
 
-\\textbf{{Assessoria Especial de Comunicação Social}}\\\\
-Supervisão: Letícia Barbosa\\\\
-Capa: Jamil Ghani\\\\
-Editoração: Rogério Fernandes Guimarães\\\\[0.5cm]
+\\textbf{{Elaboraram a 3ª edição:}}\\\\
+Laerte Davi Cleto, Yana de Faria, Carlos Gold, Letícia Maria Gonçalves, Rodrigo Machado Bolina.\\\\[0.5cm]
 
-Brasília (DF), 27 de maio de 2019\\\\[1cm]
+\\textbf{{Contribuiram para a 3ª edição:}}\\\\
+Marcos Santos Kroll.\\\\[0.5cm]
+
+
+Brasília (DF), 18 de junho de 2026\\\\[1cm]
 
 \\fbox{{
   \\begin{{minipage}}{{0.9\\textwidth}}
   \\small
   B823m\\\\
-  Brasil. Ministério da Economia.\\\\[0.5em]
-  Manual de Estruturas Organizacionais do Poder Executivo Federal / Ministério da Economia, Secretaria de Gestão. – 2. ed. -- Brasília: Ministério da Economia, 2019.\\\\[0.5em]
+  Brasil. Ministério da Gestão e da Inovação em Serviços Públicos.\\\\[0.5em]
+  Manual de Estruturas Organizacionais do Poder Executivo Federal / Ministério da Gestão e da Inovação em Serviços Públicos, Secretaria de Gestão e Inovação. – 3. ed. -- Brasília: Ministério da Gestão e da Inovação em Serviços Públicos, 2026.\\\\[0.5em]
   100 p.: il.\\\\[0.5em]
   1. Administração Pública 2. Estrutura Organizacional 3. Poder Executivo Federal\\\\
-  I. Título II. Secretaria Especial de Desburocratização, Gestão e Governo Digital.\\\\
+  I. Título II. Secretaria de Gestão e Inovação.\\\\
   CDU 351:005.72
   \\end{{minipage}}
 }}

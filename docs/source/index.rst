@@ -42,7 +42,7 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
 
 
 
-.. .. only:: html
+.. only:: html
    
    .. admonition:: Bibliografia
 
@@ -61,6 +61,7 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
    07_alterar_estrut_regim/index
    03_Teste/index
    
+
 
 .. only:: latex
 
