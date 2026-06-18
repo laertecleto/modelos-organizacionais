@@ -56,7 +56,7 @@ Os Ministérios são órgãos autônomos situados logo abaixo da Presidência da
 Eles integram os serviços da Administração Direta e supervisionam as entidades da
 administração indireta cujas atividades se enquadrem nas suas respectivas áreas de
 competência (salvo as exceções integradas ou vinculadas diretamente à Presidência)
-(Ibidem, p. 649).
+:cite:`meirelles_2016b`.
 
 A organização básica dos órgãos da Presidência da República e dos Ministérios é
 estabelecida em lei específica, atualmente a `Lei nº 14.600, de 19 de junho de 2023 <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14600.htm>`_. Essa legislação
