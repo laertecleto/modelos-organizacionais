@@ -1,3 +1,5 @@
+.. _como_alterar:
+
 Como alterar uma estrutura regimental
 =====================================
 

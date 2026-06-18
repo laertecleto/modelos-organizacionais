@@ -83,7 +83,7 @@ Como navegar por este documento:
 * **Primeiro contato com o tema?** Recomendamos a leitura completa. Você vai entender
   os conceitos e as regras gerais de forma progressiva.
 
-* **Já domina o assunto e quer ir direto ao ponto?** Avance para o Capítulo XYZ e
+* **Já domina o assunto e quer ir direto ao ponto?** Avance para :ref:`como_alterar` e
   aprenda a elaborar e formalizar uma proposta de decreto de estrutura.
 
 .. admonition:: Não encontrou o que procurava? Tem dúvidas?
