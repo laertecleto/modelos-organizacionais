@@ -154,8 +154,7 @@ público, admitindo-se a participação de outros entes da administração, desd
 maioria do capital votante continue com a União (Art. 2º, II do `Decreto nº 8.945, de 2016 <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8945.htm>`_).
 
 A relação atualizada das empresas estatais federais está disponível no portal da
-Secretaria de Coordenação e Governança das Empresas Estatais (SEST):
-`Estatais <https://www.gov.br/gestao/pt-br/assuntos/estatais>`_.
+`Secretaria de Coordenação e Governança das Empresas Estatais (SEST) <https://www.gov.br/gestao/pt-br/assuntos/estatais>`_.
 
 Fundação instituída pelo poder público de direito privado
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
