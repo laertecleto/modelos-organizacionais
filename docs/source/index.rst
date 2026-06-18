@@ -27,7 +27,7 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
    ao cadastro da nova estrutura no SIORG e nos demais sistemas informatizados
    do governo federal.
  
-** A quem se aplica**
+**A quem se aplica**
 
    Este manual se aplica aos ministérios, órgãos da Presidência da República e à maioria das autarquias e fundações públicas.
  
