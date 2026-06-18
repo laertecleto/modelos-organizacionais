@@ -53,7 +53,7 @@ Eles detalham as competências do órgão e o respectivo quadro de cargos em com
 funções de confiança e gratificações.
 
 Nos últimos anos, o governo federal modernizou esse processo com inovações legislativas
-importantes. O principal marco é a **Lei nº 14.204, de 16 de setembro de 2021**, que
+importantes. O principal marco é a `Lei nº 14.204, de 16 de setembro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`, que
 criou:
 
 * **CCE** — Cargos Comissionados Executivos;
