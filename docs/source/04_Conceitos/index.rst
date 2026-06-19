@@ -178,7 +178,7 @@ Essa organização em sistema permite que o desenvolvimento organizacional de ó
 
 São integrantes do SIORG todas as unidades administrativas incumbidas de atividades de organização e inovação institucional da Administração direta, autárquica e fundacional do Poder Executivo federal, observada a seguinte estrutura:
 
-   I. órgão central: o Ministério da Gestão e da Inovação em Serviços Públicos, por intermédio da Secretaria de Gestão e Inovação (inc. V do art. 18 do Anexo I do `Decreto nº 12.904, de 27 de março de 2024 <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12904.htm>`_);
+   I. órgão central: o Ministério da Gestão e da Inovação em Serviços Públicos, por intermédio da Secretaria de Gestão e Inovação (inc. V do art. 18 do Anexo I do `Decreto nº 12.904, de 27 de março de 2026 <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12904.htm>`_);
 
    II.   órgãos setoriais: as Secretarias-Executivas ou equivalentes, assessoradas pelas unidades administrativas responsáveis pela área de organização e inovação institucional dos Ministérios, órgãos integrantes da Presidência da República, agências reguladoras e o Banco Central do Brasil; e
 
