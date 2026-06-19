@@ -38,7 +38,7 @@ As áreas de competência dos órgãos da Presidência da República, dos minist
 
 As competências estabelecidas em lei devem ser estritamente observadas nos referidos decretos e não podem ser extrapoladas. Da mesma forma, as competências estabelecidas em decretos devem ser observadas nos regimentos internos e não podem ser extrapoladas.
 
-A organização e o funcionamento dos órgãos e entidades da Administração Pública Federal, a partir do detalhamento das respectivas competências legais – denominada de estrutura regimental (:ref:`estrut_regim`) -, são dispostos por meio de decreto autônomo do Presidente da República, conforme previsto no art. 84, inciso VI, alínea "a" da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, quando não implicar aumento de despesa nem a criação ou a extinção de órgãos públicos (inciso II do art. 26, do Decreto no 12.002, de 22 de abril de 2024). Assim, o fortalecimento de um órgão ou entidade com acréscimo de estrutura depende da disponibilidade de cargos e funções criados por Lei (:ref:`reserva_tec`) e, portanto, previstos na lei orçamentária.
+A organização e o funcionamento dos órgãos e entidades da Administração Pública Federal, a partir do detalhamento das respectivas competências legais – denominada de :ref:`estrut_regim`, são dispostos por meio de decreto autônomo do Presidente da República, conforme previsto no art. 84, inciso VI, alínea "a" da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, quando não implicar aumento de despesa nem a criação ou a extinção de órgãos públicos (inciso II do art. 26, do `Decreto no 12.002, de 22 de abril de 2024 <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12002.htm`_). Assim, o fortalecimento de um órgão ou entidade com acréscimo de estrutura depende da disponibilidade de cargos e funções criados por Lei (vide :ref:`reserva_tec`) e, portanto, previstos na lei orçamentária.
 
 
 Atribuição
@@ -84,9 +84,10 @@ Reserva técnica
 Usualmente, nos referimos na expressão *reserva técnica* ao conjunto de cargos e de funções, criados por lei, que transitam pela SEGES para administrar a distribuição para as entidades do Poder Executivo. Embora se utilize a denominação *reserva técnica*, trata-se, tão somente, de local específico para realizar as trocas ou as transformações necessárias para revisão das estruturas organizacionais em análise. Pode ocorrer, em certos casos, que a troca ou a transformação de cargos e de funções acarrete sobra de valores, permanecendo, momentaneamente, na *reserva técnica*, até sua utilização futura.
 
 Dessa forma, os decretos de estrutura organizacional tipicamente envolvem trocas de cargos e funções com a *reserva técnica*. Mesmo nas propostas em que o órgão ou entidade já dispõe dos cargos necessários, os decretos determinam expressamente:
-1. o remanejamento de um conjunto de cargos em comissão e funções de confiança para a *reserva técnica* e, em seguida,
 
-2. o remanejamento de outro conjunto de volta ao proponente.
+   1. o remanejamento de um conjunto de cargos em comissão e funções de confiança para a *reserva técnica* e, em seguida,
+
+   2. o remanejamento de outro conjunto de volta ao proponente.
 
 Esse procedimento reflete o próprio sentido do termo *remanejar* — realocar cargos e funções de forma a viabilizar as modificações necessárias na estrutura organizacional. A *reserva técnica* é, portanto, o ponto de passagem que torna possíveis essas transformações.
 
@@ -193,9 +194,9 @@ As competências do órgão central do SIORG (SEGES/MGI) estão estabelecidas no
 
 .. admonition:: Saiba mais sobre a história do SIORG
 
-   O Sistema de Organização e Modernização Administrativa — SOMAD, instituído pelo Decreto nº 1.039, de 10 de janeiro de 1994, foi o precursor do SIORG.
+   O Sistema de Organização e Modernização Administrativa — SOMAD, instituído pelo `Decreto nº 1.039, de 10 de janeiro de 1994 <https://www2.camara.leg.br/legin/fed/decret/1994/decreto-1039-10-janeiro-1994-449298-publicacaooriginal-1-pe.html>`_, foi o precursor do SIORG.
 
-   As atividades de desenvolvimento organizacional dos órgãos e entidades da administração direta, autárquica e fundacional do Poder Executivo federal foram estruturadas sob a forma de sistema originalmente por meio do Decreto nº 6.944, de 21 de agosto de 2009, revogado pelo Decreto nº 9.739, de 28 de março de 2019, a partir de 1º de junho de 2019.
+   As atividades de desenvolvimento organizacional dos órgãos e entidades da administração direta, autárquica e fundacional do Poder Executivo federal foram estruturadas sob a forma de sistema originalmente por meio do `Decreto nº 6.944, de 21 de agosto de 2009 <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6944.htm>`_, revogado pelo `Decreto nº 9.739, de 28 de março de 2019 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9739.htm>`_, a partir de 1º de junho de 2019.
 
 
 Órgão público
