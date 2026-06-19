@@ -159,7 +159,7 @@ A relação atualizada das empresas estatais federais está disponível no porta
 Fundação instituída pelo poder público de direito privado
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-O `Decreto-Lei nº 200, de 1967 <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm>`_ (com redação dada pela `Lei nº 7.596, de 1987 <https://www.planalto.gov.br/ccivil_03/leis/l7596.htm`_), define-a como
+O `Decreto-Lei nº 200, de 1967 <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm>`_ (com redação dada pela `Lei nº 7.596, de 1987 <https://www.planalto.gov.br/ccivil_03/leis/l7596.htm>`_), define-a como
 entidade sem fins lucrativos, dotada de personalidade jurídica de direito privado,
 criada por autorização legislativa para o desenvolvimento de atividades que não exijam
 execução por órgãos de direito público. Conta com autonomia administrativa, patrimônio
