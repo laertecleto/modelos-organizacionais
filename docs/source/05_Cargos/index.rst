@@ -127,14 +127,14 @@ O principal grupo de cargos em comissão e funções de confiança existentes no
 
    Outras tipologias de cargos e funções podem ser consultadas aqui: :ref:`outros_tipos`.
 
-Os cargos em comissão CCE (Cargos Comissionados Executivos) e funções de confiança FCE (Funções Comissionadas Executivas) foram instituídos pela Lei nº 14.204, de 2021, e substituíram os cargos em comissão DAS (Direção e Assessoramento Superior) e as funções de confiança FCPE (Funções Comissionadas do Poder Executivo). Em 2023, a mencionada Lei foi alterada, a fim de oferecer parâmetros para que as Agências Reguladoras também possam transformar seus cargos exclusivos em CCE e FCE. Essa transformação é opcional, mas deve ser solicitada pelas agências até 31 de março de 2026.
+Os cargos em comissão CCE (Cargos Comissionados Executivos) e funções de confiança FCE (Funções Comissionadas Executivas) foram instituídos pela `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_, e substituíram os cargos em comissão DAS (Direção e Assessoramento Superior) e as funções de confiança FCPE (Funções Comissionadas do Poder Executivo). Em 2023, a mencionada Lei foi alterada, a fim de oferecer parâmetros para que as Agências Reguladoras também possam transformar seus cargos exclusivos em CCE e FCE. Essa transformação é opcional, mas deve ser solicitada pelas agências até 31 de março de 2026.
 
 Os CCE e as FCE são os tipos mais utilizados para constituir a estrutura organizacional na Administração Pública Federal, pois parte significativa deles está associada ao titular de unidades administrativas de órgãos e entidades. As principais exceções são as instituições federais de ensino, as agências reguladoras e o Banco Central do Brasil. Essas entidades têm tipos de cargos e funções próprios para estruturar-se.
 
 Categorias dos CCE e das FCE
 ++++++++++++++++++++++++++++
 
-Os CCE e as FCE são constituídos pelas seguintes categorias estabelecidas no art. 3º do Decreto nº 10.829, de 2021:
+Os CCE e as FCE são constituídos pelas seguintes categorias estabelecidas no art. 3º do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_:
 
 .. list-table::
    :header-rows: 1
@@ -170,11 +170,11 @@ Os CCE e as FCE são constituídos pelas seguintes categorias estabelecidas no a
      * Assessoramento técnico especializado
      * 4
 
-**Chefia e direção** são duas das três atribuições que a Constituição de 1988, no inciso V do art. 37, confere aos cargos em comissão e às funções de confiança. A outra atribuição é de **assessoramento**. A lei de criação do cargo ou da função deve prever, entre outras coisas, qual dessas três atribuições terá o cargo ou função.
+**Chefia e direção** são duas das três atribuições que a `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, no inciso V do art. 37, confere aos cargos em comissão e às funções de confiança. A outra atribuição é de **assessoramento**. A lei de criação do cargo ou da função deve prever, entre outras coisas, qual dessas três atribuições terá o cargo ou função.
 
 As atribuições de chefia e direção estão associadas às categorias direção (código 1) e direção de projetos (código 3). As atribuições de assessoramento estão associadas às categorias assessoramento (código 2) e assessoramento técnico especializado (código 4).
 
-Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categoria e denominação do cargo ou função, por meio de portaria do dirigente máximo do órgão ou da entidade, ainda que tenha sido definido em decreto (inc. III do §2º do art. 13, Decreto nº 10.829, de 2021).
+Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categoria e denominação do cargo ou função, por meio de portaria do dirigente máximo do órgão ou da entidade, ainda que tenha sido definido em decreto (inc. III do §2º do art. 13, `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_).
 
 **Categoria Direção (código 1)**
 
@@ -186,15 +186,15 @@ Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categ
 
    Os titulares de CCE/FCE de "Adjunto", tais como Secretário-Adjunto, Diretor-Adjunto e Subsecretário-Adjunto, servem para reforçar o comando dos titulares de Secretarias, Subsecretarias e Diretorias de grande porte, unidades responsáveis por atribuições complexas, que gerenciam maior volume de recursos e/ou de atividades.
 
-   Os servidores investidos em cargos em comissão ou em funções de confiança de chefia da categoria direção (código 1) podem ter substitutos, conforme prevê o art. 38 da Lei nº 8.112, de 1990, independentemente da existência de cargos em comissão ou de funções de confiança subordinadas a eles.
+   Os servidores investidos em cargos em comissão ou em funções de confiança de chefia da categoria direção (código 1) podem ter substitutos, conforme prevê o art. 38 da `Lei nº 8.112, de 1990 <https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>`_, independentemente da existência de cargos em comissão ou de funções de confiança subordinadas a eles.
 
 **Categoria Assessoramento (código 2)**
 
-   A atribuição de assessoramento é uma das três atribuições que a Constituição de 1988, no inciso V do art. 37, confere aos cargos em comissão e às funções de confiança.
+   A atribuição de assessoramento é uma das três atribuições que a `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, no inciso V do art. 37, confere aos cargos em comissão e às funções de confiança.
 
    A finalidade dos cargos ou funções da categoria assessoramento (código 2) é o assessoramento direto e imediato aos titulares dos cargos e das funções da categoria direção (código 1), aos cargos de natureza especial e aos cargos de Ministro de Estado.
 
-   Como destinam-se à assistência ou assessoramento de quem chefia ou dirige, os cargos e funções de assessoramento não têm competências próprias. Por conseguinte, não são unidades administrativas no SIORG, não permitem a designação de substituto e não podem ter cargos em comissão ou funções de confiança a eles subordinados.
+   Como destinam-se à assistência ou assessoramento de quem chefia ou dirige, os cargos e funções de assessoramento não têm competências próprias. Por conseguinte, não são unidades administrativas no :ref:`siorg`, não permitem a designação de substituto e não podem ter cargos em comissão ou funções de confiança a eles subordinados.
 
 **Categoria Direção de Projetos (código 3)**
 
@@ -212,7 +212,7 @@ Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categ
 
    A finalidade das funções da categoria assessoramento técnico especializado (código 4) é o assessoramento associado às competências da unidade que exijam conhecimentos técnicos específicos, caracterizados por especial nível de complexidade.
 
-   Como destinam-se à assistência ou assessoramento de quem os chefia ou dirige, os cargos e funções de assessoramento não têm competências próprias. Por conseguinte, não são unidades administrativas no SIORG, não permitem a designação de substituto e não podem ter cargos em comissão ou funções de confiança a eles subordinados.
+   Como destinam-se à assistência ou assessoramento de quem os chefia ou dirige, os cargos e funções de assessoramento não têm competências próprias. Por conseguinte, não são unidades administrativas no :ref:`siorg`, não permitem a designação de substituto e não podem ter cargos em comissão ou funções de confiança a eles subordinados.
 
    Não há cargos em comissão nesta categoria, de forma que as funções de confiança desta categoria são privativas de servidores titulares de cargos efetivos.
 
@@ -263,7 +263,7 @@ Níveis dos CCE e das FCE
 
 Os CCE e as FCE são divididos em 18 níveis, numerados de 1 a 18, sendo 1 o menor nível e 18, o maior. Na designação de um CCE ou de uma FCE, utiliza-se o tipo do cargo ou função (CCE ou FCE) seguido do código da categoria (1 a 4), um ponto separador e o nível do cargo ou função (1 a 18).
 
-A :numref:`Niveis-CCE-FCE-label` apresenta todas as configurações de níveis para CCE e FCE por categoria (Anexo I do Decreto 10.829, de 5 de outubro de 2021).
+A :numref:`Niveis-CCE-FCE-label` apresenta todas as configurações de níveis para CCE e FCE por categoria (Anexo I do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_).
 
 .. _Niveis-CCE-FCE-label:
 .. figure:: ../_static/images/Niveis_CCE_FCE.png
@@ -277,7 +277,7 @@ CCE e FCE do mesmo nível e da mesma categoria são equiparáveis para todos os 
 
 Regras básicas de ocupação de CCE e FCE:
 
-* Deve ser observado o disposto no art. 9º da Lei nº 14.204, de 2021, (critérios gerais para ocupação de CCE e FCE) e os arts. 15 a 19 do Decreto nº 10.829, de 2021, (critérios específicos para ocupação de CCE/FCE).
+* Deve ser observado o disposto no art. 9º da `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_, (critérios gerais para ocupação de CCE e FCE) e os arts. 15 a 19 do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_, (critérios específicos para ocupação de CCE/FCE).
 
 * CCE de níveis 5 a 18: livre provimento;
 
@@ -308,16 +308,16 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações associadas a 
 O parâmetro de CCE-unitário
 +++++++++++++++++++++++++++
 
-De acordo com o art. 6º do Decreto nº 10.829, de 2021, na proposta de aprovação ou revisão de suas estruturas regimentais ou estatutos, os ministérios, órgãos e entidades deverão tomar como referência, para cálculo da despesa, o custo unitário efetivo expresso em CCE-Unitário.
+De acordo com o art. 6º do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_, na proposta de aprovação ou revisão de suas estruturas regimentais ou estatutos, os ministérios, órgãos e entidades deverão tomar como referência, para cálculo da despesa, o custo unitário efetivo expresso em CCE-Unitário.
 
-O valor de um CCE-Unitário equivale ao valor da remuneração do cargo CCE de nível 5. O valor unitário dos demais cargos e funções é obtido dividindo-se o valor da remuneração do respectivo cargo ou função pelo valor da remuneração do CCE de nível 5. Os valores encontram-se fixados nas tabelas do sistema informatizado do SIORG, com duas casas decimais e podem ser consultados em https://siorg.gov.br/siorg-cidadao-webapp/resources/app/cargos-comissionados.html
+O valor de um CCE-Unitário equivale ao valor da remuneração do cargo CCE de nível 5. O valor unitário dos demais cargos e funções é obtido dividindo-se o valor da remuneração do respectivo cargo ou função pelo valor da remuneração do CCE de nível 5. Os valores encontram-se fixados nas tabelas do sistema informatizado do SIORG, com duas casas decimais e podem ser consultados na `Tabela de cargos e funções <https://siorg.gov.br/siorg-cidadao-webapp/resources/app/cargos-comissionados.html>`_
 
 O CCE-Unitário tem por objetivo facilitar o cálculo da despesa com cargos em comissão e funções de confiança quando da revisão ou aprovação das estruturas regimentais ou estatutos dos ministérios, órgãos e entidades. A finalidade do quadro resumo é demonstrar se houve ou não aumento de despesa na nova estrutura ou no novo estatuto aprovado, em comparação com os custos da estrutura até então vigente que será alterada.
 
 
 .. admonition:: Saiba mais sobre a transformação de cargos e funções
 
-   A Lei nº 14.204, de 2021, autoriza o Poder Executivo federal a transformar cargos em comissão, funções de confiança e gratificações por meio de decreto.
+   A `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_, autoriza o Poder Executivo federal a transformar cargos em comissão, funções de confiança e gratificações por meio de decreto.
 
    Na prática, isso significa que é possível *criar* novos cargos e funções por meio da transformação daqueles existentes na estrutura da instituição demandante ou na reserva técnica da Secretaria de Gestão e Inovação, sem a edição de nova lei.
 
@@ -339,11 +339,11 @@ Cargos de Natureza Especial — NE
 
 Os cargos de natureza especial (NE) são cargos de chefia ou direção que respondiam por uma unidade administrativa interna na estrutura da Presidência da República e dos ministérios, situada no nível mais alto de autoridade pública na estrutura hierárquica dos órgãos, estando abaixo somente dos Ministros de Estado, em geral denominados Secretários-Executivos.
 
-Após a edição da Lei nº XXX, os cargos NE dos ministérios e dos órgãos da Presidência da República foram transformados em CCE 1.18.
+Após a edição da `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_, os cargos NE dos ministérios e dos órgãos da Presidência da República foram transformados em CCE 1.18.
 
 Hoje existem cargos NE somente no Banco Central do Brasil e são ocupados pelo Presidente e pelos demais diretores.
 
-Os servidores investidos em cargos de Natureza Especial podem ter substitutos, autorização prevista no art. 38 da Lei nº 8.112, de 1990, independentemente da existência de cargos em comissão ou de funções de confiança subordinadas a eles.
+Os servidores investidos em cargos de Natureza Especial podem ter substitutos, autorização prevista no art. 38 da `Lei nº 8.112, de 1990 <https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>`_, independentemente da existência de cargos em comissão ou de funções de confiança subordinadas a eles.
 
 Cargos de Direção e Funções Gratificadas das instituições federais de ensino
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -359,7 +359,7 @@ Cargos comissionados das agências reguladoras
 
 As agências reguladoras possuem Cargos em Comissão de Direção – CD, de Gerência Executiva – CGE, de Assessoria – CA e de Assistência – CAS, e os Cargos em Comissão Técnicos – CCT, conforme estabelecido na Lei nº 9.986, de 18 de julho de 2000, mas podem transformar seus cargos e funções em CCE e FCE, se assim optarem até 31 de março de 2026. Essas autarquias especiais possuem autonomia para alterar seus respectivos quantitativos de cargos e distribuí-los, no âmbito de cada grupo, sem aumento de despesa (art. 14 da Lei nº 9.986, 2000), independentemente da tipologia de cargos e funções adotada.
 
-De acordo com as Leis nº 9.986, de 2000, e nº 14.204, de 2021:
+De acordo com a Lei nº 9.986, de 2000, e a `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_:
 
 * os Cargos Comissionados de Gerência Executiva, de Assessoria e de Assistência são de livre nomeação e exoneração da instância de deliberação máxima da Agência;
 * o Presidente ou o Diretor-Geral ou o Diretor-Presidente (CD I ou CCE-18) e os demais membros do Conselho Diretor ou da Diretoria (CD II ou CCE-17) serão brasileiros, de reputação ilibada, formação universitária e elevado conceito no campo de especialidade dos cargos para os quais serão nomeados, devendo ser escolhidos pelo Presidente da República e por ele nomeados, após aprovação pelo Senado Federal, nos termos da alínea f do inciso III do art. 52 da Constituição Federal;
@@ -369,7 +369,7 @@ De acordo com as Leis nº 9.986, de 2000, e nº 14.204, de 2021:
 Também de acordo com o art. 33 da Lei nº 10.871, de 20 de maio de 2004, que dispõe sobre a criação de carreiras e organização de cargos efetivos das agências reguladoras:
 
 * os Cargos Comissionados Técnicos são de ocupação privativa de servidores ocupantes de cargos efetivos do Quadro de Pessoal Efetivo, de servidores do Quadro de Pessoal Específico, do Quadro de Pessoal em Extinção e dos membros da Carreira de Procurador Federal; e
-* poderão ser designados para Cargos Comissionados Técnicos níveis CCT-IV e V, além dos servidores referidos no caput deste artigo, servidores ocupantes de cargos efetivos ou de empregos permanentes da administração federal direta e indireta cedidos à Agência Reguladora, na forma do art. 93 da Lei nº 8.112, de 11 de dezembro de 1990.
+* poderão ser designados para Cargos Comissionados Técnicos níveis CCT-IV e V, além dos servidores referidos no caput deste artigo, servidores ocupantes de cargos efetivos ou de empregos permanentes da administração federal direta e indireta cedidos à Agência Reguladora, na forma do art. 93 da `Lei nº 8.112, de 1990 <https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>`_.
 
 Em adotando o modelo de CCE e FCE, os servidores cedidos às agências reguladoras para ocupação de Cargo Comissionado de Gerência Executiva (CGE) de nível IV e de Cargo Comissionado Técnico (CCT) de nível IV ou V poderão permanecer cedidos enquanto estiverem ocupando FCE de nível 8 ou superior.
 

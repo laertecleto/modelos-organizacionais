@@ -168,7 +168,7 @@ próprio e funcionamento custeado por recursos da União e de outras fontes.
 De acordo com o inciso XIX do art. 37 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, a instituição
 de fundação é autorizada por lei, cabendo à lei complementar a definição das suas áreas
 de atuação. O Supremo Tribunal Federal chancelou a constitucionalidade desse modelo
-(`ADI nº 4.197 SE <https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=766081758>`_). Para um resumo didático do referido acórdão, acesse `ADI nº 4.197 <https://informativos.trilhante.com.br/julgados/stf-adi-4197-se>`_
+(`ADI nº 4.197 SE <https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=766081758>`_). Para um resumo didático do referido acórdão, acesse `ADI nº 4.197 <https://informativos.trilhante.com.br/julgados/stf-adi-4197-se>`_.
 
 Na :numref:`ADM-direta-indireta` há uma visualização **idealizada** dos tipos
 institucionais correlacionados com suas funções, atividades e áreas de atuação.

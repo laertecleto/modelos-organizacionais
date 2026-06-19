@@ -159,6 +159,7 @@ Sistemas Estruturantes
 
 O termo *Sistemas Estruturantes* refere-se às plataformas de TI e sistemas de software que operacionalizam as funções dos Sistemas Estruturadores. Por exemplo: o SIAFI (sistema) operacionaliza o Sistema de Administração Financeira; o SIAPE (sistema) operacionaliza o SIPEC.
 
+.. _siorg:
 
 SIORG
 -----
