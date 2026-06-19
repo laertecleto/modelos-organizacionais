@@ -38,7 +38,7 @@ As áreas de competência dos órgãos da Presidência da República, dos minist
 
 As competências estabelecidas em lei devem ser estritamente observadas nos referidos decretos e não podem ser extrapoladas. Da mesma forma, as competências estabelecidas em decretos devem ser observadas nos regimentos internos e não podem ser extrapoladas.
 
-A organização e o funcionamento dos órgãos e entidades da Administração Pública Federal, a partir do detalhamento das respectivas competências legais – denominada de :ref:`estrut_regim`, são dispostos por meio de decreto autônomo do Presidente da República, conforme previsto no art. 84, inciso VI, alínea "a" da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, quando não implicar aumento de despesa nem a criação ou a extinção de órgãos públicos (inciso II do art. 26, do `Decreto no 12.002, de 22 de abril de 2024 <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12002.htm`_). Assim, o fortalecimento de um órgão ou entidade com acréscimo de estrutura depende da disponibilidade de cargos e funções criados por Lei (vide :ref:`reserva_tec`) e, portanto, previstos na lei orçamentária.
+A organização e o funcionamento dos órgãos e entidades da Administração Pública Federal, a partir do detalhamento das respectivas competências legais – denominada de :ref:`estrut_regim`, são dispostos por meio de decreto autônomo do Presidente da República, conforme previsto no art. 84, inciso VI, alínea "a" da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, quando não implicar aumento de despesa nem a criação ou a extinção de órgãos públicos (inciso II do art. 26, do `Decreto nº 12.002, de 22 de abril de 2024 <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12002.htm>`_). Assim, o fortalecimento de um órgão ou entidade com acréscimo de estrutura depende da disponibilidade de cargos e funções criados por Lei (vide :ref:`reserva_tec`) e, portanto, previstos na lei orçamentária.
 
 
 Atribuição
@@ -178,13 +178,13 @@ Essa organização em sistema permite que o desenvolvimento organizacional de ó
 
 São integrantes do SIORG todas as unidades administrativas incumbidas de atividades de organização e inovação institucional da Administração direta, autárquica e fundacional do Poder Executivo federal, observada a seguinte estrutura:
 
-   I. órgão central: o Ministério da Gestão e da Inovação em Serviços Públicos, por intermédio da Secretaria de Gestão e Inovação (inc. VI do art. 16 do Anexo I do Decreto nº 12.102, de 2024);
+   I. órgão central: o Ministério da Gestão e da Inovação em Serviços Públicos, por intermédio da Secretaria de Gestão e Inovação (inc. V do art. 18 do Anexo I do `Decreto nº 12.904, de 27 de março de 2024 <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12904.htm>`_);
 
    II.   órgãos setoriais: as Secretarias-Executivas ou equivalentes, assessoradas pelas unidades administrativas responsáveis pela área de organização e inovação institucional dos Ministérios, órgãos integrantes da Presidência da República, agências reguladoras e o Banco Central do Brasil; e
 
    III.  órgãos seccionais: diretorias administrativas ou equivalentes, que atuam na área de organização e inovação institucional, nas autarquias e fundações públicas.
 
-As competências do órgão central do SIORG (SEGES/MGI) estão estabelecidas no art. 22 do Decreto nº 9.739, de 2019. As competências dos órgãos setoriais e seccionais do SIORG estão definidas no art. 23 do mesmo decreto.
+As competências do órgão central do SIORG (SEGES/MGI) estão estabelecidas no art. 22 do `Decreto nº 9.739, de 28 de março de 2019 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9739.htm>`_. As competências dos órgãos setoriais e seccionais do SIORG estão definidas no art. 23 do mesmo decreto.
 
 .. admonition:: SIORG: sistema estruturador ou estruturante?
 
@@ -204,10 +204,10 @@ As competências do órgão central do SIORG (SEGES/MGI) estão estabelecidas no
 
 Órgão Público é a unidade de atuação integrante das estruturas da administração direta e da administração indireta (art. 1º, § 2º, inciso I da `Lei nº 9.784, de 29 de janeiro de 1999 <https://www.planalto.gov.br/ccivil_03/leis/l9784.htm>`_).
 
-Na qualidade de parte da estrutura da Administração Pública Direta e das demais pessoas jurídicas, o órgão não tem personalidade jurídica e vontade própria. É um centro de competência governamental ou administrativa, instituído para o desempenho de funções estatais, cuja atuação é imputada à pessoa jurídica a que pertence. Cada órgão tem, necessariamente, funções, cargos e agentes, mas é distinto desses elementos que podem ser modificados, substituídos ou retirados sem supressão da unidade orgânica :cite:`meirelles_2016a`,p.64.
+Na qualidade de parte da estrutura da Administração Pública Direta e das demais pessoas jurídicas, o órgão não tem personalidade jurídica e vontade própria. É um centro de competência governamental ou administrativa, instituído para o desempenho de funções estatais, cuja atuação é imputada à pessoa jurídica a que pertence. Cada órgão tem, necessariamente, funções, cargos e agentes, mas é distinto desses elementos que podem ser modificados, substituídos ou retirados sem supressão da unidade orgânica :cite:`meirelles_2016a`, p.64.
 
 Classificações dos órgãos públicos
-++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++
 
 **Quanto à posição na hierarquia do Poder Executivo Federal**
 
