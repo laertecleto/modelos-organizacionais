@@ -6,6 +6,7 @@ Conceitos básicos
 
    Neste capítulo você encontrará as definições dos principais conceitos relacionados às estruturas organizacionais do Poder Executivo Federal.
 
+.. _estrut_regim:
 
 Estrutura regimental
 --------------------
@@ -20,9 +21,14 @@ A estrutura regimental dos ministérios, dos órgãos da Presidência da Repúbl
 Estatuto
 --------
 
-O estatuto aplica-se às fundações públicas; é aprovado por ato do Presidente da República, e descreve suas finalidades e competências, sua natureza e sede, e detalha o conjunto de órgãos e unidades administrativas integrantes da estrutura básica, que são diretamente subordinados ao dirigente máximo da entidade, as respectivas competências, a forma de direção e nomeação dos ocupantes dos cargos e funções, as atribuições dos dirigentes, o patrimônio, os recursos financeiros e outros assuntos inerentes à sua organização.
-
-O estatuto das fundações públicas (de direito público ou privado) é aprovado por ato do Presidente da República.
+O estatuto aplica-se às fundações públicas (de direito público ou privado). É aprovado por ato do Presidente da República. O estatuto descreve:
+   * suas finalidades e competências,
+   * sua natureza e sede, e
+   * o conjunto de órgãos e unidades administrativas integrantes da estrutura básica que são diretamente subordinados ao dirigente máximo da entidade e suas respectivas competências;
+   * a forma de direção e nomeação dos ocupantes dos cargos e funções;
+   * as atribuições dos dirigentes;
+   * o patrimônio, e as fontes de recursos; e 
+   * outros assuntos inerentes à sua organização.
 
 
 Área de competência
@@ -32,7 +38,7 @@ As áreas de competência dos órgãos da Presidência da República, dos minist
 
 As competências estabelecidas em lei devem ser estritamente observadas nos referidos decretos e não podem ser extrapoladas. Da mesma forma, as competências estabelecidas em decretos devem ser observadas nos regimentos internos e não podem ser extrapoladas.
 
-A organização e o funcionamento dos órgãos e entidades da Administração Pública Federal, a partir do detalhamento das respectivas competências legais – denominada de estrutura regimental (link) -, são dispostos por meio de decreto autônomo do Presidente da República, conforme previsto no art. 84, inciso VI, alínea "a" da Constituição Federal de 1988, quando não implicar aumento de despesa nem a criação ou a extinção de órgãos públicos (inciso II do art. 26, do Decreto no 12.002, de 22 de abril de 2024). Assim, o fortalecimento de um órgão ou entidade com acréscimo de estrutura depende da disponibilidade de cargos e funções criados por Lei (link – reserva técnica) e, portanto, previstos na lei orçamentária.
+A organização e o funcionamento dos órgãos e entidades da Administração Pública Federal, a partir do detalhamento das respectivas competências legais – denominada de estrutura regimental (:ref:`estrut_regim`) -, são dispostos por meio de decreto autônomo do Presidente da República, conforme previsto no art. 84, inciso VI, alínea "a" da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, quando não implicar aumento de despesa nem a criação ou a extinção de órgãos públicos (inciso II do art. 26, do Decreto no 12.002, de 22 de abril de 2024). Assim, o fortalecimento de um órgão ou entidade com acréscimo de estrutura depende da disponibilidade de cargos e funções criados por Lei (:ref:`reserva_tec`) e, portanto, previstos na lei orçamentária.
 
 
 Atribuição
@@ -70,12 +76,17 @@ Compreende os objetivos ou propósitos para os quais se direcionam as atividades
 As autarquias e as fundações têm suas finalidades expressas nas respectivas leis de criação. No caso dos ministérios, a finalidade não aparece no texto da estrutura regimental, mas deve ser expressa pelas suas áreas de competências.
 
 
+.. _reserva_tec:
+
 Reserva técnica
 ---------------
 
 Usualmente, nos referimos na expressão *reserva técnica* ao conjunto de cargos e de funções, criados por lei, que transitam pela SEGES para administrar a distribuição para as entidades do Poder Executivo. Embora se utilize a denominação *reserva técnica*, trata-se, tão somente, de local específico para realizar as trocas ou as transformações necessárias para revisão das estruturas organizacionais em análise. Pode ocorrer, em certos casos, que a troca ou a transformação de cargos e de funções acarrete sobra de valores, permanecendo, momentaneamente, na *reserva técnica*, até sua utilização futura.
 
-Dessa forma, os decretos de estrutura organizacional tipicamente envolvem trocas de cargos e funções com a *reserva técnica*. Mesmo nas propostas em que o órgão ou entidade já dispõe dos cargos necessários, os decretos determinam expressamente: i) o remanejamento de um conjunto de cargos em comissão e funções de confiança para a *reserva técnica* e, em seguida, ii) o remanejamento de outro conjunto de volta ao proponente.
+Dessa forma, os decretos de estrutura organizacional tipicamente envolvem trocas de cargos e funções com a *reserva técnica*. Mesmo nas propostas em que o órgão ou entidade já dispõe dos cargos necessários, os decretos determinam expressamente:
+1. o remanejamento de um conjunto de cargos em comissão e funções de confiança para a *reserva técnica* e, em seguida,
+
+2. o remanejamento de outro conjunto de volta ao proponente.
 
 Esse procedimento reflete o próprio sentido do termo *remanejar* — realocar cargos e funções de forma a viabilizar as modificações necessárias na estrutura organizacional. A *reserva técnica* é, portanto, o ponto de passagem que torna possíveis essas transformações.
 
@@ -105,7 +116,7 @@ Eles funcionam sob uma lógica de rede, garantindo que áreas como planejamento,
    * **Sistema de Ouvidorias:** Canal de comunicação e participação do cidadão.
    * **SITAI (Integridade, Transparência e Acesso à Informação):** Sistema unificado criado em 2023 para fortalecer a ética e o cumprimento da Lei de Acesso à Informação.
 
-A diretriz normativa para os Sistemas Estruturadores é o art. 30 do Decreto-lei nº 200, de 1967.
+A diretriz normativa para os Sistemas Estruturadores é o art. 30 do `Decreto-Lei nº 200, de 1967 <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm>`_.
 
 A estrutura de cada sistema geralmente é composta por: órgão central, órgãos setoriais e órgãos seccionais.
 
@@ -190,9 +201,9 @@ As competências do órgão central do SIORG (SEGES/MGI) estão estabelecidas no
 Órgão público
 -------------
 
-Órgão Público é a unidade de atuação integrante das estruturas da administração direta e da administração indireta (art. 1º, § 2º, inciso I da Lei nº 9.784, de 29 de janeiro de 1999).
+Órgão Público é a unidade de atuação integrante das estruturas da administração direta e da administração indireta (art. 1º, § 2º, inciso I da `Lei nº 9.784, de 29 de janeiro de 1999 <https://www.planalto.gov.br/ccivil_03/leis/l9784.htm>`_).
 
-Na qualidade de parte da estrutura da Administração Pública Direta e das demais pessoas jurídicas, o órgão não tem personalidade jurídica e vontade própria. É um centro de competência governamental ou administrativa, instituído para o desempenho de funções estatais, cuja atuação é imputada à pessoa jurídica a que pertence. Cada órgão tem, necessariamente, funções, cargos e agentes, mas é distinto desses elementos que podem ser modificados, substituídos ou retirados sem supressão da unidade orgânica (MEIRELLES, 1990, p.64).
+Na qualidade de parte da estrutura da Administração Pública Direta e das demais pessoas jurídicas, o órgão não tem personalidade jurídica e vontade própria. É um centro de competência governamental ou administrativa, instituído para o desempenho de funções estatais, cuja atuação é imputada à pessoa jurídica a que pertence. Cada órgão tem, necessariamente, funções, cargos e agentes, mas é distinto desses elementos que podem ser modificados, substituídos ou retirados sem supressão da unidade orgânica :cite:`meirelles_2016a`,p.64.
 
 Classificações dos órgãos públicos
 ++++++++++++++++++++++++++++++++++++
