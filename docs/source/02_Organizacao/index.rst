@@ -168,8 +168,7 @@ Empresa estatal
 É a entidade dotada de personalidade jurídica de direito privado, cuja maioria do
 capital votante pertença, direta ou indiretamente, à União, destinada à prestação de
 serviços públicos ou à exploração de atividade econômica, nos termos da `Lei nº 13.303, de 30 de junho de 2016
-<https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm>`_ (Lei das
-Estatais Federais), regulamentada pelo `Decreto nº 8.945, de 27 de dezembro de 2016
+<https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm>`_, regulamentada pelo `Decreto nº 8.945, de 27 de dezembro de 2016
 <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8945.htm>`_.
 
 Sua criação depende de autorização legislativa e é efetivada por decreto do Poder

@@ -116,7 +116,7 @@ A tabela abaixo resume as características dos diferentes tipos de cargos públi
      * Livre provimento, observadas as previsões normativas. (60% dos cargos em comissão existentes devem ser preenchidos por servidores efetivos)
      * Servidores públicos efetivos, de qualquer esfera e poder, observadas as previsões normativas. Obs.: não podem ser ocupadas por pessoas que não ocupam cargo efetivo, nem por servidores públicos de carreira aposentados, nem por militares (da ativa ou da reserva), nem por empregados públicos.
 
-Quando uma lei cria cargos em comissão e/ou funções de confiança, estes são *armazenados* em uma :ref:`reserva_tec`, gerida pela Secretaria de Gestão e Inovação, do Ministério da Gestão e da Inovação em Serviços Públicos. Quando um órgão ou entidade precisa ser fortalecido (ou mesmo criado), cabe a esta Secretaria a análise inicial da demanda (veja as :ref:`pecas_estrut`) e o eventual encaminhamento, à Casa Civil, da minuta de decreto que realizará o remanejamento de cargos e funções.
+Quando uma lei cria cargos em comissão e/ou funções de confiança, estes são *armazenados* em uma :ref:`reserva_tec`, gerida pela Secretaria de Gestão e Inovação, do Ministério da Gestão e da Inovação em Serviços Públicos. Quando um órgão ou entidade precisa ser fortalecido (ou mesmo criado), cabe a esta Secretaria a análise inicial da demanda (veja as :ref:`pecas_reestrut`) e o eventual encaminhamento, à Casa Civil, da minuta de decreto que realizará o remanejamento de cargos e funções.
 
 Cargos Comissionados Executivos – CCE e Funções Comissionadas Executivas – FCE
 ------------------------------------------------------------------------------
@@ -177,7 +177,6 @@ As atribuições de chefia e direção estão associadas às categorias direçã
 Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categoria e denominação do cargo ou função, por meio de portaria do dirigente máximo do órgão ou da entidade, ainda que tenha sido definido em decreto (inc. III do §2º do art. 13, `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_).
 
 **Categoria Direção (código 1)**
-
    CCE e FCE da categoria Direção (código 1) destinam-se, sobretudo, aos titulares de unidades administrativas nas estruturas organizacionais de órgãos da administração direta e para parte das entidades de direito público da administração indireta.
 
    Em decorrência de sua atribuição de chefia e de direção, estes cargos e funções incorporam as responsabilidades correspondentes às competências da unidade, que advêm originariamente de leis ou decretos.
@@ -189,7 +188,6 @@ Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categ
    Os servidores investidos em cargos em comissão ou em funções de confiança de chefia da categoria direção (código 1) podem ter substitutos, conforme prevê o art. 38 da `Lei nº 8.112, de 1990 <https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>`_, independentemente da existência de cargos em comissão ou de funções de confiança subordinadas a eles.
 
 **Categoria Assessoramento (código 2)**
-
    A atribuição de assessoramento é uma das três atribuições que a `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, no inciso V do art. 37, confere aos cargos em comissão e às funções de confiança.
 
    A finalidade dos cargos ou funções da categoria assessoramento (código 2) é o assessoramento direto e imediato aos titulares dos cargos e das funções da categoria direção (código 1), aos cargos de natureza especial e aos cargos de Ministro de Estado.
@@ -197,7 +195,6 @@ Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categ
    Como destinam-se à assistência ou assessoramento de quem chefia ou dirige, os cargos e funções de assessoramento não têm competências próprias. Por conseguinte, não são unidades administrativas no :ref:`siorg`, não permitem a designação de substituto e não podem ter cargos em comissão ou funções de confiança a eles subordinados.
 
 **Categoria Direção de Projetos (código 3)**
-
    Os CCE e FCE da categoria de direção de projetos (código 3) são destinados ao desenvolvimento de um ou mais projetos institucionais. Um projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado específico. Os cargos e funções de direção de projetos são utilizados para o desenvolvimento de iniciativas importantes para a organização, especialmente nos casos em que essa atuação, para uma melhor efetividade, possa ser executada de forma matricial ou transversal à estrutura organizacional. Tais cargos também servem ao fortalecimento da capacidade de formulação estratégica, porque são um recurso adicional livre, que pode ser utilizado no desenvolvimento de iniciativas, atividades ou projetos especiais.
 
    Evidentemente, ter uma categoria específica para gestão de projetos não limita que as demais categorias gerenciem ou executem projetos na organização. A intenção é deixar as estruturas existentes mais flexíveis e preparadas para as constantes mudanças de um ambiente inovador.
@@ -209,7 +206,6 @@ Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categ
    - ter subordinados. Caso os subordinados ocupem cargo ou função, estes deverão necessariamente ser da categoria de direção de projetos (código 3).
 
 **Categoria Assessoramento Técnico Especializado (código 4)**
-
    A finalidade das funções da categoria assessoramento técnico especializado (código 4) é o assessoramento associado às competências da unidade que exijam conhecimentos técnicos específicos, caracterizados por especial nível de complexidade.
 
    Como destinam-se à assistência ou assessoramento de quem os chefia ou dirige, os cargos e funções de assessoramento não têm competências próprias. Por conseguinte, não são unidades administrativas no :ref:`siorg`, não permitem a designação de substituto e não podem ter cargos em comissão ou funções de confiança a eles subordinados.
