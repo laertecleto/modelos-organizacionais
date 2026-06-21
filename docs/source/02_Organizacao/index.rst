@@ -9,90 +9,94 @@ Organização da Administração Pública Federal
    parcerias, para a entrega de serviços de qualidade aos cidadãos.
 
 
-O Estado é a instituição jurídica consubstanciada na Constituição e na regulamentação
-infraconstitucional. O Estado brasileiro é uma república democrática com organização
-federativa, integrado pelos Poderes Legislativo, Executivo e Judiciário, compreendendo
-a União, os Estados, o Distrito Federal e os Municípios.
+O Estado é a organização jurídico-política cuja estrutura, funções e limites são
+disciplinados pela Constituição e pela legislação infraconstitucional. O Estado
+brasileiro é uma república democrática com organização federativa, integrado pelos
+Poderes Legislativo, Executivo e Judiciário, compreendendo a União, os Estados,
+o Distrito Federal e os Municípios.
 
-Na qualidade de Estado Democrático de Direito, a Constituição preconiza a igualdade
-política, o acesso à informação, bem como o direito à participação e ao controle dos
-cidadãos nos processos de formulação, implementação e avaliação de políticas públicas.
+Na qualidade de Estado Democrático de Direito, a Constituição assegura a igualdade
+política, o acesso à informação e o direito à participação e ao controle dos cidadãos
+nos processos de formulação, implementação e avaliação de políticas públicas.
 
-A Administração Pública é regulada pelo art. 37 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_. Do
-ponto de vista jurídico, a doutrina a define sob dois aspectos principais
-:cite:`di_pietro_2021`:
+A Administração Pública é regulada pelo art. 37 da `Constituição Federal
+<https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_. Do ponto de
+vista jurídico, a doutrina a define sob dois aspectos principais
+:cite:`di_pietro_2023`:
 
-* **Sentido material ou objetivo:** A atividade concreta e imediata que o Estado
+* **Sentido material ou objetivo:** a atividade concreta e imediata que o Estado
   desenvolve, sob regime jurídico total ou parcialmente público, para a consecução
   dos interesses coletivos.
-* **Sentido subjetivo ou formal:** O conjunto de órgãos e de pessoas jurídicas aos
+
+* **Sentido subjetivo ou formal:** o conjunto de órgãos e de pessoas jurídicas aos
   quais a lei atribui o exercício da função administrativa do Estado.
 
 O conjunto de órgãos e entidades que integram a administração pública é dinâmico,
-adaptando-se às necessidades de implementação e às linhas programáticas do governo eleito.
+adaptando-se às necessidades de implementação e às linhas programáticas do governo
+eleito.
 
-O art. 84 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_ estabelece a competência privativa do Presidente da República para
-dispor sobre a organização e o funcionamento da administração federal, desde que não
-implique aumento de despesa nem a criação ou extinção de órgãos públicos. Diante das
-transformações políticas e tecnológicas, essas estruturas são constantemente
-aperfeiçoadas para garantir a eficiência da ação estatal.
+O art. 84, VI, "a", da `Constituição Federal
+<https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, com redação
+dada pela Emenda Constitucional nº 32, de 2001, estabelece a competência privativa do
+Presidente da República para dispor, mediante decreto, sobre a organização e o
+funcionamento da administração federal, desde que não implique aumento de despesa nem
+a criação ou extinção de órgãos públicos. Diante das transformações políticas e
+tecnológicas, essas estruturas são constantemente aperfeiçoadas para garantir a
+eficiência da ação estatal.
 
-O `Decreto-Lei nº 200, de 1967 <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm>`_, parcialmente vigente, classifica os órgãos e as
-entidades da administração federal em dois grandes blocos: a **administração direta**
-e a **administração indireta**.
+O `Decreto-Lei nº 200, de 1967
+<https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm>`_, parcialmente
+vigente, classifica os órgãos e as entidades da administração federal em dois grandes
+blocos: a **administração direta** e a **administração indireta**.
+
 
 Administração direta
---------------------
+---------------------
 
 Na organização da administração pública federal direta, a Presidência da República
-atua como o órgão independente do Poder Executivo da União, centralizando as atividades
-administrativas superiores de âmbito federal, de política, planejamento, coordenação e
-controle do desenvolvimento socioeconômico do País e da segurança nacional
-:cite:`meirelles_2016a`. Nesse sentido, a administração direta exerce uma função
-predominantemente estratégica, focada na formulação, supervisão e avaliação de políticas
-públicas.
+atua como órgão independente do Poder Executivo da União, responsável pelas atividades
+de política, planejamento, coordenação e controle do desenvolvimento socioeconômico do
+País e da segurança nacional :cite:`di_pietro_2023`. Nesse sentido, a administração
+direta exerce uma função predominantemente estratégica, focada na formulação,
+supervisão e avaliação de políticas públicas.
 
-Os Ministérios são órgãos autônomos situados logo abaixo da Presidência da República.
-Eles integram os serviços da Administração Direta e supervisionam as entidades da
-administração indireta cujas atividades se enquadrem nas suas respectivas áreas de
-competência (salvo as exceções integradas ou vinculadas diretamente à Presidência)
-:cite:`meirelles_2016b`.
+Os ministérios são órgãos autônomos situados logo abaixo da Presidência da República.
+Integram a Administração Direta e supervisionam as entidades da administração indireta
+cujas atividades se enquadrem nas suas respectivas áreas de competência — salvo as
+exceções vinculadas diretamente à Presidência :cite:`carvalho_filho_2023`.
 
-A organização básica dos órgãos da Presidência da República e dos Ministérios é
-estabelecida em lei específica, atualmente a `Lei nº 14.600, de 19 de junho de 2023 <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14600.htm>`_. Essa legislação
-define as macrocompetências de cada pasta, as quais são posteriormente detalhadas nos
-respectivos decretos de estrutura regimental ou estatuto. Assim, enquanto a lei traz a
-organização básica geral, os decretos especificam o funcionamento de cada órgão,
-detalhando o quadro de cargos e funções.
+A organização básica dos órgãos da Presidência da República e dos ministérios é
+estabelecida em lei específica, atualmente a `Lei nº 14.600, de 19 de junho de 2023
+<https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14600.htm>`_. Essa
+legislação define as macrocompetências de cada ministério, as quais são posteriormente
+detalhadas nos respectivos decretos de estrutura regimental ou estatuto. Assim,
+enquanto a lei traz a organização básica geral, os decretos especificam o funcionamento
+de cada órgão, detalhando o quadro de cargos e funções.
+
 
 Administração indireta
-----------------------
+-----------------------
 
 A administração indireta tem como função principal a execução de políticas públicas e
 é integrada por entidades dotadas de personalidade jurídica própria, autonomia
-administrativa e funcional, vinculadas aos fins definidos em suas leis de criação.
+administrativa e funcional, vinculadas às finalidades definidas em suas leis de criação.
 
 A administração indireta compreende:
 
-1. **Entidades estatais de direito público:** Autarquias e fundações públicas
-   (incluindo as fundações autárquicas e autarquias fundacionais).
-2. **Entidades estatais de direito privado:** Empresas estatais e fundações
-   instituídas pelo poder público com personalidade jurídica de direito privado.
+* **Entidades de direito público:** autarquias e fundações públicas de direito público.
+
+* **Entidades de direito privado:** empresas estatais (empresas públicas e sociedades
+  de economia mista) e fundações instituídas pelo poder público com personalidade
+  jurídica de direito privado.
 
 A vinculação dessas entidades aos órgãos da administração direta é estabelecida por
-ato do Poder Executivo federal, atualmente disposta no `Decreto nº 11.401, de 2023 <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11401.htm>`_.
+ato do Poder Executivo federal, atualmente disposta no `Decreto nº 11.401, de 2023
+<https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11401.htm>`_.
 
 .. note::
-   Caso a proposta de alteração da estrutura regimental de um Ministério inclua ou
-   remova a vinculação de uma entidade, o respectivo Decreto de estrutura deverá
+   Caso a proposta de alteração da estrutura regimental de um ministério inclua ou
+   remova a vinculação de uma entidade, o respectivo decreto de estrutura deverá
    prever a devida alteração ou revogação no decreto de vinculação vigente.
-
-Autarquia e fundação pública
-++++++++++++++++++++++++++++
-
-Trata-se da pessoa jurídica de direito público, criada por lei específica, para prestar
-serviços públicos ou executar atividades administrativas que exijam poderes próprios
-de Estado.
 
 .. important::
    A descentralização de atividades pode ocorrer em dois planos distintos:
@@ -102,73 +106,130 @@ de Estado.
    * **Fora da administração pública** — por meio de parcerias com a sociedade
      civil, como organizações sociais e OSCIPs.
 
-A opção pela descentralização — seja para dentro ou para fora da administração —
-costuma basear-se nos mesmos objetivos estratégicos de gestão:
+A opção pela descentralização costuma basear-se nos seguintes objetivos estratégicos
+de gestão:
 
-* **Especialização:** Permite que estruturas focadas lidem com setores técnicos
+* **Especialização:** permite que estruturas focadas lidem com setores técnicos
   complexos com maior expertise do que o governo central.
-* **Descentralização:** Aproxima a prestação dos serviços públicos das realidades
-  locais, melhorando a responsividade regional.
-* **Flexibilidade administrativa:** A autonomia financeira e administrativa confere
+
+* **Aproximação territorial:** situa a prestação dos serviços públicos próxima às
+  realidades locais, melhorando a responsividade regional.
+
+* **Flexibilidade administrativa:** a autonomia financeira e administrativa confere
   agilidade na tomada de decisões e na adaptação a cenários dinâmicos.
-* **Redução da burocracia:** Simplifica o fluxo decisório ao evitar que demandas
+
+* **Redução da burocracia:** simplifica o fluxo decisório ao evitar que demandas
   operacionais sobrecarreguem o núcleo central do governo.
-* **Responsabilização:** Estruturas de governança próprias, como diretorias
+
+* **Responsabilização:** estruturas de governança próprias, como diretorias
   colegiadas, aumentam a transparência e aproximam o órgão do controle social.
-* **Captação de recursos:** Confere capacidade legal de gerar receitas próprias
-  por meio de taxas e tarifas — embora, na esfera federal, esse impacto seja
-  mitigado pela centralização da arrecadação da União.
+
+* **Captação de recursos:** confere a capacidade de gerar receitas próprias por meio
+  de taxas e tarifas — embora, na esfera federal, esse impacto seja mitigado pela
+  centralização da arrecadação da União.
+
+
+Autarquias e fundações públicas
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Autarquias e fundações públicas de direito público são pessoas jurídicas de direito
+público, criadas por lei específica, para prestar serviços públicos ou executar
+atividades administrativas que exijam poderes próprios de Estado. O
+`Decreto-Lei nº 200, de 1967
+<https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm>`_ define autarquia
+como serviço autônomo, dotado de personalidade jurídica, patrimônio e receita próprios,
+criado para executar atividades típicas da Administração Pública que requeiram gestão
+administrativa e financeira descentralizada. A fundação pública de direito público,
+criada igualmente por lei específica, sujeita-se ao mesmo regime jurídico das
+autarquias, conforme jurisprudência consolidada do Supremo Tribunal Federal
+:cite:`di_pietro_2023`.
+
 
 Autarquias de regime especial
-+++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 As autarquias de regime especial são aquelas às quais a Constituição ou a lei outorgou
 maior grau de autonomia. Suas prerrogativas típicas incluem a garantia de mandato fixo
 e estabilidade para seus dirigentes, além da impossibilidade de revisão de seus atos
 técnicos pela administração direta, ressalvada a atuação do Poder Judiciário.
 
-São exemplos consolidados as agências reguladoras e o Banco Central do Brasil.
+As agências reguladoras constituem o exemplo mais difundido desse modelo, regidas pela
+`Lei nº 13.848, de 25 de junho de 2019
+<https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm>`_, que
+estabelece as regras gerais sobre a natureza, o funcionamento e o relacionamento das
+agências com os demais Poderes. O Banco Central do Brasil, por sua vez, adquiriu
+autonomia operacional formal por meio da `Lei Complementar nº 179, de 24 de fevereiro
+de 2021 <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp179.htm>`_.
+
 
 Empresa estatal
-+++++++++++++++
+~~~~~~~~~~~~~~~
 
-É a entidade dotada de personalidade jurídica de direito privado e fins econômicos,
-cuja maioria do capital votante pertença, direta ou indiretamente, à União. Sua atuação
-volta-se à prestação de serviços públicos ou à exploração de atividade econômica
-(Art. 2º, I do `Decreto nº 8.945, de 2016 <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8945.htm>`_).
+É a entidade dotada de personalidade jurídica de direito privado, cuja maioria do
+capital votante pertença, direta ou indiretamente, à União, destinada à prestação de
+serviços públicos ou à exploração de atividade econômica, nos termos da `Lei nº 13.303, de 30 de junho de 2016
+<https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm>`_ (Lei das
+Estatais Federais), regulamentada pelo `Decreto nº 8.945, de 27 de dezembro de 2016
+<https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8945.htm>`_.
 
-Sua criação depende de autorização legislativa e é efetivada por Decreto do Poder
-Executivo por razões de segurança nacional ou relevante interesse coletivo. Essa
-entidade pode assumir duas configurações jurídicas:
+Sua criação depende de autorização legislativa e é efetivada por decreto do Poder
+Executivo, por razões de segurança nacional ou relevante interesse coletivo. A empresa
+estatal pode assumir duas configurações jurídicas:
 
 Sociedade de economia mista
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Explora atividade econômica sob a forma de sociedade anônima (S.A.), permitindo a
+
+Destina-se à prestação de serviços públicos ou à exploração de atividade econômica
+sob a forma de sociedade anônima (S.A.), permitindo a
 participação de capital privado, desde que a maioria das ações com direito a voto
-permaneça com a União (Art. 2º, III do `Decreto nº 8.945, de 2016 <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8945.htm>`_).
+permaneça com a União (art. 4º da `Lei nº 13.303, de 2016
+<https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm>`_).
 
 Empresa pública
 ^^^^^^^^^^^^^^^
-Seu capital social é constituído por recursos provenientes exclusivamente do setor
-público, admitindo-se a participação de outros entes da administração, desde que a
-maioria do capital votante continue com a União (Art. 2º, II do `Decreto nº 8.945, de 2016 <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8945.htm>`_).
+
+Seu capital social é constituído integralmente por recursos provenientes do setor
+público, admitida a participação de outros entes da administração, desde que a maioria
+do capital votante continue com a União (art. 3º da `Lei nº 13.303, de 2016
+<https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm>`_).
 
 A relação atualizada das empresas estatais federais está disponível no portal da
-`Secretaria de Coordenação e Governança das Empresas Estatais (SEST) <https://www.gov.br/gestao/pt-br/assuntos/estatais>`_.
+`Secretaria de Coordenação e Governança das Empresas Estatais (SEST)
+<https://www.gov.br/gestao/pt-br/assuntos/estatais>`_.
+
 
 Fundação instituída pelo poder público de direito privado
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-O `Decreto-Lei nº 200, de 1967 <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm>`_ (com redação dada pela `Lei nº 7.596, de 1987 <https://www.planalto.gov.br/ccivil_03/leis/l7596.htm>`_), define-a como
-entidade sem fins lucrativos, dotada de personalidade jurídica de direito privado,
-criada por autorização legislativa para o desenvolvimento de atividades que não exijam
-execução por órgãos de direito público. Conta com autonomia administrativa, patrimônio
-próprio e funcionamento custeado por recursos da União e de outras fontes.
+O `Decreto-Lei nº 200, de 1967
+<https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm>`_ (com redação dada
+pela `Lei nº 7.596, de 1987
+<https://www.planalto.gov.br/ccivil_03/leis/l7596.htm>`_) define-a como entidade sem
+fins lucrativos, dotada de personalidade jurídica de direito privado, criada por
+autorização legislativa para o desenvolvimento de atividades que não exijam execução
+por órgãos ou entidades de direito público. Conta com autonomia administrativa, patrimônio próprio
+e funcionamento custeado por recursos da União e de outras fontes.
 
-De acordo com o inciso XIX do art. 37 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, a instituição
-de fundação é autorizada por lei, cabendo à lei complementar a definição das suas áreas
-de atuação. O Supremo Tribunal Federal chancelou a constitucionalidade desse modelo
-(`ADI nº 4.197 SE <https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=766081758>`_). Para um resumo didático do referido acórdão, acesse `ADI nº 4.197 <https://informativos.trilhante.com.br/julgados/stf-adi-4197-se>`_.
+De acordo com o inciso XIX do art. 37 da `Constituição Federal
+<https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, a
+instituição de fundação é autorizada por lei, cabendo à lei complementar a definição
+das suas áreas de atuação.
+
+O Supremo Tribunal Federal chancelou a constitucionalidade desse modelo (`ADI nº 4.197 SE
+<https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=766081758>`_).
+Para um resumo didático do referido acórdão, acesse `ADI nº 4.197
+<https://informativos.trilhante.com.br/julgados/stf-adi-4197-se>`_.
+
+.. note::
+   A dualidade de regimes das fundações instituídas pelo poder público — direito
+   público ou direito privado — consolidou-se na jurisprudência do Supremo Tribunal
+   Federal após a Emenda Constitucional nº 19, de 4 de junho de 1998, que reformou
+   o inciso XIX do art. 37 da Constituição. A partir dessa reforma, o STF passou a
+   reconhecer que a natureza jurídica da fundação depende do regime definido na lei
+   que a institui. As ADIs 191 e 192 corroboram essa orientação ao afastar a
+   isonomia salarial entre servidores de fundações sujeitas a regimes distintos,
+   pressupondo a existência de dois estatutos jurídicos diferenciados.
+
 
 Na :numref:`ADM-direta-indireta` há uma visualização **idealizada** dos tipos
 institucionais correlacionados com suas funções, atividades e áreas de atuação.

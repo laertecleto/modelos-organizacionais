@@ -94,7 +94,6 @@ Reserva técnica
 Usualmente, nos referimos na expressão *reserva técnica* ao conjunto de cargos e de funções, criados por lei, que transitam pela SEGES para administrar a distribuição para as entidades do Poder Executivo. Embora se utilize a denominação *reserva técnica*, trata-se, tão somente, de local específico para realizar as trocas ou as transformações necessárias para revisão das estruturas organizacionais em análise. Pode ocorrer, em certos casos, que a troca ou a transformação de cargos e de funções acarrete sobra de valores, permanecendo, momentaneamente, na *reserva técnica*, até sua utilização futura.
 
 Dessa forma, os decretos de estrutura organizacional tipicamente envolvem trocas de cargos e funções com a *reserva técnica*. Mesmo nas propostas em que o órgão ou entidade já dispõe dos cargos necessários, os decretos determinam expressamente:
-
    1. o remanejamento de um conjunto de cargos em comissão e funções de confiança para a *reserva técnica* e, em seguida,
 
    2. o remanejamento de outro conjunto de volta ao proponente.
