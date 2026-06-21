@@ -354,6 +354,8 @@ De acordo com o § 3º do art. 1º da `Lei nº 8.168, de 1991 <https://www.plana
 
 Por sua vez, a Função Comissionada de Curso - FCC foi instituída pelo art. 7º da `Lei nº 12.677, de 25 de junho de 2012 <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12677.htm>`_, para ser exercida, exclusivamente, por servidores que desempenhem atividade de coordenação acadêmica de cursos técnicos, tecnológicos, de graduação e de pós-graduação stricto sensu, regularmente instituídos no âmbito das instituições federais de ensino. De acordo com o § 1º do art. 7º, somente poderão ser designados para FCC os titulares de cargos da Carreira do Magistério Superior de que trata a `Lei nº 7.596, de 10 de abril de 1987 <https://www.planalto.gov.br/ccivil_03/leis/l7596.htm>`_, e os Professores do Magistério do Ensino Básico, Técnico e Tecnológico, integrantes do Plano de Carreira e Cargos de Magistério do Ensino Básico, Técnico e Tecnológico, de que trata a `Lei nº 11.784, de 22 de setembro de 2008 <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11784.htm>`_. Por fim, conforme o § 2º do art. 7º da `Lei nº 12.677, de 25 de junho de 2012 <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12677.htm>`_, é vedada a percepção de FCC cumulativa com a retribuição de funções gratificadas, cargos de direção ou com qualquer outra forma de retribuição pelo exercício de cargo em comissão ou função de confiança.
 
+.. _cargos_agencias:
+
 Cargos comissionados das agências reguladoras
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

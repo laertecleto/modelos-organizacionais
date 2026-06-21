@@ -11,9 +11,11 @@ Conceitos básicos
 Estrutura regimental
 --------------------
 
+A estrtura regimental aplica-se aos ministérios, órgãos da Presidência da República e autarquias.
+
 Para ministérios e órgãos da Presidência da República, a estrutura regimental descreve as áreas de competência, desdobra o conjunto de órgãos e unidades administrativas integrantes da estrutura básica e relaciona as respectivas competências, atribuições dos dirigentes e outros assuntos inerentes à sua organização como disposições gerais ou transitórias.
 
-Para autarquias do Poder Executivo Federal, a estrutura regimental descreve as finalidades, competências, natureza, sede, conforme estabelecidas em lei, bem como a vinculação, as competências das unidades subordinadas diretamente ao dirigente máximo da autarquia, a forma de direção e nomeação, as atribuições dos dirigentes, o patrimônio, os recursos financeiros e outros assuntos inerentes à sua organização, como disposições gerais ou transitórias, com observância dos termos da Lei de criação ou que autorizou a sua criação.
+Para autarquias do Poder Executivo Federal, a estrutura regimental descreve as finalidades, competências, natureza, sede, conforme estabelecidas em lei, bem como a vinculação, as competências das unidades subordinadas diretamente ao dirigente máximo da autarquia, a forma de direção e nomeação, as atribuições dos dirigentes, o patrimônio, os recursos financeiros e outros assuntos inerentes à sua organização, como disposições gerais ou transitórias, com observância aos termos da Lei de criação ou que autorizou a sua criação.
 
 A estrutura regimental dos ministérios, dos órgãos da Presidência da República e das autarquias é aprovada por ato do Presidente da República.
 
@@ -21,7 +23,7 @@ A estrutura regimental dos ministérios, dos órgãos da Presidência da Repúbl
 Estatuto
 --------
 
-O estatuto aplica-se às fundações públicas (de direito público ou privado). É aprovado por ato do Presidente da República. O estatuto descreve:
+O estatuto aplica-se às fundações públicas (de direito público ou privado). O estatuto descreve:
    * suas finalidades e competências,
    * sua natureza e sede, e
    * o conjunto de órgãos e unidades administrativas integrantes da estrutura básica que são diretamente subordinados ao dirigente máximo da entidade e suas respectivas competências;
@@ -30,6 +32,7 @@ O estatuto aplica-se às fundações públicas (de direito público ou privado).
    * o patrimônio, e as fontes de recursos; e 
    * outros assuntos inerentes à sua organização.
 
+O estatuto é aprovada por ato do Presidente da República.
 
 Área de competência
 -------------------
