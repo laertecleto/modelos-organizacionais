@@ -36,7 +36,7 @@ O estatuto é aprovado por ato do Presidente da República.
 
 Regimento interno
 -----------------
-Os ministérios, órgãos da Presidência da República, autarquias e fundações públicas do Poder Executivo Federal podem editar regimento interno para disciplinar sua organização interna, de forma complementar à respectiva estrutura regimental.
+Os ministérios, órgãos da Presidência da República, autarquias e fundações públicas do Poder Executivo Federal **podem** editar regimento interno para disciplinar sua organização interna, de forma complementar à respectiva estrutura regimental.
 
 Para ministérios e órgãos da Presidência da República, o regimento interno desdobra as unidades administrativas constantes da estrutura regimental em subunidades organizacionais, define as respectivas competências e as atribuições dos titulares em cada nível hierárquico, e disciplina os procedimentos e fluxos internos de trabalho necessários ao funcionamento regular do órgão, podendo incluir disposições gerais ou transitórias.
 
@@ -206,53 +206,123 @@ As competências do órgão central do SIORG (SEGES/MGI) estão estabelecidas no
 
 Órgão público
 -------------
-Órgão Público é a unidade de atuação integrante das estruturas da administração direta e da administração indireta (art. 1º, § 2º, inciso I da `Lei nº 9.784, de 29 de janeiro de 1999 <https://www.planalto.gov.br/ccivil_03/leis/l9784.htm>`_).
+Órgão público é a unidade de atuação integrante das estruturas da administração
+direta ou de pessoa jurídica de direito público da administração indireta, sem
+personalidade jurídica própria, criada para o exercício de competências estatais
+(art. 1º, § 2º, inciso I, da `Lei nº 9.784, de 29 de janeiro de 1999
+<https://www.planalto.gov.br/ccivil_03/leis/l9784.htm>`_). No âmbito do Poder
+Executivo Federal, a criação, a estruturação e as atribuições dos órgãos dependem
+de lei (art. 88 da `Constituição Federal
+<https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_), ao passo
+que a organização e o funcionamento da administração federal podem ser disciplinados
+por decreto presidencial, desde que não impliquem aumento de despesa nem criação ou
+extinção de órgãos públicos (art. 84, VI, "a", da mesma Constituição, com redação
+dada pela Emenda Constitucional nº 32, de 2001).
 
-Na qualidade de parte da estrutura da Administração Pública Direta e das demais pessoas jurídicas, o órgão não tem personalidade jurídica e vontade própria. É um centro de competência governamental ou administrativa, instituído para o desempenho de funções estatais, cuja atuação é imputada à pessoa jurídica a que pertence. Cada órgão tem, necessariamente, funções, cargos e agentes, mas é distinto desses elementos que podem ser modificados, substituídos ou retirados sem supressão da unidade orgânica :cite:`meirelles_2016a`, p.64.
+O órgão público não possui personalidade jurídica nem patrimônio próprios. É um
+centro de competência governamental instituído para o desempenho de finalidades
+públicas específicas, cuja atuação é juridicamente imputada à pessoa jurídica a
+que pertence — União, Estado, Município ou entidade da administração indireta —,
+conforme a teoria do órgão :cite:`di_pietro_2023`. Os elementos que o compõem —
+cargos, funções e agentes — são contingentes: podem ser modificados, substituídos
+ou suprimidos sem que isso implique a extinção da unidade orgânica
+:cite:`carvalho_filho_2023`.
 
 Classificações dos órgãos públicos
 ++++++++++++++++++++++++++++++++++
-**Quanto à posição na hierarquia do Poder Executivo Federal**
+
+Quanto à posição na hierarquia do Poder Executivo Federal
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 0
    :widths: 20 80
 
-   - * Órgãos autônomos
-     * são aqueles que se localizam na cúpula da Administração, subordinados diretamente ao Presidente da República. Gozam de autonomia administrativa, financeira e técnica e participam das decisões governamentais. São eles os ministérios e os órgãos da Presidência da República.
+   * - Órgãos autônomos
+     - São aqueles que se localizam na cúpula da Administração, subordinados
+       diretamente ao Presidente da República. Gozam de autonomia administrativa,
+       financeira e técnica e participam das decisões governamentais. São eles os
+       ministérios e os órgãos da Presidência da República.
 
-   - * Órgãos superiores
-     * são órgãos de direção, porém sem autonomia administrativa e financeira. Sujeitam-se aos órgãos autônomos, compondo o seu primeiro escalão orgânico. Incluem-se, nesse tipo, os gabinetes, as secretarias, os departamentos etc.
+   * - Órgãos superiores
+     - São órgãos de direção, porém sem autonomia administrativa e financeira.
+       Sujeitam-se aos órgãos autônomos, compondo o seu primeiro escalão orgânico.
+       Incluem-se, nesse tipo, os gabinetes, as secretarias, os departamentos etc.
 
-   - * Órgãos subalternos
-     * são os órgãos subordinados aos órgãos superiores. Encontra-se na base da estrutura orgânica da Administração Pública e são responsáveis por atividades materiais ou de execução. São também denominados de unidades administrativas.
+   * - Órgãos subalternos
+     - São os órgãos situados na base da estrutura orgânica da Administração
+       Pública, subordinados aos órgãos superiores. Caracterizam-se pelo reduzido
+       poder decisório e pela predominância de funções de execução: realizam
+       atividades materiais e tarefas administrativas de rotina, cumprem as
+       determinações dos níveis superiores e oferecem as primeiras soluções em
+       casos individuais, incluindo o atendimento direto ao público. São também
+       denominados unidades administrativas.
 
-   - * Órgãos de execução
-     * são órgãos com reduzido poder decisório e com predominância de funções de execução. Destinam-se à realização de serviços de rotinas, tarefas administrativas, cumprimento de decisões superiores e primeiras soluções em casos individuais, como é o caso das atividades-meio e de atendimento ao público.
+Classificação doutrinária conforme :cite:`di_pietro_2023` e :cite:`carvalho_filho_2023`.
 
 
-**Quanto à natureza**
+Quanto à natureza
+~~~~~~~~~~~~~~~~~
+
+.. Fonte: inserir referência ao normativo SEGES/MGI que disciplina a elaboração
+.. de estruturas regimentais e estatutos no Poder Executivo Federal.
+
 .. list-table::
    :header-rows: 0
    :widths: 20 80
 
-   - * De assistência direta e imediata
-     * São aqueles responsáveis por funções de direção superior, assessoramento e assistência direta e imediata ao Ministro de Estado ou ao Presidente de autarquia ou fundação. Realizam estudos, pesquisas e acompanhamentos; elaboram programas e projetos e propõem diretrizes e estratégias. Compõem o primeiro escalão orgânico da estrutura dos ministérios, órgãos da Presidência da República ou autarquias.
+   * - De assistência direta e imediata
+     - São aqueles responsáveis por funções de direção superior, assessoramento e
+       assistência direta e imediata ao Ministro de Estado ou ao Presidente de
+       autarquia ou fundação. Realizam estudos, pesquisas e acompanhamentos;
+       elaboram programas e projetos e propõem diretrizes e estratégias. Compõem
+       o primeiro escalão orgânico da estrutura dos ministérios, órgãos da
+       Presidência da República ou autarquias.
 
-   - * Específicos
-     * Também compõem o primeiro escalão orgânico da estrutura dos ministérios, órgãos da Presidência da República, autarquias e fundações. São responsáveis por competências diretamente relacionadas com a área de atuação do ministério, órgão da Presidência da República, ou com a finalidade da autarquia.
+   * - Específicos
+     - Também compõem o primeiro escalão orgânico da estrutura dos ministérios,
+       órgãos da Presidência da República, autarquias e fundações. São responsáveis
+       por competências diretamente relacionadas com a área de atuação do ministério,
+       órgão da Presidência da República, ou com a finalidade da autarquia.
 
-   - * Descentralizados
-     * São aqueles de execução em nível local. Em se tratando de estruturas regimentais ou estatutos, o termo refere-se à descentralização física, às unidades do órgão ou da entidade situadas em município diferente do da sede.
+   * - Descentralizados
+     - São aqueles de execução em nível local. Em se tratando de estruturas
+       regimentais ou estatutos, o termo refere-se à descentralização física, às
+       unidades do órgão ou da entidade situadas em município diferente do da sede.
 
 
-**Quanto ao processo decisório**
+Quanto ao processo decisório
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .. list-table::
    :header-rows: 0
    :widths: 20 80
 
-   - * Órgãos singulares
-     * São aqueles nos quais o comando e a decisão, em cada nível hierárquico, é atribuição de uma única autoridade pública, caso dos ministérios, secretarias, departamentos, diretorias etc. Nesse modelo, a Alta Administração compõe-se das autoridades políticas da organização que correspondem ao dirigente maior (ministros ou presidente) e aos titulares dos órgãos responsáveis pelos principais macroprocessos organizacionais, subordinados diretamente à maior autoridade. Esse modelo é típico da administração burocrática clássica na qual o poder de deliberação é concentrado no topo da hierarquia administrativa, facilitando o processo de decisão e de prestação de contas.
+   * - Órgãos singulares
+     - São aqueles nos quais o comando e a decisão, em cada nível hierárquico,
+       é atribuição de uma única autoridade pública, caso dos ministérios,
+       secretarias, departamentos, diretorias etc. Nesse modelo, a Alta
+       Administração compõe-se das autoridades políticas da organização que
+       correspondem ao dirigente maior (ministros ou presidente) e aos titulares
+       dos órgãos responsáveis pelos principais macroprocessos organizacionais,
+       subordinados diretamente à maior autoridade. Esse modelo é típico da
+       administração burocrática clássica, na qual o poder de deliberação é
+       concentrado no topo da hierarquia administrativa, facilitando o processo
+       de decisão e de prestação de contas.
 
-   - * Órgãos colegiados
-     * Os órgãos colegiados, por sua vez, obedecem a uma lógica compatível com a administração democrática. São integrados por mais de uma autoridade e têm como fundamentos o compartilhamento de saberes e a deliberação coletiva. Seus representantes podem ser originários do setor público, do setor privado ou da sociedade civil, segundo a natureza da representação. São conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões etc. Os órgãos colegiados podem ser de caráter deliberativo, consultivo ou judicante, conforme dispuser a política pública que o constitui. Embora integrem o sistema de governança organizacional, órgãos colegiados não dispõem de estrutura interna de cargos. Geralmente são constituídos por representantes de órgãos e entidades do Poder Público assim como por representantes da sociedade civil (composição pluripessoal). Como já dito, os membros dos colegiados não detêm cargos e não recebem remuneração de qualquer natureza por essa função. Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior do órgão ou entidade que o institui.
+   * - Órgãos colegiados
+     - São integrados por mais de uma autoridade e têm como fundamentos o
+       compartilhamento de saberes e a deliberação coletiva. Seus representantes
+       podem ser originários do setor público, do setor privado ou da sociedade
+       civil, segundo a natureza da representação. São conhecidos pelos nomes de
+       Conselhos, Comitês, Câmaras, Comissões etc. Os órgãos colegiados podem ser
+       de caráter deliberativo, consultivo ou judicante, conforme dispuser a
+       política pública que o constitui. Embora integrem o sistema de governança
+       organizacional, órgãos colegiados não dispõem de estrutura interna de cargos.
+       Geralmente são constituídos por representantes de órgãos e entidades do Poder
+       Público e por representantes da sociedade civil (composição pluripessoal).
+       Os membros dos colegiados não detêm cargos e não recebem remuneração de
+       qualquer natureza por essa função. Normalmente, a presidência do conselho é
+       atribuição do cargo de dirigente maior do órgão ou entidade que o institui.
+
+Classificação doutrinária conforme :cite:`di_pietro_2023` e :cite:`carvalho_filho_2023`.
