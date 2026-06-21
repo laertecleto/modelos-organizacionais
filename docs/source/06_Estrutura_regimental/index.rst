@@ -7,9 +7,9 @@ Estrutura regimental e estatuto
 
 O inciso VI, alínea “a” do art. 84 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_ estabelece que compete privativamente ao Presidente da República dispor, mediante decreto, sobre organização e funcionamento da administração federal, quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos. Com base neste fundamento constitucional é que se pauta a validade jurídica dos decretos de estrutura regimental ou estatutos.
 
-A estrutura básica dos ministérios, órgãos da Presidência da República e autarquias é detalhada na estrutura regimental. A estrutura básica das fundações públicas é detalhada no estatuto.
+A estrutura básica dos ministérios, órgãos da Presidência da República e autarquias é detalhada na :ref:`estrut_regim`. A estrutura básica das fundações públicas é detalhada no :ref:`estatuto`.
 
-O Decreto de aprovação da estrutura regimental tem como finalidade:
+O Decreto de aprovação da estrutura regimental ou do estatuto tem como finalidade:
    a) detalhar o conjunto de órgãos da sua estrutura básica;
    b) descrever sua organização interna até o segundo nível organizacional; e
    c) descrever as respectivas competências de cada órgão e das atribuições dos dirigentes.
@@ -25,7 +25,7 @@ A ordem com que as unidades são apresentadas na estrutura básica deve ser a me
 
 Todas as observações acima se aplicam também aos decretos de aprovação dos estatutos das fundações, com a diferença de que, adicionalmente, o estatuto deve dispor sobre a direção, a nomeação de seus cargos em comissão, sobre os recursos orçamentários e o patrimônio da entidade.
 
-O detalhamento das competências das unidades administrativas pode ser realizado no regimento interno do órgão por ato normativo indelegável da autoridade máxima do órgão ou da entidade, salvo se a lei de criação, no caso das entidades, especificar o responsável pelo regimento interno.
+O detalhamento das competências das unidades administrativas pode ser realizado no :ref:`reg_interno` do órgão por ato normativo indelegável da autoridade máxima do órgão ou da entidade, salvo se a lei de criação, no caso das entidades, especificar o responsável pelo :ref:`reg_interno`.
 
 Por fim, deve-se ressaltar que o Decreto de aprovação da estrutura regimental ou do estatuto não deve conter referência a programas, sistemas, instâncias, unidades, entre outros assuntos que não tenham sido instituídos por Lei ou Decreto. Em outras palavras, o Decreto da estrutura regimental ou do estatuto não deve conter referências que foram instituídas por atos normativos inferiores a Decreto.
 

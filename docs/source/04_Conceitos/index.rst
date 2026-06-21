@@ -1,7 +1,5 @@
 Conceitos básicos
 =================
-
-
 .. admonition:: Sobre este capítulo
 
    Neste capítulo você encontrará as definições dos principais conceitos relacionados às estruturas organizacionais do Poder Executivo Federal.
@@ -10,7 +8,6 @@ Conceitos básicos
 
 Estrutura regimental
 --------------------
-
 A estrtura regimental aplica-se aos ministérios, órgãos da Presidência da República e autarquias.
 
 Para ministérios e órgãos da Presidência da República, a estrutura regimental descreve as áreas de competência, desdobra o conjunto de órgãos e unidades administrativas integrantes da estrutura básica e relaciona as respectivas competências, atribuições dos dirigentes e outros assuntos inerentes à sua organização como disposições gerais ou transitórias.
@@ -19,10 +16,10 @@ Para autarquias do Poder Executivo Federal, a estrutura regimental descreve as f
 
 A estrutura regimental dos ministérios, dos órgãos da Presidência da República e das autarquias é aprovada por ato do Presidente da República.
 
+.. _estatuto:
 
 Estatuto
 --------
-
 O estatuto aplica-se às fundações públicas (de direito público ou privado). O estatuto descreve:
    * suas finalidades e competências,
    * sua natureza e sede, e
@@ -32,11 +29,24 @@ O estatuto aplica-se às fundações públicas (de direito público ou privado).
    * o patrimônio, e as fontes de recursos; e 
    * outros assuntos inerentes à sua organização.
 
-O estatuto é aprovada por ato do Presidente da República.
+O estatuto é aprovado por ato do Presidente da República.
+
+
+.. _reg_interno:
+
+Regimento interno
+-----------------
+Os ministérios, órgãos da Presidência da República, autarquias e fundações públicas do Poder Executivo Federal podem editar regimento interno para disciplinar sua organização interna, de forma complementar à respectiva estrutura regimental.
+
+Para ministérios e órgãos da Presidência da República, o regimento interno desdobra as unidades administrativas constantes da estrutura regimental em subunidades organizacionais, define as respectivas competências e as atribuições dos titulares em cada nível hierárquico, e disciplina os procedimentos e fluxos internos de trabalho necessários ao funcionamento regular do órgão, podendo incluir disposições gerais ou transitórias.
+
+Para autarquias e fundações públicas do Poder Executivo Federal, o regimento interno detalha a organização interna das unidades previstas na estrutura regimental, define as competências das subunidades e as atribuições de seus dirigentes, disciplina o funcionamento de eventuais órgãos colegiados e regula outros aspectos inerentes à organização interna da entidade, com observância aos termos da lei de criação e da respectiva estrutura regimental.
+
+O regimento interno dos ministérios e órgãos da Presidência da República é aprovado por portaria do respectivo ministro de Estado ou autoridade equivalente; o das autarquias e fundações públicas, pelo dirigente máximo da entidade, no exercício de seu poder normativo interno.
+
 
 Área de competência
 -------------------
-
 As áreas de competência dos órgãos da Presidência da República, dos ministérios e das entidades delimitam os assuntos de responsabilidade de cada um e são estabelecidas por lei.
 
 As competências estabelecidas em lei devem ser estritamente observadas nos referidos decretos e não podem ser extrapoladas. Da mesma forma, as competências estabelecidas em decretos devem ser observadas nos regimentos internos e não podem ser extrapoladas.
@@ -46,7 +56,6 @@ A organização e o funcionamento dos órgãos e entidades da Administração P�
 
 Atribuição
 ----------
-
 É o poder, decorrente de competência, cometido a dirigente de órgão, unidade ou entidade para o desempenho específico de suas competências. Em regra, constam no decreto presidencial que trata da estrutura regimental do órgão ou entidade, em capítulo próprio, após descrição das competências das unidades.
 
 .. admonition:: Exemplo
@@ -73,7 +82,6 @@ Atribuição
 
 Finalidade
 ----------
-
 Compreende os objetivos ou propósitos para os quais se direcionam as atividades do órgão ou da entidade, previstos na norma legal. A finalidade terá sempre um objetivo certo e inafastável de qualquer ato administrativo: o interesse público.
 
 As autarquias e as fundações têm suas finalidades expressas nas respectivas leis de criação. No caso dos ministérios, a finalidade não aparece no texto da estrutura regimental, mas deve ser expressa pelas suas áreas de competências.
@@ -83,7 +91,6 @@ As autarquias e as fundações têm suas finalidades expressas nas respectivas l
 
 Reserva técnica
 ---------------
-
 Usualmente, nos referimos na expressão *reserva técnica* ao conjunto de cargos e de funções, criados por lei, que transitam pela SEGES para administrar a distribuição para as entidades do Poder Executivo. Embora se utilize a denominação *reserva técnica*, trata-se, tão somente, de local específico para realizar as trocas ou as transformações necessárias para revisão das estruturas organizacionais em análise. Pode ocorrer, em certos casos, que a troca ou a transformação de cargos e de funções acarrete sobra de valores, permanecendo, momentaneamente, na *reserva técnica*, até sua utilização futura.
 
 Dessa forma, os decretos de estrutura organizacional tipicamente envolvem trocas de cargos e funções com a *reserva técnica*. Mesmo nas propostas em que o órgão ou entidade já dispõe dos cargos necessários, os decretos determinam expressamente:
@@ -101,7 +108,6 @@ O montante disponível da *reserva técnica* tende a zero, pois não há interes
 
 Sistemas Estruturadores
 -----------------------
-
 Os Sistemas Estruturadores do Poder Executivo Federal são mecanismos de suporte criados para organizar e padronizar atividades auxiliares em todos os órgãos e entidades da administração pública direta, autárquica e fundacional.
 
 Eles funcionam sob uma lógica de rede, garantindo que áreas como planejamento, finanças, pessoal e controle operem sob as mesmas diretrizes, independentemente do ministério, evitando a fragmentação administrativa e promovendo maior transparência, controle e eficiência na implementação das políticas públicas.
@@ -126,7 +132,6 @@ A estrutura de cada sistema geralmente é composta por: órgão central, órgão
 
 Órgão Central
 ~~~~~~~~~~~~~
-
 É o núcleo de um sistema estruturador: a unidade responsável por formular as normas, diretrizes e políticas que devem ser seguidas por todos os órgãos e entidades em uma área específica.
 
 As principais funções do Órgão Central são:
@@ -139,7 +144,6 @@ As principais funções do Órgão Central são:
 
 Órgãos Setoriais
 ~~~~~~~~~~~~~~~~
-
 Os órgãos setoriais são as unidades administrativas localizadas dentro de cada Ministério (ou órgãos de status equivalente, como a Casa Civil e a AGU) responsáveis por executar e coordenar as atividades de um sistema estruturador naquele setor específico do governo.
 
 Enquanto o órgão central estabelece as regras para todos os ministérios, autarquias e fundações públicas, o órgão setorial garante que essa regra seja aplicada dentro do seu respectivo ministério e de suas entidades vinculadas (órgãos seccionais).
@@ -153,20 +157,17 @@ As principais características dos órgãos setoriais são:
 
 Órgãos Seccionais
 ~~~~~~~~~~~~~~~~~
-
 São as unidades de execução da administração indireta — autarquias e fundações públicas — vinculadas aos órgãos setoriais. Respondem pela aplicação prática das atividades do sistema em cada entidade.
 
 
 Sistemas Estruturantes
 ----------------------
-
 O termo *Sistemas Estruturantes* refere-se às plataformas de TI e sistemas de software que operacionalizam as funções dos Sistemas Estruturadores. Por exemplo: o SIAFI (sistema) operacionaliza o Sistema de Administração Financeira; o SIAPE (sistema) operacionaliza o SIPEC.
 
 .. _siorg:
 
 SIORG
 -----
-
 O **SIORG — Sistema de Organização e Inovação Institucional** é o sistema estruturador responsável por organizar a arquitetura do Governo Federal. Ele define como os órgãos são criados, como os cargos e funções são distribuídos e como as competências de cada ministério, autarquia e fundação pública são delimitadas.
 
 Em resumo, o SIORG define como o governo se organiza: quem faz o quê, quais são as competências de cada órgão e como os cargos e funções são alocados.
@@ -205,14 +206,12 @@ As competências do órgão central do SIORG (SEGES/MGI) estão estabelecidas no
 
 Órgão público
 -------------
-
 Órgão Público é a unidade de atuação integrante das estruturas da administração direta e da administração indireta (art. 1º, § 2º, inciso I da `Lei nº 9.784, de 29 de janeiro de 1999 <https://www.planalto.gov.br/ccivil_03/leis/l9784.htm>`_).
 
 Na qualidade de parte da estrutura da Administração Pública Direta e das demais pessoas jurídicas, o órgão não tem personalidade jurídica e vontade própria. É um centro de competência governamental ou administrativa, instituído para o desempenho de funções estatais, cuja atuação é imputada à pessoa jurídica a que pertence. Cada órgão tem, necessariamente, funções, cargos e agentes, mas é distinto desses elementos que podem ser modificados, substituídos ou retirados sem supressão da unidade orgânica :cite:`meirelles_2016a`, p.64.
 
 Classificações dos órgãos públicos
 ++++++++++++++++++++++++++++++++++
-
 **Quanto à posição na hierarquia do Poder Executivo Federal**
 
 .. list-table::
@@ -233,7 +232,6 @@ Classificações dos órgãos públicos
 
 
 **Quanto à natureza**
-
 .. list-table::
    :header-rows: 0
    :widths: 20 80
@@ -249,7 +247,6 @@ Classificações dos órgãos públicos
 
 
 **Quanto ao processo decisório**
-
 .. list-table::
    :header-rows: 0
    :widths: 20 80
