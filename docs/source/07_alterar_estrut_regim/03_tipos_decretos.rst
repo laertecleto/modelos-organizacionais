@@ -85,4 +85,4 @@ Na :numref:`tipos-decreto` você encontra uma visão geral dos tipos de decreto 
 .. figure:: ../_static/images/Fig1_tipos_de_decreto.png
    :alt: Tipos de decreto
    :align: center
-   :name: tipos_decreto
+   :name: Fig1_tipos_de_decreto
