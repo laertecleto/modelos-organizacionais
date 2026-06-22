@@ -17,12 +17,10 @@ Como alterar uma estrutura regimental
             - Como alterar uma estrutura regimental ou estatuto para uma autarquia ou fundação pública;
             - Como elaborar uma nota técnica ou parecer de mérito;
             - Como elaborar uma minuta de exposição de motivos interministerial.
-
-
-Este capítulo inclui as seguintes seções:
+            
 
 .. toctree::
-   :maxdepth: 1
+   :hidden:
 
    01_fluxo_reestruturacao
    02_pecas_reestruturacao

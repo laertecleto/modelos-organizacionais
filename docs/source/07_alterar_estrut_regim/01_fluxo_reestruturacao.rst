@@ -8,6 +8,6 @@ Na :numref:`fluxo-reestruturacao` você encontra o fluxo normal de uma reestrutu
    :alt: Fluxo de uma reestruturação
    :align: center
    :scale: 60
-   :name: fluxo-reestruturacao
+   :name: fluxo_reestruturacao
 
    Fluxo de uma reestruturação organizacional
