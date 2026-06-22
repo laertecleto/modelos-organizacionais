@@ -21,12 +21,11 @@ A forma de organização dessa peça deve ser definida após um estudo interno s
        **Anexo III**: contendo quadros com os remanejamentos já descritos no texto principal, com custo unitário e total (**link**); e
 
        **Anexo IV**: com quadro demonstrativo dos cargos comissionados executivos – CCE e das funções comissionadas executivas - FCE, contendo as transformações de cargos e funções que serão necessárias à estrutura proposta. Esse anexo nem sempre é necessário e depende de alguns fatores, que você pode ler aqui (**link**).
-
     .. warning::
 
-    A Diretoria de Modelos Organizacionais, da Seges, desenvolveu uma planilha que constrói automaticamente os anexos II e III, a partir do quadro demonstrativo dos cargos e funções. Essa mesma planilha informa também se a alteração implicará ou não impacto orçamentário.
+        A Diretoria de Modelos Organizacionais, da Seges, desenvolveu uma planilha que constrói automaticamente os anexos II e III, a partir do quadro demonstrativo dos cargos e funções. Essa mesma planilha informa também se a alteração implicará ou não impacto orçamentário.
 
-    (**Download, com passo a passo sobre a planilha?**)
+        (**Download, com passo a passo sobre a planilha?**)
 
 2) **Alterações pontuais e simples**
       **Indicação**: decreto que altera a atual estrutura regimental ou estatuto.
@@ -41,7 +40,6 @@ A forma de organização dessa peça deve ser definida após um estudo interno s
             Anexo II: com quadro demonstrativo dos cargos comissionados executivos – CCE e das funções comissionadas executivas - FCE, contendo as transformações de cargos e funções que serão necessárias à estrutura proposta. Esse anexo nem sempre é necessário e depende de alguns fatores, que você pode ler aqui. Em não sendo necessário, o Anexo III (abaixo) denomina-se Anexo II.
 
             Anexo III: se houver necessidade de substituição dos quadros em vigor, contendo o quadro demonstrativo dos cargos em comissão e das funções de confiança (**link**) e o quadro resumo de custos dos cargos em comissão e das funções de confiança (**link**).
-
         .. warning::
 
             Algumas alterações na estrutura de cargos e funções podem ser realizadas por meio de Portaria Ministerial. Esse é o caso das permutas entre cargos e funções de mesmo nível e categoria, e das realocações de cargos e funções de nível 14 ou inferior. (complementar)
@@ -59,7 +57,6 @@ A forma de organização dessa peça deve ser definida após um estudo interno s
             Anexo II: com quadro demonstrativo dos cargos comissionados executivos – CCE e das funções comissionadas executivas - FCE, contendo as transformações de cargos e funções que serão necessárias à estrutura proposta. Esse anexo nem sempre é necessário e depende de alguns fatores, que você pode ler aqui. Em não sendo necessário, o Anexo III (abaixo) denomina-se Anexo II.
 
             Anexo III: se houver necessidade de substituição dos quadros em vigor, contendo o quadro demonstrativo dos cargos em comissão e das funções de confiança (**link**) e o quadro resumo de custos dos cargos em comissão e das funções de confiança (**link**).
-
         .. note::
 
             A divisão da norma em anexos é exclusivamente didática, sendo impossível dissociar as competências de uma unidade de sua estrutura de cargos e funções. Afinal, são a complexidade, a finalidade e a natureza da atuação de uma unidade que determinarão o desenho organizacional mais adequado para ela.
@@ -82,10 +79,10 @@ A forma de organização dessa peça deve ser definida após um estudo interno s
 
       **Anexo**: se houver transformações, deverá refletir o quadro demonstrativo dos cargos comissionados executivos - CCE e das funções comissionadas executivas - FCE, transformados. Esse anexo nem sempre é necessário e depende de alguns fatores, que você pode ler **aqui**.
 
-Na :numref:`Tipos-decreto` você encontra uma visão geral dos tipos de decreto de estrutura, de acordo com as necessidades do órgão ou entidade.
+Na :numref:`tipos-decreto` você encontra uma visão geral dos tipos de decreto de estrutura, de acordo com as necessidades do órgão ou entidade.
 
-.. _Tipos-decreto:
+.. _tipos-decreto:
 .. figure:: ../_static/images/Fig1_tipos_de_decreto.png
    :alt: Tipos de decreto
    :align: center
-   :name: Tipos_decreto
+   :name: tipos_decreto
