@@ -132,9 +132,7 @@ Exemplo simplificado
    :alt: Organograma simplificado de ministério
    :align: center
    
- 
    Organograma simplificado de ministério.
-.. :name: fig-organograma-ministerio
  
 .. admonition:: Capítulo III: DAS COMPETÊNCIAS DOS ÓRGÃOS
  
@@ -154,14 +152,15 @@ Exemplo simplificado
 
 Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com status ministerial, conforme lei que estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios, o Capítulo III começa por ele.
 
-
-"**Seção I**
+.. admonition:: Capítulo III: DAS COMPETÊNCIAS DOS ÓRGÃOS (exemplo)
  
-**Dos órgãos de assistência direta e imediata ao Ministro de Estado X**
+   "**Seção I**
  
-Art. 3º  Ao Gabinete compete:
+   **Dos órgãos de assistência direta e imediata ao Ministro de Estado X**
  
-I - xxx"
+   Art. 3º  Ao Gabinete compete:
+ 
+   I - xxx"
  
 .. hint::
  
