@@ -44,12 +44,13 @@ Para autarquias e fundações públicas do Poder Executivo Federal, o regimento 
 
 O regimento interno dos ministérios e órgãos da Presidência da República é aprovado por portaria do respectivo ministro de Estado ou autoridade equivalente; o das autarquias e fundações públicas, pelo dirigente máximo da entidade, no exercício de seu poder normativo interno.
 
+.. _competencias:
 
-Área de competência
--------------------
-As áreas de competência dos órgãos da Presidência da República, dos ministérios e das entidades delimitam os assuntos de responsabilidade de cada um e são estabelecidas por lei.
+Competências
+------------
+As competências dos órgãos da Presidência da República, dos ministérios e das entidades delimitam os assuntos de responsabilidade de cada um e são estabelecidas por lei.
 
-As competências estabelecidas em lei devem ser estritamente observadas nos referidos decretos e não podem ser extrapoladas. Da mesma forma, as competências estabelecidas em decretos devem ser observadas nos regimentos internos e não podem ser extrapoladas.
+Elas são estabelecidas em lei, devem ser estritamente observadas nos referidos decretos e não podem ser extrapoladas. Da mesma forma, as competências estabelecidas em decretos devem ser observadas nos regimentos internos e não podem ser extrapoladas.
 
 A organização e o funcionamento dos órgãos e entidades da Administração Pública Federal, a partir do detalhamento das respectivas competências legais – denominada de :ref:`estrut_regim`, são dispostos por meio de decreto autônomo do Presidente da República, conforme previsto no art. 84, inciso VI, alínea "a" da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, quando não implicar aumento de despesa nem a criação ou a extinção de órgãos públicos (inciso II do art. 26, do `Decreto nº 12.002, de 22 de abril de 2024 <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12002.htm>`_). Assim, o fortalecimento de um órgão ou entidade com acréscimo de estrutura depende da disponibilidade de cargos e funções criados por Lei (vide :ref:`reserva_tec`) e, portanto, previstos na lei orçamentária.
 
@@ -231,7 +232,7 @@ Classificações dos órgãos públicos
 ++++++++++++++++++++++++++++++++++
 
 Quanto à posição na hierarquia do Poder Executivo Federal
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. list-table::
    :header-rows: 0
@@ -261,7 +262,7 @@ Classificação doutrinária conforme :cite:`di_pietro_2023` e :cite:`carvalho_f
 
 
 Quanto à natureza
-~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^
 
 .. Fonte: inserir referência ao normativo SEGES/MGI que disciplina a elaboração
 .. de estruturas regimentais e estatutos no Poder Executivo Federal.
@@ -291,7 +292,7 @@ Quanto à natureza
 
 
 Quanto ao processo decisório
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. list-table::
    :header-rows: 0
