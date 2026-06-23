@@ -85,6 +85,8 @@ NNa :numref:`tipos-decreto` você encontra uma visão geral dos tipos de decreto
 .. figure:: ../_static/images/Fig1_tipos_de_decreto.png
    :alt: Tipos de decreto
    :align: center
-   :name: Fig1_tipos_de_decreto
+   
 
    Tipos de decreto de estrutura organizacional
+
+.. :name: Fig1_tipos_de_decreto
