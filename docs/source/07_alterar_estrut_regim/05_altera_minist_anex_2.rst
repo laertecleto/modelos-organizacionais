@@ -14,21 +14,21 @@ funções comissionadas de que o órgão dispõe, representados por códigos, co
    :alt: Tabela do Anexo II a com colunas de unidade, quantidade, denominação e código
    :align: center
    :scale: 60
-   :name: fig-anexo-ii-a
  
    Exemplo de Anexo II a — quadro demonstrativo de cargos e funções.
- 
+ ..   :name: fig-anexo-ii-a
+
 Cada cargo ou função tem um código que identifica o tipo, a categoria e o nível. A :numref:`fig-codigo-cce-fce` ilustra cada cada parte do código.
- 
+
 .. _fig-codigo-cce-fce:
 .. figure:: ../_static/images/Fig3_codigo.png
    :alt: Estrutura do código de cargo em comissão (CCE) e função comissionada (FCE) com tipo, categoria e nível
    :align: center
    :scale: 60
-   :name: fig-codigo-cce-fce
  
    Estrutura do código CCE/FCE — tipo, categoria e nível.
- 
+..    :name: fig-codigo-cce-fce 
+
 E cada código possui uma ou mais denominações específicas, conforme a :numref:`Denominacoes-CCE-FCE-label`.
  
 
@@ -47,9 +47,9 @@ subordinadas recebem nomenclatura genérica e são apresentadas de forma agrupad
 .. figure:: ../_static/images/Fig4_quadro_de_cargos.png
    :alt: Exemplo de quadro demonstrativo de cargos e funções com grupos de unidades organizadas por nível
    :align: center
-   :name: fig-quadro-de-cargos
  
    Exemplo de quadro demonstrativo de cargos e funções.
+   ..    :name: fig-quadro-de-cargos
  
 Como se observa na :numref:`fig-quadro-de-cargos`, a organização do quadro
 demonstrativo respeita a seguinte ordem para cada grupo:

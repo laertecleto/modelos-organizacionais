@@ -5,8 +5,8 @@ Esta seção aborda como elaborar estruturas regimentais de órgãos da Presidê
 República e dos Ministérios. A estrutura regimental ocupa o Anexo I de um decreto
 de estrutura.
 
-Conhecimentos básicos: unidades e competências obrigatórias
------------------------------------------------------------
+Unidades e competências obrigatórias
+------------------------------------
 As :ref:`competencias` de cada órgão são definidas pela
 `Lei nº 14.600, de 19 de junho de 2023 <lei-14600_>`_,
 que organiza a Administração Pública federal, usualmente publicada no início do
@@ -131,9 +131,10 @@ Exemplo simplificado
 .. figure:: ../_static/images/Fig2_Organograma_Ministerio.png
    :alt: Organograma simplificado de ministério
    :align: center
-   :name: fig-organograma-ministerio
+   
  
    Organograma simplificado de ministério.
+.. :name: fig-organograma-ministerio
  
 .. admonition:: Capítulo III: DAS COMPETÊNCIAS DOS ÓRGÃOS
  

@@ -207,17 +207,7 @@ Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categ
    - ter substitutos; e
    - ter subordinados. Caso os subordinados ocupem cargo ou função, estes deverão necessariamente ser da categoria de direção de projetos (código 3).
 
-**Categoria Assessoramento Técnico Especializado (código 4)**Meu colega Luiz Cláudio e eu já tínhamos decidido que queríamos fazer mestrado depois de formados. Assim, no último ano da engenharia, em 1986, visitamos a Unicamp e o ITA e fizemos nossas inscrições.
-
-Tínhamos um professor que era de Porto Alegre e que havia feito tanto a graduação em Engenharia Elétrica quanto o mestrado no Programa de Pós-Graduação em Ciência da Computação da UFRGS. Ele ministrava uma disciplina do último ano: microprocessadores. Era algo bem novo na época e que nos deixou entusiasmados. Por conta disso, fizemos a inscrição na UFRGS também. Passamos nos três programas e escolhemos ir para lá por influência desse professor.
-
-Em janeiro de 1987, viajei com dois amigos de Porto União até Porto Alegre para conhecer o curso e procurar um lugar para morar. Fui até a UFRGS, no prédio da Engenharia, no começo da Avenida Osvaldo Aranha, onde ficava a secretaria do curso. Era uma época antes da internet, então consultar calendário, avisos gerais, bolsas de estudo e fazer a matrícula nas disciplinas era um processo totalmente manual e presencial — ou, quando possível, por telefone.
-
-No fim das contas, essa viagem foi só um passeio, pois eu nem sabia como ou o que procurar em Porto Alegre. Para completar o "passeio", na volta subimos pela Freeway e, depois, pela BR-101. Acampamos por uns dias no camping de Morro dos Conventos, em Araranguá, e, em seguida, ficamos um tempo em Balneário Camboriú, no apartamento dos pais de um desses amigos. Só então retornamos para Porto União.
-
-Nesse meio tempo, meus pais descobriram que morava em Porto Alegre um militar que tinha servido muitos anos em Porto União, o qual meu pai conhecia superficialmente. Por meio de amigos em comum, conseguiram o contato dele e comentaram sobre a minha necessidade. Prontamente, ele e a esposa se dispuseram a me receber em seu apartamento nas primeiras semanas.
-
-Esse militar, a esposa dele, um filho da minha idade e uma filha pré-adolescente moravam num prédio na Rua Jacinto Gomes, no bairro Bom Fim, muito perto do Parque da Redenção e do local da pós-graduação. O outro filho do casal era piloto da Força Aérea e morava em alguma base.
+**Categoria Assessoramento Técnico Especializado (código 4)**
    A finalidade das funções da categoria assessoramento técnico especializado (código 4) é o assessoramento associado às competências da unidade que exijam conhecimentos técnicos específicos, caracterizados por especial nível de complexidade.
 
    Como destinam-se à assistência ou assessoramento de quem os chefia ou dirige, os cargos e funções de assessoramento não têm competências próprias. Por conseguinte, não são unidades administrativas no :ref:`siorg`, não permitem a designação de substituto e não podem ter cargos em comissão ou funções de confiança a eles subordinados.
