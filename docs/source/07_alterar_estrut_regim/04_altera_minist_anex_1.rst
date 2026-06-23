@@ -23,7 +23,7 @@ Propostas de alteração de estrutura devem, inicialmente, observar essa lei qua
   da estrutura organizacional, inclusive quanto ao limite de Secretarias em cada
   Ministério.
 
-O `art. 50 da Lei nº 14.600/2023 <lei-14600-art50_>`_ determina que são obrigatórias
+O `art. 50 da Lei nº 14.600, de 2023, <lei-14600-art50_>`_ determina que são obrigatórias
 as seguintes unidades:
  
 * Gabinete do Ministro;
@@ -40,7 +40,7 @@ Para essas e todas as demais unidades que compõem o órgão, o
 `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_ determina a
 necessidade de definição das competências no decreto de estrutura:
  
-.. admonition:: Decreto nº 10.829/2021 — art. 5º
+.. admonition:: Decreto nº 10.829, de 2021 — art. 5º
  
    Art. 5º  O decreto que aprovar a estrutura regimental ou o estatuto do órgão ou
    da entidade deverá discriminar, em anexo específico:
@@ -83,7 +83,7 @@ estruturas regimentais.
  
 .. note::
  
-   O `Decreto nº 12.002/2024 <decreto-12002_>`_ permite compreender como estruturar
+   O `Decreto nº 12.002, de 2024, <decreto-12002_>`_ permite compreender como estruturar
    um ato normativo, o que deve ser observado em sua redação para manter clareza,
    precisão e ordem lógica, a formatação (espaçamentos, uso de negritos e itálicos)
    e as regras para alterações e revogações.
@@ -97,10 +97,10 @@ a seguinte lógica:
  
    Por padrão, abrange somente o art. 1º, que traz as competências do órgão:
  
-   "Art. 1º  O [nome do órgão], órgão da administração pública federal direta,
+   "Art. 1º  O [*nome do órgão*], órgão da administração pública federal direta,
    tem como área de competência os seguintes assuntos:
  
-   [competências idênticas às constantes na `Lei nº 14.600/2023 <lei-14600_>`_]"
+   [competências idênticas às constantes na `Lei nº 14.600, de 2023 <lei-14600_>`_]"
  
 .. admonition:: Capítulo II: DA ESTRUTURA ORGANIZACIONAL
  
@@ -145,7 +145,7 @@ Exemplo simplificado
 .. note::
  
    A redação de competências segue as regras e boas práticas definidas no
-   `Decreto nº 12.002/2024 <decreto-12002_>`_.
+   `Decreto nº 12.002, de 2024 <decreto-12002_>`_.
  
    Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas
    específicas e, em alguns casos, a redação de suas competências foi padronizada
