@@ -152,8 +152,10 @@ Exemplo simplificado
 
 Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com status ministerial, conforme lei que estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios, o Capítulo III começa por ele.
 
-.. admonition:: Capítulo III: DAS COMPETÊNCIAS DOS ÓRGÃOS (exemplo)
+.. admonition:: Exemplo
  
+   Capítulo III: DAS COMPETÊNCIAS DOS ÓRGÃOS
+
    "**Seção I**
  
    **Dos órgãos de assistência direta e imediata ao Ministro de Estado X**
