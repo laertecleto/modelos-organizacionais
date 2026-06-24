@@ -38,10 +38,6 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
    Caso reste alguma dúvida, entre em contato pelo endereço eletrônico **manualdeestruturas@mgi.gov.br**.
 
 
-.. O poder executivo federal é dividido em administração direta (ministérios) e indireta (autarquias, fundações públicas e empresas estatais) :cite:`teste2`.
-
-
-
 .. only:: html
    
    .. admonition:: Bibliografia
