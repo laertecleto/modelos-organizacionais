@@ -8,10 +8,7 @@ podem compor a estrutura de cada unidade.
  
 A regra básica para definir se um cargo ou função pode ser inserido em dada unidade
 é: se o nível for menor do que o atribuído ao titular, é possível alocá-lo na
-unidade.
- 
-.. TODO: inserir referência cruzada ao capítulo sobre nomenclaturas e atuação
-   associadas a cada categoria
+unidade. Para mais informações veja :ref:`categorias`
  
  
 Órgãos de assistência direta e imediata ao Ministro de Estado
@@ -377,7 +374,7 @@ descentralizadas:
    funções de nível inferior àquele atribuído aos titulares.
 
 .. _unidades-descentralizadas:
-.. figure:: ../_static/images/fig12-unidades-descentralizadas.png
+.. figure:: ../_static/images/fig-unid-descentr-adm-direta.png
    :alt: Unidades descentralizadas no Anexo II
    :align: center
  

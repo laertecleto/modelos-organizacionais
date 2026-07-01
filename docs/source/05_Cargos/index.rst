@@ -133,6 +133,8 @@ Os cargos em comissão CCE (Cargos Comissionados Executivos) e funções de conf
 
 Os CCE e as FCE são os tipos mais utilizados para constituir a estrutura organizacional na Administração Pública Federal, pois parte significativa deles está associada ao titular de unidades administrativas de órgãos e entidades. As principais exceções são as instituições federais de ensino, as agências reguladoras e o Banco Central do Brasil. Essas entidades têm tipos de cargos e funções próprios para estruturar-se.
 
+.. _categorias:
+
 Categorias dos CCE e das FCE
 ++++++++++++++++++++++++++++
 
@@ -299,6 +301,8 @@ A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionand
 
    Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
 
+.. _denominacoes:
+
 Denominações associadas aos níveis e categorias dos CCE e das FCE
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -360,6 +364,8 @@ Após a edição da `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil
 Hoje existem cargos NE somente no Banco Central do Brasil e são ocupados pelo Presidente e pelos demais diretores.
 
 Os servidores investidos em cargos de Natureza Especial podem ter substitutos, autorização prevista no art. 38 da `Lei nº 8.112, de 1990 <https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>`_, independentemente da existência de cargos em comissão ou de funções de confiança subordinadas a eles.
+
+.. _cargos-ifes:
 
 Cargos de Direção e Funções Gratificadas das instituições federais de ensino
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
