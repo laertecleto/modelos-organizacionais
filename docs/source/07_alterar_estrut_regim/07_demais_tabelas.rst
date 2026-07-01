@@ -78,24 +78,24 @@ Existem dois cenários para a geração dessa tabela:
    No exemplo ilustrado, foram retirados da reserva técnica dois CCE de nível 15,
    resultando na tabela apresentada na :numref:`sem-impacto`
 
-.. _sem-impacto:
-.. figure:: ../_static/images/fig8-transf-sem-impacto.png
-   :alt: Transformação com impacto orçamentário
-   :align: center
+   .. _sem-impacto:
+   .. figure:: ../_static/images/fig8-transf-sem-impacto.png
+      :alt: Transformação com impacto orçamentário
+      :align: center
  
-   Exemplo de transformação sem impacto orçamentário
+      Exemplo de transformação sem impacto orçamentário
 
  
 #. **A proposta implica ganho de estrutura com impacto orçamentário** — os cargos
    e funções que deixam de existir têm custo inferior aos que serão necessários à
    nova estrutura, gerando despesa na transformação, conforme mostra a :numref:`impacto`.
  
-.. _impacto:
-.. figure:: ../_static/images/fig7-transf-com-impacto.png
-   :alt: Transformação com impacto orçamentário
-   :align: center
+   .. _impacto:
+   .. figure:: ../_static/images/fig7-transf-com-impacto.png
+      :alt: Transformação com impacto orçamentário
+      :align: center
  
-   Exemplo de transformação com impacto orçamentário
+      Exemplo de transformação com impacto orçamentário
  
    Nesse caso, é necessário que a Seges verifique a disponibilidade dos cargos e
    funções faltantes em sua reserva técnica e determine se será necessário

@@ -5,6 +5,8 @@ As regras a seguir focam na estruturação hierárquica das unidades, que são c
 
 A regra básica para definir se um cargo ou função pode ser inserido em dada unidade é: se o nível for menor do que o atribuído ao titular, é possível alocá-lo na unidade. Aqui é possível saber mais sobre as nomenclaturas e atuação associadas a cada categoria.
 
+.. _assistencia-entidade:
+
 Órgãos de assistência direta e imediata à autoridade máxima da entidade
 -----------------------------------------------------------------------
 
