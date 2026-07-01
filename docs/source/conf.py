@@ -130,7 +130,7 @@ Juliana Akiko Noguchi Suzuki (Org.), Danyela de Oliveira Felix (Org.), Antonio A
 Juliana Akiko Noguchi Suzuki, Danyela de Oliveira Felix, Frederico Porto de Souza, Marcos Santos Kroll, Giovanna de Sá Lúcio, Christiano Perez de Resende, Sheila Maria Reis Ribeiro, Eduardo Monteiro Pastore, Sylvia Helena Figueiredo Prata, Rodrigo Machado Bolina, Maria Beatriz Teixeira Barral Vidal, Iracema Pontes da Cruz.\\\\[0.5cm]
 
 \\textbf{{Elaboraram a 3ª edição:}}\\\\
-Laerte Davi Cleto, Yana de Faria, Carlos Gold, Letícia Maria Gonçalves, Rodrigo Machado Bolina.\\\\[0.5cm]
+Laerte Davi Cleto (Org.), Yana de Faria (Org.), Carlos Gold, Letícia Maria Gonçalves, Rodrigo Machado Bolina.\\\\[0.5cm]
 
 \\textbf{{Contribuiram para a 3ª edição:}}\\\\
 Marcos Santos Kroll.\\\\[0.5cm]
@@ -141,13 +141,13 @@ Brasília (DF), 18 de junho de 2026\\\\[1cm]
 \\fbox{{
   \\begin{{minipage}}{{0.9\\textwidth}}
   \\small
-  B823m\\\\
+  XXXX\\\\
   Brasil. Ministério da Gestão e da Inovação em Serviços Públicos.\\\\[0.5em]
   Manual de Estruturas Organizacionais do Poder Executivo Federal / Ministério da Gestão e da Inovação em Serviços Públicos, Secretaria de Gestão e Inovação. – 3. ed. -- Brasília: Ministério da Gestão e da Inovação em Serviços Públicos, 2026.\\\\[0.5em]
-  100 p.: il.\\\\[0.5em]
+  XXX p.: il.\\\\[0.5em]
   1. Administração Pública 2. Estrutura Organizacional 3. Poder Executivo Federal\\\\
   I. Título II. Secretaria de Gestão e Inovação.\\\\
-  CDU 351:005.72
+  CDU XXX:XXX.XX
   \\end{{minipage}}
 }}
 \\end{{titlepage}}

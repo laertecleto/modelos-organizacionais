@@ -376,8 +376,6 @@ descentralizadas:
 #. Às unidades descentralizadas podem se subordinar todas as unidades e cargos e
    funções de nível inferior àquele atribuído aos titulares.
 
-**Exemplo**
-
 .. _unidades-descentralizadas:
 .. figure:: ../_static/images/fig12-unidades-descentralizadas.png
    :alt: Unidades descentralizadas no Anexo II

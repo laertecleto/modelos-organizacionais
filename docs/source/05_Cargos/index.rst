@@ -302,6 +302,7 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações associadas a 
 
    Denominações dos CCE e das FCE
 
+.. _cce-unitario:
 
 O parâmetro de CCE-unitário
 +++++++++++++++++++++++++++

@@ -5,15 +5,18 @@ Quadro resumo de custos (Anexo II b)
 -------------------------------------
  
 O Quadro resumo de custos informa o tamanho da estrutura organizacional de um
-órgão ou entidade em CCE-unitários.
- 
-.. TODO: inserir link para o glossário explicando "CCE-unitários"
+órgão ou entidade em CCE-unitários (:ref:`cce-unitario`).
  
 Quando a estrutura está sendo alterada, esse quadro demonstra a situação nova em
 relação à situação atual, agregando os cargos e funções de mesmo código e
 mostrando seu somatório.
  
-.. TODO: inserir exemplo do quadro resumo de custos
+.. _quadro-custos:
+.. figure:: ../_static/images/fig5-quadro-custos.png
+   :alt: Quadro resumo de custos
+   :align: center
+ 
+   Exemplo de quadro resumo de custos
  
 A planilha disponibilizada pelo Departamento de Modelos Organizacionais produz
 esse quadro automaticamente a partir do novo quadro demonstrativo informado
@@ -33,9 +36,7 @@ Remanejamento de CCE e FCE (Anexos III a e III b)
 .. seealso::
  
    Para entender o que é o remanejamento e por que é realizado, consulte a seção
-   correspondente deste manual.
- 
-   .. TODO: inserir :ref: ao capítulo sobre remanejamento quando rótulo definido
+   :ref:`reserva_tec`.
  
 As tabelas constantes nos Anexos III a e III b trazem, respectivamente, a lista
 dos cargos e funções remanejados do órgão para a Seges e da Seges para o órgão.
@@ -44,7 +45,12 @@ Assim como nos demais anexos, essas tabelas consideram a estrutura publicada no
 decreto vigente e contêm os custos de cada remanejamento. As informações constantes
 nessas tabelas devem ser idênticas àquelas listadas no corpo do decreto.
  
-.. TODO: inserir exemplo das tabelas de remanejamento
+.. _remanejamento:
+.. figure:: ../_static/images/fig6-remanejamento.png
+   :alt: Remanejamento de CCE e FCE
+   :align: center
+ 
+   Exemplo de tabela de remanejamento e o correspondente texto no corpo do decreto
  
 A planilha disponibilizada pelo Departamento de Modelos Organizacionais produz
 esses quadros automaticamente a partir do novo quadro demonstrativo informado
@@ -68,23 +74,34 @@ Existem dois cenários para a geração dessa tabela:
    dos novos. Nesse caso, a planilha disponibilizada pelo Departamento de Modelos
    Organizacionais produz o quadro automaticamente a partir do novo quadro
    demonstrativo informado pelo órgão.
+
+   No exemplo ilustrado, foram retirados da reserva técnica dois CCE de nível 15,
+   resultando na tabela apresentada na :numref:`sem-impacto`
+
+.. _sem-impacto:
+.. figure:: ../_static/images/fig8-transf-sem-impacto.png
+   :alt: Transformação com impacto orçamentário
+   :align: center
+ 
+   Exemplo de transformação sem impacto orçamentário
+
  
 #. **A proposta implica ganho de estrutura com impacto orçamentário** — os cargos
    e funções que deixam de existir têm custo inferior aos que serão necessários à
-   nova estrutura, gerando despesa na transformação.
+   nova estrutura, gerando despesa na transformação, conforme mostra a :numref:`impacto`.
  
-   .. TODO: inserir figura do cenário com impacto orçamentário
+.. _impacto:
+.. figure:: ../_static/images/fig7-transf-com-impacto.png
+   :alt: Transformação com impacto orçamentário
+   :align: center
+ 
+   Exemplo de transformação com impacto orçamentário
  
    Nesse caso, é necessário que a Seges verifique a disponibilidade dos cargos e
    funções faltantes em sua reserva técnica e determine se será necessário
    transformá-los, sem que esse ato implique aumento de despesa. A tabela deverá
    ser gerada pela equipe do Departamento de Modelos Organizacionais.
- 
-   .. TODO: ao inserir as figuras acima, complementar com o parágrafo: "No exemplo
-      ilustrado, foram retirados da reserva técnica dois CCE de nível 15,
-      resultando na seguinte tabela final:"
- 
-   .. TODO: inserir figura da tabela final de transformação
+
  
 .. admonition:: Regras específicas para autarquias e fundações públicas
  
