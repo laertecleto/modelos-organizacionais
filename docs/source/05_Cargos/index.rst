@@ -290,7 +290,7 @@ Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
 
 Conforme citado anteriormente, há uma estreita relação entre os cargos e funções e a estrutura organizacional. Essa interdependência se expressa de forma precisa: a cada nível hierárquico da estrutura organizacional corresponde um intervalo de níveis de CCE ou FCE, determinado pela complexidade das atribuições e pela abrangência de responsabilidades daquela posição.
 
-A :numref:fig-niveis-cargos-funcoes ilustra essa correspondência, relacionando as principais categorias de unidade administrativa — da Secretaria à Coordenação — aos níveis de cargo ou função que lhes são típicos (vide Anexo II do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_.
+A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionando as principais categorias de unidade administrativa — da Secretaria à Coordenação — aos níveis de cargo ou função que lhes são típicos (vide Anexo II do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_).
 
 .. _fig-niveis-cargos-funcoes:
 .. figure:: ../_static/images/Fig-nivel-cce-hierarquia.png

@@ -40,7 +40,7 @@ equivalentes.
    * órgãos colegiados, como Conselho Diretor, Conselho Consultivo e Conselho
      Deliberativo.
    
-   Para saber mais sobre níveis de cargos e funções e sua relação com a estrutura, consulte  :ref:`hierarquia`.
+   Para saber mais sobre níveis de cargos e funções e sua relação com a estrutura organizacional, consulte :ref:`hierarquia`.
 
 Assim, se a proposta cria ou extingue alguma unidade com essas características,
 será necessário inserir ou excluir suas competências no anexo específico do
