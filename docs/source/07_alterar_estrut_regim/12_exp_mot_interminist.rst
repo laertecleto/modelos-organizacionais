@@ -13,7 +13,12 @@ Não há um modelo pré‑definido obrigatório, mas o documento deve observar a
 
       **Data**: alinhada à direita, com indicação do local (cidade), por extenso, seguida de espaço para inclusão do mês (por extenso) e dia da publicação e, por fim, do ano de referência.
 
-      **FIGURA**
+.. _emi-cabecalho-data:
+.. figure:: ../_static/images/fig-emi.png
+   :alt: Cabeçalho e data na EMI
+   :align: center
+ 
+   Cabeçalho e data na EMI.
 
       Destinatário — utiliza-se o vocativo "Senhor Presidente da República", dado que o Manual de Redação da Presidência da República orienta, em diversos pontos, que se evite linguagem excessivamente solene, rebuscada ou personalista, em favor de um tratamento padronizado, impessoal e objetivo.
 

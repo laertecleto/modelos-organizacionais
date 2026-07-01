@@ -309,9 +309,8 @@ independentemente da subordinação — esta deve constar no caput do artigo esp
  
    I - ..."
  
-Regras específicas sobre a estrutura de cargos e funções das unidades
-descentralizadas
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Regras específicas sobre a estrutura de cargos e funções das unidades descentralizadas
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 #. As unidades descentralizadas são inseridas de forma agrupada, por unidade
    superior, em um único bloco de cargos e funções, organizado conforme regras
