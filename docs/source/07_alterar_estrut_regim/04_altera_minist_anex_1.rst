@@ -1,3 +1,4 @@
+
 Alteração de estruturas regimentais de órgãos da Presidência da República e dos Ministérios - Anexo I
 =====================================================================================================
 
@@ -23,7 +24,7 @@ Propostas de alteração de estrutura devem, inicialmente, observar essa lei qua
   da estrutura organizacional, inclusive quanto ao limite de Secretarias em cada
   Ministério.
 
-O `art. 50 da Lei nº 14.600, de 2023, <lei-14600-art50_>`_ determina que são obrigatórias
+O `art. 50 da Lei nº 14.600, de 19 de junho de 2023 <lei-14600-art50_>`_ determina que são obrigatórias
 as seguintes unidades:
  
 * Gabinete do Ministro;
@@ -40,7 +41,7 @@ Para essas e todas as demais unidades que compõem o órgão, o
 `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_ determina a
 necessidade de definição das competências no decreto de estrutura:
  
-.. admonition:: Decreto nº 10.829, de 2021 — art. 5º
+.. admonition:: Decreto nº 10.829, de 5 de outubro de 2021 — art. 5º
  
    Art. 5º  O decreto que aprovar a estrutura regimental ou o estatuto do órgão ou
    da entidade deverá discriminar, em anexo específico:
@@ -56,6 +57,7 @@ necessidade de definição das competências no decreto de estrutura:
 
 Atualmente, convencionou-se descrever as competências de todas as unidades de nível
 15 ou superior (nível de diretoria ou departamento).
+ 
  
 Quando as unidades estiverem subordinadas diretamente ao Ministro, entende-se que
 são equivalentes às Secretarias, independentemente de seu nível, cabendo também a
@@ -83,7 +85,7 @@ estruturas regimentais.
  
 .. note::
  
-   O `Decreto nº 12.002, de 2024, <decreto-12002_>`_ permite compreender como estruturar
+   O `Decreto nº 12.002, de 22 de abril de 2024 <decreto-12002_>`_ permite compreender como estruturar
    um ato normativo, o que deve ser observado em sua redação para manter clareza,
    precisão e ordem lógica, a formatação (espaçamentos, uso de negritos e itálicos)
    e as regras para alterações e revogações.
@@ -100,7 +102,7 @@ a seguinte lógica:
    "Art. 1º  O [*nome do órgão*], órgão da administração pública federal direta,
    tem como área de competência os seguintes assuntos:
  
-   [competências idênticas às constantes na `Lei nº 14.600, de 2023 <lei-14600_>`_]"
+   [competências idênticas às constantes na `Lei nº 14.600, de 19 de junho de 2023 <lei-14600_>`_]"
  
 .. admonition:: Capítulo II: DA ESTRUTURA ORGANIZACIONAL
  
@@ -131,7 +133,8 @@ Exemplo simplificado
 .. figure:: ../_static/images/Fig2_Organograma_Ministerio.png
    :alt: Organograma simplificado de ministério
    :align: center
-   
+   :name: organograma-ministerio
+ 
    Organograma simplificado de ministério.
  
 .. admonition:: Capítulo III: DAS COMPETÊNCIAS DOS ÓRGÃOS
@@ -144,13 +147,13 @@ Exemplo simplificado
 .. note::
  
    A redação de competências segue as regras e boas práticas definidas no
-   `Decreto nº 12.002, de 2024 <decreto-12002_>`_.
+   `Decreto nº 12.002, de 22 de abril de 2024 <decreto-12002_>`_.
  
    Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas
    específicas e, em alguns casos, a redação de suas competências foi padronizada
    pelo órgão central do sistema.
 
-Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com status ministerial, conforme lei que estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios, o Capítulo III começa por ele.
+Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com status ministerial, conforme a `Lei nº 14.600, de 19 de junho de 2023 <lei-14600_>`_, o Capítulo III começa por ele.
 
 .. admonition:: Exemplo
  
@@ -227,4 +230,3 @@ Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com
 .. _lei-14600-art50: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14600.htm#Art50
 .. _decreto-10829: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm
 .. _decreto-12002: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D12002.htm
- 
