@@ -364,8 +364,6 @@ específico.
  
    I - ..."
  
-.. TODO: inserir figura sobre estrutura de unidades descentralizadas
- 
 Regras específicas sobre a estrutura de cargos e funções que compõem as unidades
 descentralizadas:
  
@@ -377,6 +375,15 @@ descentralizadas:
  
 #. Às unidades descentralizadas podem se subordinar todas as unidades e cargos e
    funções de nível inferior àquele atribuído aos titulares.
+
+**Exemplo**
+
+.. _unidades-descentralizadas:
+.. figure:: ../_static/images/fig12-unidades-descentralizadas.png
+   :alt: Unidades descentralizadas no Anexo II
+   :align: center
+ 
+   Exemplo de unidades descentralizadas no Anexo II.
  
  
 Órgãos colegiados
