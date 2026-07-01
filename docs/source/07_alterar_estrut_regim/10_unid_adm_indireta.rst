@@ -438,10 +438,7 @@ Particularidades da estrutura regimental das Instituições Federais de Ensino
 As Instituições Federais de Ensino englobam as Instituições Federais de Ensino
 Superior — Ifes (autarquias ou fundações públicas), os Institutos Federais de
 Educação, Ciência e Tecnologia — IFET (autarquias) e, por equiparação a esses
-últimos: o Instituto Nacional de Educação de Surdos e o Instituto Benjamin Constant
- (ambos unidades organizacionais do Ministério da Educação), as Escolas Técnicas
-e Colégios de Aplicação vinculados às Ifes, os centros federais de educação
-tecnológica e o Colégio Pedro II.
+últimos: o Instituto Nacional de Educação de Surdos e o Instituto Benjamin Constant (ambos unidades organizacionais do Ministério da Educação), as Escolas Técnicas e Colégios de Aplicação vinculados às Ifes, os centros federais de educação tecnológica e o Colégio Pedro II.
  
 .. seealso::
  
