@@ -133,7 +133,6 @@ Exemplo simplificado
 .. figure:: ../_static/images/Fig2_Organograma_Ministerio.png
    :alt: Organograma simplificado de ministério
    :align: center
-   :name: organograma-ministerio
  
    Organograma simplificado de ministério.
  

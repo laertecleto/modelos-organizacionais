@@ -1,3 +1,4 @@
+
 Alteração do quadro demonstrativo dos cargos em comissão e das funções comissionadas (Anexo II a)
 ================================================================================================
  
@@ -16,9 +17,9 @@ funções comissionadas de que o órgão dispõe, representados por códigos, co
    :scale: 60
  
    Exemplo de Anexo II a — quadro demonstrativo de cargos e funções.
-
-Cada cargo ou função tem um código que identifica o tipo, a categoria e o nível. A :numref:`fig-codigo-cce-fce` ilustra cada cada parte do código.
-
+ 
+Cada cargo ou função tem um código que identifica o tipo, a categoria e o nível. A :numref:`fig-codigo-cce-fce` ilustra cada parte do código.
+ 
 .. _fig-codigo-cce-fce:
 .. figure:: ../_static/images/Fig3_codigo.png
    :alt: Estrutura do código de cargo em comissão (CCE) e função comissionada (FCE) com tipo, categoria e nível
@@ -26,14 +27,14 @@ Cada cargo ou função tem um código que identifica o tipo, a categoria e o ní
    :scale: 60
  
    Estrutura do código CCE/FCE — tipo, categoria e nível.
-
-E cada código possui uma ou mais denominações específicas, conforme a :numref:`Denominacoes-CCE-FCE-label`.
  
-
+Cada código possui uma ou mais denominações específicas, conforme a :numref:`Denominacoes-CCE-FCE-label`.
+ 
+ 
 .. seealso::
  
    Para saber mais sobre os diferentes tipos, categorias e níveis, consulte :ref:`cce_fce`.
-
+ 
 Os cargos e funções existentes no órgão são agrupados conforme regras dispostas
 no `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_, que já
 orientou o desenho do Anexo I: se a unidade consta no art. 2º, há competência
@@ -50,7 +51,7 @@ subordinadas recebem nomenclatura genérica e são apresentadas de forma agrupad
  
 Como se observa na :numref:`fig-quadro-de-cargos`, a organização do quadro
 demonstrativo respeita a seguinte ordem para cada grupo:
-
+ 
 Primeira linha do grupo
 ~~~~~~~~~~~~~~~~~~~~~~~
  
@@ -127,4 +128,3 @@ as mesmas regras.
 .. ---------------------------------------------------------------------------
  
 .. _decreto-10829: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm
- 
