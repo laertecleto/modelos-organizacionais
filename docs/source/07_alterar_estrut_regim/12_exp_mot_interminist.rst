@@ -53,5 +53,6 @@ Não há um modelo pré‑definido obrigatório, mas o documento deve observar a
 
     Estruturação do corpo de uma minuta de EMI
 
-      **Assinatura dos ministros proponentes**: Todos os ministros envolvidos assinam o documento, na qualidade de "Ministro de Estado" da respectiva Pasta, independente de um deles ser o "Ministro‑Autor" e o outro "Ministro‑Coautor". O bloco de assinaturas deverá estar alinhado ao centro, com o nome completo de cada Ministro (em caixa alta e negrito), seguido, logo abaixo, da descrição completa do respectivo cargo (ex.: "Ministro de Estado da [Área]").
+
+**Assinatura dos ministros proponentes**: Todos os ministros envolvidos assinam o documento, na qualidade de "Ministro de Estado" da respectiva Pasta, independente de um deles ser o "Ministro‑Autor" e o outro "Ministro‑Coautor". O bloco de assinaturas deverá estar alinhado ao centro, com o nome completo de cada Ministro (em caixa alta e negrito), seguido, logo abaixo, da descrição completa do respectivo cargo (ex.: "Ministro de Estado da [Área]").
 
