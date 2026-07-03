@@ -408,10 +408,8 @@ deverá observar o seguinte:
      Reguladoras, que dispõe sobre a gestão, a organização, o processo decisório e o
      controle social dessas entidades;
  
-   * `Lei nº 9.986, de 18 de junho de 2000 <lei-9986_>`_ — gestão dos recursos
+   * `Lei nº 9.986, de 18 de julho de 2000 <lei-9986_>`_ — gestão dos recursos
      humanos das agências reguladoras;
- 
-     .. TODO: verificar se o mês correto é "junho" ou "julho" (Lei nº 9.986/2000)
  
    * `Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_ — simplifica a gestão
      de cargos em comissão e funções de confiança, em especial os arts. 3º-A, 3º-B,
