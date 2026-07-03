@@ -187,9 +187,9 @@ As atribuições de chefia e direção estão associadas às categorias direçã
 
    Em decorrência de sua atribuição de chefia e de direção, estes cargos e funções incorporam as responsabilidades correspondentes às competências da unidade, que advêm originariamente de leis ou decretos.
 
-   Somente servidores titulares de cargo ou função da categoria direção (código 1) podem ser titulares de unidades administrativas. A recíproca não é sempre verdadeira. Há titulares de cargo ou função da categoria direção (código 1) que não são titulares de unidades administrativas e, consequentemente, não possuem competências específicas nem cargos ou funções a eles subordinados. Nas estruturas do Poder Executivo Federal são possíveis secretários adjuntos e diretores adjuntos.
+   Somente servidores titulares de cargo ou função da categoria direção (código 1) podem ser titulares de unidades administrativas. A recíproca não é sempre verdadeira. Há titulares de cargo ou função da categoria direção (código 1) que não são titulares de unidades administrativas e, consequentemente, não possuem competências específicas nem cargos ou funções a eles subordinados. Nas estruturas do Poder Executivo Federal são possíveis secretários-executivos adjuntos e secretários adjuntos.
 
-   Os titulares de CCE/FCE de "Adjunto", tais como Secretário-Adjunto, Diretor-Adjunto e Subsecretário-Adjunto, servem para reforçar o comando dos titulares de Secretarias, Subsecretarias e Diretorias de grande porte, unidades responsáveis por atribuições complexas, que gerenciam maior volume de recursos e/ou de atividades.
+   Os titulares de CCE/FCE de "Adjunto", tais como Secretário-Executivo-Adjunto e Secretário-Adjunto, servem para reforçar o comando dos titulares de Secretaria-Executiva ou de Secretarias de grande porte, unidades responsáveis por atribuições complexas, que gerenciam maior volume de recursos e/ou de atividades.
 
    Os servidores investidos em cargos em comissão ou em funções de confiança de chefia da categoria direção (código 1) podem ter substitutos, conforme prevê o art. 38 da `Lei nº 8.112, de 1990 <https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>`_, independentemente da existência de cargos em comissão ou de funções de confiança subordinadas a eles.
 
@@ -345,7 +345,7 @@ O CCE-Unitário tem por objetivo facilitar o cálculo da despesa com cargos em c
 
    Na prática, isso significa que é possível *criar* novos cargos e funções por meio da transformação daqueles existentes na estrutura da instituição demandante ou na reserva técnica da Secretaria de Gestão e Inovação, sem a edição de nova lei.
 
-   Essa transformação ocorre, necessariamente, sem aumento de despesa. Assim, a tabela que traz o demonstrativo dos cargos comissionados executivos – CCE e das funções comissionadas executivas – FCE transformados deve, obrigatoriamente, demonstrar o custo zero ou negativo, em CCE-unitários.
+   Essa transformação ocorre, necessariamente, sem aumento de despesa. Assim, a tabela que traz o demonstrativo dos Cargos Comissionados Executivos (CCE) e das Funções Comissionadas Executivas (FCE) transformados deve, obrigatoriamente, demonstrar o custo zero ou negativo, em CCE-unitários.
 
    É interessante notar que essa tabela não demonstra o impacto orçamentário da reestruturação organizacional em si, que pode ser positivo. Nesse caso, a nova estrutura terá um custo em CCE-unitários superior à estrutura atual, demonstrado no quadro resumo de custos dos cargos em comissão e das funções de confiança do órgão ou entidade.
 
