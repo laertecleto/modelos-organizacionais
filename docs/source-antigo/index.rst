@@ -40,33 +40,24 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
 
 .. only:: html
    
-   **Precisa gerar o PDF do manual?**
-
-      Caso precise do manual para consultas offline ou mesmo para impressão acesse ":ref:`gerar_pdf`".
-
    .. admonition:: Bibliografia
 
       Acesse :doc:`bibliografia` para ter acesso a todos os materiais e links utilizados neste documento.
 
 
-.. only:: html
-
-   .. toctree::
-      :hidden:
-      :titlesonly:
-
-      gerar_pdf/index
-
 .. toctree::
    :hidden:
    :titlesonly:
 
-   Introducao/index
-   Organizacao/index
-   Conceitos/index
-   Cargos/index
-   Como_alterar_estrut_regim/index
-   AnexoII/index
+   01_Introducao/index
+   02_Organizacao/index
+   04_Conceitos/index
+   05_Cargos/index
+   07_alterar_estrut_regim/index
+
+..  03_Teste/index
+..  06_Estrutura_regimental/index
+   
 
 
 .. only:: latex

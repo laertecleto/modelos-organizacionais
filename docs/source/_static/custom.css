@@ -1,26 +1,24 @@
-/* Para o tema Furo - seletores mais específicos */
-.rst-content p,
-article p,
-.content p {
+/* =========================================
+   1. JUSTIFICAR TEXTO E ESPAÇAMENTO (TOTAL)
+   ========================================= */
+.main .content p,
+.main .content section p,
+.main .content .section p,
+.main .content div[id] > p {
     text-align: justify !important;
-    text-justify: inter-word;
+    text-justify: inter-word !important;
+    
+    /* Aumenta o espaço em branco DEPOIS de cada parágrafo */
+    margin-bottom: 1.1rem !important; 
 }
 
-/* Alternativa ainda mais específica */
-main.main article.main-article div.content p {
-    text-align: justify !important;
-    text-justify: inter-word;
-}
-
-/* Ajuste da largura do menu lateral (sidebar) no tema Furo */
-:root {
-    --sidebar-width: 280px; 
-}
-
-/* Diminui a fonte de todo o site */
+/* =========================================
+   2. TAMANHO DA FONTE GLOBAL
+   ========================================= */
 body {
-    font-size: 14px; 
+    font-size: 14px !important;
 }
+
 
 /* ==========================================================
    Estilo de tabelas — Manual de Estruturas Organizacionais
@@ -115,4 +113,68 @@ table.center-table td,
 table.center-table th {
     text-align: center;
     vertical-align: middle;
+}
+
+
+/* =========================================
+   3. LEGENDAS DE IMAGENS E TABELAS
+   ========================================= */
+figure figcaption,
+.figure .caption,
+table caption,
+figure figcaption .caption-number,
+.figure .caption .caption-number {
+    font-size: 12px !important;
+    color: var(--color-foreground-muted) !important;
+    line-height: 1.4;
+}
+
+/* Centraliza a legenda das figuras, para acompanhar a imagem centralizada
+   (:align: center). Precisa da mesma especificidade da regra de
+   justificação da Seção 1 (.main .content p) para conseguir sobrepô-la. */
+.main .content figure figcaption,
+.main .content figure figcaption p,
+.main .content .figure .caption,
+.main .content .figure .caption p {
+    text-align: center !important;
+}
+
+/* =========================================
+   4. EXPANDIR A CAIXA DE TEXTO (AJUSTE FINO CORRIGIDO)
+   ========================================= */
+.main .content,
+div.content {
+    /* 1. O MOTOR: Força a caixa a crescer quebrando a trava do Furo */
+    width: 100% !important;
+    
+    /* 2. O FREIO: Define o limite elegante para o texto parar de crescer 
+       (55rem é um tamanho excelente, mas pode usar 60rem se preferir) */
+    max-width: 51rem !important; 
+}
+
+/* =========================================
+   5. AUMENTAR A LARGURA DO MENU LATERAL (CORRIGIDO)
+   ========================================= */
+/* A trava '@media' garante que isso só vai rodar em monitores, salvando o layout de celular! */
+@media (min-width: 67em) {
+    .sidebar-drawer,
+    .sidebar-container {
+        /* Aumenta a 'gaveta' e a 'caixa' do menu simultaneamente */
+        width: 17rem !important; 
+        max-width: 17rem !important; 
+        flex-basis: 17rem !important; 
+    }
+}
+
+/* =========================================
+   6. JUSTIFICAR TÍTULOS E SUBTÍTULOS
+   ========================================= */
+/* Aplica o justificado para todos os tamanhos de título gerados pelo Sphinx */
+.main .content h1,
+.main .content h2,
+.main .content h3,
+.main .content h4,
+.main .content h5,
+.main .content h6 {
+    text-align: justify !important;
 }
