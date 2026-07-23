@@ -302,6 +302,15 @@ Conforme citado anteriormente, há uma estreita relação entre os cargos e fun�
 
 É importante lembrar que a estrutura hierárquica é construída somente com CCE e FCE da categoria 1 (chefia e direção). Os CCE e as FCE das demais categorias integram a estrutura, mas não podem ser titulares de unidade adminstrativa. Portanto, não compõem a estrutura hierárquica.
 
+.. attention::
+
+   * O titular da unidade administrativa será o **único** ocupante de CCE e FCE de maior nível.
+
+   * A categoria do titular da unidade é necessariamente a categoria 1.
+
+   * Os CCE e as FCE de mesma denominação não poderão ter relação de subordinação entre si. Ex.: numa unidade administrativa cujo titular é um CCE 1.16, não pode haver um subordinado CCE ou FCE de nível 15.
+
+
 A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionando as principais categorias de unidade administrativa — da Secretaria à Coordenação — aos níveis de cargo ou função que lhes são típicos (vide Anexo II do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_).
 
 .. _fig-niveis-cargos-funcoes:

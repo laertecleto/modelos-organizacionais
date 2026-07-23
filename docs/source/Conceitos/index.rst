@@ -76,6 +76,13 @@ O regimento interno dos ministérios e órgãos da Presidência da República é
 por portaria do respectivo ministro de Estado ou autoridade equivalente; o das
 autarquias e fundações públicas, pelo dirigente máximo da entidade, no exercício de
 seu poder normativo interno.
+
+.. note::
+
+   Além de facultativo, o regimento interno pode ser parcial. Ou seja, o regimento interno pode ser restrito a uma
+   unidade administrativa do órgão ou entidade.
+
+   Por exemplo: Regimento interno da Receita Federal do Brasil ou da Polícia Federal.
  
 .. _competencias:
  
@@ -369,7 +376,25 @@ do `Decreto nº 9.739, de 28 de março de 2019 <decreto-9739_>`_. As competênci
    `Decreto nº 9.739, de 28 de março de 2019 <decreto-9739_>`_, a partir de 1º de
    junho de 2019.
  
+
+.. _descentralizacao:
  
+Descentralização
+----------------
+Conceitualmente, descentralização indica divisão de poder e ou de competências.  
+
+Ocorre nas seguintes dimensões:
+
+* Político-administrativa: no âmbito federativo, conforme a divisão de competências  entre União,
+Estados e Municípios nos termos dos  Art. 21 a 33 da Constituição Federal de 1988;
+
+* Dentro da administração pública — no âmbito organizacional, por meio da delegação de competências
+a entidades com personalidade jurídica própria, como autarquias, fundações públicas ou empresas estatais;
+
+* Fora da administração pública — no âmbito das relações entre o Estado e a sociedade, por meio de
+parcerias sociais com entidades privadas sem fins lucrativos (terceiro setor) e por meio de parcerias
+econômicas com entidades privadas com fins lucrativos (mercado).
+
 Órgão público
 -------------
 Órgão público é a unidade de atuação integrante das estruturas da administração

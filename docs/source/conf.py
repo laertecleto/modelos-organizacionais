@@ -184,13 +184,10 @@ Juliana Akiko Noguchi Suzuki (Org.), Danyela de Oliveira Felix (Org.), Antonio A
 \textbf{Colaboraram com a 2ª edição:}\\
 Juliana Akiko Noguchi Suzuki, Danyela de Oliveira Felix, Frederico Porto de Souza, Marcos Santos Kroll, Giovanna de Sá Lúcio, Christiano Perez de Resende, Sheila Maria Reis Ribeiro, Eduardo Monteiro Pastore, Sylvia Helena Figueiredo Prata, Rodrigo Machado Bolina, Maria Beatriz Teixeira Barral Vidal, Iracema Pontes da Cruz.\\[0.5cm]
 
-\textbf{Elaboraram a 3ª edição:}\\
-Laerte Davi Cleto (Org.), Yana de Faria (Org.), Carlos Gold, Letícia Maria Gonçalves, Rodrigo Machado Bolina.\\[0.5cm]
+\textbf{Colaboraram com a 3ª edição:}\\
+Marcos Santos Kroll (Diretor), Laerte Davi Cleto (Org.), Yana de Faria (Org.), Carlos Gold (Org.), Letícia Maria Gonçalves, Rodrigo Machado Bolina, Giovanna de Sá Lúcio, Sheila Maria Reis Ribeiro, Juliana Akiko Noguchi Suzuki.\\[0.5cm]
 
-\textbf{Contribuiram para a 3ª edição:}\\
-Marcos Santos Kroll.\\[0.5cm]
 
-Versão 1.0 - Brasília (DF), 3 de julho de 2026\\[1cm]
 
 \fbox{
   \begin{minipage}{0.9\textwidth}
