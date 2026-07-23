@@ -96,12 +96,12 @@ ato do Poder Executivo federal, atualmente disposta no
  
 .. admonition:: Importante
  
-   A descentralização de atividades pode ocorrer em dois planos distintos:
+   A descentralização de atividades pode ocorrer nas seguintes dimensões:
  
+   * **Político-administrativa** — no âmbito federativo, conforme a divisão de competências entre União, Estados e Municípios, nos termos dos arts. 21 a 33 da Constituição Federal.
    * **Dentro da administração pública** — por meio de entidades com personalidade
      jurídica própria, como autarquias, fundações públicas ou empresas estatais.
-   * **Fora da administração pública** — por meio de parcerias com a sociedade
-     civil, como organizações sociais e OSCIPs.
+   * **Fora da administração pública** — parcerias sociais com entidades privadas sem fins lucrativos (terceiro setor) e por meio de parcerias econômicas com entidades privadas com fins lucrativos (mercado).
  
 A opção pela descentralização costuma basear-se nos seguintes objetivos estratégicos
 de gestão:
