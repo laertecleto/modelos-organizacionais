@@ -261,23 +261,21 @@ parcerias com entidades privadas, com ou sem fins lucrativos. Parcerias são uma
 
 .. admonition:: Parcerias econômicas com entidade privadas com fins lucrativos
  
-   **Finalidade**: fortalecer a interação entre o Estado e o mercado visando à realização de
-    empreendimentos estratégicos no setor de infraestrutura, obras e serviços públicos.
+   **Finalidade**:
+    fortalecer a interação entre o Estado e o mercado visando à realização de empreendimentos estratégicos no setor de infraestrutura, obras e serviços públicos.
 
    **Tipos**:
 
    * Concessão e permissão. Lei nº8.987, de 1995.
 
-   * PPP - Parceria Público Privada (Lei nº 11.079, de 30/12/2004) é definida como contrato administrativo de concessão,
-    na modalidade patrocinada ou administrativa.
+   * PPP - Parceria Público Privada (Lei nº 11.079, de 30/12/2004) é definida como contrato administrativo de concessão, na modalidade patrocinada ou administrativa.
 
-   * PPI - Programa de Parceria de Investimentos (Lei nº 13.334, de 13/09-2016)
-    consideram-se contratos de parceria a concessão comum, 
-    a concessão patrocinada, a concessão administrativa, a concessão regida por legislação setorial, 
-    a permissão de serviço público, o arrendamento de bem público, a concessão de direito real e os 
-    outros negócios público-privados que, em função de seu caráter estratégico e de sua complexidade,
-    especificidade, volume de investimentos, longo prazo, riscos ou incertezas envolvidos,
-    adotem estrutura jurídica semelhante.
+   * PPI - Programa de Parceria de Investimentos (Lei nº 13.334, de 13/09-2016): consideram-se contratos 
+   de parceria a concessão comum, a concessão patrocinada, a concessão administrativa, a concessão regida 
+   por legislação setorial, a permissão de serviço público, o arrendamento de bem público, a concessão de 
+   direito real e os outros negócios público-privados que, em função de seu caráter estratégico e de sua complexidade,
+   especificidade, volume de investimentos, longo prazo, riscos ou incertezas envolvidos,
+   adotem estrutura jurídica semelhante.
 
 
 .. admonition:: Parcerias sociais com entidades privadas sem fins lucrativos
@@ -287,9 +285,7 @@ parcerias com entidades privadas, com ou sem fins lucrativos. Parcerias são uma
 
    **Tipos**:
 
-   * As parcerias com Organizações Sociais (OS), Organizações da Sociedade Civil de Interesse Público (OSCIP) e
-   com Organizações da Sociedade Civil (OSC) são reguladas por contrato de gestão, termo de parceria,
-   convênio ou congêneres. Os termos de compromisso cultural são regulados pela Lei nº 13.018, de 2014.
+   * As parcerias com Organizações Sociais (OS), Organizações da Sociedade Civil de Interesse Público (OSCIP) e com Organizações da Sociedade Civil (OSC) são reguladas por contrato de gestão, termo de parceria, convênio ou congêneres. Os termos de compromisso cultural são regulados pela Lei nº 13.018, de 2014.
 
  
 A estratégia de :ref:`descentralizacao` de atividades da ordem social para entidades privadas sem fins lucrativos 

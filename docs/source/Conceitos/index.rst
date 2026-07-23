@@ -385,15 +385,11 @@ Conceitualmente, descentralização indica divisão de poder e ou de competênci
 
 Ocorre nas seguintes dimensões:
 
-* Político-administrativa: no âmbito federativo, conforme a divisão de competências  entre União,
-Estados e Municípios nos termos dos  Art. 21 a 33 da Constituição Federal de 1988;
+* **Político-administrativa**: no âmbito federativo, conforme a divisão de competências  entre União, Estados e Municípios nos termos dos  Art. 21 a 33 da Constituição Federal de 1988;
 
-* Dentro da administração pública — no âmbito organizacional, por meio da delegação de competências
-a entidades com personalidade jurídica própria, como autarquias, fundações públicas ou empresas estatais;
+* **Dentro da administração pública**: no âmbito organizacional, por meio da delegação de competências a entidades com personalidade jurídica própria, como autarquias, fundações públicas ou empresas estatais;
 
-* Fora da administração pública — no âmbito das relações entre o Estado e a sociedade, por meio de
-parcerias sociais com entidades privadas sem fins lucrativos (terceiro setor) e por meio de parcerias
-econômicas com entidades privadas com fins lucrativos (mercado).
+* **Fora da administração pública**: no âmbito das relações entre o Estado e a sociedade, por meio de parcerias sociais com entidades privadas sem fins lucrativos (terceiro setor) e por meio de parcerias econômicas com entidades privadas com fins lucrativos (mercado).
 
 Órgão público
 -------------
