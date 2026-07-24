@@ -20,12 +20,6 @@ mais relevante. Independentemente do tamanho, da missão ou da cultura de cada
  
 * Alinhamento dos fluxos de comunicação e colaboração entre equipes.
  
-.. note::
- 
-   A estrutura organizacional é o arcabouço que determina como uma entidade opera,
-   quem responde por cada entrega e de que forma a coordenação acontece em todos
-   os níveis.
- 
 Por que a Estrutura Organizacional Importa?
 -------------------------------------------
  

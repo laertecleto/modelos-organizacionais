@@ -5,6 +5,27 @@ Conceitos básicos
  
    Neste capítulo, você encontrará as definições dos principais conceitos
    relacionados às estruturas organizacionais do Poder Executivo Federal.
+
+.. _estrut_organizacional:
+
+Estrutura organizacional
+------------------------
+A estrutura organizacional é o arcabouço que organiza como o trabalho de uma
+entidade se divide em unidades e tarefas, quem responde por cada entrega e de
+que forma a coordenação acontece entre as partes. Dois movimentos complementares
+a definem: a divisão do trabalho em tarefas distintas e a coordenação dessas
+tarefas em torno de um objetivo comum :cite:`mintzberg_2003`.
+
+No setor público, essa lógica geral assume forma jurídica. A divisão do trabalho
+traduz-se na repartição de competências entre órgãos e entidades; a coordenação,
+na hierarquia e nos mecanismos de articulação previstos em norma. Por isso, a
+estrutura de um órgão do Poder Executivo federal não é apenas um organograma —
+é um conjunto de definições (competências, atribuições, finalidades e níveis
+hierárquicos) formalizadas em atos normativos próprios :cite:`daft_2013`.
+
+As seções seguintes apresentam os instrumentos por meio dos quais essa estrutura
+se formaliza — a estrutura regimental, o estatuto e o regimento interno — e os
+conceitos que lhes dão sustentação.
  
 .. _estrut_regim:
  
