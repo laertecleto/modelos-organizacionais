@@ -266,11 +266,11 @@ parcerias com entidades privadas, com ou sem fins lucrativos. Parcerias são uma
 
    **Tipos**:
 
-   * Concessão e permissão. Lei nº8.987, de 1995.
+   * Concessão e permissão. Lei nº 8.987, de 1995.
 
    * PPP - Parceria Público Privada (Lei nº 11.079, de 30/12/2004) é definida como contrato administrativo de concessão, na modalidade patrocinada ou administrativa.
 
-   * PPI - Programa de Parceria de Investimentos (Lei nº 13.334, de 13/09-2016): consideram-se contratos de parceria a concessão comum, a concessão patrocinada, a concessão administrativa, a concessão regida por legislação setorial, a permissão de serviço público, o arrendamento de bem público, a concessão de direito real e os outros negócios público-privados que, em função de seu caráter estratégico e de sua complexidade, especificidade, volume de investimentos, longo prazo, riscos ou incertezas envolvidos, adotem estrutura jurídica semelhante.
+   * PPI - Programa de Parceria de Investimentos (Lei nº 13.334, de 2016): consideram-se contratos de parceria a concessão comum, a concessão patrocinada, a concessão administrativa, a concessão regida por legislação setorial, a permissão de serviço público, o arrendamento de bem público, a concessão de direito real e os outros negócios público-privados que, em função de seu caráter estratégico e de sua complexidade, especificidade, volume de investimentos, longo prazo, riscos ou incertezas envolvidos, adotem estrutura jurídica semelhante.
 
 
 .. admonition:: Parcerias sociais com entidades privadas sem fins lucrativos
@@ -303,7 +303,7 @@ A :numref:`Parcerias-label` apresenta os principais instrumentos jurídicos de p
 utilizados pela União.
  
 .. _Parcerias-label:
-.. figure:: ../_static/images/Parcerias.png
+.. figure:: ../_static/images/Parcerias.svg
    :alt: Instrumentos de Parceria
    :align: center
  
