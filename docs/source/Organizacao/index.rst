@@ -304,9 +304,9 @@ A :numref:`Parcerias-label` apresenta os principais instrumentos jurídicos de p
 utilizados pela União.
  
 .. _Parcerias-label:
-.. figure:: ../_static/images/Parcerias.svg
+.. figure:: ../_static/images/parcerias.png
    :alt: Instrumentos de Parceria
-   :scale: 200
+   :scale: 100
    :align: center
  
    Principais instrumentos de parceria com o setor privado
