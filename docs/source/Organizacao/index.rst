@@ -230,6 +230,7 @@ institucionais correlacionados com suas funções, atividades e áreas de atuaç
 .. _ADM-direta-indireta:
 .. figure:: ../_static/images/APF_direta_indireta.png
    :alt: Administração direta e indireta
+   :scale: 80
    :align: center
  
    Visão idealizada dos tipos institucionais da APF
@@ -305,6 +306,7 @@ utilizados pela União.
 .. _Parcerias-label:
 .. figure:: ../_static/images/Parcerias.svg
    :alt: Instrumentos de Parceria
+   :scale: 200
    :align: center
  
    Principais instrumentos de parceria com o setor privado
