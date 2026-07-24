@@ -337,7 +337,7 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações associadas a 
 .. figure:: ../_static/images/Denominacoes_CCE_FCE.png
    :alt: Denominacoes das CCEs e FCEs
    :align: center
-   :scale: 125
+   :scale: 75
    :name: Denominacoes
 
    Denominações dos CCE e das FCE
