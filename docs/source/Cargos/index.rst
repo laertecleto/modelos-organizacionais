@@ -274,11 +274,23 @@ Os CCE e as FCE são divididos em 18 níveis, numerados de 1 a 18, sendo 1 o men
 A :numref:`Niveis-CCE-FCE-label` apresenta todas as configurações de níveis para CCE e FCE por categoria (Anexo I do `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_).
 
 .. _Niveis-CCE-FCE-label:
-.. figure:: ../_static/images/Niveis_CCE_FCE.png
-   :alt: Niveis das CCEs e FCEs
-   :align: center
 
-   Níveis dos CCE e das FCE
+.. only:: html
+
+   .. figure:: ../_static/images/Niveis_CCE_FCE.png
+      :alt: Níveis dos CCE e das FCE
+      :align: center
+
+      Níveis dos CCE e das FCE.
+
+.. only:: latex
+
+   .. figure:: ../_static/images/Niveis_CCE_FCE.png
+      :alt: Níveis dos CCE e das FCE
+      :align: center
+      :width: 12cm
+
+      Níveis dos CCE e das FCE.
 
 CCE e FCE do mesmo nível e da mesma categoria são equiparáveis para todos os efeitos legais e regulamentares.
 
@@ -319,7 +331,7 @@ A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionand
    .. figure:: ../_static/images/Fig-nivel-cce-hierarquia.png
       :alt: Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
       :align: center
-      :scale: 40
+      :scale: 20
 
       Correspondência entre a posição hierárquica e o nível dos CCE e das FCE.
 
@@ -361,7 +373,7 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações de referênci
    .. figure:: ../_static/images/Denominacoes_CCE_FCE.png
       :alt: Denominações dos CCE e das FCE
       :align: center
-      :scale: 20
+      :scale: 40
 
       Denominações dos CCE e das FCE.
 
@@ -370,7 +382,7 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações de referênci
    .. figure:: ../_static/images/Denominacoes_CCE_FCE.png
       :alt: Denominações dos CCE e das FCE
       :align: center
-      :width: 10cm
+      :width: 14cm
 
       Denominações dos CCE e das FCE.
 

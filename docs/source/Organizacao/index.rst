@@ -329,7 +329,7 @@ utilizados pela União.
 
    .. figure:: ../_static/images/Parcerias.png
       :alt: Instrumentos de Parceria
-      :width: 14cm
+      :width: 16cm
       :align: center
 
       Principais instrumentos de parceria com o setor privado.
