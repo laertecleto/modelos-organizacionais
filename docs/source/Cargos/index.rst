@@ -333,14 +333,14 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações de referênci
    elaboração e a revisão de estruturas organizacionais.
 
    Unidades com denominações consolidadas pelo uso histórico — tanto na
-   administração direta quanto na indireta — não precisam ser renomeadas para
+   administração direta quanto na indireta — não precisam, necessariamente, ser renomeadas para
    se adequar à tabela. Contudo, na reorganização de unidades existentes ou na
    criação de novas, órgãos e entidades devem adotar, sempre que possível, as
    denominações aqui indicadas. Desvios sem justificativa técnica consistente
    tendem a ser questionados durante a análise da proposta pelo órgão central.
 
    As agências reguladoras, dada a autonomia administrativa que lhes é
-   reconhecida, podem manter as denominações que vêm praticando. Recomenda-se,
+   reconhecida, podem manter as denominações que vêm praticando ou utilizar outras que julguem mais adequadas ao seu funcionamento. Recomenda-se,
    ainda assim, que se orientem pela tabela na medida do possível.
 
 .. _Denominacoes-CCE-FCE-label:
