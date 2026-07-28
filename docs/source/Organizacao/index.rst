@@ -38,7 +38,7 @@ eleito.
 O art. 84, VI, "a", da `Constituição Federal <cf-1988_>`_, com redação dada pela
 Emenda Constitucional nº 32, de 11 de setembro de 2001, estabelece a competência
 privativa do Presidente da República para dispor, mediante decreto, sobre a organização e o funcionamento da administração federal, desde que não implique aumento de despesa nem a criação ou extinção de órgãos públicos, bem como sobre a extinção de funções ou cargos públicos, quando vagos. 
-
+ 
 A carta magna garante, assim, que, diante das transformações políticas e tecnológicas, as estruturas organizacionais possam ser constantemente aperfeiçoadas, visando garantir a eficiência da ação estatal.
  
 O `Decreto-Lei nº 200, de 25 de fevereiro de 1967 <dl-200_>`_, parcialmente
@@ -87,7 +87,7 @@ A administração indireta compreende:
  
 A vinculação dessas entidades aos órgãos da administração direta é estabelecida por
 ato do Poder Executivo federal, atualmente disposta no
-`Decreto nº 11.401, 23 de janeiro de 2023 <decreto-11401_>`_.
+`Decreto nº 11.401, de 23 de janeiro de 2023 <decreto-11401_>`_.
  
 .. note::
    Caso a proposta de alteração da estrutura regimental de um ministério inclua ou
@@ -232,6 +232,7 @@ institucionais correlacionados com suas funções, atividades e áreas de atuaç
    :alt: Administração direta e indireta
    :scale: 80
    :align: center
+   :name: ADM-direta-indireta
  
    Visão idealizada dos tipos institucionais da APF
  
@@ -239,10 +240,10 @@ institucionais correlacionados com suas funções, atividades e áreas de atuaç
    Por razões históricas, existem desconformidades na alocação de certas atividades na
    administração pública federal. Há funções finalísticas da área social sendo executadas
    diretamente por ministérios ou empresas estatais, bem como autarquias desempenhando
-   papéis que não demandam poder de império. Esse descompasso institucional gera
+   papéis que não demandam poder de império. Esse descompasso institucional pode gerar
    restrições e controles inadequados ao tipo de atividade, afetando negativamente o
    desempenho institucional. Portanto, propostas de reestruturação devem buscar
-   continuamente a correção desse modelo.
+   continuamente a adequação do modelo institucional ou de parceria à atividade desempenhada.
  
 .. admonition:: Importante
  
@@ -259,46 +260,58 @@ Parcerias
 Uma parcela expressiva das políticas públicas federais é operacionalizada por meio de
 parcerias com entidades privadas, com ou sem fins lucrativos. Parcerias são uma forma de
 :ref:`descentralizacao`.
-
-.. admonition:: Parcerias econômicas com entidade privadas com fins lucrativos
+ 
+.. admonition:: Parcerias econômicas com entidades privadas com fins lucrativos
  
    **Finalidade**:
     fortalecer a interação entre o Estado e o mercado visando à realização de empreendimentos estratégicos no setor de infraestrutura, obras e serviços públicos.
-
+ 
    **Tipos**:
-
-   * Concessão e permissão. Lei nº 8.987, de 1995.
-
-   * PPP - Parceria Público Privada (Lei nº 11.079, de 30/12/2004) é definida como contrato administrativo de concessão, na modalidade patrocinada ou administrativa.
-
-   * PPI - Programa de Parceria de Investimentos (Lei nº 13.334, de 2016): consideram-se contratos de parceria a concessão comum, a concessão patrocinada, a concessão administrativa, a concessão regida por legislação setorial, a permissão de serviço público, o arrendamento de bem público, a concessão de direito real e os outros negócios público-privados que, em função de seu caráter estratégico e de sua complexidade, especificidade, volume de investimentos, longo prazo, riscos ou incertezas envolvidos, adotem estrutura jurídica semelhante.
-
-
+ 
+   * Concessão e permissão (`Lei nº 8.987, de 13 de fevereiro de 1995 <lei-8987_>`_).
+ 
+   * PPP — Parceria Público-Privada (`Lei nº 11.079, de 30 de dezembro de 2004 <lei-11079_>`_) é definida como contrato administrativo de concessão, na modalidade patrocinada ou administrativa.
+ 
+   * PPI — Programa de Parceria de Investimentos (`Lei nº 13.334, de 13 de setembro de 2016 <lei-13334_>`_): consideram-se contratos de parceria a concessão comum, a concessão patrocinada, a concessão administrativa, a concessão regida por legislação setorial, a permissão de serviço público, o arrendamento de bem público, a concessão de direito real e os outros negócios público-privados que, em função de seu caráter estratégico e de sua complexidade, especificidade, volume de investimentos, longo prazo, riscos ou incertezas envolvidos, adotem estrutura jurídica semelhante.
+ 
+ 
 .. admonition:: Parcerias sociais com entidades privadas sem fins lucrativos
  
    **Finalidade**: fomento à execução de atividades e ou serviços por entidades da sociedade civil, visando à implementação de políticas públicas da ordem social.
-
+ 
    **Tipos**:
-
-   * As parcerias com Organizações Sociais (OS), Organizações da Sociedade Civil de Interesse Público (OSCIP) e com Organizações da Sociedade Civil (OSC) são reguladas por contrato de gestão, termo de parceria, convênio ou congêneres. Os termos de compromisso cultural são regulados pela Lei nº 13.018, de 2014.
-
  
-A estratégia de :ref:`descentralizacao` de atividades da ordem social para entidades privadas sem fins lucrativos 
-traz vantagens relevantes para a administração:
+   * As parcerias com Organizações Sociais (OS), Organizações da Sociedade Civil de Interesse Público (OSCIP) e Organizações da Sociedade Civil (OSC) são reguladas por contrato de gestão, termo de parceria, convênio ou congêneres, nos termos da `Lei nº 13.019, de 31 de julho de 2014 <lei-13019_>`_ (MROSC — Marco Regulatório das Organizações da Sociedade Civil). Os termos de compromisso cultural são regulados pela `Lei nº 13.018, de 22 de julho de 2014 <lei-13018_>`_.
  
-* **Eficiência operacional:** Aproxima o processo decisório dos beneficiários finais,
-  conferindo respostas ágeis e desburocratizadas.
-* **Inovação e adaptação local:** Garante flexibilidade para adaptar os programas
-  governamentais às peculiaridades regionais.
-* **Incorporação de novos saberes.**
-* **Participação cívica:** Fortalece o controle social e estimula o engajamento direto
-  da comunidade na execução do serviço público.
-* **Responsabilização:** Vincula o repasse de recursos públicos ao cumprimento de metas
-  claras de desempenho.
-* **Ampliação da oferta de serviços públicos**
-* **Geração de emprego e renda**
-* **Redução de desigualdades:** Permite concentrar esforços e recursos em áreas
-  vulneráveis com maior precisão.
+ 
+A estratégia de :ref:`descentralizacao` de atividades da ordem social para entidades
+privadas sem fins lucrativos traz vantagens relevantes para a administração:
+ 
+* **Expansão da cobertura territorial:** Permite entregar serviços em regiões onde
+  o Estado não tem presença física, sem criar novos órgãos ou realizar concursos.
+ 
+* **Flexibilidade na gestão de pessoal:** Facilita a contratação de profissionais
+  especializados com agilidade, fora do regime de concurso público.
+ 
+* **Eficiência operacional:** Aproxima o processo decisório dos beneficiários,
+  conferindo respostas mais ágeis e desburocratizadas.
+ 
+* **Incorporação de saberes especializados e comunitários:** Mobiliza conhecimentos
+  técnicos e locais que o Estado não detém internamente, aprimorando o desenho
+  e a execução das políticas.
+ 
+* **Captação de recursos privados complementares:** Abre espaço para atrair
+  doações, patrocínios e investimentos privados, ampliando os recursos disponíveis
+  para a política pública além do repasse estatal.
+ 
+* **Legitimidade e engajamento democrático:** Aproxima a execução das políticas
+  dos cidadãos organizados, ampliando a participação e o controle social.
+ 
+* **Responsabilização por resultados:** Vincula o repasse de recursos ao cumprimento
+  de metas contratuais claras, criando incentivos formais ao desempenho.
+ 
+* **Focalização em populações vulneráveis:** As OSCs especializadas identificam e
+  alcançam com maior precisão grupos marginalizados ou em situação de risco.
  
 A :numref:`Parcerias-label` apresenta os principais instrumentos jurídicos de parceria
 utilizados pela União.
@@ -307,9 +320,35 @@ utilizados pela União.
 .. figure:: ../_static/images/Parcerias.png
    :alt: Instrumentos de Parceria
    :align: center
+   :name: Parcerias-label
  
    Principais instrumentos de parceria com o setor privado
  
+ 
+Sobre as Organizações Sociais federais
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+As Organizações Sociais (OS) federais seguem o disposto na
+`Lei nº 9.637, de 15 de maio de 1998 <lei-9637_>`_.
+ 
+O modelo de Organizações Sociais federais se destina a políticas públicas inovadoras, estratégicas, transversais e de longo prazo.
+ 
+Podem ser publicizadas para Organizações Sociais atividades dirigidas ao ensino, à pesquisa científica, ao desenvolvimento tecnológico, à proteção e preservação do meio ambiente, à cultura e à saúde.
+ 
+Estados, municípios e o Distrito Federal têm autonomia para dispor sobre o modelo de OS nos termos do art. 15 da `Lei nº 9.637, de 15 de maio de 1998 <lei-9637_>`_. Dessa forma, há muitas leis estaduais e municipais que diferem muito do modelo federal, notadamente no que se refere à composição do conselho de administração, procedimento de qualificação e desqualificação, mecanismos de supervisão, acompanhamento e avaliação, entre outros.
+ 
+.. admonition:: Organizações Sociais federais
+ 
+   * `CBA — Centro de Bionegócios da Amazônia <https://cbamazonia.org/>`_
+   * `CGEE — Centro de Gestão e Estudos Estratégicos <https://www.cgee.org.br/>`_
+   * `Cinemateca Brasileira <https://cinemateca.org.br/>`_
+   * `CNPEM — Centro Nacional de Pesquisa em Energia e Materiais <https://cnpem.br>`_
+   * `EMBRAPII — Empresa Brasileira de Pesquisa e Inovação Industrial <https://embrapii.org.br/>`_
+   * `IDSM — Instituto de Desenvolvimento Sustentável Mamirauá <https://www.mamiraua.org.br/>`_
+   * `IMPA — Instituto de Matemática Pura e Aplicada <https://impa.br>`_
+   * `INPO — Instituto Nacional de Pesquisas Oceânicas <https://inpo.org.br/>`_
+   * `ISD — Instituto Santos Dumont <https://institutosantosdumont.org.br/>`_
+   * `RNP — Rede Nacional de Ensino e Pesquisa <https://www.rnp.br>`_
  
 .. ---------------------------------------------------------------------------
 .. Referências externas — legislação
@@ -324,3 +363,9 @@ utilizados pela União.
 .. _lei-13303: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/L13303.htm
 .. _decreto-8945: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8945.htm
 .. _lei-7596: https://www.planalto.gov.br/ccivil_03/leis/L7596.htm
+.. _lei-8987: https://www.planalto.gov.br/ccivil_03/leis/L8987.htm
+.. _lei-11079: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/L11079.htm
+.. _lei-13334: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/L13334.htm
+.. _lei-13018: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13018.htm
+.. _lei-13019: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019.htm
+.. _lei-9637: https://www.planalto.gov.br/ccivil_03/leis/L9637.htm
