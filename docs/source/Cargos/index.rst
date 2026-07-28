@@ -277,7 +277,6 @@ A :numref:`Niveis-CCE-FCE-label` apresenta todas as configurações de níveis p
 .. figure:: ../_static/images/Niveis_CCE_FCE.png
    :alt: Niveis das CCEs e FCEs
    :align: center
-   :name: Niveis-CCE-FCE-label
 
    Níveis dos CCE e das FCE
 
@@ -317,7 +316,6 @@ A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionand
 .. figure:: ../_static/images/Fig-nivel-cce-hierarquia.png
    :alt: Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
    :align: center
-   :name: fig-niveis-cargos-funcoes
 
    Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
 
@@ -348,7 +346,6 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações de referênci
    :alt: Denominacoes das CCEs e FCEs
    :align: center
    :scale: 40
-   :name: Denominacoes-CCE-FCE-label
 
    Denominações dos CCE e das FCE
 
