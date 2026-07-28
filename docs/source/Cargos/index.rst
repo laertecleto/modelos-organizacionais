@@ -9,23 +9,23 @@ A estrutura organizacional de uma entidade pública constitui-se de diferentes n
 
 Nesse sentido, as estruturas organizacionais são materializadas pelos cargos em comissão e pelas funções de confiança, já que os cargos e funções são atribuídos às autoridades à frente das unidades administrativas. Não existe estrutura organizacional sem cargos e funções. E, da mesma forma, não existe cargo ou função desvinculado de uma estrutura organizacional. Assim, de modo geral, *Estruturas Organizacionais* e *cargos e funções* são conceitos totalmente interdependentes.
 
-De acordo com o inciso V do art. 37 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, as funções de confiança são exercidas exclusivamente por servidores ocupantes de cargo efetivo. Já os cargos em comissão são de livre provimento, observados os critérios de ocupação estabelecidos em lei. Atualmente, a `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_, em seu art. 12, estabelece casos, condições e percentual mínimo de cargos em comissão existentes na administração pública federal direta, autárquica e fundacional que deverão ser ocupados por servidores de carreira.
+De acordo com o inciso V do art. 37 da `Constituição Federal <cf-1988_>`_, as funções de confiança são exercidas exclusivamente por servidores ocupantes de cargo efetivo. Já os cargos em comissão são de livre provimento, observados os critérios de ocupação estabelecidos em lei. Atualmente, a `Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_, em seu art. 12, estabelece casos, condições e percentual mínimo de cargos em comissão existentes na administração pública federal direta, autárquica e fundacional que deverão ser ocupados por servidores de carreira.
 
 Tanto cargos em comissão como funções de confiança destinam-se às atribuições de direção, chefia e assessoramento. No entanto, antes de entrar na definição de cargos em comissão e funções de confiança, é importante esclarecer o conceito de cargo público.
 
 Cargo público
 -------------
 
-É o conjunto de atribuições e responsabilidades previstas na estrutura organizacional que devem ser cometidas a um servidor. Os cargos públicos, acessíveis a todos os brasileiros, são criados por lei, com denominação própria e vencimento pago pelos cofres públicos (art. 3º da `Lei nº 8.112, de 1990 <https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>`_).
+É o conjunto de atribuições e responsabilidades previstas na estrutura organizacional que devem ser cometidas a um servidor. Os cargos públicos, acessíveis a todos os brasileiros, são criados por lei, com denominação própria e vencimento pago pelos cofres públicos (art. 3º da `Lei nº 8.112, de 11 de dezembro de 1990 <lei-8112_>`_).
 
-Os detentores de cargos públicos têm vínculo estatutário com o Estado, regido, no plano federal, pela `Lei nº 8.112, de 1990 <https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>`_. A posse em cargo público dá-se pela assinatura do respectivo termo, no qual deverão constar as atribuições, os deveres, as responsabilidades e os direitos inerentes ao cargo ocupado, que não poderão ser alterados unilateralmente, por qualquer das partes, ressalvados os atos de ofício previstos em lei.
+Os detentores de cargos públicos têm vínculo estatutário com o Estado, regido, no plano federal, pela `Lei nº 8.112, de 11 de dezembro de 1990 <lei-8112_>`_. A posse em cargo público dá-se pela assinatura do respectivo termo, no qual deverão constar as atribuições, os deveres, as responsabilidades e os direitos inerentes ao cargo ocupado, que não poderão ser alterados unilateralmente, por qualquer das partes, ressalvados os atos de ofício previstos em lei.
 
 Os cargos públicos podem ser cargos efetivos ou cargos em comissão.
 
 Cargos efetivos
 ---------------
 
-Os cargos efetivos são criados por lei e podem ser de carreira ou cargos isolados. Seu provimento depende de prévia habilitação em concurso público de provas ou de provas e títulos, obedecidos a ordem de classificação e o prazo de sua validade (art. 10 da `Lei nº 8.112, de 1990 <https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>`_).
+Os cargos efetivos são criados por lei e podem ser de carreira ou cargos isolados. Seu provimento depende de prévia habilitação em concurso público de provas ou de provas e títulos, obedecidos a ordem de classificação e o prazo de sua validade (art. 10 da `Lei nº 8.112, de 11 de dezembro de 1990 <lei-8112_>`_).
 
 Os cargos efetivos na administração pública destinam-se a preencher funções permanentes dentro da estrutura do governo. Eles objetivam a continuidade dos serviços públicos, independentemente de mudanças políticas ou de gestão, uma vez que os servidores ocupam esses cargos independentemente do governo em exercício. É esperado que os servidores em cargos efetivos atuem de forma imparcial e neutra, independentemente de sua filiação política, já que sua permanência no cargo não está sujeita a mudanças de governo.
 
@@ -36,12 +36,12 @@ Os cargos em comissão são criados por lei, para o exercício das atribuições
 
 São exceções a essa regra os cargos em comissão destinados a autoridades com mandato, cuja exoneração só pode ocorrer ao fim do mandato ou nas hipóteses previstas em lei, como é caso dos diretores das agências reguladoras e do Banco Central.
 
-.. attention::
+.. admonition:: Atenção
 
    Embora os cargos em comissão sejam de livre provimento da autoridade competente
    para nomeá-los, seus ocupantes precisam atender a um conjunto de requisitos mínimos.
 
-   São requisitos básicos para a investidura em cargo público (art. 5º da `Lei nº 8.112, de 1990 <https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>`_):
+   São requisitos básicos para a investidura em cargo público (art. 5º da `Lei nº 8.112, de 11 de dezembro de 1990 <lei-8112_>`_):
 
    I - a nacionalidade brasileira;
 
@@ -57,7 +57,7 @@ São exceções a essa regra os cargos em comissão destinados a autoridades com
 
    São critérios gerais para a ocupação de cargos em comissão e de funções de
    confiança na administração pública federal direta, autárquica e fundacional
-   (art. 9º da `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_):
+   (art. 9º da `Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_):
 
    I – idoneidade moral e reputação ilibada;
 
@@ -65,14 +65,14 @@ São exceções a essa regra os cargos em comissão destinados a autoridades com
    a função para a qual tenha sido indicado; e
 
    III – não enquadramento nas hipóteses de inelegibilidade previstas no inciso
-   I do caput do art. 1º da `Lei Complementar nº 64, de 18 de maio de 1990 <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm>`_.
+   I do caput do art. 1º da `Lei Complementar nº 64, de 18 de maio de 1990 <lc-64_>`_.
 
    Além dos requisitos e critérios acima apresentados, os ocupantes de CCE e FCE
    deverão observar critérios específicos, de acordo com o nível, conforme
-   estabelecido nos arts. 16 a 19 do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_.
+   estabelecido nos arts. 16 a 19 do `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_.
 
 
-Dos cargos em comissão existentes na administração pública federal direta, autárquica e fundacional, no mínimo 60% do total deverão ser ocupados por servidores efetivos (inc. III do art. 13 da `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_).
+Dos cargos em comissão existentes na administração pública federal direta, autárquica e fundacional, no mínimo 60% do total deverão ser ocupados por servidores efetivos (inc. III do art. 13 da `Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_).
 
 Funções de confiança
 --------------------
@@ -81,7 +81,7 @@ As funções de confiança, assim como os cargos em comissão, são criadas por 
 
 A diferença entre as funções de confiança e os cargos em comissão é que as funções são exclusivas para servidores públicos ocupantes de cargo efetivo. Embora a lei possa limitar a ocupação de algumas funções a cargos efetivos e carreiras específicas, em geral, para ocupar função de confiança no Poder Executivo Federal, o servidor pode ter seu cargo efetivo vinculado a qualquer Poder e de qualquer ente da federação.
 
-Considerando o disposto no inc. V do art. 37 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, as funções de confiança não podem ser ocupadas por pessoas que não ocupam cargo efetivo, **nem por empregados públicos (pessoas empregadas em empresas estatais), nem por servidores aposentados, nem por militares, sejam da ativa ou da reserva**. Os mesmos requisitos devem ser observados pelo substitutos dos titulares dessas funções.
+Considerando o disposto no inc. V do art. 37 da `Constituição Federal <cf-1988_>`_, as funções de confiança não podem ser ocupadas por pessoas que não ocupam cargo efetivo, **nem por empregados públicos (pessoas empregadas em empresas estatais), nem por servidores aposentados, nem por militares, sejam da ativa ou da reserva**. Os mesmos requisitos devem ser observados pelo substitutos dos titulares dessas funções.
 
 
 A tabela abaixo resume as características dos diferentes tipos de cargos públicos.
@@ -123,22 +123,22 @@ Quando uma lei cria cargos em comissão e/ou funções de confiança, estes são
 Cargos Comissionados Executivos – CCE e Funções Comissionadas Executivas – FCE
 ------------------------------------------------------------------------------
 
-O principal grupo de cargos em comissão e funções de confiança existentes no Poder Executivo federal, sem característica de exclusividade para determinados órgãos ou entidades, são os Cargos Comissionados Executivos (CCE) e Funções Comissionadas Executivas (FCE) (`Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_).
+O principal grupo de cargos em comissão e funções de confiança existentes no Poder Executivo federal, sem característica de exclusividade para determinados órgãos ou entidades, são os Cargos Comissionados Executivos (CCE) e Funções Comissionadas Executivas (FCE) (`Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_).
 
 .. note::
 
-   Outras tipologias de cargos e funções podem ser consultadas aqui: :ref:`outros_tipos`.
+   Outras tipologias de cargos e funções podem ser consultadas neste capítulo, na seção :ref:`outros_tipos`.
 
-Os cargos em comissão CCE (Cargos Comissionados Executivos) e funções de confiança FCE (Funções Comissionadas Executivas) foram instituídos pela `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_, e substituíram os cargos em comissão DAS (Direção e Assessoramento Superior) e as funções de confiança FCPE (Funções Comissionadas do Poder Executivo). Em 2023, a mencionada Lei foi alterada, a fim de oferecer parâmetros para que as Agências Reguladoras também possam transformar seus cargos exclusivos em CCE e FCE. Essa transformação é opcional (art. 6º-A da `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_), mas deveria ser solicitada pelas agências até 31 de março de 2026.
+Os cargos em comissão CCE (Cargos Comissionados Executivos) e funções de confiança FCE (Funções Comissionadas Executivas) foram instituídos pela `Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_, e substituíram os cargos em comissão DAS (Direção e Assessoramento Superior) e as funções de confiança FCPE (Funções Comissionadas do Poder Executivo). Em 2023, a mencionada Lei foi alterada para oferecer às agências reguladoras a opção de transformar seus cargos exclusivos em CCE e FCE. Essa transformação era opcional (art. 6º-A da `Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_) e deveria ter sido solicitada até 31 de março de 2026 — prazo encerrado sem prorrogação.
 
 Os CCE e as FCE são os tipos mais utilizados para constituir a estrutura organizacional na Administração Pública Federal, pois parte significativa deles está associada ao titular de unidades administrativas de órgãos e entidades. As principais exceções são as instituições federais de ensino, as agências reguladoras e o Banco Central do Brasil. Essas entidades têm tipos de cargos e funções próprios para estruturar-se.
 
 .. _categorias:
 
 Categorias dos CCE e das FCE
-++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Os CCE e as FCE são constituídos pelas seguintes categorias estabelecidas no art. 3º do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_:
+Os CCE e as FCE são constituídos pelas seguintes categorias estabelecidas no art. 3º do `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_:
 
 .. list-table::
    :header-rows: 1
@@ -174,13 +174,13 @@ Os CCE e as FCE são constituídos pelas seguintes categorias estabelecidas no a
      * Assessoramento técnico especializado
      * 4
 
-**Chefia e direção** são duas das três atribuições que a `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, no inciso V do art. 37, confere aos cargos em comissão e às funções de confiança. A outra atribuição é de **assessoramento**. A lei de criação do cargo ou da função deve prever, entre outras coisas, qual dessas três atribuições terá o cargo ou função.
+**Chefia e direção** são duas das três atribuições que a `Constituição Federal <cf-1988_>`_, no inciso V do art. 37, confere aos cargos em comissão e às funções de confiança. A outra atribuição é de **assessoramento**. A lei de criação do cargo ou da função deve prever, entre outras coisas, qual dessas três atribuições terá o cargo ou função.
 
 As atribuições de chefia e direção estão associadas às categorias direção (código 1) e direção de projetos (código 3). As atribuições de assessoramento estão associadas às categorias assessoramento (código 2) e assessoramento técnico especializado (código 4).
 
 .. note::
 
-   Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categoria e denominação do cargo ou função, por meio de portaria do dirigente máximo do órgão ou da entidade, ainda que tenha sido definido em decreto (inc. III do §2º do art. 13, `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_), salvo se:
+   Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categoria e denominação do cargo ou função, por meio de portaria do dirigente máximo do órgão ou da entidade, ainda que tenha sido definido em decreto (inc. III do §2º do art. 13, `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_), salvo se:
    
    * houver destinação específica prevista em lei para os CCE ou para as FCE;
 
@@ -197,10 +197,10 @@ As atribuições de chefia e direção estão associadas às categorias direçã
 
    Os titulares de CCE/FCE de "Adjunto", tais como Secretário-Executivo-Adjunto e Secretário-Adjunto, servem para reforçar o comando dos titulares de Secretaria-Executiva ou de Secretarias de grande porte, unidades responsáveis por atribuições complexas, que gerenciam maior volume de recursos e/ou de atividades.
 
-   Os servidores investidos em cargos em comissão ou em funções de confiança de chefia da categoria direção (código 1) podem ter substitutos, conforme prevê o art. 38 da `Lei nº 8.112, de 1990 <https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>`_, independentemente da existência de cargos em comissão ou de funções de confiança subordinadas a eles.
+   Os servidores investidos em cargos em comissão ou em funções de confiança de chefia da categoria direção (código 1) podem ter substitutos, conforme prevê o art. 38 da `Lei nº 8.112, de 11 de dezembro de 1990 <lei-8112_>`_, independentemente da existência de cargos em comissão ou de funções de confiança subordinadas a eles.
 
 **Categoria Assessoramento (código 2)**
-   A atribuição de assessoramento é uma das três atribuições que a `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, no inciso V do art. 37, confere aos cargos em comissão e às funções de confiança.
+   A atribuição de assessoramento é uma das três atribuições que a `Constituição Federal <cf-1988_>`_, no inciso V do art. 37, confere aos cargos em comissão e às funções de confiança.
 
    A finalidade dos cargos ou funções da categoria assessoramento (código 2) é o assessoramento direto e imediato aos titulares dos cargos e das funções da categoria direção (código 1), aos cargos de natureza especial e aos cargos de Ministro de Estado.
 
@@ -267,17 +267,17 @@ A tabela abaixo resume as características das categorias dos CCE e das FCE.
      * Não
 
 Níveis dos CCE e das FCE
-++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Os CCE e as FCE são divididos em 18 níveis, numerados de 1 a 18, sendo 1 o menor nível e 18, o maior. Na designação de um CCE ou de uma FCE, utiliza-se o tipo do cargo ou função (CCE ou FCE) seguido do código da categoria (1 a 4), um ponto separador e o nível do cargo ou função (1 a 18).
 
-A :numref:`Niveis-CCE-FCE-label` apresenta todas as configurações de níveis para CCE e FCE por categoria (Anexo I do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_).
+A :numref:`Niveis-CCE-FCE-label` apresenta todas as configurações de níveis para CCE e FCE por categoria (Anexo I do `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_).
 
 .. _Niveis-CCE-FCE-label:
 .. figure:: ../_static/images/Niveis_CCE_FCE.png
    :alt: Niveis das CCEs e FCEs
    :align: center
-   :name: Niveis
+   :name: Niveis-CCE-FCE-label
 
    Níveis dos CCE e das FCE
 
@@ -285,7 +285,7 @@ CCE e FCE do mesmo nível e da mesma categoria são equiparáveis para todos os 
 
 **Regras básicas para ocupação de CCE e FCE**:
 
-* Deve ser observado o disposto no art. 9º da `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_, (critérios gerais para ocupação de CCE e FCE) e os arts. 15 a 19 do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_, (critérios específicos para ocupação de CCE/FCE).
+* Deve ser observado o disposto no art. 9º da `Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_, (critérios gerais para ocupação de CCE e FCE) e os arts. 15 a 19 do `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_, (critérios específicos para ocupação de CCE/FCE).
 
 * CCE de níveis 5 a 18: livre provimento;
 
@@ -300,9 +300,9 @@ Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
 
 Conforme citado anteriormente, há uma estreita relação entre os cargos e funções e a estrutura organizacional. Essa interdependência se expressa de forma precisa: a cada nível hierárquico da estrutura organizacional corresponde um intervalo de níveis de CCE ou FCE, determinado pela complexidade das atribuições e pela abrangência de responsabilidades daquela posição.
 
-É importante lembrar que a estrutura hierárquica é construída somente com CCE e FCE da categoria 1 (chefia e direção). Os CCE e as FCE das demais categorias integram a estrutura, mas não podem ser titulares de unidade adminstrativa. Portanto, não compõem a estrutura hierárquica.
+É importante lembrar que a estrutura hierárquica é construída somente com CCE e FCE da categoria 1 (chefia e direção). Os CCE e as FCE das demais categorias integram a estrutura, mas não podem ser titulares de unidade administrativa. Portanto, não compõem a estrutura hierárquica.
 
-.. attention::
+.. admonition:: Atenção
 
    * O titular da unidade administrativa será o **único** ocupante de CCE e FCE de maior nível.
 
@@ -311,12 +311,13 @@ Conforme citado anteriormente, há uma estreita relação entre os cargos e fun�
    * Os CCE e as FCE de mesma denominação não poderão ter relação de subordinação entre si. Ex.: numa unidade administrativa cujo titular é um CCE 1.16, não pode haver um subordinado CCE ou FCE de nível 15.
 
 
-A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionando as principais categorias de unidade administrativa — da Secretaria à Coordenação — aos níveis de cargo ou função que lhes são típicos (vide Anexo II do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_).
+A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionando as principais categorias de unidade administrativa — da Secretaria à Coordenação — aos níveis de cargo ou função que lhes são típicos (conforme o Anexo II do `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_).
 
 .. _fig-niveis-cargos-funcoes:
 .. figure:: ../_static/images/Fig-nivel-cce-hierarquia.png
-   :alt: Niveis das CCEs e FCEs
+   :alt: Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
    :align: center
+   :name: fig-niveis-cargos-funcoes
 
    Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
 
@@ -334,29 +335,29 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações de referênci
 
    Unidades com denominações consolidadas pelo uso histórico — tanto na
    administração direta quanto na indireta — não precisam, necessariamente, ser renomeadas para
-   se adequar à tabela. Contudo, na reorganização de unidades existentes ou na
+   se adequar à tabela da :numref:`Denominacoes-CCE-FCE-label`. Contudo, na reorganização de unidades existentes ou na
    criação de novas, órgãos e entidades devem adotar, sempre que possível, as
    denominações aqui indicadas. Desvios sem justificativa técnica consistente
    tendem a ser questionados durante a análise da proposta pelo órgão central.
 
    As agências reguladoras, dada a autonomia administrativa que lhes é reconhecida, podem manter as denominações que vêm praticando ou utilizar outras que julguem mais adequadas ao seu funcionamento. Recomenda-se,
-   ainda assim, que se orientem pela tabela na medida do possível.
+   ainda assim, que se orientem pela tabela da :numref:`Denominacoes-CCE-FCE-label` na medida do possível.
 
 .. _Denominacoes-CCE-FCE-label:
 .. figure:: ../_static/images/Denominacoes_CCE_FCE.png
    :alt: Denominacoes das CCEs e FCEs
    :align: center
    :scale: 40
-   :name: Denominacoes
+   :name: Denominacoes-CCE-FCE-label
 
    Denominações dos CCE e das FCE
 
 .. _cce-unitario:
 
 O parâmetro de CCE-unitário
-+++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-De acordo com o art. 6º do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_, na proposta de aprovação ou revisão de suas estruturas regimentais ou estatutos, os ministérios, órgãos e entidades deverão tomar como referência, para cálculo da despesa, o custo unitário efetivo expresso em CCE-Unitário.
+De acordo com o art. 6º do `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_, na proposta de aprovação ou revisão de suas estruturas regimentais ou estatutos, os ministérios, órgãos e entidades deverão tomar como referência, para cálculo da despesa, o custo unitário efetivo expresso em CCE-Unitário.
 
 **O valor de um CCE-Unitário equivale ao valor da remuneração do cargo CCE de nível 5**. O valor unitário dos demais cargos e funções é obtido dividindo-se o valor da remuneração do respectivo cargo ou função pelo valor da remuneração do CCE de nível 5. Os valores encontram-se fixados nas tabelas do sistema informatizado do SIORG, com duas casas decimais e podem ser consultados na `Tabela de cargos e funções <https://siorg.gov.br/siorg-cidadao-webapp/resources/app/cargos-comissionados.html>`_
 
@@ -365,7 +366,7 @@ O CCE-Unitário tem por objetivo facilitar o cálculo da despesa com cargos em c
 
 .. admonition:: Saiba mais sobre a transformação de cargos e funções
 
-   A `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_, autoriza o Poder Executivo federal a transformar cargos em comissão, funções de confiança e gratificações por meio de decreto.
+   A `Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_, autoriza o Poder Executivo federal a transformar cargos em comissão, funções de confiança e gratificações por meio de decreto.
 
    Na prática, isso significa que é possível dispor de novos cargos e funções por meio da transformação daqueles já existentes na estrutura da instituição demandante ou na reserva técnica da Secretaria de Gestão e Inovação, sem a edição de nova lei.
 
@@ -378,7 +379,7 @@ O CCE-Unitário tem por objetivo facilitar o cálculo da despesa com cargos em c
 .. _outros_tipos:
 
 Outros cargos em comissão e funções de confiança
-++++++++++++++++++++++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Grande parte das estruturas dos ministérios, órgãos e entidades do Poder Executivo federal é composta de Cargos Comissionados Executivos (CCE) e Funções Comissionadas Executivas (FCE). Porém, existem outras tipologias de cargos em comissão e de funções de confiança, em geral específicas para certos órgãos e entidades, que podem ser mencionadas como exceção a essa regra.
 
@@ -387,11 +388,11 @@ Cargos de Natureza Especial — NE
 
 Os cargos de natureza especial (NE) são cargos de chefia ou direção que respondiam por uma unidade administrativa interna na estrutura da Presidência da República e dos ministérios, situada no nível mais alto de autoridade pública na estrutura hierárquica dos órgãos, estando abaixo somente dos Ministros de Estado, em geral denominados Secretários-Executivos.
 
-Após a edição da `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_, os cargos NE dos ministérios e dos órgãos da Presidência da República foram transformados em CCE 1.18.
+Após a edição da `Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_, os cargos NE dos ministérios e dos órgãos da Presidência da República foram transformados em CCE 1.18.
 
 Hoje existem cargos NE somente no Banco Central do Brasil e são ocupados pelo Presidente e pelos demais diretores.
 
-Os servidores investidos em cargos de Natureza Especial podem ter substitutos, autorização prevista no art. 38 da `Lei nº 8.112, de 1990 <https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>`_, independentemente da existência de cargos em comissão ou de funções de confiança subordinadas a eles.
+Os servidores investidos em cargos de Natureza Especial podem ter substitutos, autorização prevista no art. 38 da `Lei nº 8.112, de 11 de dezembro de 1990 <lei-8112_>`_, independentemente da existência de cargos em comissão ou de funções de confiança subordinadas a eles.
 
 .. _cargos-ifes:
 
@@ -400,12 +401,12 @@ Cargos de Direção (CD), Funções Gratificadas (FG) e Funções Comissionadas 
 
 As instituições federais de ensino (Instituições Federais de Ensino Superior, Institutos Federais de Educação, Ciência e Tecnologia, Centros Federais de Educação Tecnológica, Escolas Agrotécnicas Federais, Escolas Técnicas Federais e Instituições Federais de Ensino Militar) se estruturam a partir dos Cargos de Direção – CD, divididos em quatro níveis, das Funções Gratificadas, divididas em nove níveis, e das Funções Comissionadas de Coordenação de Curso – FCC.
 
-Todos esses cargos e funções são criados no âmbito do Ministério da Educação, a quem cabe definir a distribuição entre as instituições federais de ensino e propor sua transformação, quando necessário (veja :ref:`tranformacao-cargos-ifes`).
+Todos esses cargos e funções são criados no âmbito do Ministério da Educação, a quem cabe definir a distribuição entre as instituições federais de ensino e propor sua transformação, quando necessário (veja :ref:`transformacao-cargos-ifes`).
 
 Cargos de Direção (CD)
 """"""""""""""""""""""
  
-Foram instituídos pela `Lei nº 8.168, de 16 de janeiro de 1991 <lei-8168_>_.
+Foram instituídos pela `Lei nº 8.168, de 16 de janeiro de 1991 <lei-8168_>`_.
 Os Reitores ocupam, necessariamente, o CD-I.
  
 Funções Gratificadas (FG)
@@ -416,7 +417,7 @@ Foram instituídas pela `Lei nº 8.168, de 16 de janeiro de 1991 <lei-8168_>`_.
 
   .. admonition:: Saiba mais sobre critérios de nomeação e designação para CD e FG
 
-  De acordo com o § 3º do art. 1º da `Lei nº 8.168, de 1991 <https://www.planalto.gov.br/ccivil_03/leis/l8168.htm>`_, podem ser nomeados para Cargo de Direção ou designados para Função Gratificada os servidores públicos federais da administração direta, autárquica ou fundacional não pertencentes ao quadro permanente da instituição de ensino, respeitado o limite de 10% (dez por cento) do total dos cargos e funções da instituição, admitindo-se, quanto aos Cargos de Direção, a nomeação de servidores já aposentados.
+  De acordo com o § 3º do art. 1º da `Lei nº 8.168, de 16 de janeiro de 1991 <https://www.planalto.gov.br/ccivil_03/leis/l8168.htm>`_, podem ser nomeados para Cargo de Direção ou designados para Função Gratificada os servidores públicos federais da administração direta, autárquica ou fundacional não pertencentes ao quadro permanente da instituição de ensino, respeitado o limite de 10% (dez por cento) do total dos cargos e funções da instituição, admitindo-se, quanto aos Cargos de Direção, a nomeação de servidores já aposentados.
 
   Esses servidores devem ser, necessariamente, titulares de cargos da Carreira do Magistério Superior de que trata a `Lei nº 7.596, de 10 de abril de 1987 <lei-7596_>`_, e Professores do Magistério do Ensino Básico, Técnico e Tecnológico, integrantes do Plano de Carreira e Cargos de Magistério do Ensino Básico, Técnico e Tecnológico, de que trata a `Lei nº 11.784, de 22 de setembro de 2008 <lei-11784_>`_.
 
@@ -427,39 +428,39 @@ Foram instituídas pelo `art. 7º da Lei nº 12.677, de 25 de junho de 2012 <lei
  
 Devem ser exercidas, exclusivamente, por servidores que desempenhem atividade de coordenação acadêmica de cursos técnicos, tecnológicos, de graduação e de pós-graduação *stricto sensu*, regularmente instituídos no âmbito das instituições federais de ensino.
  
-Somente poderão ser designados para FCC os titulares de cargos da Carreira do Magistério Superior de que trata a `Lei nº 7.596, de 10 de abril de 1987 <https://www.planalto.gov.br/ccivil_03/leis/l7596.htm>`_, e os Professores do Magistério do Ensino Básico, Técnico e Tecnológico, integrantes do Plano de Carreira e Cargos de Magistério do Ensino Básico, Técnico e Tecnológico, de que trata a `Lei nº 11.784, de 22 de setembro de 2008 <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11784.htm>`_. 
+Somente poderão ser designados para FCC os titulares de cargos da Carreira do Magistério Superior de que trata a `Lei nº 7.596, de 10 de abril de 1987 <lei-7596_>`_, e os Professores do Magistério do Ensino Básico, Técnico e Tecnológico, integrantes do Plano de Carreira e Cargos de Magistério do Ensino Básico, Técnico e Tecnológico, de que trata a `Lei nº 11.784, de 22 de setembro de 2008 <lei-11784_>`_. 
 
-Por fim, conforme o § 2º do art. 7º da `Lei nº 12.677, de 25 de junho de 2012 <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12677.htm>`_, é vedada a percepção de FCC cumulativa com a retribuição de funções gratificadas, cargos de direção ou com qualquer outra forma de retribuição pelo exercício de cargo em comissão ou função de confiança.
+Por fim, conforme o § 2º do art. 7º da `Lei nº 12.677, de 25 de junho de 2012 <lei-12677_>`_, é vedada a percepção de FCC cumulativa com a retribuição de funções gratificadas, cargos de direção ou com qualquer outra forma de retribuição pelo exercício de cargo em comissão ou função de confiança.
 
 .. _cargos_agencias:
 
 Cargos comissionados das agências reguladoras
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As agências reguladoras possuem Cargos em Comissão de Direção – CD, de Gerência Executiva – CGE, de Assessoria – CA e de Assistência – CAS, e os Cargos em Comissão Técnicos – CCT, conforme estabelecido na `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_, mas podem transformar seus cargos e funções em CCE e FCE, se assim optaram até 31 de março de 2026 (para saber mais sobre o que muda para as agências, nesse caso, consulte :ref:`particularidades_agencias`). 
+As agências reguladoras possuem Cargos em Comissão de Direção – CD, de Gerência Executiva – CGE, de Assessoria – CA e de Assistência – CAS, e os Cargos em Comissão Técnicos – CCT, conforme estabelecido na `Lei nº 9.986, de 18 de julho de 2000 <lei-9986_>`_. Podiam transformar seus cargos e funções em CCE e FCE mediante solicitação realizada até 31 de março de 2026 — prazo encerrado sem prorrogação. Agências que exerceram essa opção dentro do prazo podem dar continuidade ao processo (para saber mais sobre o que muda nesses casos, consulte :ref:`particularidades_agencias`).
 
-Essas autarquias especiais possuem autonomia para alterar seus respectivos quantitativos de cargos e distribuí-los, no âmbito de cada grupo, sem aumento de despesa (art. 14 da `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_), independentemente da tipologia de cargos e funções adotada.
+Essas autarquias especiais possuem autonomia para alterar seus respectivos quantitativos de cargos e distribuí-los, no âmbito de cada grupo, sem aumento de despesa (art. 14 da `Lei nº 9.986, de 18 de julho de 2000 <lei-9986_>`_), independentemente da tipologia de cargos e funções adotada.
 
-De acordo com a `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_, e a `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_:
+De acordo com a `Lei nº 9.986, de 18 de julho de 2000 <lei-9986_>`_, e a `Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_:
   * os Cargos Comissionados de Gerência Executiva, de Assessoria e de Assistência são de livre nomeação e exoneração da instância de deliberação máxima da Agência;
   * o Presidente ou o Diretor-Geral ou o Diretor-Presidente (CD I ou CCE-18) e os demais membros do Conselho Diretor ou da Diretoria (CD II ou CCE-17) serão brasileiros, de reputação ilibada, formação universitária e elevado conceito no campo de especialidade dos cargos para os quais serão nomeados, devendo ser escolhidos pelo Presidente da República e por ele nomeados, após aprovação pelo Senado Federal, nos termos da alínea f do inciso III do art. 52 da Constituição Federal;
   * integrarão a estrutura organizacional de cada agência uma procuradoria, que a representará em juízo, uma ouvidoria e uma auditoria; e
   * em adotando o modelo de CCE e FCE, o titular da ouvidoria que esteja prevista em estrutura de agência reguladora ocupará CCE ou FCE de nível 15.
 
-Também de acordo com o art. 33 da `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_, e a `Lei nº 10.871, de 20 de maio de 2004 <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.871.htm>`_, que dispõe sobre a criação de carreiras e organização de cargos efetivos das agências reguladoras:
+Também de acordo com o art. 33 da `Lei nº 9.986, de 18 de julho de 2000 <lei-9986_>`_, e a `Lei nº 10.871, de 20 de maio de 2004 <lei-10871_>`_, que dispõe sobre a criação de carreiras e organização de cargos efetivos das agências reguladoras:
   * os Cargos Comissionados Técnicos são de ocupação privativa de servidores ocupantes de cargos efetivos do Quadro de Pessoal Efetivo, de servidores do Quadro de Pessoal Específico, do Quadro de Pessoal em Extinção e dos membros da Carreira de Procurador Federal; e
-  * poderão ser designados para Cargos Comissionados Técnicos níveis CCT-IV e V, além dos servidores referidos no caput deste artigo, servidores ocupantes de cargos efetivos ou de empregos permanentes da administração federal direta e indireta cedidos à Agência Reguladora, na forma do art. 93 da `Lei nº 8.112, de 1990 <https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>`_.
+  * poderão ser designados para Cargos Comissionados Técnicos níveis CCT-IV e V, além dos servidores referidos no caput deste artigo, servidores ocupantes de cargos efetivos ou de empregos permanentes da administração federal direta e indireta cedidos à Agência Reguladora, na forma do art. 93 da `Lei nº 8.112, de 11 de dezembro de 1990 <lei-8112_>`_.
 
 Em adotando o modelo de CCE e FCE, os servidores cedidos às agências reguladoras para ocupação de Cargo Comissionado de Gerência Executiva (CGE) de nível IV e de Cargo Comissionado Técnico (CCT) de nível IV ou V poderão permanecer cedidos enquanto estiverem ocupando FCE de nível 8 ou superior.
 
-Os limites do art. 14 da `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_, já foram objeto dos Acórdãos TCU nº 569 e 1.600, de 2013, segundo os quais essa possibilidade de alteração de quantitativos deve ser interpretada em conjunto com o inciso V do art. 37 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_. Desse modo, atualmente é vedada a alteração de quantitativos de CCT em cargos de livre provimento (CGE, CA e CAS). Porém, desde que não haja aumento de despesa, é permitida:
+Os limites do art. 14 da `Lei nº 9.986, de 18 de julho de 2000 <lei-9986_>`_, já foram objeto dos Acórdãos TCU nº 569 e 1.600, de 2013, segundo os quais essa possibilidade de alteração de quantitativos deve ser interpretada em conjunto com o inciso V do art. 37 da `Constituição Federal <cf-1988_>`_. Desse modo, atualmente é vedada a alteração de quantitativos de CCT em cargos de livre provimento (CGE, CA e CAS). Porém, desde que não haja aumento de despesa, é permitida:
   a) a alteração dos quantitativos internamente a cada grupo – cargos de livre provimento (CGE, CA e CAS) e cargos privativos (CCT); e
   b) a alteração de quantitativos de cargos de livre provimento em favor de cargos privativos, bem como a reversão da alteração realizada.
 
 Funções comissionadas do Banco Central do Brasil
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As Funções Comissionadas do Banco Central – FCBC foram criadas pela `Lei nº 9.650, de 27 de maio de 1998 <https://www.planalto.gov.br/ccivil_03/leis/l9650.htm>`_, e são, de acordo com art. nº 12, § 6º, de exercício privativo por servidores do Banco Central do Brasil.
+As Funções Comissionadas do Banco Central – FCBC foram criadas pela `Lei nº 9.650, de 27 de maio de 1998 <lei-9650_>`_, e são, de acordo com art. 12, § 6º, de exercício privativo por servidores do Banco Central do Brasil.
 
 Seus quantitativos também poderão ser alterados por ato do Presidente do Banco Central do Brasil, desde que não impliquem aumento de despesa.
 
@@ -497,5 +498,12 @@ Cargos em comissão e funções de confiança alocados temporariamente em órgã
 .. _decreto-10829: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm
 .. _lei-8168: https://www.planalto.gov.br/ccivil_03/leis/L8168.htm
 .. _lei-7596: https://www.planalto.gov.br/ccivil_03/leis/L7596.htm
-.. _lei-11784: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11784.htm
-.. _lei-12677: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12677.htm
+.. _lei-11784: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/L11784.htm
+.. _lei-12677: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12677.htm
+.. _cf-1988: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+.. _lei-8112: https://www.planalto.gov.br/ccivil_03/leis/L8112cons.htm
+.. _lei-14204: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14204.htm
+.. _lc-64: https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp64.htm
+.. _lei-9986: https://www.planalto.gov.br/ccivil_03/leis/L9986.htm
+.. _lei-10871: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/L10871.htm
+.. _lei-9650: https://www.planalto.gov.br/ccivil_03/leis/L9650.htm
