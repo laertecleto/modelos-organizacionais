@@ -6,12 +6,24 @@ Ministérios, órgãos da Presidência da República e entidades do Poder Execut
 O fluxo normal de uma reestruturação organizacional de ministério ou entidade pode ser resumido da seguinte forma:
 
 .. _fluxo-reestruturacao:
-.. figure:: ../_static/images/fluxo_reestruturacao.png
-   :alt: Fluxo de uma reestruturação
-   :align: center
-   :scale: 50
 
-   Fluxo de uma reestruturação organizacional
+.. only:: html
+
+   .. figure:: ../_static/images/fluxo_reestruturacao.png
+      :alt: Fluxo de uma reestruturação
+      :align: center
+      :scale: 50
+
+      Fluxo de uma reestruturação organizacional.
+
+.. only:: latex
+
+   .. figure:: ../_static/images/fluxo_reestruturacao.png
+      :alt: Fluxo de uma reestruturação
+      :align: center
+      :width: 10cm
+
+      Fluxo de uma reestruturação organizacional.
 
 
 .. note::

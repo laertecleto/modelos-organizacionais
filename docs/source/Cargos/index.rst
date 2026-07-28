@@ -313,12 +313,24 @@ Conforme citado anteriormente, há uma estreita relação entre os cargos e fun�
 A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionando as principais categorias de unidade administrativa aos níveis de cargo ou função que lhes são típicos (conforme o Anexo II do `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_).
 
 .. _fig-niveis-cargos-funcoes:
-.. figure:: ../_static/images/Fig-nivel-cce-hierarquia.png
-   :alt: Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
-   :align: center
-   :scale: 50
 
-   Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
+.. only:: html
+
+   .. figure:: ../_static/images/Fig-nivel-cce-hierarquia.png
+      :alt: Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
+      :align: center
+      :scale: 40
+
+      Correspondência entre a posição hierárquica e o nível dos CCE e das FCE.
+
+.. only:: latex
+
+   .. figure:: ../_static/images/Fig-nivel-cce-hierarquia.png
+      :alt: Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
+      :align: center
+      :width: 14cm
+
+      Correspondência entre a posição hierárquica e o nível dos CCE e das FCE.
 
 .. _denominacoesCCEFCE:
 
@@ -343,12 +355,24 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações de referênci
    ainda assim, que se orientem pela tabela da :numref:`Denominacoes-CCE-FCE-label` na medida do possível.
 
 .. _Denominacoes-CCE-FCE-label:
-.. figure:: ../_static/images/Denominacoes_CCE_FCE.png
-   :alt: Denominacoes das CCEs e FCEs
-   :align: center
-   :scale: 40
 
-   Denominações dos CCE e das FCE
+.. only:: html
+
+   .. figure:: ../_static/images/Denominacoes_CCE_FCE.png
+      :alt: Denominações dos CCE e das FCE
+      :align: center
+      :scale: 20
+
+      Denominações dos CCE e das FCE.
+
+.. only:: latex
+
+   .. figure:: ../_static/images/Denominacoes_CCE_FCE.png
+      :alt: Denominações dos CCE e das FCE
+      :align: center
+      :width: 10cm
+
+      Denominações dos CCE e das FCE.
 
 .. _cce-unitario:
 
