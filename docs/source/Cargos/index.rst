@@ -339,8 +339,7 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações de referênci
    denominações aqui indicadas. Desvios sem justificativa técnica consistente
    tendem a ser questionados durante a análise da proposta pelo órgão central.
 
-   As agências reguladoras, dada a autonomia administrativa que lhes é
-   reconhecida, podem manter as denominações que vêm praticando ou utilizar outras que julguem mais adequadas ao seu funcionamento. Recomenda-se,
+   As agências reguladoras, dada a autonomia administrativa que lhes é reconhecida, podem manter as denominações que vêm praticando ou utilizar outras que julguem mais adequadas ao seu funcionamento. Recomenda-se,
    ainda assim, que se orientem pela tabela na medida do possível.
 
 .. _Denominacoes-CCE-FCE-label:
