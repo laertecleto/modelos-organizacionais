@@ -9,7 +9,7 @@ O fluxo normal de uma reestruturação organizacional de ministério ou entidade
 .. figure:: ../_static/images/fluxo_reestruturacao.png
    :alt: Fluxo de uma reestruturação
    :align: center
-   :scale: 90
+   :scale: 50
 
    Fluxo de uma reestruturação organizacional
 

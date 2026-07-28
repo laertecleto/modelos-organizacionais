@@ -310,12 +310,13 @@ Conforme citado anteriormente, há uma estreita relação entre os cargos e fun�
    * Os CCE e as FCE de mesma denominação não poderão ter relação de subordinação entre si. Ex.: numa unidade administrativa cujo titular é um CCE 1.16, não pode haver um subordinado CCE ou FCE de nível 15.
 
 
-A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionando as principais categorias de unidade administrativa — da Secretaria à Coordenação — aos níveis de cargo ou função que lhes são típicos (conforme o Anexo II do `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_).
+A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionando as principais categorias de unidade administrativa aos níveis de cargo ou função que lhes são típicos (conforme o Anexo II do `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_).
 
 .. _fig-niveis-cargos-funcoes:
 .. figure:: ../_static/images/Fig-nivel-cce-hierarquia.png
    :alt: Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
    :align: center
+   :scale: 50
 
    Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
 
