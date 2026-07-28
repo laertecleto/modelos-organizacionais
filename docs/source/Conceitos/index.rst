@@ -448,7 +448,7 @@ Quanto à posição na hierarquia do Poder Executivo Federal
        estatal, sem qualquer subordinação hierárquica ou funcional: o Poder
        Legislativo (Congresso Nacional, Câmara dos Deputados e Senado Federal), o
        Poder Judiciário (STF, STJ e demais tribunais superiores), a Presidência da
-       República, o Ministério Público e o Tribunal de Contas da União
+       República, o Ministério Público, a Defensoria Pública e o Tribunal de Contas da União
        :cite:`di_pietro_2023`.
  
        .. note::
