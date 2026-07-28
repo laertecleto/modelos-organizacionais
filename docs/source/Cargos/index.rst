@@ -325,13 +325,23 @@ A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionand
 Denominações associadas aos níveis e categorias dos CCE e das FCE
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações associadas a cada nível e categoria para as CCE e FCE.
+A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações de referência associadas a cada nível e categoria para as CCE e FCE.
 
-.. attention::
+.. admonition:: Atenção
 
-   Embora haja casos em que a denominação se desvie daquelas listadas na figura,
-   é importante que órgãos e entidades se atenham àquelas listadas na tabela,
-   evitando a criação de outras denominações.
+   As denominações apresentadas na tabela são de referência e devem orientar a
+   elaboração e a revisão de estruturas organizacionais.
+
+   Unidades com denominações consolidadas pelo uso histórico — tanto na
+   administração direta quanto na indireta — não precisam ser renomeadas para
+   se adequar à tabela. Contudo, na reorganização de unidades existentes ou na
+   criação de novas, órgãos e entidades devem adotar, sempre que possível, as
+   denominações aqui indicadas. Desvios sem justificativa técnica consistente
+   tendem a ser questionados durante a análise da proposta pelo órgão central.
+
+   As agências reguladoras, dada a autonomia administrativa que lhes é
+   reconhecida, podem manter as denominações que vêm praticando. Recomenda-se,
+   ainda assim, que se orientem pela tabela na medida do possível.
 
 .. _Denominacoes-CCE-FCE-label:
 .. figure:: ../_static/images/Denominacoes_CCE_FCE.png
