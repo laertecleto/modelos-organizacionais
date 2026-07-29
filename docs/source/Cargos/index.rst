@@ -367,28 +367,15 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações de referênci
    As agências reguladoras, dada a autonomia administrativa que lhes é reconhecida, podem manter as denominações que vêm praticando ou utilizar outras que julguem mais adequadas ao seu funcionamento. Recomenda-se,
    ainda assim, que se orientem pela tabela da :numref:`Denominacoes-CCE-FCE-label` na medida do possível.
 
-.. only:: html
+.. _Denominacoes-CCE-FCE-label:
 
-   .. _Denominacoes-CCE-FCE-label:
+.. figure:: ../_static/images/Denominacoes_CCE_FCE.png
+   :alt: Denominações dos CCE e das FCE
+   :align: center
+   :width: 100%
 
-   .. figure:: ../_static/images/Denominacoes_CCE_FCE.png
-      :alt: Denominações dos CCE e das FCE
-      :align: center
-      :scale: 40
-
-      Denominações dos CCE e das FCE.
-
-.. only:: latex
-
-   .. _Denominacoes-CCE-FCE-label:
+   Denominações dos CCE e das FCE.
    
-   .. figure:: ../_static/images/Denominacoes_CCE_FCE.png
-      :alt: Denominações dos CCE e das FCE
-      :align: center
-      :width: 16cm
-      
-      Denominações dos CCE e das FCE.
-
 .. _cce-unitario:
 
 O parâmetro de CCE-unitário
