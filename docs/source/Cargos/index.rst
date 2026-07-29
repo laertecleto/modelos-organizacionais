@@ -280,7 +280,7 @@ A :numref:`Niveis-CCE-FCE-label` apresenta todas as configurações de níveis p
    .. figure:: ../_static/images/Niveis_CCE_FCE.png
       :alt: Níveis dos CCE e das FCE
       :align: center
-      :scale: 75
+      :scale: 50
 
       Níveis dos CCE e das FCE.
 
@@ -332,8 +332,8 @@ A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionand
    .. figure:: ../_static/images/Fig-nivel-cce-hierarquia.png
       :alt: Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
       :align: center
-      :scale: 40
-
+      :scale: 50
+      
       Correspondência entre a posição hierárquica e o nível dos CCE e das FCE.
 
 .. only:: latex
@@ -367,14 +367,13 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações de referênci
    As agências reguladoras, dada a autonomia administrativa que lhes é reconhecida, podem manter as denominações que vêm praticando ou utilizar outras que julguem mais adequadas ao seu funcionamento. Recomenda-se,
    ainda assim, que se orientem pela tabela da :numref:`Denominacoes-CCE-FCE-label` na medida do possível.
 
-.. _Denominacoes-CCE-FCE-label:
-
 .. only:: html
 
    .. figure:: ../_static/images/Denominacoes_CCE_FCE.png
       :alt: Denominações dos CCE e das FCE
       :align: center
       :scale: 40
+      :name: Denominacoes-CCE-FCE-label
 
       Denominações dos CCE e das FCE.
 
@@ -384,6 +383,7 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações de referênci
       :alt: Denominações dos CCE e das FCE
       :align: center
       :width: 16cm
+      :name: Denominacoes-CCE-FCE-label
 
       Denominações dos CCE e das FCE.
 
