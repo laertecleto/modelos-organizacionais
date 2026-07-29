@@ -333,7 +333,7 @@ A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionand
       :alt: Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
       :align: center
       :scale: 50
-      
+
       Correspondência entre a posição hierárquica e o nível dos CCE e das FCE.
 
 .. only:: latex
@@ -369,22 +369,24 @@ A :numref:`Denominacoes-CCE-FCE-label` apresenta as denominações de referênci
 
 .. only:: html
 
+   .. _Denominacoes-CCE-FCE-label:
+
    .. figure:: ../_static/images/Denominacoes_CCE_FCE.png
       :alt: Denominações dos CCE e das FCE
       :align: center
       :scale: 40
-      :name: Denominacoes-CCE-FCE-label
 
       Denominações dos CCE e das FCE.
 
 .. only:: latex
 
+   .. _Denominacoes-CCE-FCE-label:
+   
    .. figure:: ../_static/images/Denominacoes_CCE_FCE.png
       :alt: Denominações dos CCE e das FCE
       :align: center
       :width: 16cm
-      :name: Denominacoes-CCE-FCE-label
-
+      
       Denominações dos CCE e das FCE.
 
 .. _cce-unitario:
