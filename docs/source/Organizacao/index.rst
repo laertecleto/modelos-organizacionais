@@ -317,22 +317,12 @@ utilizados pela União.
  
 .. _Parcerias-label:
 
-.. only:: html
+.. figure:: ../_static/images/Parcerias.png
+   :alt: Instrumentos de Parceria
+   :align: center
+   :width: 100%
 
-   .. figure:: ../_static/images/Parcerias.png
-      :alt: Instrumentos de Parceria
-      :align: center
-
-      Principais instrumentos de parceria com o setor privado.
-
-.. only:: latex
-
-   .. figure:: ../_static/images/Parcerias.png
-      :alt: Instrumentos de Parceria
-      :width: 16cm
-      :align: center
-
-      Principais instrumentos de parceria com o setor privado.
+   Principais modelos de parceria com o setor privado.
  
  
 Sobre as Organizações Sociais federais
