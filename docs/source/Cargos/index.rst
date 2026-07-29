@@ -275,23 +275,12 @@ A :numref:`Niveis-CCE-FCE-label` apresenta todas as configurações de níveis p
 
 .. _Niveis-CCE-FCE-label:
 
-.. only:: html
+.. figure:: ../_static/images/Niveis_CCE_FCE.png
+   :alt: Níveis dos CCE e das FCE
+   :align: center
+   :width: 80%
 
-   .. figure:: ../_static/images/Niveis_CCE_FCE.png
-      :alt: Níveis dos CCE e das FCE
-      :align: center
-      :scale: 50
-
-      Níveis dos CCE e das FCE.
-
-.. only:: latex
-
-   .. figure:: ../_static/images/Niveis_CCE_FCE.png
-      :alt: Níveis dos CCE e das FCE
-      :align: center
-      :width: 12cm
-
-      Níveis dos CCE e das FCE.
+   Níveis dos CCE e das FCE.
 
 CCE e FCE do mesmo nível e da mesma categoria são equiparáveis para todos os efeitos legais e regulamentares.
 
@@ -330,7 +319,7 @@ A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionand
 .. figure:: ../_static/images/Fig-nivel-cce-hierarquia.png
    :alt: Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
    :align: center
-   :width: 90%
+   :width: 100%
 
    Correspondência entre a posição hierárquica e o nível dos CCE e das FCE.
 
