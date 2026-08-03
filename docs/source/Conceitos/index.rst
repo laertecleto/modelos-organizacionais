@@ -69,8 +69,39 @@ O estatuto descreve:
 * outros assuntos inerentes à sua organização.
  
 O estatuto é aprovado por ato do Presidente da República.
- 
- 
+
+.. admonition:: Estatuto: um termo mais amplo do que o empregado neste manual
+
+   Neste manual, *estatuto* designa especificamente o instrumento de
+   estruturação organizacional das fundações públicas, aprovado por ato
+   do Presidente da República. Esse é apenas um dos sentidos do termo.
+
+   No **âmbito privado**, em sentido estrito, estatuto é o instrumento
+   constitutivo de pessoa jurídica de direito privado, nos termos dos
+   arts. 45 e seguintes da `Lei nº 10.406, de 10 de janeiro de 2002
+   (Código Civil) <lei-10406_>`_ — é o chamado estatuto social de
+   associações, sociedades anônimas e cooperativas, entre outras.
+
+   No **âmbito público**, em sentido amplo, "estatuto" também nomeia leis
+   que fixam direitos, deveres e diretrizes para um grupo ou setor
+   específico — funcionando como uma lei orgânica da matéria, sem relação
+   com estrutura organizacional. É o caso do Estatuto da Criança e do
+   Adolescente, do Estatuto do Idoso, do Estatuto da Cidade, do Estatuto
+   da Terra e do Estatuto da OAB, entre outros. Na mesma linha, a
+   `Lei nº 13.303, de 30 de junho de 2016 <lei-13303_>`_ institui o
+   Estatuto Jurídico da Empresa Pública, da Sociedade de Economia Mista e
+   de suas Subsidiárias — um regime jurídico comum a essas entidades,
+   distinto do estatuto organizacional de cada uma.
+
+   As **universidades federais** são um caso à parte: por força da
+   autonomia constitucional do art. 207 da `Constituição Federal
+   <cf-1988_>`_, o regimento é de competência exclusiva da própria
+   universidade, sem aprovação externa prévia; já o estatuto, embora
+   elaborado pela universidade (art. 53, V, da `Lei nº 9.394, de 20 de
+   dezembro de 1996 <lei-9394_>`_), sujeita-se à análise do Ministério da
+   Educação — não à aprovação por decreto presidencial, como nas demais
+   fundações públicas.
+
 .. _reg_interno:
  
 Regimento interno
@@ -398,19 +429,124 @@ do `Decreto nº 9.739, de 28 de março de 2019 <decreto-9739_>`_. As competênci
    junho de 2019.
  
 
+.. _sistema-gestao-etica:
+
+Sistema de Gestão da Ética do Poder Executivo Federal
+-----------------------------------------------------
+
+O Sistema de Gestão da Ética do Poder Executivo Federal foi instituído pelo
+`Decreto nº 6.029, de 1º de fevereiro de 2007 <decreto-6029_>`_, com a
+finalidade de promover a conduta ética no âmbito da administração pública
+federal. Suas competências centrais são integrar os órgãos, programas e
+ações de ética pública, compatibilizar normas e procedimentos, e articular
+ações de incremento ao desempenho institucional na gestão da ética.
+
+**Base normativa**
+
+Estruturação do sistema:
+
+* `Decreto de 26 de maio de 1999 <decreto-cep-1999_>`_ — cria a Comissão
+  de Ética Pública (CEP).
+
+* `Decreto nº 6.029, de 1º de fevereiro de 2007 <decreto-6029_>`_ —
+  institui o Sistema de Gestão da Ética, define seus integrantes e a Rede
+  de Ética Pública; em seu art. 4º, parágrafo único, prevê a
+  Secretaria-Executiva da CEP (SECEP). A SECEP foi originalmente criada
+  pelo Decreto de 30 de agosto de 2000, revogado pelo art. 25 do próprio
+  Decreto nº 6.029/2007, que absorveu sua previsão. A vinculação atual da
+  SECEP — à Secretaria-Geral da Presidência da República — foi fixada
+  pelo `Decreto nº 9.670, de 2 de janeiro de 2019 <decreto-9670_>`_.
+
+Normas materiais de conduta:
+
+* `Decreto nº 1.171, de 22 de junho de 1994 <decreto-1171_>`_ — Código
+  de Ética Profissional do Servidor Público Civil do Poder Executivo
+  Federal, aplicável a todos os servidores.
+
+* `Código de Conduta da Alta Administração Federal <ccaaf_>`_ (CCAAF),
+  instituído pela Exposição de Motivos nº 37, de 18 de agosto de 2000,
+  aprovada pelo Presidente da República em 21 de agosto de 2000 — regras
+  específicas para autoridades de alto escalão.
+
+* `Lei nº 12.813, de 16 de maio de 2013 <lei-12813_>`_ — dispõe sobre
+  conflito de interesses no exercício de cargo e impedimentos
+  posteriores; ampliou as competências da CEP.
+
+* `Decreto nº 4.081, de 11 de janeiro de 2002 <decreto-4081_>`_ —
+  institui o Código de Conduta Ética dos Agentes Públicos da Presidência
+  e Vice-Presidência e a comissão própria desse âmbito, a CEPR.
+
+Em novembro de 2025, a CEP aprovou novo Regimento Interno, que detalha os
+ritos de consulta e apuração e explicita o Acordo de Conduta Pessoal e
+Profissional (ACPP) como instrumento de resolução consensual.
+
+**Funcionamento**
+
+O sistema se organiza como uma rede: um núcleo coordenador central e
+unidades locais presentes em cada órgão e entidade da administração
+direta, autárquica e fundacional.
+
+A CEP é a instância consultiva do Presidente e dos ministros em matéria de
+ética; administra o CCAAF e coordena, avalia e supervisiona o sistema como
+um todo (art. 4º, IV, do Decreto nº 6.029/2007). É composta por sete
+membros de reputação ilibada, designados pelo Presidente para mandatos de
+três anos não coincidentes, com uma única recondução, sem remuneração. A
+SECEP presta apoio técnico à CEP.
+
+As comissões de ética setoriais — presentes em cada órgão e entidade —
+têm três membros titulares e três suplentes, escolhidos entre servidores
+do quadro permanente e designados pelo dirigente máximo do órgão, também
+com mandatos de três anos não coincidentes. A vinculação administrativa é
+ao próprio órgão, que garante recursos e estrutura à comissão (art. 7º,
+§ 1º, do Decreto nº 6.029/2007). Em relação à CEP, a comissão tem o dever
+de comunicar situações de descumprimento do Código de Conduta da Alta
+Administração Federal (art. 7º, IV) e seus representantes seguem
+resolução própria da CEP quanto às atividades de ligação com a Rede de
+Ética (art. 23) — o decreto não estabelece, porém, uma vinculação técnica
+hierárquica individualizada sobre a estrutura interna de cada comissão.
+
+A Rede de Ética Pública do Poder Executivo Federal integra os
+representantes de todas as comissões setoriais, que se reúnem ao menos
+uma vez por ano, sob coordenação da CEP, para avaliar o programa e as
+ações de promoção da ética — a camada de articulação horizontal do
+sistema.
+
+.. note::
+
+   Apesar da semelhança com os Sistemas Estruturadores — núcleo central,
+   unidades setoriais, lógica de rede —, o Sistema de Gestão da Ética não
+   integra o rol do art. 30 do `Decreto-Lei nº 200, de 25 de fevereiro de
+   1967 <dl-200_>`_ :cite:`di_pietro_2023` :cite:`carvalho_filho_2023`. A
+   analogia é estrutural, não jurídica.
+
 .. _descentralizacao:
  
 Descentralização
 ----------------
-Conceitualmente, descentralização indica divisão de poder e ou de competências.  
+Descentralização é a distribuição de competências de uma pessoa jurídica
+para outra — distinta da desconcentração, que ocorre dentro da mesma
+pessoa jurídica, entre órgãos de sua própria hierarquia
+:cite:`di_pietro_2023`.
 
 Ocorre nas seguintes dimensões:
 
-* **Político-administrativa**: no âmbito federativo, conforme a divisão de competências  entre União, Estados e Municípios nos termos dos  Art. 21 a 33 da Constituição Federal de 1988;
+* **Política**: no âmbito federativo, pela divisão constitucional de
+  competências entre União, Estados, Distrito Federal e Municípios
+  (arts. 18 a 33 da `Constituição Federal <cf-1988_>`_);
 
-* **Dentro da administração pública**: no âmbito organizacional, por meio da delegação de competências a entidades com personalidade jurídica própria, como autarquias, fundações públicas ou empresas estatais;
+* **Dentro da administração pública**: pela atribuição, pela própria lei
+  que cria a entidade — nova ou já existente —, da titularidade e da
+  execução de um serviço ou atividade, geralmente como forma de buscar
+  maior eficiência e efetividade na sua prestação — caso das autarquias,
+  fundações públicas, empresas públicas e sociedades de economia mista;
 
-* **Fora da administração pública**: no âmbito das relações entre o Estado e a sociedade, por meio de parcerias sociais com entidades privadas sem fins lucrativos (terceiro setor) e por meio de parcerias econômicas com entidades privadas com fins lucrativos (mercado).
+* **Fora da administração pública**: pela transferência, por contrato ou
+  ato unilateral, apenas da execução de um serviço a pessoa jurídica de
+  direito privado já existente, que conserva sua própria personalidade —
+  caso das concessões e permissões a entidades com fins lucrativos, e
+  das parcerias com organizações da sociedade civil sem fins lucrativos.
+
+Classificação doutrinária conforme :cite:`di_pietro_2023`.
 
 Órgão público
 -------------
@@ -557,6 +693,16 @@ Classificação doutrinária conforme :cite:`di_pietro_2023` e
 .. _cf-1988: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
 .. _dl-200: https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm
 .. _lei-9784: https://www.planalto.gov.br/ccivil_03/leis/L9784.htm
+.. _lei-10406: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406.htm
+.. _lei-13303: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm
+.. _lei-9394: https://www.planalto.gov.br/ccivil_03/leis/l9394.htm
+.. _decreto-cep-1999: https://www.planalto.gov.br/ccivil_03/dnn/dnnconduta.htm
+.. _decreto-6029: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/D6029.htm
+.. _decreto-9670: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9670.htm
+.. _decreto-1171: https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm
+.. _ccaaf: https://www.gov.br/planalto/pt-br/acesso-a-informacao/acoes-e-programas/governanca/etica-publica/legislacao-cep/codigo-de-conduta-da-alta-administracao-federal
+.. _lei-12813: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12813.htm
+.. _decreto-4081: https://www.planalto.gov.br/ccivil_03/decreto/2002/d4081.htm
 .. _decreto-6944: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/D6944.htm
 .. _decreto-9739: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9739.htm
 .. _decreto-12002: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D12002.htm
