@@ -430,6 +430,7 @@ do `Decreto nº 9.739, de 28 de março de 2019 <decreto-9739_>`_. As competênci
    `Decreto nº 9.739, de 28 de março de 2019 <decreto-9739_>`_, a partir de 1º de
    junho de 2019.
  
+Para mais informações acesse o item de :ref:`cadastramento-siorg`.
 
 .. _sistema-gestao-etica:
 
