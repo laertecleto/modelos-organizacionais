@@ -18,15 +18,16 @@ providências tratadas neste capítulo, cada uma com prazo próprio:
 - o cadastramento da nova estrutura no sistema informatizado do SIORG deve
   estar concluído até o dia útil anterior à data de entrada em vigor do
   decreto ou, quando a *vacatio legis* for superior a vinte dias, até vinte
-  dias após a publicação (Decreto nº 9.739, de 28 de março de 2019, art. 14,
-  parágrafo único);
+  dias após a publicação (`Decreto nº 9.739, de 28 de março de 2019
+  <decreto-9739_>`_, art. 14, parágrafo único);
 - concluído o cadastramento, o apostilamento dos titulares de cargos em
   comissão e de funções de confiança deve estar formalizado até a própria
   data de entrada em vigor do decreto (art. 15, parágrafo único, do mesmo
   Decreto);
 - quando editado, o regimento interno também deve estar registrado no
   sistema informatizado do SIORG até o dia útil anterior à data de entrada
-  em vigor (Decreto nº 10.829, de 5 de outubro de 2021, art. 11, inciso VI).
+  em vigor (`Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_,
+  art. 11, inciso VI).
 
 As seções a seguir tratam, respectivamente, do cadastramento no SIORG, do
 apostilamento dos servidores e da elaboração do regimento interno.
@@ -191,7 +192,7 @@ de decreto ou de fato superveniente, dispensando a edição de um novo ato.
 Na classificação doutrinária de Hely Lopes Meirelles, a apostila integra os
 atos administrativos enunciativos: não cria direito novo, apenas reconhece
 e formaliza situação jurídica já existente, decorrente de lei, de outro ato
-administrativo ou de contrato :cite:`meirelles_2016`.
+administrativo ou de contrato :cite:`meirelles_2025`.
 
 Na prática administrativa, o apostilamento é empregado em contextos
 variados. No âmbito da gestão de pessoas, emprega-se para corrigir
@@ -234,11 +235,12 @@ Base legal
   gestão de cargos em comissão e de funções de confiança na administração
   pública federal direta, autárquica e fundacional.
 - `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_ —
-  regulamenta a Lei nº 14.204, de 2021, e disciplina o apostilamento nos
-  arts. 29-A e 29-B.
+  regulamenta a `Lei nº 14.204, de 2021 <lei-14204_>`_, e disciplina o
+  apostilamento nos arts. 29-A e 29-B.
 - `Decreto nº 11.383, de 19 de janeiro de 2023 <decreto-11383_>`_ —
-  incluiu os arts. 29-A e 29-B no Decreto nº 10.829, de 2021, e revogou o
-  art. 31-A, que tratava do tema de forma mais restrita.
+  incluiu os arts. 29-A e 29-B no `Decreto nº 10.829, de 2021
+  <decreto-10829_>`_, e revogou o art. 31-A, que tratava do tema de forma
+  mais restrita.
 
 Hipóteses de aplicação
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -332,13 +334,12 @@ entidade; e
 VI - será registrado no sistema informatizado do SIORG até o dia útil
 anterior à data de entrada em vigor.
 
-Por fim, conforme o art. 14 do `Decreto nº 9.739, de 2019 <decreto-9739_>`_,
-cabe observar que independentemente da publicação do regimento interno, os
-órgãos e entidades deverão manter atualizada no sistema informatizado do
-SIORG o detalhamento (denominação, sigla e hierarquia) de todas as
-unidades administrativas do quadro demonstrativo dos cargos em comissão e
-das funções de confiança, em consonância com a vigência dos atos
-correspondentes — ver :ref:`cadastramento-siorg`.
+Por fim, independentemente da publicação do regimento interno, o registro
+do detalhamento das unidades administrativas no sistema informatizado do
+SIORG continua obrigatório nos termos e prazos já tratados em
+:ref:`cadastramento-siorg`.
+
+.. _RI-orgao-singular:
 
 Orientações gerais para elaboração de regimento interno de órgão singular
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -370,7 +371,7 @@ administrativas, a critério da autoridade competente;
 
 III\. apenas os assuntos pertinentes ao ministério, órgão ou entidade
 deverão constar do regimento interno, tratados em capítulos específicos,
-guardadas as peculiaridades de cada um [#f44]_. Os capítulos típicos de
+guardadas as peculiaridades de cada um. Os capítulos típicos de
 regimento interno conforme o órgão, unidade administrativa ou entidade
 estão relacionados no quadro abaixo. No Capítulo Da Estrutura
 Organizacional ou Da Organização, recomenda-se utilizar numerais (1, 1.1,
@@ -388,7 +389,7 @@ das unidades é bastante extenso.
        públicas
    * - Da Natureza e Competência;
      - Categoria (vide o item :ref:`classific_orgao`) e Finalidade (apenas
-       no caso de unidades nível DAS/FCPE 101.6 ou superior);
+       no caso de unidades nível CCE ou FCE 1.17 ou superior);
      - Da Natureza, Sede e Finalidade;
    * - Da Estrutura Organizacional;
      - Da Organização (refere-se à estrutura das unidades);
@@ -403,11 +404,6 @@ das unidades é bastante extenso.
    * - Disposições Gerais.
      - Disposições Gerais.
      - Disposições Gerais.
-
-.. [#f44] Para os itens 7.1 e 7.1.1, a partir da 2ª edição (2019), foram
-   incorporadas algumas orientações do Manual de Elaboração e Análise de
-   Estrutura Organizacional e Regimento Interno (1994), tendo em vista
-   maior esclarecimento quanto à redação de regimentos internos.
 
 IV\. não deverão constar no Regimento Interno:
 
@@ -564,8 +560,7 @@ peculiaridades de cada um. Os capítulos típicos de regimento interno de
 Orientações gerais para elaboração de regimento interno das instituições federais de ensino
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A Função Comissionada de Coordenação de Curso – FCC, detalhada no item
-5.8.1 deste Manual, destina-se a servidores que desempenhem atividade de
+As :ref:`fcc-ifes` destinam-se a servidores que desempenhem atividade de
 coordenação acadêmica de cursos técnicos, tecnológicos, de graduação e de
 pós-graduação stricto sensu, regularmente instituídos no âmbito das
 instituições federais de ensino.
@@ -603,7 +598,7 @@ Instituição.
    não se aplica à criação ou à alteração desses colegiados.
 
 Os regimentos internos das instituições federais de ensino devem observar
-o item 7.1 deste Manual, especialmente a partir do item IV.
+:ref:`RI-orgao-singular`, especialmente a partir do item IV.
 
 A Auditoria Interna deve ser vinculada ao Conselho de Administração e
 subordinada ao Reitor.
