@@ -135,7 +135,9 @@ seu poder normativo interno.
    unidade administrativa do órgão ou entidade.
 
    Por exemplo: Regimento interno da Receita Federal do Brasil ou da Polícia Federal.
- 
+
+Para mais informações veja o item sobre a :ref:`elaboracao-regimento-interno`.
+
 .. _competencias:
  
 Competências
