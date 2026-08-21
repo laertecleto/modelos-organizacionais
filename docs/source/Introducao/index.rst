@@ -6,7 +6,7 @@ O Poder Executivo federal e a Estrutura Organizacional
  
 O Poder Executivo federal é responsável por executar as leis e implementar as
 políticas públicas do país. Para isso, conta com estruturas próprias — ministérios,
-órgãos da Presidência e entidades vinculadas — e com parcerias junto à sociedade
+órgãos da Presidência (órgãos elencados no art. 2º da Lei 14.600, de 2023) e entidades vinculadas — e com parcerias junto à sociedade
 civil.
  
 Toda organização precisa de uma estrutura que defina como ela funciona, quem
@@ -31,17 +31,17 @@ gera impacto direto em três frentes:
   decisões e a avaliação do desempenho institucional.
  
 * **Otimização de recursos:** Uma boa estrutura ajuda a identificar redundâncias e
-  a distribuir pessoal, orçamento e ativos com foco em prioridades estratégicas —
+  a alocar pessoal, orçamento e ativos com foco em prioridades estratégicas —
   maximizando a entrega de serviços mesmo sob restrições orçamentárias.
  
-* **Colaboração integrada:** Ao quebrar barreiras burocráticas, permite que
+* **Colaboração:** Ao quebrar barreiras burocráticas, permite que
   diferentes órgãos atuem de forma coordenada e deem respostas mais abrangentes
   aos desafios da sociedade.
  
 Base Legal: Decretos, CCE e FCE
 --------------------------------
  
-No Poder Executivo federal, as estruturas organizacionais são formalizadas por
+No Poder Executivo federal, a maior parte das estruturas organizacionais são formalizadas por
 decreto. Esses atos normativos têm como fundamento a legislação de organização
 básica dos ministérios e da Presidência da República, além das leis específicas de
 cada entidade. Eles detalham as competências do órgão e o respectivo quadro de

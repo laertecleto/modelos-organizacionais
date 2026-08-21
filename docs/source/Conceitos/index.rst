@@ -540,8 +540,8 @@ Ocorre nas seguintes dimensões:
   maior eficiência e efetividade na sua prestação — caso das autarquias,
   fundações públicas, empresas públicas e sociedades de economia mista;
 
-* **Fora da administração pública**: pela transferência, por contrato ou
-  ato unilateral, apenas da execução de um serviço a pessoa jurídica de
+* **Fora da administração pública**: pela transferência, por contrato,
+  ato unilateral, termo de parceria, contrato de gestão (no caso das Organizações Sociais federais) ou outro instrumento, da execução de um serviço ou atividade a pessoa jurídica de
   direito privado já existente, que conserva sua própria personalidade —
   caso das concessões e permissões a entidades com fins lucrativos, e
   das parcerias com organizações da sociedade civil sem fins lucrativos.
