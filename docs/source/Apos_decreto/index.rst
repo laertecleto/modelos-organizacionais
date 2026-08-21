@@ -314,7 +314,7 @@ consonância com o Decreto e que o regimento é responsabilidade de cada
 administrativas e as atribuições dos dirigentes dispostas no Anexo I da
 Estrutura ou de Estatuto não poderão ser alteradas por regimento interno.
 
-O art. 11 do `Decreto nº 10.829, de 2021 <decreto-10829_>`_ estabelece que
+O art. 11 do `Decreto nº 10.829, de 2021 <decreto-10829_>`_, estabelece que
 o regimento interno dos órgãos e entidades:
 
 I - é de edição opcional;

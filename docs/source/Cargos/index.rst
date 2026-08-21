@@ -400,34 +400,34 @@ Os servidores investidos em cargos de Natureza Especial podem ter substitutos, a
 .. _cargos-ifes:
 
 Cargos de Direção (CD), Funções Gratificadas (FG) e Funções Comissionadas de Coordenação de Curso (FCC)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 As instituições federais de ensino (Instituições Federais de Ensino Superior, Institutos Federais de Educação, Ciência e Tecnologia, Centros Federais de Educação Tecnológica, Escolas Agrotécnicas Federais, Escolas Técnicas Federais e Instituições Federais de Ensino Militar) se estruturam a partir dos Cargos de Direção – CD, divididos em quatro níveis, das Funções Gratificadas, divididas em nove níveis, e das Funções Comissionadas de Coordenação de Curso – FCC.
 
 Todos esses cargos e funções são criados no âmbito do Ministério da Educação, a quem cabe definir a distribuição entre as instituições federais de ensino e propor sua transformação, quando necessário (veja :ref:`transformacao-cargos-ifes`).
 
 Cargos de Direção (CD)
-""""""""""""""""""""""
+++++++++++++++++++++++
  
 Foram instituídos pela `Lei nº 8.168, de 16 de janeiro de 1991 <lei-8168_>`_.
 Os Reitores ocupam, necessariamente, o CD-I.
  
 Funções Gratificadas (FG)
-""""""""""""""""""""""""""
+++++++++++++++++++++++++++
  
 Foram instituídas pela `Lei nº 8.168, de 16 de janeiro de 1991 <lei-8168_>`_.
  
 
-  .. admonition:: Saiba mais sobre critérios de nomeação e designação para CD e FG
+.. admonition:: Saiba mais sobre critérios de nomeação e designação para CD e FG
 
-  De acordo com o § 3º do art. 1º da `Lei nº 8.168, de 16 de janeiro de 1991 <https://www.planalto.gov.br/ccivil_03/leis/l8168.htm>`_, podem ser nomeados para Cargo de Direção ou designados para Função Gratificada os servidores públicos federais da administração direta, autárquica ou fundacional não pertencentes ao quadro permanente da instituição de ensino, respeitado o limite de 10% (dez por cento) do total dos cargos e funções da instituição, admitindo-se, quanto aos Cargos de Direção, a nomeação de servidores já aposentados.
+   De acordo com o § 3º do art. 1º da `Lei nº 8.168, de 16 de janeiro de 1991 <https://www.planalto.gov.br/ccivil_03/leis/l8168.htm>`_, podem ser nomeados para Cargo de Direção ou designados para Função Gratificada os servidores públicos federais da administração direta, autárquica ou fundacional não pertencentes ao quadro permanente da instituição de ensino, respeitado o limite de 10% (dez por cento) do total dos cargos e funções da instituição, admitindo-se, quanto aos Cargos de Direção, a nomeação de servidores já aposentados.
 
-  Esses servidores devem ser, necessariamente, titulares de cargos da Carreira do Magistério Superior de que trata a `Lei nº 7.596, de 10 de abril de 1987 <lei-7596_>`_, e Professores do Magistério do Ensino Básico, Técnico e Tecnológico, integrantes do Plano de Carreira e Cargos de Magistério do Ensino Básico, Técnico e Tecnológico, de que trata a `Lei nº 11.784, de 22 de setembro de 2008 <lei-11784_>`_.
+   Esses servidores devem ser, necessariamente, titulares de cargos da Carreira do Magistério Superior de que trata a `Lei nº 7.596, de 10 de abril de 1987 <lei-7596_>`_, e Professores do Magistério do Ensino Básico, Técnico e Tecnológico, integrantes do Plano de Carreira e Cargos de Magistério do Ensino Básico, Técnico e Tecnológico, de que trata a `Lei nº 11.784, de 22 de setembro de 2008 <lei-11784_>`_.
 
 .. _fcc-ifes:
 
 Funções Comissionadas de Coordenação de Curso (FCC)
-""""""""""""""""""""""""""""""""""""""""""""""""""""
+++++++++++++++++++++++++++++++++++++++++++++++++++++
  
 Foram instituídas pelo `art. 7º da Lei nº 12.677, de 25 de junho de 2012 <lei-12677_>`_.
  
