@@ -291,166 +291,326 @@ Competência e formalização
 Elaboração do regimento interno
 --------------------------------
 
-O regimento interno é o instrumento que desdobra, em subunidades
-administrativas, os órgãos e as unidades relacionados na estrutura
-regimental ou no estatuto, especifica as competências de cada um e define
-as atribuições de seus dirigentes. Além de delimitar a área de atuação das
-unidades administrativas, vincula as atribuições dos titulares às
-competências das respectivas unidades, dando transparência à gestão e
-facilitando a identificação de responsáveis em ações de auditoria dos
-órgãos de controle interno e externo.
+O regimento interno é o instrumento jurídico que desdobra em subunidades
+administrativas os órgãos e unidades relacionados na estrutura regimental
+ou no estatuto, especifica suas respectivas competências e define as
+atribuições de seus dirigentes.
 
-O regimento interno deve estar em absoluta consonância com o decreto que
-aprovar a estrutura regimental ou o estatuto: as competências das unidades
-administrativas e as atribuições dos dirigentes fixadas no Anexo I do
-decreto não podem ser alteradas por regimento interno — não se altera
-decreto por portaria.
+A regra geral é que o regimento interno, quando houver, deve ser aprovado
+pelo dirigente máximo do órgão ou entidade. Porém, o regimento pode ser
+aprovado por outra instância caso haja previsão em lei ou decreto.
 
-Regras gerais
-~~~~~~~~~~~~~
+Além de estabelecer as fronteiras da área de atuação das unidades
+administrativas, o regimento interno vincula as atribuições dos titulares
+às competências das respectivas unidades organizacionais, dando
+transparência à gestão. Também facilita a identificação dos responsáveis
+nas ações de auditoria pelos órgãos de controle interno e externo.
 
-- **Aprovação** — a regra geral é que o regimento interno seja aprovado
-  pelo dirigente máximo do órgão ou da entidade; pode ser aprovado por
-  outra instância quando houver previsão em lei ou em decreto — como
-  ocorre em órgãos colegiados e em instituições federais de ensino (ver
-  adiante).
-- **Edição opcional** — a publicação de regimento interno não é
-  obrigatória (`Decreto nº 10.829, de 2021 <decreto-10829_>`_, art. 11,
-  inciso I).
-- **Publicação** — quando editado, é publicado no Diário Oficial da União
-  (art. 11, inciso II).
-- **Abrangência** — pode abranger todas as unidades administrativas da
-  estrutura regimental (regimento integral) ou apenas uma ou mais
-  unidades ou subunidades (regimento parcial), a critério da autoridade
-  competente (art. 11, inciso IV).
-- **Registro no SIORG** — até o dia útil anterior à data de entrada em
-  vigor do regimento interno ou de suas alterações (art. 11, inciso VI);
-  independentemente da publicação do regimento, os órgãos e as entidades
-  devem manter atualizado no sistema informatizado do SIORG o
-  detalhamento das unidades administrativas (`Decreto nº 9.739, de
-  2019 <decreto-9739_>`_, art. 14) — ver :ref:`cadastramento-siorg`.
+Deve-se ressaltar que o regimento interno deve estar em absoluta
+consonância com o Decreto e que o regimento é responsabilidade de cada
+órgão ou entidade. Em outras palavras, as competências das unidades
+administrativas e as atribuições dos dirigentes dispostas no Anexo I da
+Estrutura ou de Estatuto não poderão ser alteradas por regimento interno.
 
-Órgão singular
-~~~~~~~~~~~~~~
+O art. 11 do `Decreto nº 10.829, de 2021 <decreto-10829_>`_ estabelece que
+o regimento interno dos órgãos e entidades:
 
-Aplica-se a ministérios, órgãos da Presidência da República, autarquias e
-fundações públicas.
+I - é de edição opcional;
 
-.. list-table:: Capítulos típicos de regimento interno, conforme o caso
+II - será publicado no Diário Oficial da União;
+
+III - guardará conformidade com o decreto que aprovar a estrutura
+regimental ou o estatuto;
+
+IV - poderá abranger todas as unidades administrativas apresentadas na
+estrutura regimental ou apenas uma ou mais unidades ou subunidades
+administrativas;
+
+V - é de competência indelegável da autoridade máxima do órgão ou da
+entidade; e
+
+VI - será registrado no sistema informatizado do SIORG até o dia útil
+anterior à data de entrada em vigor.
+
+Por fim, conforme o art. 14 do `Decreto nº 9.739, de 2019 <decreto-9739_>`_,
+cabe observar que independentemente da publicação do regimento interno, os
+órgãos e entidades deverão manter atualizada no sistema informatizado do
+SIORG o detalhamento (denominação, sigla e hierarquia) de todas as
+unidades administrativas do quadro demonstrativo dos cargos em comissão e
+das funções de confiança, em consonância com a vigência dos atos
+correspondentes — ver :ref:`cadastramento-siorg`.
+
+Orientações gerais para elaboração de regimento interno de órgão singular
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A definição de órgão singular e de órgãos colegiados está prevista no item
+:ref:`classific_orgao`.
+
+A elaboração de regimentos internos deve observar as disposições sobre o
+assunto no `Decreto nº 10.829, de 2021 <decreto-10829_>`_, e as diretrizes
+deste Manual, para que o regimento seja o mais objetivo possível e não
+entre em conflito com o Decreto de estrutura regimental ou estatuto.
+
+A eventual superposição, ainda que parcial, de competência entre unidades
+administrativas, indica a necessidade de revisão mais acurada do projeto,
+podendo resultar até mesmo na eliminação de uma delas.
+
+Quando da elaboração do regimento interno, deve-se observar também os
+seguintes critérios gerais:
+
+I\. Regimento interno deve ser elaborado em absoluta consonância com o
+decreto de estrutura regimental ou estatuto. Não se altera decreto por
+portaria;
+
+II\. Ministérios ou órgãos da Presidência da República, autarquias e
+fundações poderão editar o regimento interno integralmente, abrangendo
+todas as unidades administrativas da sua estrutura regimental, ou
+parcialmente, abrangendo uma ou mais unidades ou subunidades
+administrativas, a critério da autoridade competente;
+
+III\. apenas os assuntos pertinentes ao ministério, órgão ou entidade
+deverão constar do regimento interno, tratados em capítulos específicos,
+guardadas as peculiaridades de cada um [#f44]_. Os capítulos típicos de
+regimento interno conforme o órgão, unidade administrativa ou entidade
+estão relacionados no quadro abaixo. No Capítulo Da Estrutura
+Organizacional ou Da Organização, recomenda-se utilizar numerais (1, 1.1,
+1.2, ..., 2, 2.1, 2.2, ...) ao invés de alíneas, sobretudo quando o rol
+das unidades é bastante extenso.
+
+.. list-table:: Capítulos típicos de regimento interno
    :header-rows: 1
    :widths: 34 33 33
 
-   * - Regimento de um ministério
-     - Regimento parcial (uma ou mais unidades)
-     - Regimento de autarquia ou fundação pública
-   * - Da Natureza e Competência
-     - Categoria e Finalidade (unidades de nível 101.6 ou superior)
-     - Da Natureza, Sede e Finalidade
-   * - Da Estrutura Organizacional
-     - Da Organização
-     - Da Estrutura Organizacional
-   * - Das Competências dos Órgãos
-     - Das Competências das Unidades
-     - Das Competências das Unidades
-   * - Das Atribuições dos Dirigentes
-     - Das Atribuições dos Dirigentes
-     - Das Atribuições dos Dirigentes
-   * - Disposições Gerais
-     - Disposições Gerais
-     - Do Patrimônio e das Receitas (quando o decreto dispuser) e
-       Disposições Gerais
+   * - Nome dos Capítulos do regimento interno de um Ministério
+     - Nome dos Capítulos do regimento interno de uma ou mais unidades
+       administrativas (regimento interno parcial)
+     - Nome dos Capítulos do regimento interno de autarquias e fundações
+       públicas
+   * - Da Natureza e Competência;
+     - Categoria (vide o item :ref:`classific_orgao`) e Finalidade (apenas
+       no caso de unidades nível DAS/FCPE 101.6 ou superior);
+     - Da Natureza, Sede e Finalidade;
+   * - Da Estrutura Organizacional;
+     - Da Organização (refere-se à estrutura das unidades);
+     - Da Estrutura Organizacional;
+   * - Das Competências dos Órgãos;
+     - Das Competências das Unidades;
+     - Das Competências das Unidades;
+   * - Das Atribuições dos Dirigentes; e
+     - Das Atribuições dos Dirigentes; e
+     - Do patrimônio e das receitas (quando o decreto dispuser sobre
+       isso); e
+   * - Disposições Gerais.
+     - Disposições Gerais.
+     - Disposições Gerais.
 
-O que não deve constar do regimento interno:
+.. [#f44] Para os itens 7.1 e 7.1.1, a partir da 2ª edição (2019), foram
+   incorporadas algumas orientações do Manual de Elaboração e Análise de
+   Estrutura Organizacional e Regimento Interno (1994), tendo em vista
+   maior esclarecimento quanto à redação de regimentos internos.
 
-- nomes de unidade administrativa como "Tesouraria", "Assessoria" (salvo
-  exceção em legislação específica), "Supervisão", "Suporte", "Sistemas",
-  "Diretorias Sistêmicas" (e nenhuma unidade no plural), "Agenda",
-  "Processos", Comissão Permanente de Licitação, "Vice-Presidência",
-  "Diretoria-Adjunta", "Subinspetoria" e análogas, nem unidades
-  denominadas "Direção", "Chefia" ou "Presidência";
-- órgão denominado "Secretaria-Executiva", fora da hipótese do art. 55
-  da Medida Provisória nº 870, de 2019;
-- expressões redundantes como "despachar com o Ministro", "com o
-  Secretário-Executivo" ou "com o Diretor";
-- atribuições genéricas demais ("elaborar informações", "preparar
-  subsídios") ou indefinidas ("outras atribuições definidas pela
-  chefia");
-- matérias próprias de portaria, não de regimento: horário de trabalho,
-  delegação de competência, criação de grupos de trabalho, autorização
-  de viagens, designação de comissões de inquérito ou de licitação,
-  aplicação de penas disciplinares, concessão de diárias e de outras
-  vantagens.
+IV\. não deverão constar no Regimento Interno:
 
-Técnica de redação:
+- a\) "Tesouraria" como unidade organizacional;
+- b\) "Assessoria" como unidade organizacional, respeitadas as exceções
+  estabelecidas por legislação específica;
+- c\) "Supervisão" como unidade organizacional, respeitando legislação
+  específica;
+- d\) "Suporte" como unidade organizacional;
+- e\) "Sistemas" como unidade organizacional;
+- f\) "Diretorias Sistêmicas" como unidade organizacional, e nenhuma
+  unidade no plural;
+- g\) "Agenda" como unidade organizacional;
+- h\) "Processos" como unidade organizacional;
+- i\) Comissão Permanente de Licitação como unidade organizacional;
+- j\) "Vice-Presidência, Diretoria-Adjunta, Subinspetoria" e outras
+  análogas como unidades administrativas;
+- k\) unidades administrativas denominadas "Direção", "Chefia",
+  "Presidência" e outras análogas; e
+- l\) expressões como "despachar com o Ministro", "despachar com o
+  Secretário-Executivo", "despachar com o Diretor", por serem atividades
+  que ocorrerão sempre e rotineiramente, estejam ou não previstas em
+  regimento;
+- m\) atribuições comuns ou que podem ser realizadas por todas as
+  unidades, tais como "elaborar informações", "preparar subsídios",
+  "manifestar-se sobre os assuntos de competência da unidade";
+- n\) atribuições indefinidas, como "realizar outras atribuições definidas
+  pela chefia";
+- o\) órgão denominado "Secretaria-Executiva", a não ser o previsto no
+  art. 50 da `Lei nº 14.600, de 2023 <lei-14600_>`_;
+- p\) determinação relativa a:
 
-- a competência de cada unidade é descrita em artigo distinto, com verbo
-  no infinitivo ("À Divisão ... compete executar ...");
-- a descrição segue a ordem em que as unidades aparecem na estrutura
-  organizacional;
-- definem-se primeiro as atribuições do titular do órgão e, em seguida,
-  as de cada titular de unidade ou subunidade;
-- atribuições comuns a mais de um titular vão em um único artigo
-  ("Aos chefes de Seção e Setor incumbe ...");
-- é dispensável repetir atribuições já previstas em legislação específica
-  ou inerentes ao cargo — autorizar diárias, instaurar inquéritos
-  administrativos, aplicar elogios, fixar horário, despachar com
-  autoridade superior, assinar expediente, aplicar punições
-  disciplinares e exercer competências delegadas.
+  - horário de trabalho;
+  - delegação de competência;
+  - constituição de Grupos de Trabalho;
+  - competência para autorizar viagens;
+  - designação de comissão de inquéritos, licitações;
+  - aplicação de penas disciplinares; concessão de vantagens, diárias;
+  - outras de natureza semelhante às referidas acima, constantes de
+    legislação específica ou que poderão ser baixadas por ato dos
+    Ministros de Estado, dirigente de órgão da Presidência da República,
+    de autarquia federal ou fundação, sem que seja necessária uma
+    reformulação do Regimento Interno.
 
-Órgão colegiado
-~~~~~~~~~~~~~~~
+V\. especial atenção deve ser dada:
 
-- **Criação** — a criação de comissão, comitê, grupo de trabalho ou outra
-  forma de colegiado observa os arts. 36 a 38 do Decreto nº 9.191, de 1º
-  de novembro de 2017.
-- **Consonância** — o regimento interno deve estar em consonância com o
-  decreto de estrutura regimental ou estatuto e com o próprio ato de
-  criação do colegiado; a composição do colegiado, quando definida no ato
-  de criação, deve ser transcrita literalmente do texto legal, não
-  reformulada.
-- **Capítulos típicos** — Da Natureza e Finalidade; Da Organização do
-  Colegiado (composição, quórum de reunião e de votação, periodicidade
-  das reuniões ordinárias, forma de convocação das extraordinárias e
-  atribuições dos membros); Da Secretaria-Executiva; e Disposições Gerais
-  (forma de elaboração e de aprovação do regimento, indicação dos
-  membros e autoridade responsável pela designação, conclusão dos
-  trabalhos quando o colegiado for temporário e necessidade de
-  relatórios periódicos ou finais).
+- à denominação do órgão e das unidades, para que seja a mesma constante
+  da estrutura organizacional aprovada no Anexo I do decreto de estrutura
+  regimental ou estatuto;
+- à classificação dos órgãos públicos, conforme o item
+  :ref:`classific_orgao`;
 
-Instituições federais de ensino
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+VI\. a denominação padrão dos cargos em comissão e das funções de
+confiança é a estabelecida no item :ref:`denominacoesCCEFCE` deste
+Manual;
 
-- **Aprovação diferenciada** — o estatuto é aprovado pelo Ministério da
-  Educação por meio de portaria publicada no Diário Oficial da União; já
-  o regimento interno é aprovado pelo Conselho Deliberativo da própria
-  instituição (Conselho Universitário ou Conselho Superior) e publicado
-  em boletim interno, disponível em meio eletrônico, em papel ou em
-  documento oficial da instituição — não necessariamente no Diário
-  Oficial.
-- **Vedações** — os regimentos internos das instituições federais de
-  ensino observam as mesmas vedações aplicáveis ao órgão singular
-  (subseção anterior).
-- **Auditoria interna** — vinculada ao Conselho de Administração e
-  subordinada ao Reitor.
-- **Unidades colegiadas** — embora possam constar do estatuto e do
-  regimento interno, não têm estrutura própria de cargos em comissão ou
-  de funções de confiança.
+VII\. a definição da competência de cada unidade e/ou subunidade
+administrativa deve ser feita em artigos distintos, independentemente da
+subordinação desta àquela;
 
-.. admonition:: Saiba mais
+VIII\. na descrição de competência, adotam-se geralmente os seguintes
+critérios:
 
-   Manual de Estruturas Organizacionais do Poder Executivo Federal
-   (2ª edição, SEGES/ME, 2019) — capítulo 7 traz a orientação completa
-   sobre elaboração de regimento interno, incluída a técnica de redação
-   integral e exemplos de dispositivos.
-   Disponível em: `gov.br/gestao <manual-estruturas-2ed_>`_.
+- a descrição de competência das unidades e subunidades deve seguir,
+  rigorosamente, a ordem em que aparecem na estrutura organizacional;
+- para as unidades subordinadas diretamente ao titular do órgão, mesmo
+  quando divididas em subunidades, descrever suas competências de forma
+  sucinta, em um só artigo, sem incisos;
+- para as subunidades, de qualquer nível, das unidades subordinadas
+  diretamente ao titular do órgão, as competências poderão ser
+  detalhadas em incisos, para maior clareza;
+- para as unidades subordinadas diretamente ao titular do órgão, quando
+  não divididas em subunidades, as competências poderão ser descritas de
+  forma sucinta no caput e detalhadas em incisos;
+
+IX\. a descrição de competência ou atribuição far-se-á, sempre, com verbo
+no infinitivo. Exemplo: "À Divisão ... compete executar ...";
+
+X\. o verbo utilizado para descrever as competências da unidade deve
+corresponder ao seu nível hierárquico;
+
+XI\. devem ser definidas, em primeiro lugar, as atribuições do titular do
+órgão e, a seguir, as de cada titular de unidade ou subunidade
+administrativa;
+
+XII\. as atribuições comuns a mais de um titular deverão ser descritas em
+um único artigo. Exemplo: "Aos chefes de Seção e Setor incumbe ...";
+
+XIII\. a descrição de atribuição deve ser feita, sempre, com o verbo no
+infinitivo. Exemplo: "Ao Diretor do Departamento ... incumbe: I —
+supervisionar ...; II — autorizar ...";
+
+XIV\. é dispensável relacionar as atribuições de dirigentes já definidas
+em legislação específica ou inerentes ao exercício da função, tais como:
+
+- autorizar a concessão de diárias;
+- instaurar inquéritos administrativos;
+- aplicar elogios;
+- fixar horário;
+- despachar com autoridade superior;
+- propor designação de servidores para o exercício de funções
+  comissionadas;
+- assinar expediente;
+- aplicar punições disciplinares; e
+- desempenhar funções que lhe forem delegadas.
+
+XV\. as atribuições devem ser expressas de forma objetiva, sucinta e
+clara.
+
+Orientações gerais para elaboração de regimento interno de órgão colegiado
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+As definições de órgão singular e de órgão colegiado são apresentadas no
+item :ref:`classific_orgao` deste Manual.
+
+Cabe destacar que o ato de criação ou alteração de colegiado deve
+observar o disposto no Capítulo VI (arts. 33 a 45) do `Decreto nº 12.002,
+de 2024 <decreto-12002_>`_, que estabelece normas para a elaboração, a
+redação, a alteração e a consolidação de atos normativos.
+
+A elaboração de regimentos internos de órgãos colegiados deve observar as
+disposições aplicáveis sobre o assunto no `Decreto nº 12.002, de
+2024 <decreto-12002_>`_, no `Decreto nº 9.739, de 2019 <decreto-9739_>`_ e
+no `Decreto nº 10.829, de 2021 <decreto-10829_>`_.
+
+Quando da elaboração do regimento interno, deve-se observar também os
+seguintes critérios gerais:
+
+I\. o Regimento interno deve ser elaborado em absoluta consonância com o
+decreto de estrutura regimental ou estatuto e/ou com o ato de criação do
+órgão colegiado. Não se altera decreto ou lei por portaria;
+
+II\. a composição do colegiado, quando definida no ato de criação, deve
+ser transcrita do texto legal;
+
+III\. apenas os assuntos pertinentes ao órgão colegiado deverão constar do
+regimento interno, tratados em capítulos e seções, guardadas as
+peculiaridades de cada um. Os capítulos típicos de regimento interno de
+órgãos colegiados são:
+
+- Da Natureza e Finalidade (caso a finalidade não esteja descrita no
+  estatuto, substituí-la por competências ou objetivos);
+- Da Organização do Colegiado (composição, quórum de reunião e de
+  votação, periodicidade das reuniões ordinárias e a forma de convocação
+  das reuniões extraordinárias, atribuições dos membros do colegiado);
+- Da Secretaria; e
+- Disposições Gerais (por exemplo, a forma de elaboração e aprovação do
+  regimento interno, a forma de indicação dos membros e a autoridade
+  responsável pelos atos de designação, o termo de conclusão dos
+  trabalhos quando o colegiado for temporário, a necessidade de
+  relatórios periódicos e de relatório final e a autoridade a quem serão
+  encaminhados quando for o caso).
+
+Orientações gerais para elaboração de regimento interno das instituições federais de ensino
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A Função Comissionada de Coordenação de Curso – FCC, detalhada no item
+5.8.1 deste Manual, destina-se a servidores que desempenhem atividade de
+coordenação acadêmica de cursos técnicos, tecnológicos, de graduação e de
+pós-graduação stricto sensu, regularmente instituídos no âmbito das
+instituições federais de ensino.
+
+Esta função não pode exercer nenhuma atividade de uma unidade
+administrativa, como licitar, comprar, assinar ponto ou férias. O
+Coordenador de Curso pode acumular várias coordenações, mas só pode fazer
+jus a uma função. Por não ser uma unidade administrativa, não espelha na
+estrutura organizacional, de modo que suas funções são alocadas na
+unidade superior correspondente.
+
+A Portaria nº 1.291, de 30 de dezembro de 2013, do Ministério da Educação
+– MEC, dispõe sobre os Institutos Federais de Educação, Ciência e
+Tecnologia e define alguns parâmetros e normas para sua expansão, com
+destaque para o art. 3º, § 1º, que condiciona à autorização do Ministério
+da Educação a criação de Campus, Campus Avançados e Polos de inovação.
+
+As Instituições Federais de Ensino têm seus Estatutos aprovados pelo MEC
+por meio de Portaria publicada no Diário Oficial da União - DOU, e seus
+regimentos internos são aprovados pelo seu Conselho Deliberativo
+(Conselho Universitário ou Conselho Superior) e publicados em boletim
+interno, disponível em meio eletrônico, papel ou documento oficial da
+Instituição.
 
 .. note::
 
-   A 2ª edição do Manual (2019) ainda emprega a nomenclatura de cargos e
-   funções anterior à Lei nº 14.204, de 2021 (DAS e FCPE, em vez de CCE e
-   FCE). As orientações sobre estrutura, vedações e técnica de redação
-   permanecem válidas; as referências a níveis e categorias de cargos
-   devem ser lidas com essa ressalva, até eventual atualização do Manual.
+   A anuência prévia da Casa Civil para a criação ou a alteração de
+   colegiados por ato inferior a decreto, prevista no art. 42 do `Decreto
+   nº 12.002, de 2024 <decreto-12002_>`_, condiciona-se a que o colegiado
+   tenha em sua composição agentes públicos de mais de um órgão ou de um
+   órgão e de entidades a ele não vinculadas. Como o Conselho
+   Universitário ou o Conselho Superior de uma instituição federal de
+   ensino é composto por membros da própria instituição, essa condição
+   normalmente não se configura — de modo que a anuência da Casa Civil
+   não se aplica à criação ou à alteração desses colegiados.
+
+Os regimentos internos das instituições federais de ensino devem observar
+o item 7.1 deste Manual, especialmente a partir do item IV.
+
+A Auditoria Interna deve ser vinculada ao Conselho de Administração e
+subordinada ao Reitor.
+
+Por fim, ressalta-se que as unidades colegiadas das instituições federais
+de ensino, embora possam constar do estatuto e do regimento interno, não
+possuem estrutura de cargos em comissão ou funções de confiança.
 
 .. ---------------------------------------------------------------------------
 .. Referências externas — legislação
@@ -463,9 +623,5 @@ Instituições federais de ensino
 .. _lei-14133: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm
 .. _decreto-9739: http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9739.htm
 .. _decreto-12904: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12904.htm
-
-.. ---------------------------------------------------------------------------
-.. Referências externas — publicações institucionais
-.. ---------------------------------------------------------------------------
-
-.. _manual-estruturas-2ed: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-de-estruturas-organizacionais_2edicao.pdf
+.. _decreto-12002: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12002.htm
+.. _lei-14600: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14600.htm

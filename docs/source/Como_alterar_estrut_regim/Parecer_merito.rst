@@ -76,7 +76,6 @@ funções, especialmente quando se tratar de:
 * criação de Diretorias com menos de duas Coordenações-Gerais ou dois Gerentes
   de Projeto.
  
-.. TODO: verificar se "Gerentes de Projeto" é a nomenclatura CCE/FCE vigente
  
 Impacto orçamentário da proposta
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -98,6 +97,8 @@ partir da vigência pretendida) e para os dois exercícios subsequentes.
    O cálculo considera as remunerações mensais de cada cargo ou função adicionado
    à estrutura ou transformado, incluindo valores referentes à contribuição
    previdenciária pela União, décimo-terceiro salário e gratificação natalina.
+
+   Para fazer o download da planilha e o passo a passo de seu uso acesse :ref:`planilha`.
  
    .. TODO: inserir link para download da planilha com passo a passo de uso
  

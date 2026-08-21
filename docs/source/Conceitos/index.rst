@@ -569,6 +569,8 @@ a teoria do órgão :cite:`di_pietro_2023`. Os elementos que o compõem — carg
 e agentes — são contingentes: podem ser modificados, substituídos ou suprimidos sem
 que isso implique a extinção da unidade orgânica :cite:`carvalho_filho_2023`.
  
+.. _classific_orgao:
+
 Classificações dos órgãos públicos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
